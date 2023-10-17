@@ -1,0 +1,11 @@
+/* waste and recycling styles */ 
+
+.Waste and Recycling.html {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 4561px;
+    overflow: hidden;
+    width: 1728px;
+  }
