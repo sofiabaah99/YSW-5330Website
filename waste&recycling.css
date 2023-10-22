@@ -1,11 +1,38 @@
 /* waste and recycling styles */ 
+/*attempting to use figma*/
 
-.waste-and-recycling {
-    align-items: center;
-    background-color: var(--white);
-    display: flex;
-    flex-direction: column;
-    height: 4561px;
-    overflow: hidden;
-    width: 1728px;
-  }
+body {
+  background-color: rgb(4, 0, 0);
+}
+.title {
+width: 1378px;
+height: 72px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.summary { 
+width: 1078px;
+height: 107px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Helvetica;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 28.6px */
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+  
