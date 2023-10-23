@@ -1,9 +1,66 @@
 /* waste and recycling styles */ 
 /*attempting to use figma*/
 
-body {
-  background-color: rgb(4, 0, 0);
+.waste-recycling {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4561px;
+  overflow: hidden;
+  width: 1728px;
 }
+
+.navbar-link-container {
+  height: 28px;
+  position: relative;
+  width: 981px;
+}
+
+.ghg-header {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.wr-header {
+  left: 243px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.c-header {
+  left: 486px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.engage-header {
+  left: 714px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 267px;
+}
+
 .title {
 width: 1378px;
 height: 72px;
@@ -15,18 +72,68 @@ font-size: 48px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+width: 1378px ;
+height: 72px ;
+top: 211px ;
+left: 175px ;
 }
 
-.summary { 
-width: 1078px;
-height: 107px;
-flex-shrink: 0;
-color: #FFF;
-font-family: Helvetica;
-font-size: 22px;
-font-style: normal;
-font-weight: 400;
-line-height: 130%; /* 28.6px */
+.overlap-group6 {
+  align-self: flex-start;
+  height: 2793px;
+  margin-left: 0px;
+  margin-top: 0px;
+  position: relative;
+  width: 1742px;
+}
+
+.northeastern-university {
+  color: var(--white);
+  font-family: var(--font-family-lava_telugu-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 27px;
+  width: 279px;
+}
+
+.wr-1-1 {
+  height: 1157px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.summary {
+  color: var(--white);
+  font-family: Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  top: 352px;
+  left: 325px;
+  width: 1078px;
+  height: 107px
+}
+
+.learn-more {
+  color: var(--white);
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  height: 107px;
+  width: 1078px;
+  top: 475px;
+  left: 325px
 }
 
 p {
