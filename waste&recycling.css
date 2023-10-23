@@ -18,47 +18,53 @@
 }
 
 .ghg-header {
-  left: 0;
+  width: 267px;
+  height: 28px;
+  top: 26px;
+  left: 737px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
   white-space: nowrap;
-  width: 267px;
 }
 
 .wr-header {
-  left: 243px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
   white-space: nowrap;
   width: 267px;
+  height: 28px;
+  top: 26px;
+  left: 980px;
+
 }
 
 .c-header {
-  left: 486px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
   white-space: nowrap;
   width: 267px;
+  height: 28px;
+  top: 26px;
+  left: 1223px;
+
 }
 
 .engage-header {
-  left: 714px;
+  left: 1451px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
+  top: 26;
   white-space: nowrap;
   width: 267px;
+  height: 28px;
 }
 
 .title {
@@ -87,18 +93,62 @@ left: 175px ;
   width: 1742px;
 }
 
+/*top bar and "northeastern" */ 
+.overlap-group {
+  height: 53px;
+  margin-top: -5px;
+  position: relative;
+  width: 48px;
+}
+
+.top-bar {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  gap: 20px;
+  height: 48px;
+  left: 14px;
+  position: absolute;
+  top: 38px;
+  width: 1728px;
+}
+
 .northeastern-university {
   color: var(--white);
-  font-family: var(--font-family-lava_telugu-regular);
+  font-family: Lava Telugu;
   font-size: var(--font-size-m);
   font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: 4px;
+  margin-top: 5px;
   min-height: 27px;
   width: 279px;
+  left: 68px;
 }
 
+.n {
+  background-color: #d41a2b;
+  height: 49px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.n-1 {
+  color: var(--white);
+  font-family: var(--font-family-lava_telugu-regular);
+  font-size: 32px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 28px;
+}
+
+/* wording at the top */ 
 .wr-1-1 {
   height: 1157px;
   left: 14px;
@@ -140,6 +190,19 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* first graph with insights */ 
+.image_insight1 {
+width: 578px;
+height: 139px;
+top: 1348px;
+left: 1075px;
+font-family: Helvetica;
+font-size: 25px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+}
 
 
   
