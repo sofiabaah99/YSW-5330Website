@@ -1,5 +1,9 @@
 /* waste and recycling styles */ 
 /*attempting to use figma*/
+.body {
+  width:1728px;
+  margin-right: 0px; 
+}
 
 .waste-recycling {
   align-items: center;
@@ -12,7 +16,6 @@
 }
 
 .navbar-link-container {
-  color: white;
   height: 28px;
   position: relative;
   width: 981px;
@@ -77,11 +80,11 @@
 
 .overlap-group6 {
   align-self: flex-start;
-  height: 2793px;
+  height: 1200px;
   margin-left: 0px;
   margin-top: 0px;
   position: relative;
-  width: 1742px;
+  width: 1728px;
 }
 
 /*top bar and "northeastern" */ 
@@ -98,7 +101,7 @@
   display: flex;
   gap: 20px;
   height: 48px;
-  left: 14px;
+  left: 0px;
   position: absolute;
   top: 38px;
   width: 1728px;
@@ -107,11 +110,11 @@
 .northeastern-university {
   color: white;
   font-family: Lava Telugu;
-  font-size: 22px;
+  font-size: 28px;
   font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: 5px;
+  margin-top: 8px;
   min-height: 27px;
   width: 279px;
   height: 27px;
@@ -136,7 +139,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 5px;
+  top: 12px;
   width: 28px;
 }
 
@@ -149,7 +152,7 @@
   flex-direction: column;
   gap: 2px;
   height: 80px;
-  left: 14px;
+  left: 0px;
   padding: 21.5px 10px;
   position: absolute;
   top: 86px;
@@ -162,11 +165,6 @@
   gap: 676px;
   margin-top: 4px;
   min-width: 1673px;
-}
-
-.back {
-  height: 80px;
-  width: 1728px;
 }
 
 .top-bar {
@@ -192,7 +190,7 @@
 
 .wr-1-1 {
   height: 1157px;
-  left: 14px;
+  left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0;
@@ -200,25 +198,17 @@
 }
 
 .title {
-  width: 500px;
-  height: 72px;
-  flex-shrink: 0;
-  font-family: Lato;
-  font-size: 48px;
-  font-weight: 700;
-  line-height: 58px;
-  letter-spacing: 0em;
-  color: #FFF;
-  text-align: center;
+  color: white;
   font-family: Helvetica;
   font-size: 48px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 550px;
-  width: 1378px;
-  height: 72px;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
   top: 211px;
-  left: 0px;
+  left: 575px;
+  width: 1078px;
+  height: 107px
 }
 
 .summary {
@@ -259,7 +249,8 @@ p {
   display: grid;
   gap: 10px;
   background-color: white;
-  padding: 10px;
+  padding: 45px;
+  width: 1728px;
 }
 
 .grid-item1 {
@@ -283,7 +274,7 @@ p {
 }
 
 .waste-decrease {
-  width: 578px;
+  width: 545px;
   height: 140px;
   top: 1348px;
   left: 1075px;
@@ -291,7 +282,7 @@ p {
 
 .increased {
   padding: 75px;
-  width: 600px;
+  width: 500px;
   height: 184px;
   top: 1526px;
   left: 1206px;
@@ -316,13 +307,12 @@ p {
   width: 1728px;
   gap: 10px;
   background-color: white;
-  padding: 10px;
+  padding: 60px;
 }
 
 .grid-item2 {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
-  padding: 5px;
   font-family: Helvetica;
   font-size: 25px;
 }
@@ -338,8 +328,39 @@ p {
   grid-row: 1;
 }
 
+.category {
+  height: 229px;
+  font-family: Helvetica;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.image_captions22 {
+  font-size: 30px;
+  width: 700px;
+  height: 144px;
+  top: 2415px;
+  left: 877px;
+}
+
+.diff-materials {
+  width: 674px;
+  height: 153px;
+  top: 2584px;
+  left: 881px;
+  line-height: 34px;
+  text-align: left;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: left;
+}
+
 .closer-look {
-  padding: 30px;
+  padding: 45px;
   width: 1225px;
   height: 164px;
   top: 3057px;
@@ -356,19 +377,18 @@ p {
   display: grid;
   gap: 10px;
   background-color: white;
-  padding: 10px;
+  padding: 45px;
+  width: 1728px;
 }
 
 .grid-item3 {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
-  padding: 5px;
   font-family: Helvetica;
   font-size: 25px;
 }
 
-insights3 {
-  padding: 30px;
+.insights3 {
   grid-column: 1;
   grid-row: 1;
   font-family: Helvetica;
@@ -384,10 +404,10 @@ insights3 {
 }
 
 .grease-specific {
+  left: 50px;
   background: #F2CE3E;
   width: 415px;
   height: 532px;
-  flex-shrink: 0;
 }
 
 .brown-grease {
@@ -414,20 +434,20 @@ insights3 {
   font-weight: 400;
   line-height: normal;
   width: 1258px;
-  height: 230px;
+  height: 220px;
   top: 4330px;
   left: 235px;
 }
 
 .commentary2 {
-  padding: 30px;
-  width: 1659px;
-  height: 151px;
-  flex-shrink: 0;
-  color: #000;
+  padding: 45px;
+  width: 1700px;
+  height: 164px;
+  left: 174px;
   font-family: Helvetica;
-  font-size: 35px;
-  font-style: normal;
+  font-size: 40px;
   font-weight: 700;
-  line-height: 130%; /* 45.5px */
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
 }
