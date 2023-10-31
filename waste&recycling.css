@@ -21,13 +21,30 @@
   width: 981px;
 }
 
-.ghg-header {
+.home-header {
   color: white;
+  font-family: Helvetica;
   font-size: 24px;
   width: 267px;
   height: 28px;
   top: 26px;
-  left: 737px;
+  left: -40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ghg-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 24px;
+  height: 28px;
+  top: 26px;
+  left: 750px;
+  font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -37,45 +54,48 @@
 
 .wr-header {
   color: white;
+  font-family: Helvetica;
   font-size: 24px;
   letter-spacing: 0;
+  font-weight: 700;
   line-height: normal;
   position: absolute;
   text-align: center;
   white-space: nowrap;
-  width: 267px;
   height: 28px;
   top: 26px;
-  left: 1030px;
+  left: 1000px;
 
 }
 
 .c-header {
   color: white;
+  font-family: Helvetica;
   font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
   white-space: nowrap;
-  width: 267px;
   height: 28px;
   top: 26px;
-  left: 1253px;
+  left: 1300px;
+  font-weight: 700;
 }
 
 .engage-header {
   color: white;
+  font-family: Helvetica;
   font-size: 24px;
-  left: 1451px;
+  left: 1500px;
   letter-spacing: 0;
   line-height: 10.6px;
   position: absolute;
   text-align: center;
   top: 36px;
   white-space: nowrap;
-  width: 267px;
   height: 28px;
+  font-weight: 700;
 }
 
 .overlap-group6 {
