@@ -1,8 +1,7 @@
 /* waste and recycling styles */ 
 /*attempting to use figma*/
 .body {
-  width:1728px;
-  margin-right: 0px; 
+  width:100%;
 }
 
 .waste-recycling {
@@ -12,13 +11,13 @@
   flex-direction: column;
   height: 4561px;
   overflow: hidden;
-  width: 1728px;
+  width: 100%
 }
 
 .navbar-link-container {
   height: 28px;
   position: relative;
-  width: 981px;
+  width: 100%;
 }
 
 .home-header {
@@ -43,7 +42,7 @@
   font-size: 24px;
   height: 28px;
   top: 26px;
-  left: 750px;
+  right: 880px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
@@ -64,7 +63,7 @@
   white-space: nowrap;
   height: 28px;
   top: 26px;
-  left: 1000px;
+  right: 570px;
 
 }
 
@@ -79,7 +78,7 @@
   white-space: nowrap;
   height: 28px;
   top: 26px;
-  left: 1300px;
+  right: 350px;
   font-weight: 700;
 }
 
@@ -87,7 +86,7 @@
   color: white;
   font-family: Helvetica;
   font-size: 24px;
-  left: 1500px;
+  right: 100px;
   letter-spacing: 0;
   line-height: 10.6px;
   position: absolute;
@@ -98,13 +97,15 @@
   font-weight: 700;
 }
 
+
 .overlap-group6 {
+  text-align: center;
   align-self: flex-start;
   height: 1200px;
   margin-left: 0px;
   margin-top: 0px;
   position: relative;
-  width: 1728px;
+  width: 100%;
 }
 
 /*top bar and "northeastern" */ 
@@ -124,7 +125,7 @@
   left: 0px;
   position: absolute;
   top: 38px;
-  width: 1728px;
+  width: 100%;
 }
 
 .northeastern-university {
@@ -173,10 +174,9 @@
   gap: 2px;
   height: 80px;
   left: 0px;
-  padding: 21.5px 10px;
   position: absolute;
   top: 86px;
-  width: 1728px;
+  width: 100%;
 }
 
 .flex-row {
@@ -184,7 +184,7 @@
   display: flex;
   gap: 676px;
   margin-top: 4px;
-  min-width: 1673px;
+  min-width: 100%;
 }
 
 .top-bar {
@@ -196,7 +196,7 @@
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1728px;
+  width: 100%;
 }
 
 .bg-cover {
@@ -205,7 +205,7 @@
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1728px;
+  width: 100%;
 }
 
 .wr-1-1 {
@@ -214,10 +214,18 @@
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 1728px;
+  width: 100%;
+}
+
+.words {
+  margin: auto;
+  color: white;
+  font-family: Helvetica;
 }
 
 .title {
+  text-align: center;
+  width: 90%;
   color: white;
   font-family: Helvetica;
   font-size: 48px;
@@ -226,12 +234,11 @@
   line-height: 28.6px;
   position: absolute;
   top: 211px;
-  left: 575px;
-  width: 1078px;
   height: 107px
 }
 
 .summary {
+  text-align: left;
   color: white;
   font-family: Helvetica;
   font-size: 22px;
@@ -240,12 +247,13 @@
   line-height: 28.6px;
   position: absolute;
   top: 352px;
-  left: 325px;
+  left: 600px;
   width: 1078px;
   height: 107px
 }
 
 .learn-more {
+  text-align: left;
   color: white;
   font-family: Helvetica;
   font-size: 30px;
@@ -256,7 +264,7 @@
   height: 107px;
   width: 1078px;
   top: 475px;
-  left: 325px
+  left: 600px
 }
 
 p {
@@ -269,8 +277,8 @@ p {
   display: grid;
   gap: 10px;
   background-color: white;
-  padding: 45px;
-  width: 1728px;
+  padding: 60px;
+  width: 90%;
 }
 
 .grid-item1 {
@@ -279,6 +287,7 @@ p {
   font-size: 25px;
   font-family: Helvetica;
   grid-gap:1em;
+  width: 100%;
 }
 
 .image1 {
@@ -324,7 +333,7 @@ p {
 
 .grid-container-visual2 {
   display: grid;
-  width: 1728px;
+  width: 90%;
   gap: 10px;
   background-color: white;
   padding: 60px;
@@ -397,8 +406,8 @@ p {
   display: grid;
   gap: 10px;
   background-color: white;
-  padding: 45px;
-  width: 1728px;
+  padding: 60px;
+  width: 90%;
 }
 
 .grid-item3 {

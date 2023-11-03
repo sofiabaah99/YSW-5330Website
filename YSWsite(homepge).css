@@ -1,16 +1,12 @@
 
 .body {
-    width:1000px;
-  }
-
-.container-center-horizontal {
-    width: 1000px;
+    width: auto
 }
-  
+
 .navbar-link-container {
     height: 28px;
     position: relative;
-    width: 981px;
+    width: 100%
 }
   
 .ghg-header {
@@ -19,7 +15,7 @@
     font-size: 24px;
     height: 28px;
     top: 26px;
-    left: 750px;
+    right: 880px;
     font-weight: 700;
     letter-spacing: 0;
     line-height: normal;
@@ -27,8 +23,8 @@
     text-align: center;
     white-space: nowrap;
   }
-  
-  .wr-header {
+
+.wr-header {
     color: white;
     font-family: Helvetica;
     font-size: 24px;
@@ -40,11 +36,11 @@
     white-space: nowrap;
     height: 28px;
     top: 26px;
-    left: 1000px;
+    right: 570px;
   
-  }
+}
   
-  .c-header {
+.c-header {
     color: white;
     font-family: Helvetica;
     font-size: 24px;
@@ -55,15 +51,15 @@
     white-space: nowrap;
     height: 28px;
     top: 26px;
-    left: 1300px;
+    right: 350px;
     font-weight: 700;
-  }
+}
   
-  .engage-header {
+.engage-header {
     color: white;
     font-family: Helvetica;
     font-size: 24px;
-    left: 1500px;
+    right: 100px;
     letter-spacing: 0;
     line-height: 10.6px;
     position: absolute;
@@ -72,15 +68,16 @@
     white-space: nowrap;
     height: 28px;
     font-weight: 700;
-  }
+}
   
 .overlap-group6 {
     align-self: flex-start;
-    height: 1050px;
+    height:1100px;
     margin-left: 0px;
     margin-top: 0px;
     position: relative;
-    width: 1728px;
+    width: auto;
+    /*background-image: url("NUsigndark.png");*/
 }
   
 /*top bar and "northeastern" */ 
@@ -100,7 +97,7 @@
     left: 0px;
     position: absolute;
     top: 38px;
-    width: 1728px;
+    width: 100%;
 }
   
 .northeastern-university {
@@ -152,7 +149,7 @@
     padding: 21.5px 10px;
     position: absolute;
     top: 86px;
-    width: 1728px;
+    width: 100%
 }
   
 .flex-row {
@@ -172,7 +169,7 @@
     left: 0px;
     position: absolute;
     top: 0px;
-    width: 1728px;
+    width: 100%
 }
   
 .bg-cover {
@@ -181,16 +178,15 @@
     left: 0px;
     position: absolute;
     top: 0px;
-    width: 1728px;
+    width: 100%
 }
   
 .wr-1-1 {
+    background-size: cover;
     left: 0px;
-    object-fit: cover;
     position: absolute;
     top: 0;
-    width: 1728px;
-    height: 1000px
+    width: 100%
 }
 
 /* title words */
@@ -205,7 +201,6 @@
     position: absolute;
     top: 350px;
     left: 300px;
-    width: 1500px;
     height: 107px
 }
 
@@ -219,7 +214,6 @@ line-height: 35px;
 position: absolute;
 top: 550px;
 left: 600px;
-width: 1500px;
 height: 107px
 }
 
@@ -233,7 +227,6 @@ height: 107px
     position: absolute;
     top: 760px;
     left: 1060px;
-    width: 1500px;
     height: 107px
 }
 
@@ -251,7 +244,7 @@ height: 107px
     width: 1258px;
     height: 50px;
     top: 993px;
-    left: 207px;
+    left: 300px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 40px;
@@ -261,18 +254,18 @@ height: 107px
 }
 
 .section1 {
-    width: 1350px;
+    width: 1300px;
     height: 400px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 35px;
-    padding: 100px;
+    padding: 125px;
 }
 
 .question {
     color: #FFF;
-    width: 1258px;
     height: 50px;
+    width: 1300px;
     top: 993px;
     left: 207px;
     flex-shrink: 0;
@@ -289,5 +282,5 @@ height: 107px
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 35px;
-    padding: 100px;
+    padding: 125px;
 }
