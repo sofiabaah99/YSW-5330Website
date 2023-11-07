@@ -221,6 +221,7 @@
   margin: auto;
   color: white;
   font-family: Helvetica;
+  width: 90%
 }
 
 .title {
@@ -228,7 +229,7 @@
   width: 90%;
   color: white;
   font-family: Helvetica;
-  font-size: 48px;
+  font-size: 50px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: 28.6px;
@@ -241,13 +242,13 @@
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 22px;
-  font-weight: 400;
+  font-size: 25px;
+  font-weight: 500;
   letter-spacing: 0;
-  line-height: 28.6px;
+  line-height: 30.6px;
   position: absolute;
   top: 352px;
-  left: 600px;
+  left: 900px;
   width: 1078px;
   height: 107px
 }
@@ -264,7 +265,7 @@
   height: 107px;
   width: 1078px;
   top: 475px;
-  left: 600px
+  left: 900px
 }
 
 p {
@@ -359,6 +360,7 @@ p {
 
 .category {
   height: 229px;
+  width: 800px;
   font-family: Helvetica;
   font-size: 30px;
   font-style: italic;
@@ -389,8 +391,8 @@ p {
 }
 
 .closer-look {
+  text-indent: 300px;
   padding: 45px;
-  width: 1225px;
   height: 164px;
   top: 3057px;
   left: 174px;
@@ -421,6 +423,8 @@ p {
   grid-column: 1;
   grid-row: 1;
   font-family: Helvetica;
+  text-align: left;
+  font-size: 25px;
 }
 
 .image3 {
@@ -429,27 +433,27 @@ p {
 }
 
 .recycling-types {
-  padding: 30px;
+  padding: 100px;
+  width: 700px;
+  font-size: 30px;
 }
 
 .grease-specific {
-  left: 50px;
   background: #F2CE3E;
-  width: 415px;
-  height: 532px;
+  width: 450px;
+  height: 632px;
 }
 
 .brown-grease {
-  padding: 30px;
-  width: 370px;
+  padding: 60px;
+  width: 340px;
   height: 312px;
-  top: 3443px;
-  left: 170px
 }
 
 .targray {
   height: 20px;
-  padding: 30px
+  padding: 50px;
+  font-style: italic;
 }
 /* final commentary */
 
@@ -463,20 +467,39 @@ p {
   font-weight: 400;
   line-height: normal;
   width: 1258px;
-  height: 220px;
-  top: 4330px;
-  left: 235px;
+  height: 250px;
 }
 
 .commentary2 {
-  padding: 45px;
-  width: 1700px;
-  height: 164px;
-  left: 174px;
+  padding: 100px;
+  width: 1800px;
+  height: 120px;
   font-family: Helvetica;
   font-size: 40px;
   font-weight: 700;
   line-height: 46px;
   letter-spacing: 0em;
   text-align: left;
+}
+
+.citations {
+  font-family: Helvetica;
+  font-weight: 700px;
+  font-size: 25px;
+  padding: 80px;
+  height: 125px
+}
+
+.sources {
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.npr {
+  height: 50px
+}
+
+.targraycite {
+  height: 50px
 }
