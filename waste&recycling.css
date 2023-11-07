@@ -23,7 +23,7 @@
 .home-header {
   color: white;
   font-family: Helvetica;
-  font-size: 24px;
+  font-size: 26px;
   width: 267px;
   height: 28px;
   top: 26px;
@@ -39,7 +39,7 @@
 .ghg-header {
   color: white;
   font-family: Helvetica;
-  font-size: 24px;
+  font-size: 26px;
   height: 28px;
   top: 26px;
   right: 880px;
@@ -54,7 +54,7 @@
 .wr-header {
   color: white;
   font-family: Helvetica;
-  font-size: 24px;
+  font-size: 26px;
   letter-spacing: 0;
   font-weight: 700;
   line-height: normal;
@@ -70,7 +70,7 @@
 .c-header {
   color: white;
   font-family: Helvetica;
-  font-size: 24px;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -85,7 +85,7 @@
 .engage-header {
   color: white;
   font-family: Helvetica;
-  font-size: 24px;
+  font-size: 26px;
   right: 100px;
   letter-spacing: 0;
   line-height: 10.6px;
@@ -117,44 +117,39 @@
 }
 
 .top-bar {
-  align-items: flex-start;
-  background-color: var(--black);
-  display: flex;
-  gap: 20px;
-  height: 48px;
-  left: 0px;
+  background-color: black;
+  height: 105px;
   position: absolute;
-  top: 38px;
+  top: 5px;
   width: 100%;
 }
 
 .northeastern-university {
   color: white;
   font-family: Lava Telugu;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: 8px;
+  margin-top: 10px;
   min-height: 27px;
-  width: 279px;
   height: 27px;
   left: 68px;
 }
 
 .n {
   background-color: #d41a2b;
-  height: 48px;
+  height: 55px;
   left: 0px;
   position: absolute;
   top: 5px;
-  width: 48px;
+  width: 55px;
 }
 
 .n-1 {
   color: white;
   font-family: var(--font-family-lava_telugu-regular);
-  font-size: 32px;
+  font-size: 35px;
   font-weight: 400;
   left: 11px;
   letter-spacing: 0;
@@ -213,7 +208,6 @@
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 0;
   width: 100%;
 }
 
@@ -229,12 +223,12 @@
   width: 90%;
   color: white;
   font-family: Helvetica;
-  font-size: 50px;
+  font-size: 58px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: 28.6px;
   position: absolute;
-  top: 211px;
+  top: 275px;
   height: 107px
 }
 
@@ -242,14 +236,13 @@
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 25px;
+  font-size: 33px;
   font-weight: 500;
-  letter-spacing: 0;
-  line-height: 30.6px;
+  line-height: 40px;
   position: absolute;
-  top: 352px;
-  left: 900px;
-  width: 1078px;
+  top: 452px;
+  left: 800px;
+  width: 1250px;
   height: 107px
 }
 
@@ -257,15 +250,14 @@
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 30px;
+  font-size: 33px;
   font-weight: 700;
-  letter-spacing: 0;
-  line-height: 28.6px;
+  line-height: 37px;
   position: absolute;
   height: 107px;
   width: 1078px;
-  top: 475px;
-  left: 900px
+  top: 650px;
+  left: 800px
 }
 
 p {
@@ -276,16 +268,17 @@ p {
 
 .grid-container-visual1 {
   display: grid;
+  width: 80%;
   gap: 10px;
   background-color: white;
   padding: 60px;
-  width: 90%;
+  margin: 100px
 }
 
 .grid-item1 {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 10px;
-  font-size: 25px;
+  font-size: 30px;
   font-family: Helvetica;
   grid-gap:1em;
   width: 100%;
@@ -300,30 +293,25 @@ p {
   grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
-  font-size: 25px;
+  margin-left: 100px
 }
 
 .waste-decrease {
-  width: 545px;
+  width: 900px;
   height: 140px;
-  top: 1348px;
-  left: 1075px;
 }
 
 .increased {
   padding: 75px;
-  width: 500px;
+  width: 850px;
   height: 184px;
   top: 1526px;
-  left: 1206px;
 }
 
 .learn-compost {
-  width: 500px;
   height: 53px;
   top: 1607px;
   left: 1075px;
-  font-size: 28px;
   font-style: italic;
   font-weight: 700;
   line-height: 34px;
@@ -334,10 +322,11 @@ p {
 
 .grid-container-visual2 {
   display: grid;
-  width: 90%;
+  width: 80%;
   gap: 10px;
   background-color: white;
   padding: 60px;
+  margin: 100px;
 }
 
 .grid-item2 {
@@ -347,51 +336,50 @@ p {
   font-size: 25px;
 }
 
-.insights2 {
-  grid-column: 1;
+.insight2 {
+  grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
+  margin-left: 100px
 }
 
 .image2 {
-  grid-column: 2;
+  grid-column: 1;
   grid-row: 1;
 }
 
 .category {
-  height: 229px;
-  width: 800px;
-  font-family: Helvetica;
+  margin-top: 200px;
+  width: 1000px;
   font-size: 30px;
   font-style: italic;
   font-weight: 700;
-  line-height: 34px;
   letter-spacing: 0em;
   text-align: left;
 }
 
 .image_captions22 {
-  font-size: 30px;
-  width: 700px;
-  height: 144px;
-  top: 2415px;
-  left: 877px;
+  margin-top: 100px;
+  margin-left: 50px;
+  width: 1000px;
+  font-size: 35px;
+  background: #F2CE3E;
+  padding: 20px
 }
 
 .diff-materials {
-  width: 674px;
-  height: 153px;
-  top: 2584px;
-  left: 881px;
-  line-height: 34px;
+  width: 1000px;
+  margin-left: 50px;
   text-align: left;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 400;
   text-align: left;
+  background-color:#70C29A;
+  padding: 20px;
 }
 
 .closer-look {
-  text-indent: 300px;
+  text-indent: 800px;
   padding: 45px;
   height: 164px;
   top: 3057px;
@@ -406,10 +394,11 @@ p {
 
 .grid-container-visual3 {
   display: grid;
+  width: 80%;
   gap: 10px;
   background-color: white;
   padding: 60px;
-  width: 90%;
+  margin: 100px
 }
 
 .grid-item3 {
@@ -419,45 +408,47 @@ p {
   font-size: 25px;
 }
 
-.insights3 {
-  grid-column: 1;
+.insight3 {
+  grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
   text-align: left;
-  font-size: 25px;
+  margin: 100px
 }
 
 .image3 {
-  grid-column: 2;
+  grid-column: 1;
   grid-row: 1;
 }
 
 .recycling-types {
-  padding: 100px;
-  width: 700px;
   font-size: 30px;
 }
 
 .grease-specific {
-  background: #F2CE3E;
-  width: 450px;
-  height: 632px;
+  margin-top: 75px;
+  margin-right: 200px;
+  background: #70C29A;
+  width: 500px;
+  height: 535px;
+  margin: 200px;
+  font-size: 28px;
 }
 
 .brown-grease {
-  padding: 60px;
-  width: 340px;
-  height: 312px;
+  padding: 40px;
+  width: 400px;
 }
 
 .targray {
-  height: 20px;
-  padding: 50px;
+  text-indent: 45px;
   font-style: italic;
 }
+
 /* final commentary */
 
 .commentary1 {
+  margin-left: 600px;
   background-color: #000;
   padding: 60px;
   color: #FFF;
@@ -465,14 +456,14 @@ p {
   font-size: 35px;
   font-style: normal;
   font-weight: 400;
-  line-height: normal;
   width: 1258px;
-  height: 250px;
+  height: 200px;
 }
 
 .commentary2 {
-  padding: 100px;
-  width: 1800px;
+  margin-left: 300px;
+  padding: 200px;
+  width: 1750px;
   height: 120px;
   font-family: Helvetica;
   font-size: 40px;
@@ -487,7 +478,9 @@ p {
   font-weight: 700px;
   font-size: 25px;
   padding: 80px;
-  height: 125px
+  height: 125px;
+  margin-left: 100px;
+  color: #999999;
 }
 
 .sources {
