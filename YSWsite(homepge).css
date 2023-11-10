@@ -194,40 +194,37 @@
 .truth {
     color: white;
     font-family: Helvetica;
-    font-size: 50px;
+    font-size: 75px;
     font-weight: 400;
     letter-spacing: 0;
     line-height: 35px;
     position: absolute;
-    top: 350px;
+    top: 450px;
     left: 300px;
-    height: 107px
 }
 
 .sustainability {
 color: white;
 font-family: Helvetica;
-font-size: 75px;
+font-size: 100px;
 font-weight: 700;
 letter-spacing: 0;
 line-height: 35px;
 position: absolute;
-top: 550px;
-left: 600px;
-height: 107px
+top: 440px;
+left: 880px;
 }
 
 .at_northeastern {
     color: white;
     font-family: Helvetica;
-    font-size: 50px;
+    font-size: 75px;
     font-weight: 400;
     letter-spacing: 0;
     line-height: 35px;
     position: absolute;
-    top: 760px;
-    left: 1060px;
-    height: 107px
+    top: 450px;
+    left: 1550px;
 }
 
 /* body words*/
