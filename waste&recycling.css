@@ -196,7 +196,7 @@
 
 .bg-cover {
   background-color: #00000033;
-  height: 1073px;
+  height: 1157px;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -215,7 +215,8 @@
   margin: auto;
   color: white;
   font-family: Helvetica;
-  width: 90%
+  width: 90%;
+  position: absolute
 }
 
 .title {
