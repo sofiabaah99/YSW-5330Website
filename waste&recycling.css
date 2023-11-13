@@ -349,17 +349,28 @@ p {
 }
 
 .category {
-  margin-top: 200px;
-  width: 1000px;
-  font-size: 30px;
+  margin-top: 10px;
+  width: 1250px;
+  font-size: 35px;
   font-style: italic;
   font-weight: 700;
   letter-spacing: 0em;
   text-align: left;
 }
 
+.list {
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 1250px;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
 .image_captions22 {
-  margin-top: 100px;
+  margin-top: 65px;
   margin-left: 50px;
   width: 1000px;
   font-size: 35px;
