@@ -8,6 +8,22 @@
     width: 100%
 }
 
+.home-header {
+    color: white;
+    font-family: Helvetica;
+    font-size: 28px;
+    width: 267px;
+    height: 28px;
+    top: 26px;
+    right: 1075px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+}
+
 .ghg-header {
     color: white;
     font-family: Helvetica;
@@ -89,10 +105,10 @@
 
 .top-bar {
     align-items: flex-start;
-    background-color: var(--black);
+    background-color: black;
     display: flex;
     gap: 20px;
-    height: 48px;
+    height: 50px;
     left: 0px;
     position: absolute;
     top: 38px;
@@ -100,6 +116,7 @@
 }
 
 .northeastern-university {
+    width: 500px;
     color: white;
     font-family: Lava Telugu;
     font-size: 32px;
@@ -162,7 +179,7 @@
     background-color: black;
     display: flex;
     gap: 20px;
-    height: 48px;
+    height: 55px;
     left: 0px;
     position: absolute;
     top: 0px;
@@ -187,6 +204,10 @@
 }
 
 /* title words */
+
+.title {
+    width: 90%
+}
 
 .truth {
     color: white;
@@ -239,7 +260,7 @@
     width: 2000px;
     height: 50px;
     margin-top: 150px;
-    margin-left: 20%;
+    margin-left: 15%;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 65px;
@@ -266,9 +287,9 @@
 
 .question {
     color: #FFF;
-    width: 75%;
+    width: 1200px;
     margin-top: 75px;
-    margin-left: 200px;
+    margin-left: 15%;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 45px;
