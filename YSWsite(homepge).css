@@ -1,4 +1,3 @@
-
 .body {
     width: auto
 }
@@ -8,26 +7,26 @@
     position: relative;
     width: 100%
 }
-  
+
 .ghg-header {
     color: white;
     font-family: Helvetica;
-    font-size: 24px;
+    font-size: 28px;
     height: 28px;
     top: 26px;
-    right: 880px;
+    right: 900px;
     font-weight: 700;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
     text-align: center;
     white-space: nowrap;
-  }
+}
 
 .wr-header {
     color: white;
     font-family: Helvetica;
-    font-size: 24px;
+    font-size: 28px;
     letter-spacing: 0;
     font-weight: 700;
     line-height: normal;
@@ -37,13 +36,13 @@
     height: 28px;
     top: 26px;
     right: 570px;
-  
+
 }
-  
+
 .c-header {
     color: white;
     font-family: Helvetica;
-    font-size: 24px;
+    font-size: 28px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -54,11 +53,11 @@
     right: 350px;
     font-weight: 700;
 }
-  
+
 .engage-header {
     color: white;
     font-family: Helvetica;
-    font-size: 24px;
+    font-size: 28px;
     right: 100px;
     letter-spacing: 0;
     line-height: 10.6px;
@@ -69,25 +68,25 @@
     height: 28px;
     font-weight: 700;
 }
-  
+
 .overlap-group6 {
     align-self: flex-start;
-    height:1100px;
+    height: 1100px;
     margin-left: 0px;
     margin-top: 0px;
     position: relative;
     width: auto;
     /*background-image: url("NUsigndark.png");*/
 }
-  
-/*top bar and "northeastern" */ 
+
+/*top bar and "northeastern" */
 .overlap-group {
     height: 53px;
     margin-top: -5px;
     position: relative;
     width: 48px;
 }
-  
+
 .top-bar {
     align-items: flex-start;
     background-color: var(--black);
@@ -99,34 +98,33 @@
     top: 38px;
     width: 100%;
 }
-  
+
 .northeastern-university {
     color: white;
     font-family: Lava Telugu;
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 400;
     letter-spacing: 0;
     line-height: normal;
-    margin-top: 8px;
+    margin-top: 10px;
     min-height: 27px;
-    width: 279px;
     height: 27px;
     left: 68px;
 }
-  
+
 .n {
     background-color: #d41a2b;
-    height: 48px;
+    height: 55px;
     left: 0px;
     position: absolute;
     top: 5px;
-    width: 48px;
+    width: 55px;
 }
-  
+
 .n-1 {
     color: white;
     font-family: var(--font-family-lava_telugu-regular);
-    font-size: 32px;
+    font-size: 35px;
     font-weight: 400;
     left: 11px;
     letter-spacing: 0;
@@ -134,10 +132,10 @@
     position: absolute;
     top: 12px;
     width: 28px;
-} 
+}
 
-/* wording at the top */ 
-  
+/* wording at the top */
+
 .white-guide-bar {
     align-items: flex-end;
     background-color: #ffffff33;
@@ -145,13 +143,12 @@
     flex-direction: column;
     gap: 2px;
     height: 80px;
-    left: -18px;
-    padding: 21.5px 10px;
+    left: 0px;
     position: absolute;
     top: 86px;
-    width: 100%
+    width: 100%;
 }
-  
+
 .flex-row {
     align-items: flex-end;
     display: flex;
@@ -159,7 +156,7 @@
     margin-top: 4px;
     min-width: 1673px;
 }
-  
+
 .top-bar {
     align-items: flex-start;
     background-color: black;
@@ -171,7 +168,7 @@
     top: 0px;
     width: 100%
 }
-  
+
 .bg-cover {
     background-color: #00000033;
     height: 1000px;
@@ -180,7 +177,7 @@
     top: 0px;
     width: 100%
 }
-  
+
 .wr-1-1 {
     background-size: cover;
     left: 0px;
@@ -204,15 +201,15 @@
 }
 
 .sustainability {
-color: white;
-font-family: Helvetica;
-font-size: 100px;
-font-weight: 700;
-letter-spacing: 0;
-line-height: 35px;
-position: absolute;
-top: 440px;
-left: 880px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    position: absolute;
+    top: 440px;
+    left: 880px;
 }
 
 .at_northeastern {
@@ -232,8 +229,8 @@ left: 880px;
 .words {
     color: white;
     left: 30px;
-    height: 300px; 
-    padding: 100px 
+    height: 300px;
+    padding: 100px
 }
 
 .header_words {

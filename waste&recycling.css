@@ -23,7 +23,7 @@
 .home-header {
   color: white;
   font-family: Helvetica;
-  font-size: 26px;
+  font-size: 28px;
   width: 267px;
   height: 28px;
   top: 26px;
@@ -39,10 +39,10 @@
 .ghg-header {
   color: white;
   font-family: Helvetica;
-  font-size: 26px;
+  font-size: 28px;
   height: 28px;
   top: 26px;
-  right: 880px;
+  right: 900px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
@@ -54,7 +54,7 @@
 .wr-header {
   color: white;
   font-family: Helvetica;
-  font-size: 26px;
+  font-size: 28px;
   letter-spacing: 0;
   font-weight: 700;
   line-height: normal;
@@ -70,7 +70,7 @@
 .c-header {
   color: white;
   font-family: Helvetica;
-  font-size: 26px;
+  font-size: 28px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -85,7 +85,7 @@
 .engage-header {
   color: white;
   font-family: Helvetica;
-  font-size: 26px;
+  font-size: 28px;
   right: 100px;
   letter-spacing: 0;
   line-height: 10.6px;
@@ -211,20 +211,12 @@
   width: 100%;
 }
 
-.words {
-  margin: auto;
-  color: white;
-  font-family: Helvetica;
-  width: 90%;
-  position: absolute
-}
-
 .title {
   text-align: center;
   width: 90%;
   color: white;
   font-family: Helvetica;
-  font-size: 58px;
+  font-size: 60px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: 28.6px;
@@ -233,32 +225,37 @@
   height: 107px
 }
 
+.word {
+  align-items: center;
+  width: 90%;
+}
+
+
 .summary {
+  margin-left: 500px;
+  margin-right: 100px;
+  width: 60%;
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 33px;
+  font-size: 40px;
   font-weight: 500;
-  line-height: 40px;
   position: absolute;
   top: 452px;
-  left: 800px;
-  width: 1250px;
-  height: 107px
+  height: 10px
 }
 
 .learn-more {
+  margin-left: 500px;
+  width: 60%;
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 33px;
+  font-size: 40px;
   font-weight: 700;
-  line-height: 37px;
   position: absolute;
   height: 107px;
-  width: 1078px;
-  top: 650px;
-  left: 800px
+  margin-top: 750px;
 }
 
 p {
@@ -298,23 +295,24 @@ p {
 }
 
 .waste-decrease {
-  width: 900px;
-  height: 140px;
+  margin-top: 50px;
+  height: 100px;
+  width: 1250px;
 }
 
 .increased {
-  width: 850px;
-  height: 184px;
-  top: 1526px;
+  margin-top: 100px;
+  height: 150px;
+  width: 1250px
 }
 
 .learn-compost {
-  height: 53px;
+  height: 60px;
   top: 1607px;
   left: 1075px;
   font-style: italic;
   font-weight: 700;
-  line-height: 34px;
+  font-size: 35px;
   letter-spacing: 0em;
   text-align: left;
 }
@@ -333,7 +331,7 @@ p {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
   font-family: Helvetica;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .insight2 {
@@ -350,7 +348,6 @@ p {
 
 .category {
   margin-top: 10px;
-  width: 1250px;
   font-size: 35px;
   font-style: italic;
   font-weight: 700;
@@ -359,10 +356,9 @@ p {
 }
 
 .list {
-  margin-top: 50px;
+  margin-top: 100px;
   margin-left: 50px;
   width: 1250px;
-  font-size: 25px;
   font-style: italic;
   font-weight: 400;
   letter-spacing: 0em;
@@ -370,7 +366,7 @@ p {
 }
 
 .image_captions22 {
-  margin-top: 65px;
+  margin-top: 115px;
   margin-left: 50px;
   width: 1000px;
   font-size: 35px;
@@ -416,7 +412,7 @@ p {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
   font-family: Helvetica;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .insight3 {
@@ -433,22 +429,22 @@ p {
 }
 
 .recycling-types {
-  font-size: 30px;
+  font-size: 35px;
+  width: 1000px;
 }
 
 .grease-specific {
-  margin-top: 75px;
-  margin-right: 200px;
+  margin-top: 100px;
+  margin-left: 100px;
   background: #70C29A;
-  width: 500px;
+  width: 520px;
   height: 535px;
-  margin: 200px;
   font-size: 28px;
 }
 
 .brown-grease {
-  padding: 40px;
-  width: 400px;
+  padding: 50px;
+  width: 425px;
 }
 
 .targray {
@@ -459,25 +455,24 @@ p {
 /* final commentary */
 
 .commentary1 {
-  margin-left: 600px;
+  margin-left: 500px;
+  margin-right: 500px;
   background-color: #000;
   padding: 60px;
   color: #FFF;
   font-family: Helvetica;
-  font-size: 35px;
+  font-size: 45px;
   font-style: normal;
   font-weight: 400;
-  width: 1258px;
-  height: 200px;
 }
 
 .commentary2 {
   margin-left: 300px;
+  margin-right: 300px;
   padding: 200px;
-  width: 1750px;
   height: 120px;
   font-family: Helvetica;
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   line-height: 46px;
   letter-spacing: 0em;
