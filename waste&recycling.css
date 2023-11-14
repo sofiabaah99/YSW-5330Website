@@ -296,23 +296,19 @@ p {
 
 .waste-decrease {
   margin-top: 50px;
-  height: 100px;
-  width: 1250px;
+  width: 1000px;
 }
 
 .increased {
-  margin-top: 100px;
-  height: 150px;
-  width: 1250px
+  margin-top: 75px;
+  width: 1000px
 }
 
 .learn-compost {
   height: 60px;
-  top: 1607px;
-  left: 1075px;
+  margin-top: 200px;
   font-style: italic;
   font-weight: 700;
-  font-size: 35px;
   letter-spacing: 0em;
   text-align: left;
 }

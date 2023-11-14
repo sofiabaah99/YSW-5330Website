@@ -154,7 +154,7 @@
     display: flex;
     gap: 676px;
     margin-top: 4px;
-    min-width: 1673px;
+    min-width: 100%;
 }
 
 .top-bar {
@@ -183,6 +183,7 @@
     left: 0px;
     position: absolute;
     top: 0;
+    height: 1157px;
     width: 100%
 }
 
@@ -235,10 +236,10 @@
 
 .header_words {
     color: #FFF;
-    width: 1258px;
+    width: 2000px;
     height: 50px;
-    top: 993px;
-    left: 300px;
+    margin-top: 150px;
+    margin-left: 100px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 40px;
@@ -248,20 +249,27 @@
 }
 
 .section1 {
-    width: 1300px;
-    height: 400px;
+    width: 75%;
+    margin-top: 100px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 35px;
-    padding: 125px;
+    margin-left: 200px
 }
+
+.link1 {
+    text-decoration: none;
+    font-weight: 700;
+    color: #70C29A;
+}
+
 
 .question {
     color: #FFF;
     height: 50px;
-    width: 1300px;
-    top: 993px;
-    left: 207px;
+    width: 2000px;
+    margin-top: 150px;
+    margin-left: 100px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 40px;
@@ -271,10 +279,11 @@
 }
 
 .section2 {
-    width: 1350px;
+    width: 75%;
     height: 500px;
     flex-shrink: 0;
     font-family: Helvetica;
     font-size: 35px;
-    padding: 125px;
+    margin-left: 200px;
+    margin-top: 100px
 }
