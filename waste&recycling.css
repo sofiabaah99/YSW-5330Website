@@ -2,6 +2,8 @@
 /*attempting to use figma*/
 .body {
   width:100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .waste-recycling {
@@ -257,13 +259,19 @@ p {
 
 /* columns attempt */ 
 
+.all-visuals {
+  display: flex;
+  flex-direction: column;
+  width: 100%
+}
+
 .grid-container-visual1 {
   display: grid;
   width: 80%;
   gap: 10px;
   background-color: white;
   padding: 60px;
-  margin: 100px
+  margin: 100px;
 }
 
 .grid-item1 {
@@ -370,7 +378,7 @@ p {
 }
 
 .closer-look {
-  text-indent: 800px;
+  width: 75%;
   padding: 45px;
   height: 164px;
   top: 3057px;
