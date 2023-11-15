@@ -11,25 +11,18 @@
   background-color: white;
   display: flex;
   flex-direction: column;
-  height: 4561px;
   overflow: hidden;
   width: 100%
-}
-
-.navbar-link-container {
-  height: 28px;
-  position: relative;
-  width: 100%;
 }
 
 .home-header {
   color: white;
   font-family: Helvetica;
-  font-size: 28px;
+  font-size: 20px;
   width: 267px;
   height: 28px;
   top: 26px;
-  right: 1075px;
+  left: 36%;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
@@ -41,10 +34,10 @@
 .ghg-header {
   color: white;
   font-family: Helvetica;
-  font-size: 28px;
+  font-size: 20px;
   height: 28px;
   top: 26px;
-  right: 900px;
+  left: 50%;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
@@ -56,7 +49,7 @@
 .wr-header {
   color: white;
   font-family: Helvetica;
-  font-size: 28px;
+  font-size: 20px;
   letter-spacing: 0;
   font-weight: 700;
   line-height: normal;
@@ -65,35 +58,33 @@
   white-space: nowrap;
   height: 28px;
   top: 26px;
-  right: 570px;
+  left: 63%;
 
 }
 
 .c-header {
   color: white;
   font-family: Helvetica;
-  font-size: 28px;
+  font-size: 20px;
   letter-spacing: 0;
-  line-height: normal;
   position: absolute;
   text-align: center;
   white-space: nowrap;
   height: 28px;
+  left: 79%;
   top: 26px;
-  right: 350px;
   font-weight: 700;
 }
 
 .engage-header {
   color: white;
   font-family: Helvetica;
-  font-size: 28px;
-  right: 100px;
+  font-size: 20px;
   letter-spacing: 0;
-  line-height: 10.6px;
   position: absolute;
   text-align: center;
-  top: 36px;
+  top: 26px;
+  left: 89%;
   white-space: nowrap;
   height: 28px;
   font-weight: 700;
@@ -121,22 +112,22 @@
 
 .top-bar {
   background-color: black;
-  height: 105px;
+  height: 48px;
   position: absolute;
   top: 5px;
   width: 100%;
 }
 
 .northeastern-university {
+  text-align: center;
   color: white;
   font-family: Lava Telugu;
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: 10px;
-  min-height: 27px;
-  height: 27px;
+  margin-top: 15px;
+  height: 48px;
   left: 68px;
 }
 
@@ -146,13 +137,13 @@
   left: 0px;
   position: absolute;
   top: 5px;
-  width: 55px;
+  width: 48px;
 }
 
 .n-1 {
   color: white;
   font-family: var(--font-family-lava_telugu-regular);
-  font-size: 35px;
+  font-size: 32px;
   font-weight: 400;
   left: 11px;
   letter-spacing: 0;
@@ -177,11 +168,13 @@
 }
 
 .flex-row {
-  align-items: flex-end;
   display: flex;
-  gap: 676px;
-  margin-top: 4px;
-  min-width: 100%;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: flex-end;
+  height: 100%;
+  z-index: 2;
 }
 
 .top-bar {
@@ -217,11 +210,11 @@
   text-align: center;
   color: white;
   font-family: Helvetica;
-  font-size: 75px;
+  font-size: 48px;
   font-weight: 700;
   letter-spacing: 0;
   position: absolute;
-  top: 275px;
+  top: 175px;
   margin-left: 30%;
   margin-right: 30%;
   width: 40%
@@ -234,10 +227,10 @@
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 40px;
+  font-size: 22px;
   font-weight: 500;
   position: absolute;
-  margin-top: 452px;
+  margin-top: 315px;
 }
 
 .learn-more {
@@ -246,7 +239,7 @@
   text-align: left;
   color: white;
   font-family: Helvetica;
-  font-size: 40px;
+  font-size: 22px;
   font-weight: 700;
   position: absolute;
   height: 107px;
@@ -262,9 +255,9 @@ p {
 .all-visuals {
   display: flex;
   flex-direction: column;
-  width: 80%;
-  margin-right: 10%;
-  margin-left: 10%;
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
   align-items: center
 }
 
@@ -273,13 +266,13 @@ p {
   width: 80%;
   gap: 10px;
   background-color: white;
-  padding: 60px;
+  padding: 10px;
 }
 
 .grid-item1 {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 10px;
-  font-size: 30px;
+  font-size: 20px;
   font-family: Helvetica;
   grid-gap: 1em;
   width: 100%;
@@ -294,21 +287,21 @@ p {
   grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
-  margin-left: 100px;
+  margin-left: 15px;
   width: 100%
 }
 
 .waste-decrease {
-  margin-top: 50px;
+  margin-top: 15px;
 }
 
 .increased {
-  margin-top: 50px;
+  margin-top: 15px;
 }
 
 .learn-compost {
   height: 50px;
-  margin-top: 50px;
+  margin-top: 25px;
   font-style: italic;
   font-weight: 700;
   letter-spacing: 0em;
@@ -321,7 +314,7 @@ p {
   width: 80%;
   gap: 10px;
   background-color: white;
-  padding: 60px;
+  padding: 10px;
   margin: 100px;
 }
 
@@ -329,7 +322,7 @@ p {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
   font-family: Helvetica;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .insight2 {
@@ -337,7 +330,8 @@ p {
   grid-row: 1;
   font-family: Helvetica;
   width: 100%;
-  height: 100%
+  height: 100%;
+  margin-left: 15%
 }
 
 .image2 {
@@ -346,9 +340,8 @@ p {
 }
 
 .category {
-  margin-left: 50px;
   margin-top: 10px;
-  font-size: 35px;
+  font-size: 25px;
   font-style: italic;
   font-weight: 700;
   letter-spacing: 0em;
@@ -356,8 +349,8 @@ p {
 }
 
 .list {
-  margin-top: 50px;
-  margin-left: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
   font-style: italic;
   font-weight: 400;
   letter-spacing: 0em;
@@ -365,30 +358,36 @@ p {
 }
 
 .image_captions22 {
-  margin-top: 75px;
-  margin-left: 50px;
-  font-size: 35px;
+  margin-top: 25px;
+  font-size: 22px;
   background: #F2CE3E;
   padding: 20px
 }
 
 .diff-materials {
-  margin-left: 50px;
-  font-size: 35px;
+  font-size: 22px;
   background-color:#70C29A;
   padding: 20px;
 }
 
 .closer-look {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: white;
-  width: 119%;
-  padding: 100px;
   font-family: Helvetica;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
-  line-height: 46px;
+  align-items: center;
   letter-spacing: 0em;
   text-align: center;
+}
+
+.closer-container {
+  width: 111%;
+  background: linear-gradient(100deg, #DB673D 0%, #F2CE3E 100%)
 }
 
 .grid-container-visual3 {
@@ -397,21 +396,21 @@ p {
   width: 80%;
   gap: 10px;
   background-color: white;
-  padding: 60px;
+  padding: 10px;
 }
 
 .grid-item3 {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
   font-family: Helvetica;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .insight3 {
   grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
-  margin-left: 100px;
+  margin-left: 15%;
   width: 100%;
   height: 100%
 }
@@ -422,13 +421,13 @@ p {
 }
 
 .recycling-types {
-  font-size: 35px;
+  font-size: 22px;
 }
 
 .grease-specific {
-  margin-top: 100px;
+  margin-top: 25px;
   background: #70C29A;
-  font-size: 28px;
+  font-size: 18px;
 }
 
 .brown-grease {
@@ -437,7 +436,7 @@ p {
 
 .targray {
   text-indent: 45px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
   font-style: italic;
 }
 
@@ -445,8 +444,9 @@ p {
 
 .commentary1 {
   align-items: center;
-  width: 119%;
-  padding: 100px;
+  width: 111%;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background: linear-gradient(100deg,#70C294 0%, #F2CE3E 100%);
 }
 
@@ -456,7 +456,7 @@ p {
   margin-right: 15%;
   color: #FFF;
   font-family: Helvetica;
-  font-size: 45px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 400; 
 }
@@ -464,29 +464,28 @@ p {
 .commentary2 {
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 150px;
+  margin-top: 125px;
   height: 120px;
   font-family: Helvetica;
-  font-size: 45px;
+  font-size: 32px;
   font-weight: 700;
   line-height: 46px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
 .citations {
   font-family: Helvetica;
   font-weight: 700px;
-  font-size: 25px;
-  padding: 80px;
-  height: 125px;
-  margin-left: 100px;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 20px;
+  margin-top: 150px;
   color: #999999;
 }
 
 .sources {
   height: 50px;
-  font-size: 30px;
+  font-size: 22px;
   font-weight: bold;
 }
 
