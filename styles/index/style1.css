@@ -53,7 +53,7 @@ body{
 }
 
 .northeastern-university{
-    color: white; font-size: 22px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
+    color: white; font-size: 32px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
     margin-left: 10px;
 }
 
@@ -151,7 +151,7 @@ body{
 }
 
 .navtext{
-    text-align: center; color: white; font-size: 20px; font-family: Helvetica; font-weight: 400; word-wrap: break-word;
+    text-align: center; color: white; font-size: 28px; font-family: Helvetica; font-weight: 700; word-wrap: break-word;
     margin-left: 15px; margin-right: 15px;
 }
 
@@ -201,7 +201,7 @@ body{
 .title-whatdoes-container{
     width: 90%;
     height: 52px;
-    margin-top: 150px;
+    margin-top: 250px;
     margin-bottom: 15px;
     position: relative;
     display: flex;
@@ -230,7 +230,7 @@ body{
 }
 
 .linktext{
-    color: #47A577; font-size: 22px; font-family: Helvetica; font-weight: 400; text-decoration: underline; word-wrap: break-word;
+    color: white; font-size: 30px; font-family: Helvetica; font-weight: 700; text-decoration: underline; word-wrap: break-word;
 }
 
 .block-whatdo-trspr{
@@ -247,7 +247,14 @@ body{
 
 .text-whatdo{
     width: 70%;
-    margin-top: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-delve {
+    width:54%;
+    align-items: center;
+    margin-top: 50px;
     margin-bottom: 180px;
 }
 
@@ -337,12 +344,12 @@ body{
 }
 
 .text-in-subsectionlink-text-container{
-    width: 60%;
+    width: 65%;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 50px;
     z-index: 2; 
-    color: white; font-size: 22px; font-family: Helvetica; font-weight: 400; line-height: 28.60px; word-wrap: break-word;
+    color: white; font-size: 30px; font-family: Helvetica; font-weight: 400; word-wrap: break-word;
 }
 
 /* .footbar{

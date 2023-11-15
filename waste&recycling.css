@@ -169,11 +169,10 @@
   background-color: #ffffff33;
   display: flex;
   flex-direction: column;
-  gap: 2px;
   height: 80px;
   left: 0px;
   position: absolute;
-  top: 86px;
+  top: 55px;
   width: 100%;
 }
 
@@ -223,7 +222,9 @@
   letter-spacing: 0;
   position: absolute;
   top: 275px;
-  margin-left: 30%
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%
 }
 
 .summary {
@@ -261,8 +262,10 @@ p {
 .all-visuals {
   display: flex;
   flex-direction: column;
-  width: 90%;
-  margin: 5%
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  align-items: center
 }
 
 .grid-container-visual1 {
@@ -428,8 +431,6 @@ p {
 .grease-specific {
   margin-top: 100px;
   background: #70C29A;
-  width: 65%;
-  height: 50%;
   font-size: 28px;
 }
 
@@ -439,6 +440,7 @@ p {
 
 .targray {
   text-indent: 45px;
+  padding-bottom: 20px;
   font-style: italic;
 }
 
