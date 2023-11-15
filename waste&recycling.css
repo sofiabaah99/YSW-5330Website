@@ -1,0 +1,496 @@
+/* waste and recycling styles */ 
+/*attempting to use figma*/
+.body {
+  width:1500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.waste-recycling {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 4561px;
+  overflow: hidden;
+  width: 100%
+}
+
+.navbar-link-container {
+  height: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.home-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 28px;
+  width: 267px;
+  height: 28px;
+  top: 26px;
+  right: 1075px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ghg-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 28px;
+  height: 28px;
+  top: 26px;
+  right: 900px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wr-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 28px;
+  letter-spacing: 0;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  height: 28px;
+  top: 26px;
+  right: 570px;
+
+}
+
+.c-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  height: 28px;
+  top: 26px;
+  right: 350px;
+  font-weight: 700;
+}
+
+.engage-header {
+  color: white;
+  font-family: Helvetica;
+  font-size: 28px;
+  right: 100px;
+  letter-spacing: 0;
+  line-height: 10.6px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  height: 28px;
+  font-weight: 700;
+}
+
+
+.overlap-group6 {
+  text-align: center;
+  align-self: flex-start;
+  height: 1200px;
+  margin-left: 0px;
+  margin-top: 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+/*top bar and "northeastern" */ 
+.overlap-group {
+  height: 53px;
+  margin-top: -5px;
+  position: relative;
+  width: 48px;
+}
+
+.top-bar {
+  background-color: black;
+  height: 105px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.northeastern-university {
+  color: white;
+  font-family: Lava Telugu;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 27px;
+  height: 27px;
+  left: 68px;
+}
+
+.n {
+  background-color: #d41a2b;
+  height: 55px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 55px;
+}
+
+.n-1 {
+  color: white;
+  font-family: var(--font-family-lava_telugu-regular);
+  font-size: 35px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+/* wording at the top */ 
+
+.white-guide-bar {
+  align-items: flex-end;
+  background-color: #ffffff33;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 86px;
+  width: 100%;
+}
+
+.flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 676px;
+  margin-top: 4px;
+  min-width: 100%;
+}
+
+.top-bar {
+  align-items: flex-start;
+  background-color: black;
+  display: flex;
+  gap: 20px;
+  height: 55px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bg-cover {
+  background-color: #00000033;
+  height: 1157px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wr-1-1 {
+  height: 1157px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+  font-size: 75px;
+  font-weight: 700;
+  letter-spacing: 0;
+  position: absolute;
+  top: 275px;
+  margin-left: 30%
+}
+
+.summary {
+  margin-left: 20%;
+  margin-right: 100px;
+  width: 60%;
+  text-align: left;
+  color: white;
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 452px;
+}
+
+.learn-more {
+  margin-left: 20%;
+  width: 60%;
+  text-align: left;
+  color: white;
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  height: 107px;
+  margin-top: 750px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* columns attempt */ 
+
+.all-visuals {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 5%
+}
+
+.grid-container-visual1 {
+  display: grid;
+  width: 80%;
+  gap: 10px;
+  background-color: white;
+  padding: 60px;
+}
+
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  font-size: 30px;
+  font-family: Helvetica;
+  grid-gap: 1em;
+  width: 100%;
+}
+
+.image1 {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.insights1 {
+  grid-column: 2;
+  grid-row: 1;
+  font-family: Helvetica;
+  margin-left: 100px;
+  width: 100%
+}
+
+.waste-decrease {
+  margin-top: 50px;
+}
+
+.increased {
+  margin-top: 50px;
+}
+
+.learn-compost {
+  height: 50px;
+  margin-top: 50px;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+
+.grid-container-visual2 {
+  display: grid;
+  width: 80%;
+  gap: 10px;
+  background-color: white;
+  padding: 60px;
+  margin: 100px;
+}
+
+.grid-item2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+.insight2 {
+  grid-column: 2;
+  grid-row: 1;
+  font-family: Helvetica;
+  width: 100%;
+  height: 100%
+}
+
+.image2 {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.category {
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 35px;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.list {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.image_captions22 {
+  margin-top: 75px;
+  margin-left: 50px;
+  font-size: 35px;
+  background: #F2CE3E;
+  padding: 20px
+}
+
+.diff-materials {
+  margin-left: 50px;
+  font-size: 35px;
+  background-color:#70C29A;
+  padding: 20px;
+}
+
+.closer-look {
+  width: 75%;
+  padding: 45px;
+  height: 164px;
+  top: 3057px;
+  margin-left: 10%;
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.grid-container-visual3 {
+  margin-right: 5%;
+  margin-left: 5%;
+  display: grid;
+  width: 80%;
+  gap: 10px;
+  background-color: white;
+  padding: 60px;
+}
+
+.grid-item3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+.insight3 {
+  grid-column: 2;
+  grid-row: 1;
+  font-family: Helvetica;
+  margin-left: 100px;
+  width: 100%;
+  height: 100%
+}
+
+.image3 {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.recycling-types {
+  font-size: 35px;
+}
+
+.grease-specific {
+  margin-top: 100px;
+  background: #70C29A;
+  width: 65%;
+  height: 50%;
+  font-size: 28px;
+}
+
+.brown-grease {
+  padding: 25px;
+}
+
+.targray {
+  text-indent: 45px;
+  font-style: italic;
+}
+
+/* final commentary */
+
+.commentary1 {
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%; 
+  margin-top: 150px;
+  padding: 25px;
+  background-color: #000;
+  color: #FFF;
+  font-family: Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.commentary2 {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 150px;
+  height: 120px;
+  font-family: Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.citations {
+  font-family: Helvetica;
+  font-weight: 700px;
+  font-size: 25px;
+  padding: 80px;
+  height: 125px;
+  margin-left: 100px;
+  color: #999999;
+}
+
+.sources {
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.npr {
+  height: 50px
+}
+
+.targraycite {
+  height: 50px
+}
