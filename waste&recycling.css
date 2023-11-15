@@ -380,11 +380,9 @@ p {
 }
 
 .closer-look {
-  width: 75%;
-  padding: 45px;
-  height: 164px;
-  top: 3057px;
-  margin-left: 10%;
+  color: white;
+  width: 119%;
+  padding: 100px;
   font-family: Helvetica;
   font-size: 40px;
   font-weight: 700;
@@ -394,8 +392,7 @@ p {
 }
 
 .grid-container-visual3 {
-  margin-right: 5%;
-  margin-left: 5%;
+  margin: 100px;
   display: grid;
   width: 80%;
   gap: 10px;
@@ -448,16 +445,20 @@ p {
 
 .commentary1 {
   align-items: center;
-  margin-left: 20%;
-  margin-right: 20%; 
-  margin-top: 150px;
-  padding: 25px;
-  background-color: #000;
+  width: 119%;
+  padding: 100px;
+  background: linear-gradient(100deg,#70C294 0%, #F2CE3E 100%);
+}
+
+.cardboard {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
   color: #FFF;
   font-family: Helvetica;
   font-size: 45px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400; 
 }
 
 .commentary2 {
