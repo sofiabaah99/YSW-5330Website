@@ -75,7 +75,7 @@ body{
 
 .musk1{
     -webkit-mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) -10%, black 45%, black 80%, rgba(0, 0, 0, 0) 100%);
-    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 8%, black 45%, black 88%, rgba(0, 0, 0, 0) 100%);
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) -10%, black 45%, black 80%, rgba(0, 0, 0, 0) 100%);
     -webkit-mask-size: 100%;
     mask-size: 100%;
 
@@ -168,9 +168,9 @@ body{
     flex-direction: column;
     align-items: center;
     z-index: 2; 
-    margin-top: 70px; margin-bottom: 0px;
-    margin-left: auto; margin-right: auto; width: 65%; 
-    border-radius: 15px;
+    margin-top: 80px; margin-bottom: 0px;
+    margin-left: auto; margin-right: auto; width: 100%; 
+    /* border-radius: 15px; */
 }
 
 .block-ylw-org{
@@ -179,11 +179,12 @@ body{
     flex-direction: column;
     align-items: center;
     width:100%; 
-    margin-top: -190px; 
+    margin-top: -150px; 
     margin-bottom: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
     z-index: 1;
+    /* border-radius: 35px; */
 }
 
 .block-what-trspr{
