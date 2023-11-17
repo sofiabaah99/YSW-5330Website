@@ -1,0 +1,38 @@
+.top{
+    width: 100%; 
+    min-height: 48px; 
+    background: black;
+    
+    /* //horizontal-center */
+    margin: auto;
+}
+
+.content-vertical-center{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.n-bg-black{
+    min-width: 48px; 
+    min-height: 48px;
+}
+
+.content-horizontal-center{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.n{
+    width: 100%; height: 100%; text-align: center; color: white; font-size: 32px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
+}
+
+.northeastern-university{
+    color: white; font-size: 22px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
+    margin-left: 10px;
+}

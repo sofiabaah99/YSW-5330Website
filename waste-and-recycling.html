@@ -5,25 +5,69 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width" />
    <title>The Truth about Sustainability at Northeastern&thinsp;—&thinsp;What does sustainability look like?</title>
-   <link rel="stylesheet" href="waste&recycling.css">
+   <link rel="stylesheet" href="styles\wasteandrecycling\waste&recycling.css">
+   <link href="styles/style-navbar.css" rel="stylesheet" />
+   <link href="styles/style-NEUtopbar.css" rel="stylesheet" />
 </head>
+
+<!-- !!! You have two class both named "top-bar", which may cause problems !!! -->
 
 <body style="margin: auto; background: #ffffff">
    <input type="hidden" id="anPageName" name="page" value="waste-recycling" />
 
+   <!-- i think these three line make no function to the page? -->
    <!--Top section with paragraph and title-->
-   <div class="container-center-horizontal">
-      <div class="wr screen">
+   <!-- <div class="container-center-horizontal"> -->
+      <!-- <div class="wr screen"> -->
+         
+<!-- NEW unified top bar -->
+<!-- Northeastern University Black Top Row Bar -->
+<div class = "top content-vertical-center">
+   <div class = "n-bg-black content-vertical-center" style="background: #D41A2B">
+      <div class = "n" >N</div>
+   </div>
+   <div class = "northeastern-university">Northeastern University</div>
+</div>
+<!-- end of Northeastern University Black Top Row -->
+<!-- end of NEW unified top bar -->
+
          <div class="overlap-group6">
-            <img class="wr-1-1" src="trash2.jpg" alt="Recycling Background Picture" />
+            <img class="wr-1-1" src="images\wasteandrecycling\trash2.jpg" alt="Recycling Background Picture" />
             <div class="bg-cover"></div>
-            <div class="top-bar">
+            <!-- old top bar -->
+            <!-- <div class="top-bar">
                <div class="overlap-group">
                   <div class="n"></div>
                   <div class="n-1">N</div>
                </div>
                <div class="northeastern-university">Northeastern University</div>
+            </div> -->
+            <!-- end of old top bar -->
+
+
+            <!-- NEW unified navigation bar -->
+            <div class = "navbar" style="background: rgba(255, 255, 255, 0.20)">
+               <!-- return arrow -->
+               <a href = "index.html" style="margin-left: 20px; margin-right: auto; margin-bottom: 3px">
+               <img src="images/ArrowBackVector.svg" />
+               </a>
+               <!-- end of return arrow -->
+               <!-- navigation text button to each sub section -->
+               <nav class = "navtextmain">
+               <a class = "navtext" href="ghg-emissions.html">GHG Emissions</a>
+               <!-- present page text button -->
+               <div class = "navtextsub">
+                  <a class = "navtext" href="waste-and-recycling.html">Waste & Recycling</a>
+                  <div style="margin-top: 5px; width: 85%; height: 0px; border: 2px white solid"></div>
+               </div>
+               <!-- end of present page text button -->
+               <a class = "navtext" href="foodcompostingleon.html">Food Composting</a>
+               <a class = "navtext">How to Engage</a>
+               </nav>
+               <!-- end of navigation text button to each sub section -->
             </div>
+            <!-- end of NEW unified navigation bar -->
+
             <div class="words">
                <div class="summary">
                   <p>Creating waste is an everyday occurrance for the average student, faculty, and staff on campus. There are three main categories for waste at Northeastern: compost (food and organic material), recycling (waste that's converted into reusable material), and disposal (or trash that ends up in a landfill).
@@ -35,7 +79,7 @@
             </div>
          </div>
          <!--This is your navigation-->
-         <div class="white-guide-bar">
+         <!-- <div class="white-guide-bar">
             <div class="flex-row">
                <nav class = "navtextmain">
                   <a class= "home header" href="index.html">Home</a>
@@ -45,15 +89,16 @@
                   <a class = "engage header">How to Engage</a>
                </nav>
             </div>
-         </div>
+         </div> -->
          <!--end navigation-->
+
 
          <!-- Visualization one! Line chart, totals-->
          <div class="all-visuals">
             <div class="grid-container-visual1">
                <div class="grid-item1 graph1" >
                   <p class="graph1title" > Total Waste Production by Disposition Type </p>
-                  <div class= "image1"> <img src="5330TotalWasteProductionbyDisposition.jpg" width="600px"></div>
+                  <div class= "image1"> <img src="images\wasteandrecycling\5330TotalWasteProductionbyDisposition.jpg" width="600px"></div>
                </div>
                <div class="grid-item1 insights1">
                   <p class="grid-item1 waste-decrease"> <i> <strong>Overall, waste production at Northeastern has
@@ -87,7 +132,7 @@
                      </strong> recycled at Northeastern.
                </div>
                <div class="grid-item2 graph2">
-                  <div class="image2"> <img src="5330categories.jpg" width="500px"> </div>
+                  <div class="image2"> <img src="images\wasteandrecycling\5330categories.jpg" width="500px"> </div>
                   <p class="graph2title"> Proportions of total accepted material categories per diposition type </p>
                </div>
             </div>
@@ -112,7 +157,7 @@
                </div>
                <div class="grid-item3 graph3" >
                   <p class="graph3title"> Top Five Recycled Materials </p>
-                  <div class="image3"> <img src="5330TopFiveRecycledMaterials.jpg" width="600px"></div>
+                  <div class="image3"> <img src="images\wasteandrecycling\5330TopFiveRecycledMaterials.jpg" width="600px"></div>
                </div>
             </div>
             <!-- End commentary-->
@@ -142,8 +187,8 @@
                </div>
             </div>
          </div>
-      </div>
-   </div>
+      <!-- </div> -->
+   <!-- </div> -->
    </div>
 </body>
 

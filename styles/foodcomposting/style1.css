@@ -7,28 +7,6 @@ clear and clearfix: https://www.w3schools.com/css/css_float_clear.asp
 block and inline element: https://www.w3schools.com/html/html_blocks.asp
  */
 
-.content-vertical-center{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    /* justify-content: center; */
-}
-
-.content-horizontal-center{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-    /* justify-content: center; */
-}
-
-.horizontal-center{
-    margin: auto;
-}
-
-
-
 body{
     background: white;
     width: 100%;
@@ -38,26 +16,6 @@ body{
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
-}
-
-.top{
-    width: 100%; 
-    min-height: 48px; 
-    background: black;
-}
-
-.nbg{
-    min-width: 48px; 
-    min-height: 48px;
-}
-
-.n{
-    width: 100%; height: 100%; text-align: center; color: white; font-size: 32px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
-}
-
-.northeastern-university{
-    color: white; font-size: 22px; font-family: 'Times New Roman', Times, serif; font-weight: 400; word-wrap: break-word;
-    margin-left: 10px;
 }
 
 .block-title-intro{
@@ -96,43 +54,6 @@ body{
     width: 100%;
     height: 914.53px;
     z-index: -1;
-}
-
-.navbar{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-end;
-    width: 100%;
-    margin-top: 0px;
-    padding-top: 15px;
-    padding-bottom: 12px;
-    /* padding-left: 10px; */
-    padding-right: 30px;
-    /* prevent this element out of box because of padding */
-    box-sizing: border-box; 
-}
-
-.navtextmain{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: baseline;
-    justify-content: flex-end;
-    height: 100%;
-}
-
-.navtext{
-    text-align: center; color: white; font-size: 20px; font-family: Helvetica; font-weight: 400; word-wrap: break-word;
-    margin-left: 15px; margin-right: 15px;
-}
-
-.navtextsub{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
 }
 
 .block2{
