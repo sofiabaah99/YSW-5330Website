@@ -101,7 +101,8 @@
   word-wrap: break-word;
   margin-left: 15px; 
   margin-right: 15px;
-  margin-top: 26px
+  margin-top: 26px;
+  text-decoration: none;
 }
 
 .navtextmain{
@@ -111,6 +112,7 @@
   align-items: baseline;
   justify-content: flex-end;
   height: 100%;
+  padding-right: 15px
 }
 
 .top-bar {
