@@ -56,14 +56,15 @@
   width: 48px;
 }
 
-.ghg-emissions .n {
+/* conflict with style-NEUtopbar.css */
+/* .ghg-emissions .n {
   background-color: #d41a2b;
   height: 48px;
   left: 0;
   position: absolute;
   top: 5px;
   width: 48px;
-}
+} */
 
 .ghg-emissions .n-1 {
   color: var(--white);
@@ -78,7 +79,8 @@
   width: 28px;
 }
 
-.ghg-emissions .northeastern-university {
+/* conflict with style-NEUtopbar.css */
+/* .ghg-emissions .northeastern-university {
   color: var(--white);
   font-family: var(--font-family-lava_telugu-regular);
   font-size: var(--font-size-m);
@@ -88,7 +90,7 @@
   margin-top: 4px;
   min-height: 27px;
   width: 279px;
-}
+} */
 
 .ghg-emissions .ghg-greenhouse-gas {
   color: var(--white);
@@ -211,25 +213,43 @@
 }
 
 .ghg-emissions .white-guide-bar {
-  align-items: flex-end;
+  /* align-items: flex-end; */
+  align-items: center;
   background-color: #ffffff33;
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   gap: 2px;
   height: 80px;
   left: 14px;
-  padding: 21.5px 10px;
+  /* padding: 21.5px 10px; */
   position: absolute;
   top: 86px;
   width: 1728px;
+
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 0px;
+  padding-top: 15px;
+  padding-bottom: 12px;
+  padding-right: 30px;
+  box-sizing: border-box;
+
+
 }
 
 .ghg-emissions .flex-row {
-  align-items: flex-end;
-  display: flex;
-  gap: 676px;
-  margin-top: 4px;
+  /* align-items: flex-end;
+  display: flex; */
+  /* gap: 676px; */
+  /* margin-top: 4px; */
   min-width: 1673px;
+
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: flex-end;
 }
 
 .ghg-emissions .back {

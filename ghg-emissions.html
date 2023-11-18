@@ -6,6 +6,13 @@
     <link rel="stylesheet" type="text/css" href="css/ghg-emissions.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <link rel="stylesheet" type="text/css" href="styles/style-NEUtopbar.css" />
+    <link rel="stylesheet" type="text/css" href="styles/style-navbar.css" />
+    <!-- 改用一致topbar，原container“top-bar”内装已有css，使高度、比例、字体一致。
+    改用一致navigation bar，由于页面本身使用absolute position等原因，位置偏差明显，但字体，链接，下划线等正常。
+    因需要利用原网页排版布局，无法使用style-navbar.css中的相对位置布局，因此navigation bar container仍用"white-guide-bar""flex-row"，
+    但将部分style-navbar.css中class="navbar" "navtextmain"的内容复制进 class"white-guide-bar""flex-row"并注释部分原冲突代码，注释部分
+    class = "screen a"中内容。 -->
   </head>
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="ghg-emissions" />
@@ -14,13 +21,25 @@
         <div class="overlap-group6">
           <img class="ghg-1-1" src="img/ghg-1-1.png" alt="GHG Background Picture" />
           <div class="bg-cover"></div>
-          <div class="top-bar">
+          <!-- <div class="top-bar">
             <div class="overlap-group">
               <div class="n"></div>
               <div class="n-1">N</div>
             </div>
             <div class="northeastern-university">Northeastern University</div>
+          </div> -->
+
+          <!-- Northeastern University Black Top Row Bar -->
+          <div class="top-bar">
+            <div class = "top content-vertical-center">
+              <div class = "n-bg-black content-vertical-center" style="background: #D41A2B">
+                  <div class = "n" >N</div>
+              </div>
+              <div class = "northeastern-university">Northeastern University</div>
+            </div>
           </div>
+          <!-- end of Northeastern University Black Top Row -->
+          
           <p class="ghg-greenhouse-gas">
             GHG (Greenhouse Gas) Emissions refer to gases released into the atmosphere, primarily from human activities,
             that trap heat and contribute to global climate change. The increase in these emissions threatens our
@@ -45,7 +64,8 @@
           <a href="https://data.boston.gov/dataset/greenhouse-gas-emissions" target="_blank"
             ><div class="httpsdataboston">https://data.boston.gov/dataset/greenhouse-gas-emissions</div>
           </a>
-          <div class="white-guide-bar">
+
+          <!-- <div class="white-guide-bar">
             <div class="flex-row">
               <img class="back" src="img/vector-35.svg" alt="back" />
               <div class="navbar-link-container roboto-medium-white-24px">
@@ -56,7 +76,32 @@
               </div>
             </div>
             <img class="underline-1" src="img/vector-3-1.png" alt="underline" />
+          </div> -->
+
+          <!-- navigation bar -->
+          <div class="white-guide-bar">
+            <!-- return arrow -->
+            <a href = "index.html" style="margin-left: 20px; margin-right: auto; margin-bottom: 3px">
+              <img src="images/ArrowBackVector.svg" />
+            </a>
+            <!-- end of return arrow -->
+            <!-- navigation text button to each sub section -->
+            <nav class="flex-row">
+              <!-- present page text button -->
+              <div class = "navtextsub">
+                <a class = "navtext" href="ghg-emissions.html">GHG Emissions</a>
+                <div style="margin-top: 5px; width: 85%; height: 0px; border: 2px white solid"></div>
+              </div>
+              <!-- end of present page text button -->
+              <a class = "navtext" href="waste-and-recycling.html">Waste & Recycling</a>
+              <a class = "navtext" href="foodcompostingleon.html">Food Composting</a>
+              <a class = "navtext">How to Engage</a>
+            </nav>
+            <!-- end of navigation text button to each sub section -->
           </div>
+          <!-- end of navigation bar -->
+
+          
           <div class="pic1"><img class="pic1-1" src="img/1-4.png" alt="pic1" /></div>
           <div class="pic2"><img class="pic2-1" src="img/2-23.png" alt="pic2" /></div>
           <img class="bos-ghg" src="img/image-2.png" alt="bos ghg" />

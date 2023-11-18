@@ -20,9 +20,9 @@
   src: url("../fonts/FontsFree-Net-arial-bold.ttf") format("truetype");
 }
 
-
+/* conflict with style-navbar.css */
 .screen a {
-  display: contents;
+  /* display: contents; */
   text-decoration: none;
 }
 
