@@ -223,6 +223,12 @@ p {
   grid-row: 1;
 }
 
+.graph1title {
+  font-size: 18px;
+  padding-bottom: 10px;
+  color: #B3B3B3;
+}
+
 .insights1 {
   grid-column: 2;
   grid-row: 1;
@@ -282,6 +288,7 @@ p {
 .graph2title {
   font-style: italic;
   font-size: 16px;
+  color: #B3B3B3;
 }
 
 .category {
@@ -295,7 +302,7 @@ p {
 
 .list {
   margin-top: 25px;
-  margin-left: 20px;
+  margin-left: 50px;
   font-style: italic;
   font-weight: 400;
   letter-spacing: 0em;
@@ -345,6 +352,7 @@ p {
 }
 
 .grid-item3 {
+  padding: 10px;
   background-color: rgba(255, 255, 255, 0.8);
   text-align: left;
   font-family: Helvetica;
@@ -355,7 +363,7 @@ p {
   grid-column: 2;
   grid-row: 1;
   font-family: Helvetica;
-  margin-left: 15%;
+  margin-left: 15px;
   width: 100%;
   height: 100%
 }
@@ -366,7 +374,8 @@ p {
 }
 
 .graph3title {
-  font-size: 22px;
+  font-size: 18px;
+  color: #B3B3B3;
 }
 
 .recycling-types {
