@@ -245,7 +245,6 @@ p {
 .learn-compost {
   height: 50px;
   margin-top: 25px;
-  font-style: italic;
   font-weight: 700;
   letter-spacing: 0em;
   text-align: left;
@@ -291,7 +290,6 @@ p {
 .category {
   margin-top: 10px;
   font-size: 25px;
-  font-style: italic;
   font-weight: 700;
   letter-spacing: 0em;
   text-align: left;
@@ -300,7 +298,6 @@ p {
 .list {
   margin-top: 25px;
   margin-left: 50px;
-  font-style: italic;
   font-weight: 400;
   letter-spacing: 0em;
   text-align: left;
