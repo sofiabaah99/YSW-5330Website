@@ -10,7 +10,7 @@ z-index: https://www.w3schools.com/cssref/pr_pos_z-index.php
 
 body{
     background: white;
-    /* margin: auto; */
+    margin: auto;
     width: 100%;
     display: flex;
     flex-wrap: wrap;

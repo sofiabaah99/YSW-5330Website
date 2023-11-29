@@ -25,6 +25,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
 }
 
 /*top bar and "northeastern" */ 
@@ -93,7 +94,7 @@
   height: 80px
 }
 
-.navtextmain{
+/* .navtextmain{
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -101,7 +102,7 @@
   justify-content: flex-end;
   height: 100%;
   padding-right: 15px
-}
+}  */
 
 .top-bar {
   align-items: flex-start;
@@ -114,7 +115,7 @@
   top: 0px;
   width: 100%;
 }
-*/ 
+
 .bg-cover {
   background-color: #00000033;
   height: 1157px;
