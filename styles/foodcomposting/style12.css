@@ -1,0 +1,314 @@
+/* ref:
+CSS Flex Container: https://www.w3schools.com/css/css3_flexbox_container.asp
+box-sizing: border-box: https://blog.csdn.net/sinat_35538827/article/details/109062694
+flex-wrap: https://www.w3schools.com/cssref/css3_pr_flex-wrap.php
+layout: https://www.w3schools.com/html/html_layout.asp
+clear and clearfix: https://www.w3schools.com/css/css_float_clear.asp
+block and inline element: https://www.w3schools.com/html/html_blocks.asp
+ */
+
+body{
+    background: white;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.block-title-intro{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width:100%; 
+    height: 914.53px;
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.block-title-intro-bg-clr{
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width:100%; 
+    height:914.53px;
+    /* margin: auto;
+    margin-top: 0px; 
+    margin-bottom: 0px; */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    z-index: -1;
+}
+
+.block-title-intro-bg-img{
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    /* margin: auto; */
+    width: 100%;
+    height: 914.53px;
+    z-index: -1;
+}
+
+
+
+
+.block1-org-ylw-totaldata{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 0px;
+    padding-bottom: 300px;
+}
+
+
+.block2-lightgrey-dailydata{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.block3-ylw-dailylocations{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: flex-end;
+}
+
+.block4-grn_stetsonW{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content:flex-start;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.blockclosing{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+.text-totalfood-accordingto{
+    margin-top: 100px; 
+    margin-bottom: 100px; 
+    width: 70%; 
+}
+
+.text-lets-delve{
+    margin-top: 0px; 
+    margin-bottom: 120px; 
+    width: 100%; 
+}
+
+.trsptbg-dark-totalfood{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.title-totalfood{
+    margin-top: 80px; 
+    margin-bottom: 30px; 
+    width: 100%; 
+}
+
+.graph-totalfood{
+    display: block;
+    width:70%; 
+    margin-top: 0px; 
+    margin-bottom: 100px;
+}
+
+.bg-org-fortext{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.text-dscbl-totalfood{
+    margin-top: 20px; 
+    margin-bottom: 100px; 
+    width: 70%; 
+}
+
+.trsptbg-dark-rd-dailyfood{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:75%; 
+    margin-top: -140px; 
+    margin-bottom: -140px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    z-index: 1;
+    position: relative;
+}
+
+.title-dailyfoodbymonth{
+    margin-top: 80px; 
+    margin-bottom: 30px; 
+    width: 100%; 
+}
+
+.graph-default{
+    width: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.text-dscbl-dailyfoodbymonth{
+    margin-top: 80px; 
+    margin-bottom: 80px; 
+    width: 70%; 
+}
+
+.bg-ylw-dailyfoodbtm{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+    padding-top: 140px;
+    padding-bottom: 0px;
+    justify-content: flex-end;
+}
+
+.bg-org-ylw-dailyfoodbtm{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:100%; 
+    margin-top: 0px; 
+}
+
+.text-havinggain{
+    margin-top: 120px; 
+    margin-bottom: 60px; 
+    width: 80%; 
+}
+
+.title-dailyfoodLocation{
+    margin-top: 80px; 
+    margin-bottom: 30px; 
+    width: 100%; 
+}
+
+.text-dscbl-dailyfoodLocation{
+   margin-top: 80px; 
+   margin-bottom: 80px; 
+   width: 65%; 
+}
+
+.trsptbg-dark-stetw{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width:50%; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.title-stetw{
+    margin-top: 50px; 
+    margin-bottom: 30px; 
+    width: 100%; 
+}
+
+.graph-stetw{
+    width: 95%;
+    margin-top: auto;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.text-thesteton{
+    width:40%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto; 
+    margin-bottom: auto;
+}
+
+.title-blockclosing{
+    margin-top: 80px; 
+    margin-bottom: 30px; 
+    width: 100%; 
+}
+
+.text-blockclosing{
+    margin-top: 30px; 
+    margin-bottom: 120px; 
+    width: 70%; 
+}
+
+.referenceContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: left;
+    width:100%; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
