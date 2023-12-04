@@ -1,0 +1,3733 @@
+CountryorArea,Element,Year,Unit,Value,ValueFootnotes
+Nigeria,Food,2019.0,1000 tonnes,5772.0,Im
+Ethiopia,Food,2019.0,1000 tonnes,3144.0,Im
+India,Food,2019.0,1000 tonnes,3045.0,Im
+Sudan,Food,2019.0,1000 tonnes,3000.0,Im
+China,Food,2019.0,1000 tonnes,2242.0,A
+Niger,Food,2019.0,1000 tonnes,1425.0,Im
+Burkina Faso,Food,2019.0,1000 tonnes,1047.0,Im
+Chad,Food,2019.0,1000 tonnes,880.0,Im
+Mali,Food,2019.0,1000 tonnes,842.0,Im
+Cameroon,Food,2019.0,1000 tonnes,648.0,Im
+United Republic of Tanzania,Food,2019.0,1000 tonnes,292.0,Im
+Mozambique,Food,2019.0,1000 tonnes,270.0,Im
+United States of America,Food,2019.0,1000 tonnes,251.0,Im
+Egypt,Food,2019.0,1000 tonnes,239.0,Im
+Ghana,Food,2019.0,1000 tonnes,232.0,Im
+Yemen,Food,2019.0,1000 tonnes,211.0,Im
+Kenya,Food,2019.0,1000 tonnes,199.0,Im
+Togo,Food,2019.0,1000 tonnes,177.0,Im
+Senegal,Food,2019.0,1000 tonnes,160.0,Im
+Rwanda,Food,2019.0,1000 tonnes,123.0,Im
+Benin,Food,2019.0,1000 tonnes,117.0,Im
+Saudi Arabia,Food,2019.0,1000 tonnes,114.0,Im
+Pakistan,Food,2019.0,1000 tonnes,105.0,Im
+El Salvador,Food,2019.0,1000 tonnes,79.0,Im
+Myanmar,Food,2019.0,1000 tonnes,78.0,Im
+Mauritania,Food,2019.0,1000 tonnes,53.0,Im
+Côte d'Ivoire,Food,2019.0,1000 tonnes,48.0,Im
+Malawi,Food,2019.0,1000 tonnes,48.0,Im
+Zimbabwe,Food,2019.0,1000 tonnes,34.0,Im
+Democratic People's Republic of Korea,Food,2019.0,1000 tonnes,30.0,Im
+Sierra Leone,Food,2019.0,1000 tonnes,29.0,Im
+Central African Republic,Food,2019.0,1000 tonnes,27.0,Im
+Haiti,Food,2019.0,1000 tonnes,26.0,Im
+Gambia,Food,2019.0,1000 tonnes,24.0,Im
+Melanesia,Food,2019.0,1000 tonnes,23.0,A
+Papua New Guinea,Food,2019.0,1000 tonnes,23.0,Im
+Guinea-Bissau,Food,2019.0,1000 tonnes,17.0,Im
+Botswana,Food,2019.0,1000 tonnes,15.0,Im
+Uganda,Food,2019.0,1000 tonnes,14.0,Im
+Guatemala,Food,2019.0,1000 tonnes,10.0,Im
+Honduras,Food,2019.0,1000 tonnes,9.0,Im
+Madagascar,Food,2019.0,1000 tonnes,9.0,Im
+Guinea,Food,2019.0,1000 tonnes,7.0,Im
+Tunisia,Food,2019.0,1000 tonnes,7.0,Im
+Nicaragua,Food,2019.0,1000 tonnes,6.0,Im
+Australia,Food,2019.0,1000 tonnes,5.0,Im
+Australia and New Zealand,Food,2019.0,1000 tonnes,5.0,A
+Democratic Republic of the Congo,Food,2019.0,1000 tonnes,4.0,Im
+Zambia,Food,2019.0,1000 tonnes,4.0,Im
+Djibouti,Food,2019.0,1000 tonnes,3.0,Im
+Eswatini,Food,2019.0,1000 tonnes,3.0,Im
+Lesotho,Food,2019.0,1000 tonnes,3.0,Im
+Bangladesh,Food,2019.0,1000 tonnes,2.0,Im
+Namibia,Food,2019.0,1000 tonnes,2.0,Im
+South Africa,Food,2019.0,1000 tonnes,2.0,Im
+Algeria,Food,2019.0,1000 tonnes,1.0,Im
+Belize,Food,2019.0,1000 tonnes,1.0,Im
+Colombia,Food,2019.0,1000 tonnes,1.0,Im
+Afghanistan,Food,2019.0,1000 tonnes,0.0,Im
+Angola,Food,2019.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2019.0,1000 tonnes,0.0,Im
+Burundi,Food,2019.0,1000 tonnes,0.0,Im
+Canada,Food,2019.0,1000 tonnes,0.0,Im
+Iran (Islamic Republic of),Food,2019.0,1000 tonnes,0.0,Im
+Mongolia,Food,2019.0,1000 tonnes,0.0,Im
+Morocco,Food,2019.0,1000 tonnes,0.0,Im
+Nepal,Food,2019.0,1000 tonnes,0.0,Im
+Spain,Food,2019.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2019.0,1000 tonnes,0.0,Im
+Viet Nam,Food,2019.0,1000 tonnes,0.0,Im
+Nigeria,Food,2018.0,1000 tonnes,5742.0,Im
+India,Food,2018.0,1000 tonnes,4169.0,Im
+China,Food,2018.0,1000 tonnes,3432.0,A
+Sudan,Food,2018.0,1000 tonnes,3050.0,Im
+Ethiopia,Food,2018.0,1000 tonnes,2969.0,Im
+Niger,Food,2018.0,1000 tonnes,1521.0,Im
+Burkina Faso,Food,2018.0,1000 tonnes,1002.0,Im
+Chad,Food,2018.0,1000 tonnes,860.0,Im
+Mali,Food,2018.0,1000 tonnes,819.0,Im
+Cameroon,Food,2018.0,1000 tonnes,645.0,Im
+United Republic of Tanzania,Food,2018.0,1000 tonnes,276.0,Im
+Egypt,Food,2018.0,1000 tonnes,253.0,Im
+Mozambique,Food,2018.0,1000 tonnes,245.0,Im
+Ghana,Food,2018.0,1000 tonnes,213.0,Im
+United States of America,Food,2018.0,1000 tonnes,200.0,Im
+Togo,Food,2018.0,1000 tonnes,173.0,Im
+Pakistan,Food,2018.0,1000 tonnes,160.0,Im
+Yemen,Food,2018.0,1000 tonnes,140.0,Im
+Rwanda,Food,2018.0,1000 tonnes,130.0,Im
+Senegal,Food,2018.0,1000 tonnes,130.0,Im
+Saudi Arabia,Food,2018.0,1000 tonnes,116.0,Im
+Benin,Food,2018.0,1000 tonnes,114.0,Im
+Myanmar,Food,2018.0,1000 tonnes,85.0,Im
+El Salvador,Food,2018.0,1000 tonnes,82.0,Im
+Kenya,Food,2018.0,1000 tonnes,80.0,Im
+Mauritania,Food,2018.0,1000 tonnes,63.0,Im
+Zimbabwe,Food,2018.0,1000 tonnes,50.0,Im
+Côte d'Ivoire,Food,2018.0,1000 tonnes,48.0,Im
+Uganda,Food,2018.0,1000 tonnes,33.0,Im
+Democratic People's Republic of Korea,Food,2018.0,1000 tonnes,30.0,Im
+Malawi,Food,2018.0,1000 tonnes,29.0,Im
+Sierra Leone,Food,2018.0,1000 tonnes,28.0,Im
+Central African Republic,Food,2018.0,1000 tonnes,27.0,Im
+Gambia,Food,2018.0,1000 tonnes,24.0,Im
+Melanesia,Food,2018.0,1000 tonnes,23.0,A
+Papua New Guinea,Food,2018.0,1000 tonnes,23.0,Im
+South Africa,Food,2018.0,1000 tonnes,22.0,Im
+Guinea-Bissau,Food,2018.0,1000 tonnes,17.0,Im
+Guatemala,Food,2018.0,1000 tonnes,13.0,Im
+Honduras,Food,2018.0,1000 tonnes,10.0,Im
+Zambia,Food,2018.0,1000 tonnes,8.0,Im
+Botswana,Food,2018.0,1000 tonnes,7.0,Im
+Guinea,Food,2018.0,1000 tonnes,7.0,Im
+Haiti,Food,2018.0,1000 tonnes,7.0,Im
+Lesotho,Food,2018.0,1000 tonnes,6.0,Im
+Nicaragua,Food,2018.0,1000 tonnes,6.0,Im
+Democratic Republic of the Congo,Food,2018.0,1000 tonnes,5.0,Im
+Algeria,Food,2018.0,1000 tonnes,4.0,Im
+Madagascar,Food,2018.0,1000 tonnes,4.0,Im
+Namibia,Food,2018.0,1000 tonnes,4.0,Im
+Australia,Food,2018.0,1000 tonnes,3.0,Im
+Australia and New Zealand,Food,2018.0,1000 tonnes,3.0,A
+Burundi,Food,2018.0,1000 tonnes,3.0,Im
+Djibouti,Food,2018.0,1000 tonnes,3.0,Im
+Eswatini,Food,2018.0,1000 tonnes,3.0,Im
+Lao People's Democratic Republic,Food,2018.0,1000 tonnes,3.0,Im
+Colombia,Food,2018.0,1000 tonnes,2.0,Im
+Belize,Food,2018.0,1000 tonnes,1.0,Im
+Tunisia,Food,2018.0,1000 tonnes,1.0,Im
+Angola,Food,2018.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2018.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2018.0,1000 tonnes,0.0,Im
+Canada,Food,2018.0,1000 tonnes,0.0,Im
+French Polynesia,Food,2018.0,1000 tonnes,0.0,Im
+Morocco,Food,2018.0,1000 tonnes,0.0,Im
+Nepal,Food,2018.0,1000 tonnes,0.0,Im
+Polynesia,Food,2018.0,1000 tonnes,0.0,A
+Spain,Food,2018.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2018.0,1000 tonnes,0.0,Im
+Uzbekistan,Food,2018.0,1000 tonnes,0.0,Im
+Nigeria,Food,2017.0,1000 tonnes,5801.0,Im
+India,Food,2017.0,1000 tonnes,4041.0,Im
+China,Food,2017.0,1000 tonnes,3912.0,A
+Ethiopia,Food,2017.0,1000 tonnes,3086.0,Im
+Sudan,Food,2017.0,1000 tonnes,3000.0,Im
+Niger,Food,2017.0,1000 tonnes,1337.0,Im
+Mali,Food,2017.0,1000 tonnes,873.0,Im
+Chad,Food,2017.0,1000 tonnes,861.0,Im
+Burkina Faso,Food,2017.0,1000 tonnes,781.0,Im
+Cameroon,Food,2017.0,1000 tonnes,620.0,Im
+United Republic of Tanzania,Food,2017.0,1000 tonnes,314.0,Im
+Egypt,Food,2017.0,1000 tonnes,252.0,Im
+Togo,Food,2017.0,1000 tonnes,173.0,Im
+United States of America,Food,2017.0,1000 tonnes,169.0,Im
+Ghana,Food,2017.0,1000 tonnes,155.0,Im
+Yemen,Food,2017.0,1000 tonnes,148.0,Im
+Saudi Arabia,Food,2017.0,1000 tonnes,138.0,Im
+Pakistan,Food,2017.0,1000 tonnes,133.0,Im
+Rwanda,Food,2017.0,1000 tonnes,118.0,Im
+Senegal,Food,2017.0,1000 tonnes,115.0,Im
+Kenya,Food,2017.0,1000 tonnes,104.0,Im
+Benin,Food,2017.0,1000 tonnes,103.0,Im
+Mozambique,Food,2017.0,1000 tonnes,99.0,Im
+Myanmar,Food,2017.0,1000 tonnes,91.0,Im
+El Salvador,Food,2017.0,1000 tonnes,72.0,Im
+Mauritania,Food,2017.0,1000 tonnes,63.0,Im
+Côte d'Ivoire,Food,2017.0,1000 tonnes,43.0,Im
+Zimbabwe,Food,2017.0,1000 tonnes,41.0,Im
+Ukraine,Food,2017.0,1000 tonnes,39.0,Im
+Malawi,Food,2017.0,1000 tonnes,33.0,Im
+Sierra Leone,Food,2017.0,1000 tonnes,33.0,Im
+Haiti,Food,2017.0,1000 tonnes,32.0,Im
+Democratic People's Republic of Korea,Food,2017.0,1000 tonnes,30.0,Im
+Central African Republic,Food,2017.0,1000 tonnes,26.0,Im
+Gambia,Food,2017.0,1000 tonnes,24.0,Im
+Melanesia,Food,2017.0,1000 tonnes,22.0,A
+Papua New Guinea,Food,2017.0,1000 tonnes,22.0,Im
+South Africa,Food,2017.0,1000 tonnes,21.0,Im
+Guinea-Bissau,Food,2017.0,1000 tonnes,15.0,Im
+Guatemala,Food,2017.0,1000 tonnes,13.0,Im
+Zambia,Food,2017.0,1000 tonnes,10.0,Im
+Honduras,Food,2017.0,1000 tonnes,9.0,Im
+Lesotho,Food,2017.0,1000 tonnes,9.0,Im
+Uganda,Food,2017.0,1000 tonnes,9.0,Im
+Nicaragua,Food,2017.0,1000 tonnes,8.0,Im
+Botswana,Food,2017.0,1000 tonnes,7.0,Im
+Algeria,Food,2017.0,1000 tonnes,5.0,Im
+Tunisia,Food,2017.0,1000 tonnes,5.0,Im
+Australia,Food,2017.0,1000 tonnes,4.0,Im
+Australia and New Zealand,Food,2017.0,1000 tonnes,4.0,A
+Democratic Republic of the Congo,Food,2017.0,1000 tonnes,4.0,Im
+Guinea,Food,2017.0,1000 tonnes,4.0,Im
+Djibouti,Food,2017.0,1000 tonnes,3.0,Im
+Namibia,Food,2017.0,1000 tonnes,3.0,Im
+Eswatini,Food,2017.0,1000 tonnes,2.0,Im
+Madagascar,Food,2017.0,1000 tonnes,2.0,Im
+Belize,Food,2017.0,1000 tonnes,1.0,Im
+Burundi,Food,2017.0,1000 tonnes,1.0,Im
+Colombia,Food,2017.0,1000 tonnes,1.0,Im
+Lao People's Democratic Republic,Food,2017.0,1000 tonnes,1.0,Im
+Afghanistan,Food,2017.0,1000 tonnes,0.0,Im
+Angola,Food,2017.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2017.0,1000 tonnes,0.0,Im
+Azerbaijan,Food,2017.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2017.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2017.0,1000 tonnes,0.0,Im
+Canada,Food,2017.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2017.0,1000 tonnes,0.0,Im
+Liberia,Food,2017.0,1000 tonnes,0.0,Im
+Morocco,Food,2017.0,1000 tonnes,0.0,Im
+Nepal,Food,2017.0,1000 tonnes,0.0,Im
+Russian Federation,Food,2017.0,1000 tonnes,0.0,Im
+Saint Kitts and Nevis,Food,2017.0,1000 tonnes,0.0,Im
+Saint Lucia,Food,2017.0,1000 tonnes,0.0,Im
+Spain,Food,2017.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2017.0,1000 tonnes,0.0,Im
+Tajikistan,Food,2017.0,1000 tonnes,0.0,Im
+Turkmenistan,Food,2017.0,1000 tonnes,0.0,Im
+Uzbekistan,Food,2017.0,1000 tonnes,0.0,Im
+Viet Nam,Food,2017.0,1000 tonnes,0.0,Im
+Nigeria,Food,2016.0,1000 tonnes,6057.0,Im
+China,Food,2016.0,1000 tonnes,4450.0,A
+India,Food,2016.0,1000 tonnes,3708.0,Im
+Sudan,Food,2016.0,1000 tonnes,2950.0,Im
+Ethiopia,Food,2016.0,1000 tonnes,2810.0,Im
+Niger,Food,2016.0,1000 tonnes,1439.0,Im
+Burkina Faso,Food,2016.0,1000 tonnes,916.0,Im
+Mali,Food,2016.0,1000 tonnes,838.0,Im
+Chad,Food,2016.0,1000 tonnes,813.0,Im
+Cameroon,Food,2016.0,1000 tonnes,639.0,Im
+United Republic of Tanzania,Food,2016.0,1000 tonnes,310.0,Im
+Pakistan,Food,2016.0,1000 tonnes,249.0,Im
+Egypt,Food,2016.0,1000 tonnes,234.0,Im
+United States of America,Food,2016.0,1000 tonnes,207.0,Im
+Togo,Food,2016.0,1000 tonnes,170.0,Im
+Ghana,Food,2016.0,1000 tonnes,155.0,Im
+Yemen,Food,2016.0,1000 tonnes,147.0,Im
+Saudi Arabia,Food,2016.0,1000 tonnes,143.0,Im
+Ukraine,Food,2016.0,1000 tonnes,136.0,Im
+Rwanda,Food,2016.0,1000 tonnes,119.0,Im
+Senegal,Food,2016.0,1000 tonnes,108.0,Im
+Kenya,Food,2016.0,1000 tonnes,105.0,Im
+Benin,Food,2016.0,1000 tonnes,104.0,Im
+Mozambique,Food,2016.0,1000 tonnes,99.0,Im
+Myanmar,Food,2016.0,1000 tonnes,92.0,Im
+El Salvador,Food,2016.0,1000 tonnes,90.0,Im
+Uganda,Food,2016.0,1000 tonnes,68.0,Im
+Mauritania,Food,2016.0,1000 tonnes,61.0,Im
+Zimbabwe,Food,2016.0,1000 tonnes,48.0,Im
+Côte d'Ivoire,Food,2016.0,1000 tonnes,40.0,Im
+Haiti,Food,2016.0,1000 tonnes,36.0,Im
+South Africa,Food,2016.0,1000 tonnes,34.0,Im
+Democratic People's Republic of Korea,Food,2016.0,1000 tonnes,29.0,Im
+Sierra Leone,Food,2016.0,1000 tonnes,28.0,Im
+Central African Republic,Food,2016.0,1000 tonnes,25.0,Im
+Gambia,Food,2016.0,1000 tonnes,25.0,Im
+Malawi,Food,2016.0,1000 tonnes,23.0,Im
+Melanesia,Food,2016.0,1000 tonnes,21.0,A
+Papua New Guinea,Food,2016.0,1000 tonnes,21.0,Im
+Guinea-Bissau,Food,2016.0,1000 tonnes,13.0,Im
+Botswana,Food,2016.0,1000 tonnes,12.0,Im
+Guatemala,Food,2016.0,1000 tonnes,12.0,Im
+Nicaragua,Food,2016.0,1000 tonnes,11.0,Im
+Algeria,Food,2016.0,1000 tonnes,9.0,Im
+Honduras,Food,2016.0,1000 tonnes,8.0,Im
+Zambia,Food,2016.0,1000 tonnes,8.0,Im
+Madagascar,Food,2016.0,1000 tonnes,7.0,Im
+Australia,Food,2016.0,1000 tonnes,6.0,Im
+Australia and New Zealand,Food,2016.0,1000 tonnes,6.0,A
+Tunisia,Food,2016.0,1000 tonnes,6.0,Im
+Democratic Republic of the Congo,Food,2016.0,1000 tonnes,5.0,Im
+Eswatini,Food,2016.0,1000 tonnes,4.0,Im
+Djibouti,Food,2016.0,1000 tonnes,3.0,Im
+Guinea,Food,2016.0,1000 tonnes,3.0,Im
+Namibia,Food,2016.0,1000 tonnes,3.0,Im
+Burundi,Food,2016.0,1000 tonnes,2.0,Im
+Colombia,Food,2016.0,1000 tonnes,2.0,Im
+Belize,Food,2016.0,1000 tonnes,1.0,Im
+Lao People's Democratic Republic,Food,2016.0,1000 tonnes,1.0,Im
+Lesotho,Food,2016.0,1000 tonnes,1.0,Im
+Russian Federation,Food,2016.0,1000 tonnes,1.0,Im
+Angola,Food,2016.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2016.0,1000 tonnes,0.0,Im
+Azerbaijan,Food,2016.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2016.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2016.0,1000 tonnes,0.0,Im
+Canada,Food,2016.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2016.0,1000 tonnes,0.0,Im
+Mauritius,Food,2016.0,1000 tonnes,0.0,Im
+Morocco,Food,2016.0,1000 tonnes,0.0,Im
+Nepal,Food,2016.0,1000 tonnes,0.0,Im
+Sao Tome and Principe,Food,2016.0,1000 tonnes,0.0,Im
+Spain,Food,2016.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2016.0,1000 tonnes,0.0,Im
+Uzbekistan,Food,2016.0,1000 tonnes,0.0,Im
+Viet Nam,Food,2016.0,1000 tonnes,0.0,Im
+China,Food,2015.0,1000 tonnes,7014.0,A
+Nigeria,Food,2015.0,1000 tonnes,5793.0,Im
+India,Food,2015.0,1000 tonnes,4738.0,Im
+Ethiopia,Food,2015.0,1000 tonnes,2813.0,Im
+Sudan,Food,2015.0,1000 tonnes,2800.0,Im
+Niger,Food,2015.0,1000 tonnes,1440.0,Im
+Mali,Food,2015.0,1000 tonnes,850.0,Im
+Burkina Faso,Food,2015.0,1000 tonnes,820.0,Im
+Chad,Food,2015.0,1000 tonnes,732.0,Im
+Cameroon,Food,2015.0,1000 tonnes,608.0,Im
+United States of America,Food,2015.0,1000 tonnes,301.0,Im
+United Republic of Tanzania,Food,2015.0,1000 tonnes,280.0,Im
+Egypt,Food,2015.0,1000 tonnes,232.0,Im
+Yemen,Food,2015.0,1000 tonnes,201.0,Im
+Ghana,Food,2015.0,1000 tonnes,177.0,Im
+Kenya,Food,2015.0,1000 tonnes,173.0,Im
+Togo,Food,2015.0,1000 tonnes,169.0,Im
+Pakistan,Food,2015.0,1000 tonnes,161.0,Im
+Saudi Arabia,Food,2015.0,1000 tonnes,148.0,Im
+Rwanda,Food,2015.0,1000 tonnes,117.0,Im
+Senegal,Food,2015.0,1000 tonnes,110.0,Im
+Benin,Food,2015.0,1000 tonnes,104.0,Im
+Mozambique,Food,2015.0,1000 tonnes,99.0,Im
+Myanmar,Food,2015.0,1000 tonnes,90.0,Im
+El Salvador,Food,2015.0,1000 tonnes,78.0,Im
+Uganda,Food,2015.0,1000 tonnes,70.0,Im
+Mauritania,Food,2015.0,1000 tonnes,53.0,Im
+South Africa,Food,2015.0,1000 tonnes,41.0,Im
+Haiti,Food,2015.0,1000 tonnes,38.0,Im
+Côte d'Ivoire,Food,2015.0,1000 tonnes,37.0,Im
+Botswana,Food,2015.0,1000 tonnes,34.0,Im
+Zimbabwe,Food,2015.0,1000 tonnes,30.0,Im
+Democratic People's Republic of Korea,Food,2015.0,1000 tonnes,29.0,Im
+Malawi,Food,2015.0,1000 tonnes,29.0,Im
+Central African Republic,Food,2015.0,1000 tonnes,27.0,Im
+Sierra Leone,Food,2015.0,1000 tonnes,22.0,Im
+Gambia,Food,2015.0,1000 tonnes,21.0,Im
+Melanesia,Food,2015.0,1000 tonnes,21.0,A
+Papua New Guinea,Food,2015.0,1000 tonnes,21.0,Im
+Guatemala,Food,2015.0,1000 tonnes,14.0,Im
+Guinea-Bissau,Food,2015.0,1000 tonnes,13.0,Im
+Ukraine,Food,2015.0,1000 tonnes,13.0,Im
+Honduras,Food,2015.0,1000 tonnes,12.0,Im
+Nicaragua,Food,2015.0,1000 tonnes,10.0,Im
+Lesotho,Food,2015.0,1000 tonnes,6.0,Im
+Tunisia,Food,2015.0,1000 tonnes,6.0,Im
+Guinea,Food,2015.0,1000 tonnes,4.0,Im
+Namibia,Food,2015.0,1000 tonnes,4.0,Im
+Algeria,Food,2015.0,1000 tonnes,3.0,Im
+Democratic Republic of the Congo,Food,2015.0,1000 tonnes,3.0,Im
+Djibouti,Food,2015.0,1000 tonnes,3.0,Im
+Australia,Food,2015.0,1000 tonnes,2.0,Im
+Australia and New Zealand,Food,2015.0,1000 tonnes,2.0,A
+Burundi,Food,2015.0,1000 tonnes,2.0,Im
+Colombia,Food,2015.0,1000 tonnes,2.0,Im
+Eswatini,Food,2015.0,1000 tonnes,2.0,Im
+Zambia,Food,2015.0,1000 tonnes,2.0,Im
+Belize,Food,2015.0,1000 tonnes,1.0,Im
+Lao People's Democratic Republic,Food,2015.0,1000 tonnes,1.0,Im
+Madagascar,Food,2015.0,1000 tonnes,1.0,Im
+Russian Federation,Food,2015.0,1000 tonnes,1.0,Im
+Angola,Food,2015.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2015.0,1000 tonnes,0.0,Im
+Azerbaijan,Food,2015.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2015.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2015.0,1000 tonnes,0.0,Im
+Canada,Food,2015.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2015.0,1000 tonnes,0.0,Im
+Kiribati,Food,2015.0,1000 tonnes,0.0,Im
+Micronesia,Food,2015.0,1000 tonnes,0.0,A
+Morocco,Food,2015.0,1000 tonnes,0.0,Im
+Nepal,Food,2015.0,1000 tonnes,0.0,Im
+Seychelles,Food,2015.0,1000 tonnes,0.0,Im
+Spain,Food,2015.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2015.0,1000 tonnes,0.0,Im
+Uzbekistan,Food,2015.0,1000 tonnes,0.0,Im
+Viet Nam,Food,2015.0,1000 tonnes,0.0,Im
+Nigeria,Food,2014.0,1000 tonnes,5710.0,Im
+India,Food,2014.0,1000 tonnes,4856.0,Im
+China,Food,2014.0,1000 tonnes,4525.0,A
+Sudan,Food,2014.0,1000 tonnes,2750.0,Im
+Ethiopia,Food,2014.0,1000 tonnes,2567.0,Im
+Niger,Food,2014.0,1000 tonnes,1064.0,Im
+Burkina Faso,Food,2014.0,1000 tonnes,948.0,Im
+Chad,Food,2014.0,1000 tonnes,800.0,Im
+Mali,Food,2014.0,1000 tonnes,690.0,Im
+Cameroon,Food,2014.0,1000 tonnes,597.0,Im
+United Republic of Tanzania,Food,2014.0,1000 tonnes,365.0,Im
+Yemen,Food,2014.0,1000 tonnes,341.0,Im
+Egypt,Food,2014.0,1000 tonnes,246.0,Im
+Mozambique,Food,2014.0,1000 tonnes,198.0,Im
+Togo,Food,2014.0,1000 tonnes,192.0,Im
+Ghana,Food,2014.0,1000 tonnes,174.0,Im
+United States of America,Food,2014.0,1000 tonnes,159.0,Im
+Saudi Arabia,Food,2014.0,1000 tonnes,156.0,Im
+Kenya,Food,2014.0,1000 tonnes,131.0,Im
+Rwanda,Food,2014.0,1000 tonnes,117.0,Im
+El Salvador,Food,2014.0,1000 tonnes,104.0,Im
+Pakistan,Food,2014.0,1000 tonnes,100.0,Im
+Benin,Food,2014.0,1000 tonnes,91.0,Im
+Senegal,Food,2014.0,1000 tonnes,87.0,Im
+Myanmar,Food,2014.0,1000 tonnes,86.0,Im
+Zimbabwe,Food,2014.0,1000 tonnes,72.0,Im
+South Africa,Food,2014.0,1000 tonnes,55.0,Im
+Haiti,Food,2014.0,1000 tonnes,48.0,Im
+Mauritania,Food,2014.0,1000 tonnes,45.0,Im
+Malawi,Food,2014.0,1000 tonnes,39.0,Im
+Uganda,Food,2014.0,1000 tonnes,36.0,Im
+Côte d'Ivoire,Food,2014.0,1000 tonnes,35.0,Im
+Democratic People's Republic of Korea,Food,2014.0,1000 tonnes,28.0,Im
+Central African Republic,Food,2014.0,1000 tonnes,27.0,Im
+Melanesia,Food,2014.0,1000 tonnes,21.0,A
+Papua New Guinea,Food,2014.0,1000 tonnes,21.0,Im
+Gambia,Food,2014.0,1000 tonnes,18.0,Im
+Sierra Leone,Food,2014.0,1000 tonnes,17.0,Im
+Botswana,Food,2014.0,1000 tonnes,16.0,Im
+Honduras,Food,2014.0,1000 tonnes,15.0,Im
+Guatemala,Food,2014.0,1000 tonnes,14.0,Im
+Guinea-Bissau,Food,2014.0,1000 tonnes,11.0,Im
+Nicaragua,Food,2014.0,1000 tonnes,11.0,Im
+Zambia,Food,2014.0,1000 tonnes,7.0,Im
+Lesotho,Food,2014.0,1000 tonnes,6.0,Im
+Tunisia,Food,2014.0,1000 tonnes,6.0,Im
+Guinea,Food,2014.0,1000 tonnes,5.0,Im
+Morocco,Food,2014.0,1000 tonnes,5.0,Im
+Namibia,Food,2014.0,1000 tonnes,5.0,Im
+Australia,Food,2014.0,1000 tonnes,3.0,Im
+Australia and New Zealand,Food,2014.0,1000 tonnes,3.0,A
+Democratic Republic of the Congo,Food,2014.0,1000 tonnes,3.0,Im
+Djibouti,Food,2014.0,1000 tonnes,3.0,Im
+Colombia,Food,2014.0,1000 tonnes,2.0,Im
+Eswatini,Food,2014.0,1000 tonnes,2.0,Im
+Algeria,Food,2014.0,1000 tonnes,1.0,Im
+Belize,Food,2014.0,1000 tonnes,1.0,Im
+Lao People's Democratic Republic,Food,2014.0,1000 tonnes,1.0,Im
+Madagascar,Food,2014.0,1000 tonnes,1.0,Im
+Russian Federation,Food,2014.0,1000 tonnes,1.0,Im
+Afghanistan,Food,2014.0,1000 tonnes,0.0,Im
+Angola,Food,2014.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2014.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2014.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Food,2014.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2014.0,1000 tonnes,0.0,Im
+Burundi,Food,2014.0,1000 tonnes,0.0,Im
+Canada,Food,2014.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2014.0,1000 tonnes,0.0,Im
+Iran (Islamic Republic of),Food,2014.0,1000 tonnes,0.0,Im
+Kiribati,Food,2014.0,1000 tonnes,0.0,Im
+Micronesia,Food,2014.0,1000 tonnes,0.0,A
+Nepal,Food,2014.0,1000 tonnes,0.0,Im
+Spain,Food,2014.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2014.0,1000 tonnes,0.0,Im
+Ukraine,Food,2014.0,1000 tonnes,0.0,Im
+Uzbekistan,Food,2014.0,1000 tonnes,0.0,Im
+Viet Nam,Food,2014.0,1000 tonnes,0.0,Im
+Nigeria,Food,2013.0,1000 tonnes,5266.0,Im
+India,Food,2013.0,1000 tonnes,4555.0,Im
+Sudan,Food,2013.0,1000 tonnes,2889.0,Im
+China,Food,2013.0,1000 tonnes,2500.0,A
+Ethiopia,Food,2013.0,1000 tonnes,2440.0,Im
+Burkina Faso,Food,2013.0,1000 tonnes,971.0,Im
+Niger,Food,2013.0,1000 tonnes,945.0,Im
+Chad,Food,2013.0,1000 tonnes,784.0,Im
+Mali,Food,2013.0,1000 tonnes,767.0,Im
+Cameroon,Food,2013.0,1000 tonnes,626.0,Im
+Yemen,Food,2013.0,1000 tonnes,411.0,Im
+United Republic of Tanzania,Food,2013.0,1000 tonnes,353.0,Im
+Egypt,Food,2013.0,1000 tonnes,246.0,Im
+United States of America,Food,2013.0,1000 tonnes,236.0,Im
+Mozambique,Food,2013.0,1000 tonnes,200.0,Im
+Togo,Food,2013.0,1000 tonnes,178.0,Im
+Ghana,Food,2013.0,1000 tonnes,173.0,Im
+Kenya,Food,2013.0,1000 tonnes,131.0,Im
+Rwanda,Food,2013.0,1000 tonnes,110.0,Im
+Saudi Arabia,Food,2013.0,1000 tonnes,104.0,Im
+El Salvador,Food,2013.0,1000 tonnes,103.0,Im
+Pakistan,Food,2013.0,1000 tonnes,103.0,Im
+South Africa,Food,2013.0,1000 tonnes,93.0,Im
+Myanmar,Food,2013.0,1000 tonnes,82.0,Im
+Senegal,Food,2013.0,1000 tonnes,82.0,Im
+Uganda,Food,2013.0,1000 tonnes,80.0,Im
+Benin,Food,2013.0,1000 tonnes,78.0,Im
+Mauritania,Food,2013.0,1000 tonnes,71.0,Im
+Zimbabwe,Food,2013.0,1000 tonnes,49.0,Im
+Botswana,Food,2013.0,1000 tonnes,44.0,Im
+Haiti,Food,2013.0,1000 tonnes,42.0,Im
+Malawi,Food,2013.0,1000 tonnes,37.0,Im
+Central African Republic,Food,2013.0,1000 tonnes,35.0,Im
+Côte d'Ivoire,Food,2013.0,1000 tonnes,35.0,Im
+Democratic People's Republic of Korea,Food,2013.0,1000 tonnes,28.0,Im
+Ukraine,Food,2013.0,1000 tonnes,27.0,Im
+Gambia,Food,2013.0,1000 tonnes,24.0,Im
+Melanesia,Food,2013.0,1000 tonnes,20.0,A
+Papua New Guinea,Food,2013.0,1000 tonnes,20.0,Im
+Guinea-Bissau,Food,2013.0,1000 tonnes,18.0,Im
+Australia,Food,2013.0,1000 tonnes,17.0,Im
+Australia and New Zealand,Food,2013.0,1000 tonnes,17.0,A
+Honduras,Food,2013.0,1000 tonnes,17.0,Im
+Sierra Leone,Food,2013.0,1000 tonnes,17.0,Im
+Guatemala,Food,2013.0,1000 tonnes,10.0,Im
+Nicaragua,Food,2013.0,1000 tonnes,10.0,Im
+Tunisia,Food,2013.0,1000 tonnes,7.0,Im
+Zambia,Food,2013.0,1000 tonnes,7.0,Im
+Guinea,Food,2013.0,1000 tonnes,5.0,Im
+Lesotho,Food,2013.0,1000 tonnes,5.0,Im
+Namibia,Food,2013.0,1000 tonnes,5.0,Im
+Democratic Republic of the Congo,Food,2013.0,1000 tonnes,4.0,Im
+Djibouti,Food,2013.0,1000 tonnes,3.0,Im
+Eswatini,Food,2013.0,1000 tonnes,3.0,Im
+Colombia,Food,2013.0,1000 tonnes,2.0,Im
+Madagascar,Food,2013.0,1000 tonnes,2.0,Im
+Russian Federation,Food,2013.0,1000 tonnes,2.0,Im
+Algeria,Food,2013.0,1000 tonnes,1.0,Im
+Belize,Food,2013.0,1000 tonnes,1.0,Im
+Angola,Food,2013.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2013.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2013.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2013.0,1000 tonnes,0.0,Im
+Canada,Food,2013.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2013.0,1000 tonnes,0.0,Im
+Morocco,Food,2013.0,1000 tonnes,0.0,Im
+Nepal,Food,2013.0,1000 tonnes,0.0,Im
+Spain,Food,2013.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2013.0,1000 tonnes,0.0,Im
+India,Food,2012.0,1000 tonnes,5800.0,Im
+Nigeria,Food,2012.0,1000 tonnes,5035.0,Im
+Sudan,Food,2012.0,1000 tonnes,2778.0,Im
+Ethiopia,Food,2012.0,1000 tonnes,2261.0,Im
+China,Food,2012.0,1000 tonnes,1355.0,A
+Burkina Faso,Food,2012.0,1000 tonnes,928.0,Im
+Niger,Food,2012.0,1000 tonnes,889.0,Im
+Chad,Food,2012.0,1000 tonnes,784.0,Im
+Mali,Food,2012.0,1000 tonnes,754.0,Im
+Cameroon,Food,2012.0,1000 tonnes,606.0,Im
+Yemen,Food,2012.0,1000 tonnes,408.0,Im
+United Republic of Tanzania,Food,2012.0,1000 tonnes,348.0,Im
+Egypt,Food,2012.0,1000 tonnes,245.0,Im
+Mozambique,Food,2012.0,1000 tonnes,210.0,Im
+United States of America,Food,2012.0,1000 tonnes,210.0,Im
+Ghana,Food,2012.0,1000 tonnes,189.0,Im
+Togo,Food,2012.0,1000 tonnes,157.0,Im
+Senegal,Food,2012.0,1000 tonnes,126.0,Im
+Uganda,Food,2012.0,1000 tonnes,113.0,Im
+Rwanda,Food,2012.0,1000 tonnes,112.0,Im
+Saudi Arabia,Food,2012.0,1000 tonnes,111.0,Im
+Pakistan,Food,2012.0,1000 tonnes,107.0,Im
+Benin,Food,2012.0,1000 tonnes,105.0,Im
+El Salvador,Food,2012.0,1000 tonnes,102.0,Im
+Mauritania,Food,2012.0,1000 tonnes,99.0,Im
+Kenya,Food,2012.0,1000 tonnes,85.0,Im
+Myanmar,Food,2012.0,1000 tonnes,79.0,Im
+Botswana,Food,2012.0,1000 tonnes,40.0,Im
+Central African Republic,Food,2012.0,1000 tonnes,40.0,Im
+South Africa,Food,2012.0,1000 tonnes,38.0,Im
+Haiti,Food,2012.0,1000 tonnes,36.0,Im
+Côte d'Ivoire,Food,2012.0,1000 tonnes,33.0,Im
+Zimbabwe,Food,2012.0,1000 tonnes,31.0,Im
+Democratic People's Republic of Korea,Food,2012.0,1000 tonnes,29.0,Im
+Malawi,Food,2012.0,1000 tonnes,28.0,Im
+Gambia,Food,2012.0,1000 tonnes,22.0,Im
+Melanesia,Food,2012.0,1000 tonnes,20.0,A
+Papua New Guinea,Food,2012.0,1000 tonnes,20.0,Im
+Guinea-Bissau,Food,2012.0,1000 tonnes,17.0,Im
+Sierra Leone,Food,2012.0,1000 tonnes,17.0,Im
+Ukraine,Food,2012.0,1000 tonnes,17.0,Im
+Honduras,Food,2012.0,1000 tonnes,15.0,Im
+Nicaragua,Food,2012.0,1000 tonnes,10.0,Im
+Australia,Food,2012.0,1000 tonnes,9.0,Im
+Australia and New Zealand,Food,2012.0,1000 tonnes,9.0,A
+Guatemala,Food,2012.0,1000 tonnes,9.0,Im
+Zambia,Food,2012.0,1000 tonnes,7.0,Im
+Namibia,Food,2012.0,1000 tonnes,6.0,Im
+Guinea,Food,2012.0,1000 tonnes,5.0,Im
+Tunisia,Food,2012.0,1000 tonnes,5.0,Im
+Democratic Republic of the Congo,Food,2012.0,1000 tonnes,4.0,Im
+Lesotho,Food,2012.0,1000 tonnes,4.0,Im
+Eswatini,Food,2012.0,1000 tonnes,3.0,Im
+Algeria,Food,2012.0,1000 tonnes,2.0,Im
+Colombia,Food,2012.0,1000 tonnes,2.0,Im
+Madagascar,Food,2012.0,1000 tonnes,2.0,Im
+Belize,Food,2012.0,1000 tonnes,1.0,Im
+Djibouti,Food,2012.0,1000 tonnes,1.0,Im
+Russian Federation,Food,2012.0,1000 tonnes,1.0,Im
+Angola,Food,2012.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2012.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2012.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2012.0,1000 tonnes,0.0,Im
+Canada,Food,2012.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2012.0,1000 tonnes,0.0,Im
+Morocco,Food,2012.0,1000 tonnes,0.0,Im
+Nepal,Food,2012.0,1000 tonnes,0.0,Im
+Spain,Food,2012.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2012.0,1000 tonnes,0.0,Im
+India,Food,2011.0,1000 tonnes,6282.0,Im
+Nigeria,Food,2011.0,1000 tonnes,5039.0,Im
+Ethiopia,Food,2011.0,1000 tonnes,2299.0,Im
+China,Food,2011.0,1000 tonnes,1031.0,A
+Burkina Faso,Food,2011.0,1000 tonnes,865.0,Im
+Chad,Food,2011.0,1000 tonnes,735.0,Im
+Mali,Food,2011.0,1000 tonnes,711.0,Im
+Niger,Food,2011.0,1000 tonnes,700.0,Im
+Cameroon,Food,2011.0,1000 tonnes,591.0,Im
+Yemen,Food,2011.0,1000 tonnes,363.0,Im
+United Republic of Tanzania,Food,2011.0,1000 tonnes,341.0,Im
+Egypt,Food,2011.0,1000 tonnes,263.0,Im
+Mozambique,Food,2011.0,1000 tonnes,221.0,Im
+United States of America,Food,2011.0,1000 tonnes,208.0,Im
+Ghana,Food,2011.0,1000 tonnes,193.0,Im
+Togo,Food,2011.0,1000 tonnes,152.0,Im
+Uganda,Food,2011.0,1000 tonnes,149.0,Im
+Pakistan,Food,2011.0,1000 tonnes,119.0,Im
+Rwanda,Food,2011.0,1000 tonnes,117.0,Im
+El Salvador,Food,2011.0,1000 tonnes,114.0,Im
+Saudi Arabia,Food,2011.0,1000 tonnes,110.0,Im
+Benin,Food,2011.0,1000 tonnes,95.0,Im
+Senegal,Food,2011.0,1000 tonnes,89.0,Im
+Kenya,Food,2011.0,1000 tonnes,87.0,Im
+Myanmar,Food,2011.0,1000 tonnes,76.0,Im
+South Africa,Food,2011.0,1000 tonnes,52.0,Im
+Zimbabwe,Food,2011.0,1000 tonnes,48.0,Im
+Malawi,Food,2011.0,1000 tonnes,47.0,Im
+Haiti,Food,2011.0,1000 tonnes,44.0,Im
+Central African Republic,Food,2011.0,1000 tonnes,42.0,Im
+Botswana,Food,2011.0,1000 tonnes,36.0,Im
+Côte d'Ivoire,Food,2011.0,1000 tonnes,32.0,Im
+Democratic People's Republic of Korea,Food,2011.0,1000 tonnes,25.0,Im
+Australia,Food,2011.0,1000 tonnes,24.0,Im
+Australia and New Zealand,Food,2011.0,1000 tonnes,24.0,A
+Gambia,Food,2011.0,1000 tonnes,23.0,Im
+Melanesia,Food,2011.0,1000 tonnes,23.0,A
+Papua New Guinea,Food,2011.0,1000 tonnes,23.0,Im
+Ukraine,Food,2011.0,1000 tonnes,21.0,Im
+Mauritania,Food,2011.0,1000 tonnes,19.0,Im
+Honduras,Food,2011.0,1000 tonnes,18.0,Im
+Sierra Leone,Food,2011.0,1000 tonnes,16.0,Im
+Guinea-Bissau,Food,2011.0,1000 tonnes,15.0,Im
+Guatemala,Food,2011.0,1000 tonnes,11.0,Im
+Zambia,Food,2011.0,1000 tonnes,10.0,Im
+Nicaragua,Food,2011.0,1000 tonnes,9.0,Im
+Lesotho,Food,2011.0,1000 tonnes,7.0,Im
+Morocco,Food,2011.0,1000 tonnes,7.0,Im
+Tunisia,Food,2011.0,1000 tonnes,6.0,Im
+Democratic Republic of the Congo,Food,2011.0,1000 tonnes,5.0,Im
+Madagascar,Food,2011.0,1000 tonnes,5.0,Im
+Namibia,Food,2011.0,1000 tonnes,5.0,Im
+Guinea,Food,2011.0,1000 tonnes,4.0,Im
+Eswatini,Food,2011.0,1000 tonnes,3.0,Im
+Algeria,Food,2011.0,1000 tonnes,1.0,Im
+Belize,Food,2011.0,1000 tonnes,1.0,Im
+Colombia,Food,2011.0,1000 tonnes,1.0,Im
+Russian Federation,Food,2011.0,1000 tonnes,1.0,Im
+Angola,Food,2011.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Food,2011.0,1000 tonnes,0.0,Im
+Bangladesh,Food,2011.0,1000 tonnes,0.0,Im
+Bosnia and Herzegovina,Food,2011.0,1000 tonnes,0.0,Im
+Canada,Food,2011.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Food,2011.0,1000 tonnes,0.0,Im
+Djibouti,Food,2011.0,1000 tonnes,0.0,Im
+Nepal,Food,2011.0,1000 tonnes,0.0,Im
+Spain,Food,2011.0,1000 tonnes,0.0,Im
+Sri Lanka,Food,2011.0,1000 tonnes,0.0,Im
+India,Food,2010.0,1000 tonnes,5920.0,ImBr
+Nigeria,Food,2010.0,1000 tonnes,5353.0,ImBr
+Ethiopia,Food,2010.0,1000 tonnes,2304.0,ImBr
+China,Food,2010.0,1000 tonnes,1298.0,ABr
+Burkina Faso,Food,2010.0,1000 tonnes,978.0,ImBr
+Niger,Food,2010.0,1000 tonnes,820.0,ImBr
+Chad,Food,2010.0,1000 tonnes,746.0,ImBr
+Mali,Food,2010.0,1000 tonnes,716.0,ImBr
+Cameroon,Food,2010.0,1000 tonnes,571.0,ImBr
+Yemen,Food,2010.0,1000 tonnes,459.0,ImBr
+United Republic of Tanzania,Food,2010.0,1000 tonnes,338.0,ImBr
+Mozambique,Food,2010.0,1000 tonnes,220.0,ImBr
+Ghana,Food,2010.0,1000 tonnes,218.0,ImBr
+Egypt,Food,2010.0,1000 tonnes,217.0,ImBr
+United States of America,Food,2010.0,1000 tonnes,212.0,ImBr
+Togo,Food,2010.0,1000 tonnes,153.0,ImBr
+Senegal,Food,2010.0,1000 tonnes,151.0,ImBr
+Pakistan,Food,2010.0,1000 tonnes,144.0,ImBr
+Uganda,Food,2010.0,1000 tonnes,133.0,ImBr
+Rwanda,Food,2010.0,1000 tonnes,123.0,ImBr
+El Salvador,Food,2010.0,1000 tonnes,122.0,ImBr
+Benin,Food,2010.0,1000 tonnes,109.0,ImBr
+Saudi Arabia,Food,2010.0,1000 tonnes,107.0,ImBr
+Mauritania,Food,2010.0,1000 tonnes,92.0,ImBr
+Myanmar,Food,2010.0,1000 tonnes,82.0,ImBr
+Zimbabwe,Food,2010.0,1000 tonnes,67.0,ImBr
+Haiti,Food,2010.0,1000 tonnes,57.0,ImBr
+Kenya,Food,2010.0,1000 tonnes,56.0,ImBr
+Central African Republic,Food,2010.0,1000 tonnes,44.0,ImBr
+Botswana,Food,2010.0,1000 tonnes,36.0,ImBr
+Côte d'Ivoire,Food,2010.0,1000 tonnes,32.0,ImBr
+Democratic People's Republic of Korea,Food,2010.0,1000 tonnes,23.0,ImBr
+Malawi,Food,2010.0,1000 tonnes,23.0,ImBr
+Gambia,Food,2010.0,1000 tonnes,22.0,ImBr
+Melanesia,Food,2010.0,1000 tonnes,19.0,ABr
+Papua New Guinea,Food,2010.0,1000 tonnes,19.0,ImBr
+Honduras,Food,2010.0,1000 tonnes,17.0,ImBr
+Lesotho,Food,2010.0,1000 tonnes,15.0,ImBr
+Guinea-Bissau,Food,2010.0,1000 tonnes,14.0,ImBr
+Sierra Leone,Food,2010.0,1000 tonnes,14.0,ImBr
+Australia,Food,2010.0,1000 tonnes,13.0,ImBr
+Australia and New Zealand,Food,2010.0,1000 tonnes,13.0,ABr
+Guatemala,Food,2010.0,1000 tonnes,13.0,ImBr
+Zambia,Food,2010.0,1000 tonnes,13.0,ImBr
+Morocco,Food,2010.0,1000 tonnes,11.0,ImBr
+Ukraine,Food,2010.0,1000 tonnes,8.0,ImBr
+South Africa,Food,2010.0,1000 tonnes,7.0,ImBr
+Nicaragua,Food,2010.0,1000 tonnes,6.0,ImBr
+Tunisia,Food,2010.0,1000 tonnes,6.0,ImBr
+Democratic Republic of the Congo,Food,2010.0,1000 tonnes,5.0,ImBr
+Guinea,Food,2010.0,1000 tonnes,5.0,ImBr
+Namibia,Food,2010.0,1000 tonnes,5.0,ImBr
+Madagascar,Food,2010.0,1000 tonnes,3.0,ImBr
+Eswatini,Food,2010.0,1000 tonnes,2.0,ImBr
+Sri Lanka,Food,2010.0,1000 tonnes,2.0,ImBr
+Belize,Food,2010.0,1000 tonnes,1.0,ImBr
+Colombia,Food,2010.0,1000 tonnes,1.0,ImBr
+Russian Federation,Food,2010.0,1000 tonnes,1.0,ImBr
+Algeria,Food,2010.0,1000 tonnes,0.0,ImBr
+Angola,Food,2010.0,1000 tonnes,0.0,ImBr
+Antigua and Barbuda,Food,2010.0,1000 tonnes,0.0,ImBr
+Bangladesh,Food,2010.0,1000 tonnes,0.0,ImBr
+Bosnia and Herzegovina,Food,2010.0,1000 tonnes,0.0,ImBr
+Canada,Food,2010.0,1000 tonnes,0.0,ImBr
+"China, Macao SAR",Food,2010.0,1000 tonnes,0.0,ImBr
+Djibouti,Food,2010.0,1000 tonnes,0.0,ImBr
+Nepal,Food,2010.0,1000 tonnes,0.0,ImBr
+Spain,Food,2010.0,1000 tonnes,0.0,ImBr
+India,Food,2009.0,1000 tonnes,6345.0,S
+Nigeria,Food,2009.0,1000 tonnes,5831.0,S
+Sudan (former),Food,2009.0,1000 tonnes,3090.0,S
+Ethiopia,Food,2009.0,1000 tonnes,2190.0,S
+Burkina Faso,Food,2009.0,1000 tonnes,918.0,S
+China,Food,2009.0,1000 tonnes,859.0,A
+Niger,Food,2009.0,1000 tonnes,701.0,S
+Mali,Food,2009.0,1000 tonnes,666.0,S
+Cameroon,Food,2009.0,1000 tonnes,555.0,S
+Chad,Food,2009.0,1000 tonnes,532.0,S
+Yemen,Food,2009.0,1000 tonnes,377.0,S
+United Republic of Tanzania,Food,2009.0,1000 tonnes,322.0,S
+Mozambique,Food,2009.0,1000 tonnes,251.0,S
+Egypt,Food,2009.0,1000 tonnes,233.0,S
+Ghana,Food,2009.0,1000 tonnes,232.0,S
+Saudi Arabia,Food,2009.0,1000 tonnes,231.0,S
+United States of America,Food,2009.0,1000 tonnes,227.0,S
+Togo,Food,2009.0,1000 tonnes,142.0,S
+Pakistan,Food,2009.0,1000 tonnes,137.0,S
+Uganda,Food,2009.0,1000 tonnes,129.0,S
+Rwanda,Food,2009.0,1000 tonnes,124.0,S
+Senegal,Food,2009.0,1000 tonnes,118.0,S
+Benin,Food,2009.0,1000 tonnes,113.0,S
+El Salvador,Food,2009.0,1000 tonnes,103.0,S
+Zimbabwe,Food,2009.0,1000 tonnes,90.0,S
+Kenya,Food,2009.0,1000 tonnes,84.0,S
+Myanmar,Food,2009.0,1000 tonnes,80.0,S
+South Africa,Food,2009.0,1000 tonnes,75.0,S
+Mauritania,Food,2009.0,1000 tonnes,59.0,S
+Central African Republic,Food,2009.0,1000 tonnes,44.0,S
+Botswana,Food,2009.0,1000 tonnes,42.0,S
+Haiti,Food,2009.0,1000 tonnes,40.0,S
+Morocco,Food,2009.0,1000 tonnes,31.0,S
+Lesotho,Food,2009.0,1000 tonnes,30.0,S
+Côte d'Ivoire,Food,2009.0,1000 tonnes,26.0,S
+Honduras,Food,2009.0,1000 tonnes,26.0,S
+Malawi,Food,2009.0,1000 tonnes,25.0,S
+Democratic People's Republic of Korea,Food,2009.0,1000 tonnes,23.0,S
+Gambia,Food,2009.0,1000 tonnes,22.0,S
+Sri Lanka,Food,2009.0,1000 tonnes,22.0,S
+Zambia,Food,2009.0,1000 tonnes,22.0,S
+Sierra Leone,Food,2009.0,1000 tonnes,18.0,S
+Guatemala,Food,2009.0,1000 tonnes,11.0,S
+Guinea-Bissau,Food,2009.0,1000 tonnes,11.0,S
+Nicaragua,Food,2009.0,1000 tonnes,6.0,S
+Guinea,Food,2009.0,1000 tonnes,5.0,S
+Madagascar,Food,2009.0,1000 tonnes,4.0,S
+Tunisia,Food,2009.0,1000 tonnes,4.0,S
+Namibia,Food,2009.0,1000 tonnes,3.0,S
+Djibouti,Food,2009.0,1000 tonnes,2.0,S
+Algeria,Food,2009.0,1000 tonnes,1.0,S
+Belize,Food,2009.0,1000 tonnes,1.0,S
+Russian Federation,Food,2009.0,1000 tonnes,1.0,S
+Angola,Food,2009.0,1000 tonnes,0.0,S
+Bangladesh,Food,2009.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2009.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2009.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2009.0,1000 tonnes,0.0,S
+Eswatini,Food,2009.0,1000 tonnes,0.0,S
+Japan,Food,2009.0,1000 tonnes,0.0,S
+Nepal,Food,2009.0,1000 tonnes,0.0,S
+Spain,Food,2009.0,1000 tonnes,0.0,S
+India,Food,2008.0,1000 tonnes,6969.0,S
+Nigeria,Food,2008.0,1000 tonnes,5707.0,S
+Sudan (former),Food,2008.0,1000 tonnes,2986.0,S
+Ethiopia,Food,2008.0,1000 tonnes,1932.0,S
+China,Food,2008.0,1000 tonnes,925.0,A
+Burkina Faso,Food,2008.0,1000 tonnes,878.0,S
+Niger,Food,2008.0,1000 tonnes,657.0,S
+Mali,Food,2008.0,1000 tonnes,650.0,S
+Cameroon,Food,2008.0,1000 tonnes,535.0,S
+Chad,Food,2008.0,1000 tonnes,528.0,S
+Yemen,Food,2008.0,1000 tonnes,375.0,S
+United States of America,Food,2008.0,1000 tonnes,254.0,S
+United Republic of Tanzania,Food,2008.0,1000 tonnes,252.0,S
+Egypt,Food,2008.0,1000 tonnes,241.0,S
+Saudi Arabia,Food,2008.0,1000 tonnes,237.0,S
+Mozambique,Food,2008.0,1000 tonnes,236.0,S
+Ghana,Food,2008.0,1000 tonnes,219.0,S
+Pakistan,Food,2008.0,1000 tonnes,143.0,S
+Uganda,Food,2008.0,1000 tonnes,143.0,S
+Togo,Food,2008.0,1000 tonnes,139.0,S
+Rwanda,Food,2008.0,1000 tonnes,127.0,S
+Benin,Food,2008.0,1000 tonnes,114.0,S
+El Salvador,Food,2008.0,1000 tonnes,102.0,S
+Senegal,Food,2008.0,1000 tonnes,102.0,S
+Zimbabwe,Food,2008.0,1000 tonnes,91.0,S
+Myanmar,Food,2008.0,1000 tonnes,69.0,S
+South Africa,Food,2008.0,1000 tonnes,67.0,S
+Mauritania,Food,2008.0,1000 tonnes,58.0,S
+Botswana,Food,2008.0,1000 tonnes,41.0,S
+Haiti,Food,2008.0,1000 tonnes,40.0,S
+Central African Republic,Food,2008.0,1000 tonnes,35.0,S
+Honduras,Food,2008.0,1000 tonnes,33.0,S
+Kenya,Food,2008.0,1000 tonnes,28.0,S
+Lesotho,Food,2008.0,1000 tonnes,28.0,S
+Malawi,Food,2008.0,1000 tonnes,26.0,S
+Côte d'Ivoire,Food,2008.0,1000 tonnes,25.0,S
+Democratic People's Republic of Korea,Food,2008.0,1000 tonnes,25.0,S
+Gambia,Food,2008.0,1000 tonnes,22.0,S
+Zambia,Food,2008.0,1000 tonnes,20.0,S
+Morocco,Food,2008.0,1000 tonnes,17.0,S
+Sri Lanka,Food,2008.0,1000 tonnes,15.0,S
+Guinea-Bissau,Food,2008.0,1000 tonnes,14.0,S
+Sierra Leone,Food,2008.0,1000 tonnes,14.0,S
+Guatemala,Food,2008.0,1000 tonnes,10.0,S
+Nicaragua,Food,2008.0,1000 tonnes,8.0,S
+Guinea,Food,2008.0,1000 tonnes,5.0,S
+Tunisia,Food,2008.0,1000 tonnes,5.0,S
+Namibia,Food,2008.0,1000 tonnes,3.0,S
+Algeria,Food,2008.0,1000 tonnes,2.0,S
+Djibouti,Food,2008.0,1000 tonnes,2.0,S
+Belize,Food,2008.0,1000 tonnes,1.0,S
+Madagascar,Food,2008.0,1000 tonnes,1.0,S
+Russian Federation,Food,2008.0,1000 tonnes,1.0,S
+Angola,Food,2008.0,1000 tonnes,0.0,S
+Bangladesh,Food,2008.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2008.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2008.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2008.0,1000 tonnes,0.0,S
+Eswatini,Food,2008.0,1000 tonnes,0.0,S
+Japan,Food,2008.0,1000 tonnes,0.0,S
+Nepal,Food,2008.0,1000 tonnes,0.0,S
+Spain,Food,2008.0,1000 tonnes,0.0,S
+India,Food,2007.0,1000 tonnes,6297.0,S
+Nigeria,Food,2007.0,1000 tonnes,5647.0,S
+Sudan (former),Food,2007.0,1000 tonnes,2925.0,S
+Ethiopia,Food,2007.0,1000 tonnes,1833.0,S
+Burkina Faso,Food,2007.0,1000 tonnes,865.0,S
+China,Food,2007.0,1000 tonnes,738.0,A
+Mali,Food,2007.0,1000 tonnes,622.0,S
+Niger,Food,2007.0,1000 tonnes,616.0,S
+Cameroon,Food,2007.0,1000 tonnes,518.0,S
+Chad,Food,2007.0,1000 tonnes,517.0,S
+United Republic of Tanzania,Food,2007.0,1000 tonnes,388.0,S
+Yemen,Food,2007.0,1000 tonnes,372.0,S
+United States of America,Food,2007.0,1000 tonnes,247.0,S
+Saudi Arabia,Food,2007.0,1000 tonnes,221.0,S
+Mozambique,Food,2007.0,1000 tonnes,220.0,S
+Egypt,Food,2007.0,1000 tonnes,204.0,S
+Uganda,Food,2007.0,1000 tonnes,167.0,S
+Pakistan,Food,2007.0,1000 tonnes,148.0,S
+Togo,Food,2007.0,1000 tonnes,139.0,S
+Rwanda,Food,2007.0,1000 tonnes,129.0,S
+Benin,Food,2007.0,1000 tonnes,123.0,S
+Ghana,Food,2007.0,1000 tonnes,103.0,S
+El Salvador,Food,2007.0,1000 tonnes,101.0,S
+Senegal,Food,2007.0,1000 tonnes,100.0,S
+Zimbabwe,Food,2007.0,1000 tonnes,89.0,S
+Kenya,Food,2007.0,1000 tonnes,78.0,S
+South Africa,Food,2007.0,1000 tonnes,75.0,S
+Myanmar,Food,2007.0,1000 tonnes,69.0,S
+Mauritania,Food,2007.0,1000 tonnes,58.0,S
+Botswana,Food,2007.0,1000 tonnes,46.0,S
+Central African Republic,Food,2007.0,1000 tonnes,43.0,S
+Haiti,Food,2007.0,1000 tonnes,40.0,S
+Malawi,Food,2007.0,1000 tonnes,31.0,S
+Lesotho,Food,2007.0,1000 tonnes,28.0,S
+Democratic People's Republic of Korea,Food,2007.0,1000 tonnes,25.0,S
+Gambia,Food,2007.0,1000 tonnes,22.0,S
+Zambia,Food,2007.0,1000 tonnes,21.0,S
+Côte d'Ivoire,Food,2007.0,1000 tonnes,19.0,S
+Sierra Leone,Food,2007.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,2007.0,1000 tonnes,11.0,S
+Honduras,Food,2007.0,1000 tonnes,11.0,S
+Nicaragua,Food,2007.0,1000 tonnes,11.0,S
+Guatemala,Food,2007.0,1000 tonnes,9.0,S
+Morocco,Food,2007.0,1000 tonnes,9.0,S
+Madagascar,Food,2007.0,1000 tonnes,6.0,S
+Guinea,Food,2007.0,1000 tonnes,5.0,S
+Tunisia,Food,2007.0,1000 tonnes,4.0,S
+Algeria,Food,2007.0,1000 tonnes,3.0,S
+Namibia,Food,2007.0,1000 tonnes,3.0,S
+Djibouti,Food,2007.0,1000 tonnes,2.0,S
+Eswatini,Food,2007.0,1000 tonnes,2.0,S
+Belize,Food,2007.0,1000 tonnes,1.0,S
+Russian Federation,Food,2007.0,1000 tonnes,1.0,S
+Angola,Food,2007.0,1000 tonnes,0.0,S
+Bangladesh,Food,2007.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2007.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2007.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2007.0,1000 tonnes,0.0,S
+Japan,Food,2007.0,1000 tonnes,0.0,S
+Nepal,Food,2007.0,1000 tonnes,0.0,S
+Spain,Food,2007.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2007.0,1000 tonnes,0.0,S
+India,Food,2006.0,1000 tonnes,6750.0,S
+Nigeria,Food,2006.0,1000 tonnes,5551.0,S
+Sudan (former),Food,2006.0,1000 tonnes,2763.0,S
+Ethiopia,Food,2006.0,1000 tonnes,1875.0,S
+China,Food,2006.0,1000 tonnes,1130.0,A
+Burkina Faso,Food,2006.0,1000 tonnes,806.0,S
+Niger,Food,2006.0,1000 tonnes,571.0,S
+Mali,Food,2006.0,1000 tonnes,566.0,S
+Cameroon,Food,2006.0,1000 tonnes,503.0,S
+Chad,Food,2006.0,1000 tonnes,463.0,S
+Yemen,Food,2006.0,1000 tonnes,343.0,S
+United Republic of Tanzania,Food,2006.0,1000 tonnes,279.0,S
+Egypt,Food,2006.0,1000 tonnes,243.0,S
+United States of America,Food,2006.0,1000 tonnes,235.0,S
+Saudi Arabia,Food,2006.0,1000 tonnes,234.0,S
+Ghana,Food,2006.0,1000 tonnes,211.0,S
+Mozambique,Food,2006.0,1000 tonnes,193.0,S
+Uganda,Food,2006.0,1000 tonnes,169.0,S
+Pakistan,Food,2006.0,1000 tonnes,157.0,S
+Togo,Food,2006.0,1000 tonnes,148.0,S
+Rwanda,Food,2006.0,1000 tonnes,143.0,S
+Benin,Food,2006.0,1000 tonnes,123.0,S
+El Salvador,Food,2006.0,1000 tonnes,101.0,S
+Senegal,Food,2006.0,1000 tonnes,100.0,S
+Zimbabwe,Food,2006.0,1000 tonnes,91.0,S
+Kenya,Food,2006.0,1000 tonnes,90.0,S
+Myanmar,Food,2006.0,1000 tonnes,75.0,S
+South Africa,Food,2006.0,1000 tonnes,72.0,S
+Mauritania,Food,2006.0,1000 tonnes,57.0,S
+Botswana,Food,2006.0,1000 tonnes,48.0,S
+Haiti,Food,2006.0,1000 tonnes,40.0,S
+Central African Republic,Food,2006.0,1000 tonnes,39.0,S
+Malawi,Food,2006.0,1000 tonnes,30.0,S
+Honduras,Food,2006.0,1000 tonnes,29.0,S
+Lesotho,Food,2006.0,1000 tonnes,27.0,S
+Democratic People's Republic of Korea,Food,2006.0,1000 tonnes,26.0,S
+Gambia,Food,2006.0,1000 tonnes,23.0,S
+Zambia,Food,2006.0,1000 tonnes,23.0,S
+Côte d'Ivoire,Food,2006.0,1000 tonnes,21.0,S
+Guinea-Bissau,Food,2006.0,1000 tonnes,19.0,S
+Guatemala,Food,2006.0,1000 tonnes,12.0,S
+Sierra Leone,Food,2006.0,1000 tonnes,11.0,S
+Morocco,Food,2006.0,1000 tonnes,7.0,S
+Nicaragua,Food,2006.0,1000 tonnes,7.0,S
+Guinea,Food,2006.0,1000 tonnes,5.0,S
+Namibia,Food,2006.0,1000 tonnes,4.0,S
+Algeria,Food,2006.0,1000 tonnes,3.0,S
+Tunisia,Food,2006.0,1000 tonnes,2.0,S
+Belize,Food,2006.0,1000 tonnes,1.0,S
+Djibouti,Food,2006.0,1000 tonnes,1.0,S
+Eswatini,Food,2006.0,1000 tonnes,1.0,S
+Madagascar,Food,2006.0,1000 tonnes,1.0,S
+Angola,Food,2006.0,1000 tonnes,0.0,S
+Bangladesh,Food,2006.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2006.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2006.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2006.0,1000 tonnes,0.0,S
+Japan,Food,2006.0,1000 tonnes,0.0,S
+Nepal,Food,2006.0,1000 tonnes,0.0,S
+Russian Federation,Food,2006.0,1000 tonnes,0.0,S
+Spain,Food,2006.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2006.0,1000 tonnes,0.0,S
+India,Food,2005.0,1000 tonnes,6372.0,S
+Nigeria,Food,2005.0,1000 tonnes,5510.0,S
+Sudan (former),Food,2005.0,1000 tonnes,2641.0,S
+Ethiopia,Food,2005.0,1000 tonnes,1590.0,S
+China,Food,2005.0,1000 tonnes,1099.0,A
+Burkina Faso,Food,2005.0,1000 tonnes,832.0,S
+Mali,Food,2005.0,1000 tonnes,538.0,S
+Niger,Food,2005.0,1000 tonnes,529.0,S
+Cameroon,Food,2005.0,1000 tonnes,476.0,S
+Chad,Food,2005.0,1000 tonnes,412.0,S
+Yemen,Food,2005.0,1000 tonnes,316.0,S
+United Republic of Tanzania,Food,2005.0,1000 tonnes,284.0,S
+United States of America,Food,2005.0,1000 tonnes,230.0,S
+Egypt,Food,2005.0,1000 tonnes,212.0,S
+Ghana,Food,2005.0,1000 tonnes,201.0,S
+Saudi Arabia,Food,2005.0,1000 tonnes,200.0,S
+Uganda,Food,2005.0,1000 tonnes,163.0,S
+Mozambique,Food,2005.0,1000 tonnes,153.0,S
+Rwanda,Food,2005.0,1000 tonnes,149.0,S
+Togo,Food,2005.0,1000 tonnes,135.0,S
+Pakistan,Food,2005.0,1000 tonnes,132.0,S
+Benin,Food,2005.0,1000 tonnes,127.0,S
+Senegal,Food,2005.0,1000 tonnes,120.0,S
+El Salvador,Food,2005.0,1000 tonnes,94.0,S
+Kenya,Food,2005.0,1000 tonnes,90.0,S
+South Africa,Food,2005.0,1000 tonnes,81.0,S
+Zimbabwe,Food,2005.0,1000 tonnes,81.0,S
+Myanmar,Food,2005.0,1000 tonnes,76.0,S
+Mauritania,Food,2005.0,1000 tonnes,65.0,S
+Botswana,Food,2005.0,1000 tonnes,43.0,S
+Central African Republic,Food,2005.0,1000 tonnes,41.0,S
+Haiti,Food,2005.0,1000 tonnes,40.0,S
+Lesotho,Food,2005.0,1000 tonnes,29.0,S
+Côte d'Ivoire,Food,2005.0,1000 tonnes,27.0,S
+Democratic People's Republic of Korea,Food,2005.0,1000 tonnes,25.0,S
+Honduras,Food,2005.0,1000 tonnes,23.0,S
+Gambia,Food,2005.0,1000 tonnes,21.0,S
+Zambia,Food,2005.0,1000 tonnes,21.0,S
+Guinea-Bissau,Food,2005.0,1000 tonnes,18.0,S
+Malawi,Food,2005.0,1000 tonnes,18.0,S
+Sierra Leone,Food,2005.0,1000 tonnes,14.0,S
+Nicaragua,Food,2005.0,1000 tonnes,9.0,S
+Morocco,Food,2005.0,1000 tonnes,8.0,S
+Guatemala,Food,2005.0,1000 tonnes,7.0,S
+Guinea,Food,2005.0,1000 tonnes,5.0,S
+Namibia,Food,2005.0,1000 tonnes,5.0,S
+Tunisia,Food,2005.0,1000 tonnes,3.0,S
+Algeria,Food,2005.0,1000 tonnes,1.0,S
+Belize,Food,2005.0,1000 tonnes,1.0,S
+Djibouti,Food,2005.0,1000 tonnes,1.0,S
+Eswatini,Food,2005.0,1000 tonnes,1.0,S
+Madagascar,Food,2005.0,1000 tonnes,1.0,S
+Angola,Food,2005.0,1000 tonnes,0.0,S
+Bangladesh,Food,2005.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2005.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2005.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2005.0,1000 tonnes,0.0,S
+Japan,Food,2005.0,1000 tonnes,0.0,S
+Nepal,Food,2005.0,1000 tonnes,0.0,S
+Russian Federation,Food,2005.0,1000 tonnes,0.0,S
+Spain,Food,2005.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2005.0,1000 tonnes,0.0,S
+India,Food,2004.0,1000 tonnes,5833.0,S
+Nigeria,Food,2004.0,1000 tonnes,5538.0,S
+Sudan (former),Food,2004.0,1000 tonnes,2625.0,S
+Ethiopia,Food,2004.0,1000 tonnes,1671.0,S
+China,Food,2004.0,1000 tonnes,1060.0,A
+Burkina Faso,Food,2004.0,1000 tonnes,791.0,S
+Mali,Food,2004.0,1000 tonnes,522.0,S
+Niger,Food,2004.0,1000 tonnes,495.0,S
+Cameroon,Food,2004.0,1000 tonnes,461.0,S
+Chad,Food,2004.0,1000 tonnes,456.0,S
+Yemen,Food,2004.0,1000 tonnes,282.0,S
+Saudi Arabia,Food,2004.0,1000 tonnes,267.0,S
+United Republic of Tanzania,Food,2004.0,1000 tonnes,254.0,S
+United States of America,Food,2004.0,1000 tonnes,250.0,S
+Egypt,Food,2004.0,1000 tonnes,222.0,S
+Ghana,Food,2004.0,1000 tonnes,190.0,S
+Pakistan,Food,2004.0,1000 tonnes,163.0,S
+Mozambique,Food,2004.0,1000 tonnes,160.0,S
+Uganda,Food,2004.0,1000 tonnes,136.0,S
+Benin,Food,2004.0,1000 tonnes,127.0,S
+Rwanda,Food,2004.0,1000 tonnes,122.0,S
+Togo,Food,2004.0,1000 tonnes,105.0,S
+Senegal,Food,2004.0,1000 tonnes,101.0,S
+El Salvador,Food,2004.0,1000 tonnes,100.0,S
+Zimbabwe,Food,2004.0,1000 tonnes,85.0,S
+South Africa,Food,2004.0,1000 tonnes,69.0,S
+Myanmar,Food,2004.0,1000 tonnes,64.0,S
+Botswana,Food,2004.0,1000 tonnes,38.0,S
+Central African Republic,Food,2004.0,1000 tonnes,37.0,S
+Kenya,Food,2004.0,1000 tonnes,36.0,S
+Haiti,Food,2004.0,1000 tonnes,30.0,S
+Lesotho,Food,2004.0,1000 tonnes,27.0,S
+Democratic People's Republic of Korea,Food,2004.0,1000 tonnes,26.0,S
+Côte d'Ivoire,Food,2004.0,1000 tonnes,24.0,S
+Honduras,Food,2004.0,1000 tonnes,23.0,S
+Gambia,Food,2004.0,1000 tonnes,19.0,S
+Zambia,Food,2004.0,1000 tonnes,18.0,S
+Malawi,Food,2004.0,1000 tonnes,17.0,S
+Sierra Leone,Food,2004.0,1000 tonnes,16.0,S
+Mauritania,Food,2004.0,1000 tonnes,15.0,S
+Guinea-Bissau,Food,2004.0,1000 tonnes,12.0,S
+Morocco,Food,2004.0,1000 tonnes,11.0,S
+Nicaragua,Food,2004.0,1000 tonnes,10.0,S
+Guatemala,Food,2004.0,1000 tonnes,7.0,S
+Namibia,Food,2004.0,1000 tonnes,6.0,S
+Guinea,Food,2004.0,1000 tonnes,5.0,S
+Tunisia,Food,2004.0,1000 tonnes,3.0,S
+Algeria,Food,2004.0,1000 tonnes,1.0,S
+Bangladesh,Food,2004.0,1000 tonnes,1.0,S
+Belize,Food,2004.0,1000 tonnes,1.0,S
+Djibouti,Food,2004.0,1000 tonnes,1.0,S
+Eswatini,Food,2004.0,1000 tonnes,1.0,S
+Madagascar,Food,2004.0,1000 tonnes,1.0,S
+Angola,Food,2004.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2004.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2004.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2004.0,1000 tonnes,0.0,S
+Japan,Food,2004.0,1000 tonnes,0.0,S
+Nepal,Food,2004.0,1000 tonnes,0.0,S
+Russian Federation,Food,2004.0,1000 tonnes,0.0,S
+Spain,Food,2004.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2004.0,1000 tonnes,0.0,S
+India,Food,2003.0,1000 tonnes,6157.0,S
+Nigeria,Food,2003.0,1000 tonnes,5581.0,S
+Sudan (former),Food,2003.0,1000 tonnes,2793.0,S
+Ethiopia,Food,2003.0,1000 tonnes,1691.0,S
+China,Food,2003.0,1000 tonnes,1307.0,A
+Burkina Faso,Food,2003.0,1000 tonnes,768.0,S
+Mali,Food,2003.0,1000 tonnes,507.0,S
+Cameroon,Food,2003.0,1000 tonnes,452.0,S
+Niger,Food,2003.0,1000 tonnes,451.0,S
+Chad,Food,2003.0,1000 tonnes,419.0,S
+Egypt,Food,2003.0,1000 tonnes,313.0,S
+United States of America,Food,2003.0,1000 tonnes,280.0,S
+Yemen,Food,2003.0,1000 tonnes,254.0,S
+Saudi Arabia,Food,2003.0,1000 tonnes,227.0,S
+Pakistan,Food,2003.0,1000 tonnes,208.0,S
+Ghana,Food,2003.0,1000 tonnes,202.0,S
+Mozambique,Food,2003.0,1000 tonnes,160.0,S
+Senegal,Food,2003.0,1000 tonnes,153.0,S
+United Republic of Tanzania,Food,2003.0,1000 tonnes,143.0,S
+Rwanda,Food,2003.0,1000 tonnes,133.0,S
+Uganda,Food,2003.0,1000 tonnes,132.0,S
+Benin,Food,2003.0,1000 tonnes,127.0,S
+El Salvador,Food,2003.0,1000 tonnes,104.0,S
+Togo,Food,2003.0,1000 tonnes,94.0,S
+Mauritania,Food,2003.0,1000 tonnes,72.0,S
+Kenya,Food,2003.0,1000 tonnes,68.0,S
+Myanmar,Food,2003.0,1000 tonnes,63.0,S
+South Africa,Food,2003.0,1000 tonnes,60.0,S
+Zimbabwe,Food,2003.0,1000 tonnes,49.0,S
+Botswana,Food,2003.0,1000 tonnes,46.0,S
+Central African Republic,Food,2003.0,1000 tonnes,36.0,S
+Lesotho,Food,2003.0,1000 tonnes,26.0,S
+Côte d'Ivoire,Food,2003.0,1000 tonnes,25.0,S
+Gambia,Food,2003.0,1000 tonnes,25.0,S
+Haiti,Food,2003.0,1000 tonnes,25.0,S
+Democratic People's Republic of Korea,Food,2003.0,1000 tonnes,24.0,S
+Honduras,Food,2003.0,1000 tonnes,21.0,S
+Zambia,Food,2003.0,1000 tonnes,21.0,S
+Malawi,Food,2003.0,1000 tonnes,17.0,S
+Sierra Leone,Food,2003.0,1000 tonnes,13.0,S
+Nicaragua,Food,2003.0,1000 tonnes,12.0,S
+Morocco,Food,2003.0,1000 tonnes,10.0,S
+Guinea-Bissau,Food,2003.0,1000 tonnes,8.0,S
+Namibia,Food,2003.0,1000 tonnes,6.0,S
+Guatemala,Food,2003.0,1000 tonnes,5.0,S
+Guinea,Food,2003.0,1000 tonnes,5.0,S
+Tunisia,Food,2003.0,1000 tonnes,2.0,S
+Algeria,Food,2003.0,1000 tonnes,1.0,S
+Bangladesh,Food,2003.0,1000 tonnes,1.0,S
+Belize,Food,2003.0,1000 tonnes,1.0,S
+Djibouti,Food,2003.0,1000 tonnes,1.0,S
+Madagascar,Food,2003.0,1000 tonnes,1.0,S
+Angola,Food,2003.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2003.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2003.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2003.0,1000 tonnes,0.0,S
+Eswatini,Food,2003.0,1000 tonnes,0.0,S
+Japan,Food,2003.0,1000 tonnes,0.0,S
+Nepal,Food,2003.0,1000 tonnes,0.0,S
+Russian Federation,Food,2003.0,1000 tonnes,0.0,S
+Spain,Food,2003.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2003.0,1000 tonnes,0.0,S
+India,Food,2002.0,1000 tonnes,6213.0,S
+Nigeria,Food,2002.0,1000 tonnes,5375.0,S
+Sudan (former),Food,2002.0,1000 tonnes,2613.0,S
+China,Food,2002.0,1000 tonnes,1732.0,A
+Ethiopia,Food,2002.0,1000 tonnes,1584.0,S
+Burkina Faso,Food,2002.0,1000 tonnes,724.0,S
+Mali,Food,2002.0,1000 tonnes,497.0,S
+Cameroon,Food,2002.0,1000 tonnes,428.0,S
+Chad,Food,2002.0,1000 tonnes,403.0,S
+Niger,Food,2002.0,1000 tonnes,354.0,S
+Egypt,Food,2002.0,1000 tonnes,315.0,S
+United States of America,Food,2002.0,1000 tonnes,308.0,S
+Yemen,Food,2002.0,1000 tonnes,265.0,S
+Saudi Arabia,Food,2002.0,1000 tonnes,225.0,S
+United Republic of Tanzania,Food,2002.0,1000 tonnes,201.0,S
+Ghana,Food,2002.0,1000 tonnes,184.0,S
+Pakistan,Food,2002.0,1000 tonnes,174.0,S
+Mozambique,Food,2002.0,1000 tonnes,138.0,S
+Rwanda,Food,2002.0,1000 tonnes,135.0,S
+Uganda,Food,2002.0,1000 tonnes,134.0,S
+Benin,Food,2002.0,1000 tonnes,129.0,S
+Togo,Food,2002.0,1000 tonnes,105.0,S
+El Salvador,Food,2002.0,1000 tonnes,103.0,S
+Senegal,Food,2002.0,1000 tonnes,91.0,S
+South Africa,Food,2002.0,1000 tonnes,65.0,S
+Kenya,Food,2002.0,1000 tonnes,61.0,S
+Myanmar,Food,2002.0,1000 tonnes,59.0,S
+Zimbabwe,Food,2002.0,1000 tonnes,57.0,S
+Botswana,Food,2002.0,1000 tonnes,47.0,S
+Central African Republic,Food,2002.0,1000 tonnes,42.0,S
+Haiti,Food,2002.0,1000 tonnes,25.0,S
+Lesotho,Food,2002.0,1000 tonnes,25.0,S
+Mauritania,Food,2002.0,1000 tonnes,25.0,S
+Côte d'Ivoire,Food,2002.0,1000 tonnes,24.0,S
+Honduras,Food,2002.0,1000 tonnes,22.0,S
+Gambia,Food,2002.0,1000 tonnes,21.0,S
+Malawi,Food,2002.0,1000 tonnes,17.0,S
+Democratic People's Republic of Korea,Food,2002.0,1000 tonnes,16.0,S
+Zambia,Food,2002.0,1000 tonnes,13.0,S
+Nicaragua,Food,2002.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,2002.0,1000 tonnes,11.0,S
+Sierra Leone,Food,2002.0,1000 tonnes,11.0,S
+Morocco,Food,2002.0,1000 tonnes,6.0,S
+Guatemala,Food,2002.0,1000 tonnes,5.0,S
+Namibia,Food,2002.0,1000 tonnes,5.0,S
+Algeria,Food,2002.0,1000 tonnes,4.0,S
+Guinea,Food,2002.0,1000 tonnes,4.0,S
+Tunisia,Food,2002.0,1000 tonnes,3.0,S
+Bangladesh,Food,2002.0,1000 tonnes,1.0,S
+Belize,Food,2002.0,1000 tonnes,1.0,S
+Djibouti,Food,2002.0,1000 tonnes,1.0,S
+Madagascar,Food,2002.0,1000 tonnes,1.0,S
+Angola,Food,2002.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2002.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2002.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2002.0,1000 tonnes,0.0,S
+Eswatini,Food,2002.0,1000 tonnes,0.0,S
+Japan,Food,2002.0,1000 tonnes,0.0,S
+Nepal,Food,2002.0,1000 tonnes,0.0,S
+Russian Federation,Food,2002.0,1000 tonnes,0.0,S
+Spain,Food,2002.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2002.0,1000 tonnes,0.0,S
+India,Food,2001.0,1000 tonnes,6666.0,S
+Nigeria,Food,2001.0,1000 tonnes,4917.0,S
+Sudan (former),Food,2001.0,1000 tonnes,2839.0,S
+Ethiopia,Food,2001.0,1000 tonnes,1552.0,S
+China,Food,2001.0,1000 tonnes,1020.0,A
+Burkina Faso,Food,2001.0,1000 tonnes,721.0,S
+Mali,Food,2001.0,1000 tonnes,471.0,S
+Niger,Food,2001.0,1000 tonnes,455.0,S
+Chad,Food,2001.0,1000 tonnes,407.0,S
+Cameroon,Food,2001.0,1000 tonnes,399.0,S
+Yemen,Food,2001.0,1000 tonnes,336.0,S
+United States of America,Food,2001.0,1000 tonnes,308.0,S
+United Republic of Tanzania,Food,2001.0,1000 tonnes,299.0,S
+Egypt,Food,2001.0,1000 tonnes,289.0,S
+Saudi Arabia,Food,2001.0,1000 tonnes,232.0,S
+Pakistan,Food,2001.0,1000 tonnes,193.0,S
+Ghana,Food,2001.0,1000 tonnes,186.0,S
+Mozambique,Food,2001.0,1000 tonnes,156.0,S
+Rwanda,Food,2001.0,1000 tonnes,133.0,S
+Uganda,Food,2001.0,1000 tonnes,132.0,S
+Benin,Food,2001.0,1000 tonnes,128.0,S
+Senegal,Food,2001.0,1000 tonnes,119.0,S
+Togo,Food,2001.0,1000 tonnes,105.0,S
+El Salvador,Food,2001.0,1000 tonnes,103.0,S
+South Africa,Food,2001.0,1000 tonnes,80.0,S
+Kenya,Food,2001.0,1000 tonnes,62.0,S
+Myanmar,Food,2001.0,1000 tonnes,56.0,S
+Zimbabwe,Food,2001.0,1000 tonnes,53.0,S
+Botswana,Food,2001.0,1000 tonnes,46.0,S
+Central African Republic,Food,2001.0,1000 tonnes,35.0,S
+Mauritania,Food,2001.0,1000 tonnes,29.0,S
+Lesotho,Food,2001.0,1000 tonnes,26.0,S
+Haiti,Food,2001.0,1000 tonnes,25.0,S
+Côte d'Ivoire,Food,2001.0,1000 tonnes,24.0,S
+Gambia,Food,2001.0,1000 tonnes,23.0,S
+Honduras,Food,2001.0,1000 tonnes,20.0,S
+Malawi,Food,2001.0,1000 tonnes,18.0,S
+Zambia,Food,2001.0,1000 tonnes,18.0,S
+Guinea-Bissau,Food,2001.0,1000 tonnes,12.0,S
+Democratic People's Republic of Korea,Food,2001.0,1000 tonnes,11.0,S
+Nicaragua,Food,2001.0,1000 tonnes,9.0,S
+Sierra Leone,Food,2001.0,1000 tonnes,8.0,S
+Morocco,Food,2001.0,1000 tonnes,7.0,S
+Guatemala,Food,2001.0,1000 tonnes,5.0,S
+Namibia,Food,2001.0,1000 tonnes,5.0,S
+Guinea,Food,2001.0,1000 tonnes,4.0,S
+Eswatini,Food,2001.0,1000 tonnes,3.0,S
+Algeria,Food,2001.0,1000 tonnes,1.0,S
+Bangladesh,Food,2001.0,1000 tonnes,1.0,S
+Belize,Food,2001.0,1000 tonnes,1.0,S
+Djibouti,Food,2001.0,1000 tonnes,1.0,S
+Madagascar,Food,2001.0,1000 tonnes,1.0,S
+Tunisia,Food,2001.0,1000 tonnes,1.0,S
+Angola,Food,2001.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2001.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2001.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2001.0,1000 tonnes,0.0,S
+Japan,Food,2001.0,1000 tonnes,0.0,S
+Nepal,Food,2001.0,1000 tonnes,0.0,S
+Russian Federation,Food,2001.0,1000 tonnes,0.0,S
+Spain,Food,2001.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2001.0,1000 tonnes,0.0,S
+India,Food,2000.0,1000 tonnes,6626.0,S
+Nigeria,Food,2000.0,1000 tonnes,5451.0,S
+Sudan (former),Food,2000.0,1000 tonnes,2718.0,S
+Ethiopia,Food,2000.0,1000 tonnes,1459.0,S
+China,Food,2000.0,1000 tonnes,1165.0,A
+Burkina Faso,Food,2000.0,1000 tonnes,539.0,S
+Mali,Food,2000.0,1000 tonnes,460.0,S
+Chad,Food,2000.0,1000 tonnes,408.0,S
+Niger,Food,2000.0,1000 tonnes,390.0,S
+Egypt,Food,2000.0,1000 tonnes,379.0,S
+Cameroon,Food,2000.0,1000 tonnes,328.0,S
+United States of America,Food,2000.0,1000 tonnes,308.0,S
+Yemen,Food,2000.0,1000 tonnes,305.0,S
+United Republic of Tanzania,Food,2000.0,1000 tonnes,258.0,S
+Saudi Arabia,Food,2000.0,1000 tonnes,197.0,S
+Pakistan,Food,2000.0,1000 tonnes,189.0,S
+Ghana,Food,2000.0,1000 tonnes,184.0,S
+Mozambique,Food,2000.0,1000 tonnes,171.0,S
+Benin,Food,2000.0,1000 tonnes,122.0,S
+Rwanda,Food,2000.0,1000 tonnes,118.0,S
+Senegal,Food,2000.0,1000 tonnes,115.0,S
+Uganda,Food,2000.0,1000 tonnes,115.0,S
+Togo,Food,2000.0,1000 tonnes,112.0,S
+El Salvador,Food,2000.0,1000 tonnes,101.0,S
+South Africa,Food,2000.0,1000 tonnes,78.0,S
+Myanmar,Food,2000.0,1000 tonnes,60.0,S
+Mauritania,Food,2000.0,1000 tonnes,55.0,S
+Zimbabwe,Food,2000.0,1000 tonnes,54.0,S
+Kenya,Food,2000.0,1000 tonnes,43.0,S
+Botswana,Food,2000.0,1000 tonnes,42.0,S
+Haiti,Food,2000.0,1000 tonnes,40.0,S
+Central African Republic,Food,2000.0,1000 tonnes,33.0,S
+Lesotho,Food,2000.0,1000 tonnes,26.0,S
+Côte d'Ivoire,Food,2000.0,1000 tonnes,24.0,S
+Gambia,Food,2000.0,1000 tonnes,20.0,S
+Honduras,Food,2000.0,1000 tonnes,20.0,S
+Zambia,Food,2000.0,1000 tonnes,20.0,S
+Malawi,Food,2000.0,1000 tonnes,17.0,S
+Guinea-Bissau,Food,2000.0,1000 tonnes,16.0,S
+Democratic People's Republic of Korea,Food,2000.0,1000 tonnes,8.0,S
+Morocco,Food,2000.0,1000 tonnes,8.0,S
+Nicaragua,Food,2000.0,1000 tonnes,8.0,S
+Eswatini,Food,2000.0,1000 tonnes,6.0,S
+Guatemala,Food,2000.0,1000 tonnes,5.0,S
+Namibia,Food,2000.0,1000 tonnes,5.0,S
+Sierra Leone,Food,2000.0,1000 tonnes,5.0,S
+Guinea,Food,2000.0,1000 tonnes,4.0,S
+Algeria,Food,2000.0,1000 tonnes,1.0,S
+Bangladesh,Food,2000.0,1000 tonnes,1.0,S
+Belize,Food,2000.0,1000 tonnes,1.0,S
+Djibouti,Food,2000.0,1000 tonnes,1.0,S
+Madagascar,Food,2000.0,1000 tonnes,1.0,S
+Tunisia,Food,2000.0,1000 tonnes,1.0,S
+Angola,Food,2000.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,2000.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,2000.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,2000.0,1000 tonnes,0.0,S
+Japan,Food,2000.0,1000 tonnes,0.0,S
+Nepal,Food,2000.0,1000 tonnes,0.0,S
+Russian Federation,Food,2000.0,1000 tonnes,0.0,S
+Spain,Food,2000.0,1000 tonnes,0.0,S
+Sri Lanka,Food,2000.0,1000 tonnes,0.0,S
+India,Food,1999.0,1000 tonnes,7686.0,S
+Nigeria,Food,1999.0,1000 tonnes,4958.0,S
+Sudan (former),Food,1999.0,1000 tonnes,2883.0,S
+Ethiopia,Food,1999.0,1000 tonnes,1436.0,S
+China,Food,1999.0,1000 tonnes,1252.0,A
+Burkina Faso,Food,1999.0,1000 tonnes,677.0,S
+Mali,Food,1999.0,1000 tonnes,461.0,S
+Egypt,Food,1999.0,1000 tonnes,420.0,S
+Chad,Food,1999.0,1000 tonnes,370.0,S
+Niger,Food,1999.0,1000 tonnes,338.0,S
+Yemen,Food,1999.0,1000 tonnes,328.0,S
+United States of America,Food,1999.0,1000 tonnes,305.0,S
+United Republic of Tanzania,Food,1999.0,1000 tonnes,258.0,S
+Mozambique,Food,1999.0,1000 tonnes,223.0,S
+Ghana,Food,1999.0,1000 tonnes,222.0,S
+Cameroon,Food,1999.0,1000 tonnes,210.0,S
+Pakistan,Food,1999.0,1000 tonnes,191.0,S
+Saudi Arabia,Food,1999.0,1000 tonnes,191.0,S
+Uganda,Food,1999.0,1000 tonnes,132.0,S
+Senegal,Food,1999.0,1000 tonnes,118.0,S
+El Salvador,Food,1999.0,1000 tonnes,102.0,S
+Benin,Food,1999.0,1000 tonnes,98.0,S
+Togo,Food,1999.0,1000 tonnes,96.0,S
+Rwanda,Food,1999.0,1000 tonnes,87.0,S
+Morocco,Food,1999.0,1000 tonnes,71.0,S
+Mauritania,Food,1999.0,1000 tonnes,65.0,S
+South Africa,Food,1999.0,1000 tonnes,64.0,S
+Myanmar,Food,1999.0,1000 tonnes,59.0,S
+Kenya,Food,1999.0,1000 tonnes,58.0,S
+Zimbabwe,Food,1999.0,1000 tonnes,52.0,S
+Haiti,Food,1999.0,1000 tonnes,45.0,S
+Botswana,Food,1999.0,1000 tonnes,41.0,S
+Central African Republic,Food,1999.0,1000 tonnes,36.0,S
+Côte d'Ivoire,Food,1999.0,1000 tonnes,26.0,S
+Lesotho,Food,1999.0,1000 tonnes,25.0,S
+Honduras,Food,1999.0,1000 tonnes,22.0,S
+Zambia,Food,1999.0,1000 tonnes,18.0,S
+Malawi,Food,1999.0,1000 tonnes,17.0,S
+Gambia,Food,1999.0,1000 tonnes,15.0,S
+Guinea-Bissau,Food,1999.0,1000 tonnes,11.0,S
+Sierra Leone,Food,1999.0,1000 tonnes,11.0,S
+Democratic People's Republic of Korea,Food,1999.0,1000 tonnes,8.0,S
+Nicaragua,Food,1999.0,1000 tonnes,8.0,S
+Guatemala,Food,1999.0,1000 tonnes,6.0,S
+Guinea,Food,1999.0,1000 tonnes,4.0,S
+Namibia,Food,1999.0,1000 tonnes,3.0,S
+Eswatini,Food,1999.0,1000 tonnes,2.0,S
+Bangladesh,Food,1999.0,1000 tonnes,1.0,S
+Belize,Food,1999.0,1000 tonnes,1.0,S
+Djibouti,Food,1999.0,1000 tonnes,1.0,S
+Madagascar,Food,1999.0,1000 tonnes,1.0,S
+Tunisia,Food,1999.0,1000 tonnes,1.0,S
+Algeria,Food,1999.0,1000 tonnes,0.0,S
+Angola,Food,1999.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1999.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1999.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1999.0,1000 tonnes,0.0,S
+Japan,Food,1999.0,1000 tonnes,0.0,S
+Nepal,Food,1999.0,1000 tonnes,0.0,S
+Russian Federation,Food,1999.0,1000 tonnes,0.0,S
+Spain,Food,1999.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1999.0,1000 tonnes,0.0,S
+India,Food,1998.0,1000 tonnes,7431.0,S
+Nigeria,Food,1998.0,1000 tonnes,5232.0,S
+Sudan (former),Food,1998.0,1000 tonnes,2835.0,S
+China,Food,1998.0,1000 tonnes,1456.0,A
+Ethiopia,Food,1998.0,1000 tonnes,1387.0,S
+Burkina Faso,Food,1998.0,1000 tonnes,635.0,S
+Mali,Food,1998.0,1000 tonnes,477.0,S
+Cameroon,Food,1998.0,1000 tonnes,400.0,S
+Yemen,Food,1998.0,1000 tonnes,390.0,S
+Chad,Food,1998.0,1000 tonnes,355.0,S
+Niger,Food,1998.0,1000 tonnes,312.0,S
+Egypt,Food,1998.0,1000 tonnes,310.0,S
+United States of America,Food,1998.0,1000 tonnes,299.0,S
+United Republic of Tanzania,Food,1998.0,1000 tonnes,283.0,S
+Ghana,Food,1998.0,1000 tonnes,228.0,S
+Mozambique,Food,1998.0,1000 tonnes,224.0,S
+Pakistan,Food,1998.0,1000 tonnes,198.0,S
+Saudi Arabia,Food,1998.0,1000 tonnes,185.0,S
+El Salvador,Food,1998.0,1000 tonnes,129.0,S
+Uganda,Food,1998.0,1000 tonnes,123.0,S
+Benin,Food,1998.0,1000 tonnes,108.0,S
+Togo,Food,1998.0,1000 tonnes,105.0,S
+Senegal,Food,1998.0,1000 tonnes,93.0,S
+Rwanda,Food,1998.0,1000 tonnes,86.0,S
+Zimbabwe,Food,1998.0,1000 tonnes,76.0,S
+South Africa,Food,1998.0,1000 tonnes,66.0,S
+Myanmar,Food,1998.0,1000 tonnes,53.0,S
+Botswana,Food,1998.0,1000 tonnes,50.0,S
+Haiti,Food,1998.0,1000 tonnes,45.0,S
+Mauritania,Food,1998.0,1000 tonnes,43.0,S
+Kenya,Food,1998.0,1000 tonnes,39.0,S
+Morocco,Food,1998.0,1000 tonnes,32.0,S
+Central African Republic,Food,1998.0,1000 tonnes,29.0,S
+Honduras,Food,1998.0,1000 tonnes,29.0,S
+Lesotho,Food,1998.0,1000 tonnes,23.0,S
+Côte d'Ivoire,Food,1998.0,1000 tonnes,22.0,S
+Zambia,Food,1998.0,1000 tonnes,20.0,S
+Malawi,Food,1998.0,1000 tonnes,17.0,S
+Gambia,Food,1998.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1998.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1998.0,1000 tonnes,9.0,S
+Guatemala,Food,1998.0,1000 tonnes,8.0,S
+Nicaragua,Food,1998.0,1000 tonnes,8.0,S
+Democratic People's Republic of Korea,Food,1998.0,1000 tonnes,7.0,S
+Guinea,Food,1998.0,1000 tonnes,4.0,S
+Namibia,Food,1998.0,1000 tonnes,2.0,S
+Bangladesh,Food,1998.0,1000 tonnes,1.0,S
+Belize,Food,1998.0,1000 tonnes,1.0,S
+Djibouti,Food,1998.0,1000 tonnes,1.0,S
+Eswatini,Food,1998.0,1000 tonnes,1.0,S
+Madagascar,Food,1998.0,1000 tonnes,1.0,S
+Tunisia,Food,1998.0,1000 tonnes,1.0,S
+Algeria,Food,1998.0,1000 tonnes,0.0,S
+Angola,Food,1998.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1998.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1998.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1998.0,1000 tonnes,0.0,S
+Japan,Food,1998.0,1000 tonnes,0.0,S
+Nepal,Food,1998.0,1000 tonnes,0.0,S
+Russian Federation,Food,1998.0,1000 tonnes,0.0,S
+Spain,Food,1998.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1998.0,1000 tonnes,0.0,S
+India,Food,1997.0,1000 tonnes,6642.0,S
+Nigeria,Food,1997.0,1000 tonnes,5148.0,S
+Sudan (former),Food,1997.0,1000 tonnes,2937.0,S
+China,Food,1997.0,1000 tonnes,1333.0,A
+Ethiopia,Food,1997.0,1000 tonnes,1278.0,S
+Burkina Faso,Food,1997.0,1000 tonnes,678.0,S
+Mali,Food,1997.0,1000 tonnes,482.0,S
+Chad,Food,1997.0,1000 tonnes,357.0,S
+Yemen,Food,1997.0,1000 tonnes,335.0,S
+United Republic of Tanzania,Food,1997.0,1000 tonnes,314.0,S
+Cameroon,Food,1997.0,1000 tonnes,309.0,S
+United States of America,Food,1997.0,1000 tonnes,301.0,S
+Niger,Food,1997.0,1000 tonnes,279.0,S
+Egypt,Food,1997.0,1000 tonnes,277.0,S
+Mozambique,Food,1997.0,1000 tonnes,223.0,S
+Ghana,Food,1997.0,1000 tonnes,219.0,S
+Pakistan,Food,1997.0,1000 tonnes,201.0,S
+Saudi Arabia,Food,1997.0,1000 tonnes,194.0,S
+El Salvador,Food,1997.0,1000 tonnes,134.0,S
+Togo,Food,1997.0,1000 tonnes,105.0,S
+Benin,Food,1997.0,1000 tonnes,94.0,S
+Senegal,Food,1997.0,1000 tonnes,93.0,S
+Uganda,Food,1997.0,1000 tonnes,92.0,S
+Rwanda,Food,1997.0,1000 tonnes,90.0,S
+South Africa,Food,1997.0,1000 tonnes,70.0,S
+Myanmar,Food,1997.0,1000 tonnes,59.0,S
+Zimbabwe,Food,1997.0,1000 tonnes,54.0,S
+Kenya,Food,1997.0,1000 tonnes,53.0,S
+Botswana,Food,1997.0,1000 tonnes,50.0,S
+Haiti,Food,1997.0,1000 tonnes,45.0,S
+Democratic People's Republic of Korea,Food,1997.0,1000 tonnes,43.0,S
+Mauritania,Food,1997.0,1000 tonnes,42.0,S
+Central African Republic,Food,1997.0,1000 tonnes,29.0,S
+Honduras,Food,1997.0,1000 tonnes,27.0,S
+Côte d'Ivoire,Food,1997.0,1000 tonnes,23.0,S
+Lesotho,Food,1997.0,1000 tonnes,23.0,S
+Zambia,Food,1997.0,1000 tonnes,20.0,S
+Malawi,Food,1997.0,1000 tonnes,17.0,S
+Sierra Leone,Food,1997.0,1000 tonnes,12.0,S
+Gambia,Food,1997.0,1000 tonnes,11.0,S
+Guatemala,Food,1997.0,1000 tonnes,11.0,S
+Guinea-Bissau,Food,1997.0,1000 tonnes,10.0,S
+Nicaragua,Food,1997.0,1000 tonnes,10.0,S
+Algeria,Food,1997.0,1000 tonnes,9.0,S
+Morocco,Food,1997.0,1000 tonnes,8.0,S
+Namibia,Food,1997.0,1000 tonnes,7.0,S
+Guinea,Food,1997.0,1000 tonnes,4.0,S
+Djibouti,Food,1997.0,1000 tonnes,2.0,S
+Belize,Food,1997.0,1000 tonnes,1.0,S
+Eswatini,Food,1997.0,1000 tonnes,1.0,S
+Madagascar,Food,1997.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1997.0,1000 tonnes,1.0,S
+Tunisia,Food,1997.0,1000 tonnes,1.0,S
+Angola,Food,1997.0,1000 tonnes,0.0,S
+Bangladesh,Food,1997.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1997.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1997.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1997.0,1000 tonnes,0.0,S
+Japan,Food,1997.0,1000 tonnes,0.0,S
+Nepal,Food,1997.0,1000 tonnes,0.0,S
+Russian Federation,Food,1997.0,1000 tonnes,0.0,S
+Spain,Food,1997.0,1000 tonnes,0.0,S
+India,Food,1996.0,1000 tonnes,9745.0,S
+Nigeria,Food,1996.0,1000 tonnes,5139.0,S
+Sudan (former),Food,1996.0,1000 tonnes,2813.0,S
+China,Food,1996.0,1000 tonnes,2368.0,A
+Ethiopia,Food,1996.0,1000 tonnes,1236.0,S
+Burkina Faso,Food,1996.0,1000 tonnes,713.0,S
+Mali,Food,1996.0,1000 tonnes,464.0,S
+Yemen,Food,1996.0,1000 tonnes,360.0,S
+Niger,Food,1996.0,1000 tonnes,345.0,S
+Cameroon,Food,1996.0,1000 tonnes,343.0,S
+Chad,Food,1996.0,1000 tonnes,319.0,S
+United Republic of Tanzania,Food,1996.0,1000 tonnes,300.0,S
+Egypt,Food,1996.0,1000 tonnes,277.0,S
+United States of America,Food,1996.0,1000 tonnes,253.0,S
+Ghana,Food,1996.0,1000 tonnes,235.0,S
+Mozambique,Food,1996.0,1000 tonnes,221.0,S
+Saudi Arabia,Food,1996.0,1000 tonnes,196.0,S
+Pakistan,Food,1996.0,1000 tonnes,189.0,S
+El Salvador,Food,1996.0,1000 tonnes,125.0,S
+Togo,Food,1996.0,1000 tonnes,117.0,S
+Mauritania,Food,1996.0,1000 tonnes,116.0,S
+Senegal,Food,1996.0,1000 tonnes,106.0,S
+Uganda,Food,1996.0,1000 tonnes,102.0,S
+Benin,Food,1996.0,1000 tonnes,86.0,S
+Rwanda,Food,1996.0,1000 tonnes,76.0,S
+South Africa,Food,1996.0,1000 tonnes,72.0,S
+Botswana,Food,1996.0,1000 tonnes,57.0,S
+Zimbabwe,Food,1996.0,1000 tonnes,54.0,S
+Bangladesh,Food,1996.0,1000 tonnes,43.0,S
+Haiti,Food,1996.0,1000 tonnes,40.0,S
+Kenya,Food,1996.0,1000 tonnes,38.0,S
+Central African Republic,Food,1996.0,1000 tonnes,31.0,S
+Lesotho,Food,1996.0,1000 tonnes,24.0,S
+Zambia,Food,1996.0,1000 tonnes,24.0,S
+Morocco,Food,1996.0,1000 tonnes,23.0,S
+Côte d'Ivoire,Food,1996.0,1000 tonnes,22.0,S
+Honduras,Food,1996.0,1000 tonnes,21.0,S
+Guinea-Bissau,Food,1996.0,1000 tonnes,18.0,S
+Malawi,Food,1996.0,1000 tonnes,17.0,S
+Nicaragua,Food,1996.0,1000 tonnes,13.0,S
+Guatemala,Food,1996.0,1000 tonnes,12.0,S
+Gambia,Food,1996.0,1000 tonnes,10.0,S
+Sierra Leone,Food,1996.0,1000 tonnes,10.0,S
+Namibia,Food,1996.0,1000 tonnes,5.0,S
+Algeria,Food,1996.0,1000 tonnes,4.0,S
+Democratic People's Republic of Korea,Food,1996.0,1000 tonnes,4.0,S
+Guinea,Food,1996.0,1000 tonnes,4.0,S
+Djibouti,Food,1996.0,1000 tonnes,2.0,S
+Sri Lanka,Food,1996.0,1000 tonnes,2.0,S
+Tunisia,Food,1996.0,1000 tonnes,2.0,S
+Belize,Food,1996.0,1000 tonnes,1.0,S
+Eswatini,Food,1996.0,1000 tonnes,1.0,S
+Madagascar,Food,1996.0,1000 tonnes,1.0,S
+Angola,Food,1996.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1996.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1996.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1996.0,1000 tonnes,0.0,S
+Japan,Food,1996.0,1000 tonnes,0.0,S
+Myanmar,Food,1996.0,1000 tonnes,0.0,S
+Nepal,Food,1996.0,1000 tonnes,0.0,S
+Russian Federation,Food,1996.0,1000 tonnes,0.0,S
+Spain,Food,1996.0,1000 tonnes,0.0,S
+India,Food,1995.0,1000 tonnes,8254.0,S
+Nigeria,Food,1995.0,1000 tonnes,4491.0,S
+Sudan (former),Food,1995.0,1000 tonnes,2722.0,S
+China,Food,1995.0,1000 tonnes,1981.0,A
+Ethiopia,Food,1995.0,1000 tonnes,1152.0,S
+Burkina Faso,Food,1995.0,1000 tonnes,661.0,S
+Mali,Food,1995.0,1000 tonnes,595.0,S
+Yemen,Food,1995.0,1000 tonnes,440.0,S
+Cameroon,Food,1995.0,1000 tonnes,360.0,S
+Chad,Food,1995.0,1000 tonnes,339.0,S
+Niger,Food,1995.0,1000 tonnes,334.0,S
+United Republic of Tanzania,Food,1995.0,1000 tonnes,290.0,S
+Egypt,Food,1995.0,1000 tonnes,263.0,S
+Ghana,Food,1995.0,1000 tonnes,238.0,S
+United States of America,Food,1995.0,1000 tonnes,225.0,S
+Pakistan,Food,1995.0,1000 tonnes,222.0,S
+Mozambique,Food,1995.0,1000 tonnes,215.0,S
+Saudi Arabia,Food,1995.0,1000 tonnes,193.0,S
+El Salvador,Food,1995.0,1000 tonnes,127.0,S
+Uganda,Food,1995.0,1000 tonnes,110.0,S
+Mauritania,Food,1995.0,1000 tonnes,106.0,S
+Senegal,Food,1995.0,1000 tonnes,106.0,S
+Benin,Food,1995.0,1000 tonnes,94.0,S
+Rwanda,Food,1995.0,1000 tonnes,78.0,S
+Togo,Food,1995.0,1000 tonnes,74.0,S
+South Africa,Food,1995.0,1000 tonnes,73.0,S
+Botswana,Food,1995.0,1000 tonnes,46.0,S
+Haiti,Food,1995.0,1000 tonnes,40.0,S
+Kenya,Food,1995.0,1000 tonnes,39.0,S
+Zimbabwe,Food,1995.0,1000 tonnes,36.0,S
+Zambia,Food,1995.0,1000 tonnes,34.0,S
+Central African Republic,Food,1995.0,1000 tonnes,26.0,S
+Lesotho,Food,1995.0,1000 tonnes,23.0,S
+Côte d'Ivoire,Food,1995.0,1000 tonnes,21.0,S
+Sri Lanka,Food,1995.0,1000 tonnes,18.0,S
+Malawi,Food,1995.0,1000 tonnes,17.0,S
+Democratic People's Republic of Korea,Food,1995.0,1000 tonnes,16.0,S
+Sierra Leone,Food,1995.0,1000 tonnes,14.0,S
+Guatemala,Food,1995.0,1000 tonnes,13.0,S
+Guinea-Bissau,Food,1995.0,1000 tonnes,12.0,S
+Bangladesh,Food,1995.0,1000 tonnes,10.0,S
+Gambia,Food,1995.0,1000 tonnes,7.0,S
+Honduras,Food,1995.0,1000 tonnes,7.0,S
+Nicaragua,Food,1995.0,1000 tonnes,7.0,S
+Algeria,Food,1995.0,1000 tonnes,5.0,S
+Guinea,Food,1995.0,1000 tonnes,4.0,S
+Namibia,Food,1995.0,1000 tonnes,3.0,S
+Tunisia,Food,1995.0,1000 tonnes,3.0,S
+Djibouti,Food,1995.0,1000 tonnes,2.0,S
+Belize,Food,1995.0,1000 tonnes,1.0,S
+Eswatini,Food,1995.0,1000 tonnes,1.0,S
+Madagascar,Food,1995.0,1000 tonnes,1.0,S
+Morocco,Food,1995.0,1000 tonnes,1.0,S
+Angola,Food,1995.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1995.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1995.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1995.0,1000 tonnes,0.0,S
+Japan,Food,1995.0,1000 tonnes,0.0,S
+Myanmar,Food,1995.0,1000 tonnes,0.0,S
+Nepal,Food,1995.0,1000 tonnes,0.0,S
+Russian Federation,Food,1995.0,1000 tonnes,0.0,S
+Spain,Food,1995.0,1000 tonnes,0.0,S
+India,Food,1994.0,1000 tonnes,7652.0,S
+Nigeria,Food,1994.0,1000 tonnes,4709.0,S
+Sudan (former),Food,1994.0,1000 tonnes,2647.0,S
+China,Food,1994.0,1000 tonnes,2628.0,A
+Ethiopia,Food,1994.0,1000 tonnes,1032.0,S
+Burkina Faso,Food,1994.0,1000 tonnes,658.0,S
+Mali,Food,1994.0,1000 tonnes,557.0,S
+United States of America,Food,1994.0,1000 tonnes,445.0,S
+Yemen,Food,1994.0,1000 tonnes,420.0,S
+Chad,Food,1994.0,1000 tonnes,405.0,S
+Niger,Food,1994.0,1000 tonnes,328.0,S
+Cameroon,Food,1994.0,1000 tonnes,323.0,S
+Egypt,Food,1994.0,1000 tonnes,275.0,S
+United Republic of Tanzania,Food,1994.0,1000 tonnes,251.0,S
+Pakistan,Food,1994.0,1000 tonnes,229.0,S
+Ghana,Food,1994.0,1000 tonnes,214.0,S
+Saudi Arabia,Food,1994.0,1000 tonnes,172.0,S
+Mozambique,Food,1994.0,1000 tonnes,151.0,S
+El Salvador,Food,1994.0,1000 tonnes,120.0,S
+Uganda,Food,1994.0,1000 tonnes,120.0,S
+Senegal,Food,1994.0,1000 tonnes,104.0,S
+Togo,Food,1994.0,1000 tonnes,95.0,S
+Mauritania,Food,1994.0,1000 tonnes,94.0,S
+Benin,Food,1994.0,1000 tonnes,86.0,S
+Rwanda,Food,1994.0,1000 tonnes,82.0,S
+South Africa,Food,1994.0,1000 tonnes,74.0,S
+Haiti,Food,1994.0,1000 tonnes,60.0,S
+Zimbabwe,Food,1994.0,1000 tonnes,54.0,S
+Botswana,Food,1994.0,1000 tonnes,44.0,S
+Central African Republic,Food,1994.0,1000 tonnes,30.0,S
+Lesotho,Food,1994.0,1000 tonnes,27.0,S
+Zambia,Food,1994.0,1000 tonnes,23.0,S
+Kenya,Food,1994.0,1000 tonnes,22.0,S
+Côte d'Ivoire,Food,1994.0,1000 tonnes,18.0,S
+Morocco,Food,1994.0,1000 tonnes,17.0,S
+Sierra Leone,Food,1994.0,1000 tonnes,15.0,S
+Guatemala,Food,1994.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1994.0,1000 tonnes,11.0,S
+Malawi,Food,1994.0,1000 tonnes,11.0,S
+Nicaragua,Food,1994.0,1000 tonnes,10.0,S
+Honduras,Food,1994.0,1000 tonnes,9.0,S
+Namibia,Food,1994.0,1000 tonnes,8.0,S
+Gambia,Food,1994.0,1000 tonnes,7.0,S
+Algeria,Food,1994.0,1000 tonnes,5.0,S
+Democratic People's Republic of Korea,Food,1994.0,1000 tonnes,3.0,S
+Guinea,Food,1994.0,1000 tonnes,3.0,S
+Djibouti,Food,1994.0,1000 tonnes,2.0,S
+Tunisia,Food,1994.0,1000 tonnes,2.0,S
+Belize,Food,1994.0,1000 tonnes,1.0,S
+Eswatini,Food,1994.0,1000 tonnes,1.0,S
+Madagascar,Food,1994.0,1000 tonnes,1.0,S
+Angola,Food,1994.0,1000 tonnes,0.0,S
+Bangladesh,Food,1994.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1994.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1994.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1994.0,1000 tonnes,0.0,S
+Japan,Food,1994.0,1000 tonnes,0.0,S
+Myanmar,Food,1994.0,1000 tonnes,0.0,S
+Nepal,Food,1994.0,1000 tonnes,0.0,S
+Russian Federation,Food,1994.0,1000 tonnes,0.0,S
+Spain,Food,1994.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1994.0,1000 tonnes,0.0,S
+India,Food,1993.0,1000 tonnes,10180.0,S
+Nigeria,Food,1993.0,1000 tonnes,3810.0,S
+Sudan (former),Food,1993.0,1000 tonnes,2715.0,S
+China,Food,1993.0,1000 tonnes,2648.0,A
+Ethiopia,Food,1993.0,1000 tonnes,886.0,S
+Burkina Faso,Food,1993.0,1000 tonnes,683.0,S
+Mali,Food,1993.0,1000 tonnes,581.0,S
+Yemen,Food,1993.0,1000 tonnes,448.0,S
+Cameroon,Food,1993.0,1000 tonnes,364.0,S
+United States of America,Food,1993.0,1000 tonnes,351.0,S
+Niger,Food,1993.0,1000 tonnes,279.0,S
+Egypt,Food,1993.0,1000 tonnes,270.0,S
+United Republic of Tanzania,Food,1993.0,1000 tonnes,263.0,S
+Chad,Food,1993.0,1000 tonnes,247.0,S
+Ghana,Food,1993.0,1000 tonnes,218.0,S
+Pakistan,Food,1993.0,1000 tonnes,182.0,S
+Saudi Arabia,Food,1993.0,1000 tonnes,163.0,S
+Mozambique,Food,1993.0,1000 tonnes,128.0,S
+El Salvador,Food,1993.0,1000 tonnes,123.0,S
+Uganda,Food,1993.0,1000 tonnes,121.0,S
+Rwanda,Food,1993.0,1000 tonnes,91.0,S
+Benin,Food,1993.0,1000 tonnes,85.0,S
+Togo,Food,1993.0,1000 tonnes,83.0,S
+Senegal,Food,1993.0,1000 tonnes,82.0,S
+Haiti,Food,1993.0,1000 tonnes,80.0,S
+Mauritania,Food,1993.0,1000 tonnes,79.0,S
+South Africa,Food,1993.0,1000 tonnes,69.0,S
+Zimbabwe,Food,1993.0,1000 tonnes,54.0,S
+Botswana,Food,1993.0,1000 tonnes,35.0,S
+Central African Republic,Food,1993.0,1000 tonnes,26.0,S
+Lesotho,Food,1993.0,1000 tonnes,26.0,S
+Zambia,Food,1993.0,1000 tonnes,19.0,S
+Democratic People's Republic of Korea,Food,1993.0,1000 tonnes,17.0,S
+Morocco,Food,1993.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1993.0,1000 tonnes,14.0,S
+Sri Lanka,Food,1993.0,1000 tonnes,14.0,S
+Sierra Leone,Food,1993.0,1000 tonnes,13.0,S
+Guatemala,Food,1993.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1993.0,1000 tonnes,11.0,S
+Gambia,Food,1993.0,1000 tonnes,10.0,S
+Nicaragua,Food,1993.0,1000 tonnes,10.0,S
+Honduras,Food,1993.0,1000 tonnes,9.0,S
+Kenya,Food,1993.0,1000 tonnes,7.0,S
+Malawi,Food,1993.0,1000 tonnes,6.0,S
+Algeria,Food,1993.0,1000 tonnes,5.0,S
+Namibia,Food,1993.0,1000 tonnes,5.0,S
+Guinea,Food,1993.0,1000 tonnes,3.0,S
+Tunisia,Food,1993.0,1000 tonnes,3.0,S
+Djibouti,Food,1993.0,1000 tonnes,2.0,S
+Madagascar,Food,1993.0,1000 tonnes,1.0,S
+Angola,Food,1993.0,1000 tonnes,0.0,S
+Bangladesh,Food,1993.0,1000 tonnes,0.0,S
+Belize,Food,1993.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1993.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1993.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1993.0,1000 tonnes,0.0,S
+Eswatini,Food,1993.0,1000 tonnes,0.0,S
+Japan,Food,1993.0,1000 tonnes,0.0,S
+Myanmar,Food,1993.0,1000 tonnes,0.0,S
+Nepal,Food,1993.0,1000 tonnes,0.0,S
+Russian Federation,Food,1993.0,1000 tonnes,0.0,S
+Spain,Food,1993.0,1000 tonnes,0.0,S
+India,Food,1992.0,1000 tonnes,11350.0,S
+Nigeria,Food,1992.0,1000 tonnes,3883.0,S
+Sudan (former),Food,1992.0,1000 tonnes,2436.0,S
+China,Food,1992.0,1000 tonnes,2167.0,A
+Ethiopia PDR,Food,1992.0,1000 tonnes,927.0,S
+Burkina Faso,Food,1992.0,1000 tonnes,645.0,S
+Mali,Food,1992.0,1000 tonnes,568.0,S
+Yemen,Food,1992.0,1000 tonnes,434.0,S
+United States of America,Food,1992.0,1000 tonnes,338.0,S
+Niger,Food,1992.0,1000 tonnes,308.0,S
+Cameroon,Food,1992.0,1000 tonnes,293.0,S
+Chad,Food,1992.0,1000 tonnes,289.0,S
+United Republic of Tanzania,Food,1992.0,1000 tonnes,254.0,S
+Egypt,Food,1992.0,1000 tonnes,247.0,S
+Pakistan,Food,1992.0,1000 tonnes,207.0,S
+Ghana,Food,1992.0,1000 tonnes,172.0,S
+Saudi Arabia,Food,1992.0,1000 tonnes,136.0,S
+El Salvador,Food,1992.0,1000 tonnes,122.0,S
+Uganda,Food,1992.0,1000 tonnes,117.0,S
+Rwanda,Food,1992.0,1000 tonnes,106.0,S
+Togo,Food,1992.0,1000 tonnes,106.0,S
+Senegal,Food,1992.0,1000 tonnes,100.0,S
+Benin,Food,1992.0,1000 tonnes,89.0,S
+Mozambique,Food,1992.0,1000 tonnes,83.0,S
+Haiti,Food,1992.0,1000 tonnes,80.0,S
+South Africa,Food,1992.0,1000 tonnes,68.0,S
+Kenya,Food,1992.0,1000 tonnes,54.0,S
+Zimbabwe,Food,1992.0,1000 tonnes,49.0,S
+Mauritania,Food,1992.0,1000 tonnes,35.0,S
+Botswana,Food,1992.0,1000 tonnes,34.0,S
+Central African Republic,Food,1992.0,1000 tonnes,27.0,S
+Morocco,Food,1992.0,1000 tonnes,22.0,S
+Lesotho,Food,1992.0,1000 tonnes,14.0,S
+Côte d'Ivoire,Food,1992.0,1000 tonnes,13.0,S
+Guatemala,Food,1992.0,1000 tonnes,13.0,S
+Sierra Leone,Food,1992.0,1000 tonnes,12.0,S
+Gambia,Food,1992.0,1000 tonnes,10.0,S
+Guinea,Food,1992.0,1000 tonnes,10.0,S
+Zambia,Food,1992.0,1000 tonnes,10.0,S
+Nicaragua,Food,1992.0,1000 tonnes,9.0,S
+Democratic People's Republic of Korea,Food,1992.0,1000 tonnes,8.0,S
+Guinea-Bissau,Food,1992.0,1000 tonnes,8.0,S
+Honduras,Food,1992.0,1000 tonnes,7.0,S
+Algeria,Food,1992.0,1000 tonnes,4.0,S
+Malawi,Food,1992.0,1000 tonnes,4.0,S
+Namibia,Food,1992.0,1000 tonnes,4.0,S
+Djibouti,Food,1992.0,1000 tonnes,2.0,S
+Tunisia,Food,1992.0,1000 tonnes,2.0,S
+Madagascar,Food,1992.0,1000 tonnes,1.0,S
+Angola,Food,1992.0,1000 tonnes,0.0,S
+Bangladesh,Food,1992.0,1000 tonnes,0.0,S
+Belize,Food,1992.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1992.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1992.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1992.0,1000 tonnes,0.0,S
+Eswatini,Food,1992.0,1000 tonnes,0.0,S
+Japan,Food,1992.0,1000 tonnes,0.0,S
+Myanmar,Food,1992.0,1000 tonnes,0.0,S
+Nepal,Food,1992.0,1000 tonnes,0.0,S
+Russian Federation,Food,1992.0,1000 tonnes,0.0,S
+Spain,Food,1992.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1992.0,1000 tonnes,0.0,S
+India,Food,1991.0,1000 tonnes,7188.0,S
+Nigeria,Food,1991.0,1000 tonnes,3722.0,S
+Sudan (former),Food,1991.0,1000 tonnes,2336.0,S
+China,Food,1991.0,1000 tonnes,2022.0,A
+Ethiopia PDR,Food,1991.0,1000 tonnes,936.0,S
+Mali,Food,1991.0,1000 tonnes,511.0,S
+Burkina Faso,Food,1991.0,1000 tonnes,488.0,S
+Cameroon,Food,1991.0,1000 tonnes,318.0,S
+Niger,Food,1991.0,1000 tonnes,294.0,S
+United States of America,Food,1991.0,1000 tonnes,272.0,S
+United Republic of Tanzania,Food,1991.0,1000 tonnes,264.0,S
+Chad,Food,1991.0,1000 tonnes,239.0,S
+Yemen,Food,1991.0,1000 tonnes,231.0,S
+Egypt,Food,1991.0,1000 tonnes,219.0,S
+Pakistan,Food,1991.0,1000 tonnes,194.0,S
+Ghana,Food,1991.0,1000 tonnes,160.0,S
+Mozambique,Food,1991.0,1000 tonnes,135.0,S
+El Salvador,Food,1991.0,1000 tonnes,118.0,S
+Uganda,Food,1991.0,1000 tonnes,113.0,S
+Rwanda,Food,1991.0,1000 tonnes,111.0,S
+Saudi Arabia,Food,1991.0,1000 tonnes,109.0,S
+Togo,Food,1991.0,1000 tonnes,100.0,S
+Senegal,Food,1991.0,1000 tonnes,95.0,S
+Benin,Food,1991.0,1000 tonnes,86.0,S
+Haiti,Food,1991.0,1000 tonnes,80.0,S
+South Africa,Food,1991.0,1000 tonnes,64.0,S
+Kenya,Food,1991.0,1000 tonnes,57.0,S
+Mauritania,Food,1991.0,1000 tonnes,44.0,S
+Zimbabwe,Food,1991.0,1000 tonnes,44.0,S
+Botswana,Food,1991.0,1000 tonnes,38.0,S
+Central African Republic,Food,1991.0,1000 tonnes,30.0,S
+Côte d'Ivoire,Food,1991.0,1000 tonnes,26.0,S
+Morocco,Food,1991.0,1000 tonnes,18.0,S
+Guatemala,Food,1991.0,1000 tonnes,17.0,S
+Guinea,Food,1991.0,1000 tonnes,15.0,S
+Lesotho,Food,1991.0,1000 tonnes,15.0,S
+Sierra Leone,Food,1991.0,1000 tonnes,13.0,S
+Zambia,Food,1991.0,1000 tonnes,13.0,S
+Democratic People's Republic of Korea,Food,1991.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1991.0,1000 tonnes,10.0,S
+Honduras,Food,1991.0,1000 tonnes,9.0,S
+Gambia,Food,1991.0,1000 tonnes,7.0,S
+Malawi,Food,1991.0,1000 tonnes,7.0,S
+Nicaragua,Food,1991.0,1000 tonnes,7.0,S
+Namibia,Food,1991.0,1000 tonnes,6.0,S
+Algeria,Food,1991.0,1000 tonnes,4.0,S
+Djibouti,Food,1991.0,1000 tonnes,2.0,S
+Tunisia,Food,1991.0,1000 tonnes,2.0,S
+Madagascar,Food,1991.0,1000 tonnes,1.0,S
+Angola,Food,1991.0,1000 tonnes,0.0,S
+Bangladesh,Food,1991.0,1000 tonnes,0.0,S
+Belize,Food,1991.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1991.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1991.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1991.0,1000 tonnes,0.0,S
+Eswatini,Food,1991.0,1000 tonnes,0.0,S
+Japan,Food,1991.0,1000 tonnes,0.0,S
+Myanmar,Food,1991.0,1000 tonnes,0.0,S
+Nepal,Food,1991.0,1000 tonnes,0.0,S
+Spain,Food,1991.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1991.0,1000 tonnes,0.0,S
+India,Food,1990.0,1000 tonnes,10367.0,S
+Nigeria,Food,1990.0,1000 tonnes,2950.0,S
+China,Food,1990.0,1000 tonnes,2485.0,A
+Sudan (former),Food,1990.0,1000 tonnes,2143.0,S
+Ethiopia PDR,Food,1990.0,1000 tonnes,1017.0,S
+Mali,Food,1990.0,1000 tonnes,525.0,S
+Burkina Faso,Food,1990.0,1000 tonnes,500.0,S
+Yemen,Food,1990.0,1000 tonnes,437.0,S
+Cameroon,Food,1990.0,1000 tonnes,336.0,S
+Niger,Food,1990.0,1000 tonnes,285.0,S
+United States of America,Food,1990.0,1000 tonnes,256.0,S
+Chad,Food,1990.0,1000 tonnes,234.0,S
+Pakistan,Food,1990.0,1000 tonnes,207.0,S
+Egypt,Food,1990.0,1000 tonnes,203.0,S
+United Republic of Tanzania,Food,1990.0,1000 tonnes,200.0,S
+Saudi Arabia,Food,1990.0,1000 tonnes,159.0,S
+Mozambique,Food,1990.0,1000 tonnes,153.0,S
+Senegal,Food,1990.0,1000 tonnes,135.0,S
+Ghana,Food,1990.0,1000 tonnes,117.0,S
+Rwanda,Food,1990.0,1000 tonnes,114.0,S
+Uganda,Food,1990.0,1000 tonnes,112.0,S
+Togo,Food,1990.0,1000 tonnes,101.0,S
+El Salvador,Food,1990.0,1000 tonnes,90.0,S
+Haiti,Food,1990.0,1000 tonnes,85.0,S
+Benin,Food,1990.0,1000 tonnes,84.0,S
+Zimbabwe,Food,1990.0,1000 tonnes,69.0,S
+South Africa,Food,1990.0,1000 tonnes,62.0,S
+Mauritania,Food,1990.0,1000 tonnes,55.0,S
+Kenya,Food,1990.0,1000 tonnes,53.0,S
+Botswana,Food,1990.0,1000 tonnes,50.0,S
+Central African Republic,Food,1990.0,1000 tonnes,36.0,S
+Lesotho,Food,1990.0,1000 tonnes,25.0,S
+Morocco,Food,1990.0,1000 tonnes,21.0,S
+Guatemala,Food,1990.0,1000 tonnes,18.0,S
+Guinea,Food,1990.0,1000 tonnes,18.0,S
+Zambia,Food,1990.0,1000 tonnes,17.0,S
+Democratic People's Republic of Korea,Food,1990.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1990.0,1000 tonnes,14.0,S
+Sierra Leone,Food,1990.0,1000 tonnes,12.0,S
+Gambia,Food,1990.0,1000 tonnes,10.0,S
+Tunisia,Food,1990.0,1000 tonnes,10.0,S
+Guinea-Bissau,Food,1990.0,1000 tonnes,9.0,S
+Malawi,Food,1990.0,1000 tonnes,7.0,S
+Nicaragua,Food,1990.0,1000 tonnes,7.0,S
+Honduras,Food,1990.0,1000 tonnes,5.0,S
+Namibia,Food,1990.0,1000 tonnes,5.0,S
+Algeria,Food,1990.0,1000 tonnes,3.0,S
+Djibouti,Food,1990.0,1000 tonnes,2.0,S
+Bangladesh,Food,1990.0,1000 tonnes,1.0,S
+Eswatini,Food,1990.0,1000 tonnes,1.0,S
+Madagascar,Food,1990.0,1000 tonnes,1.0,S
+Angola,Food,1990.0,1000 tonnes,0.0,S
+Belize,Food,1990.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1990.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1990.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1990.0,1000 tonnes,0.0,S
+Japan,Food,1990.0,1000 tonnes,0.0,S
+Myanmar,Food,1990.0,1000 tonnes,0.0,S
+Nepal,Food,1990.0,1000 tonnes,0.0,S
+Spain,Food,1990.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1990.0,1000 tonnes,0.0,S
+India,Food,1989.0,1000 tonnes,11506.0,S
+Nigeria,Food,1989.0,1000 tonnes,3289.0,S
+China,Food,1989.0,1000 tonnes,2607.0,A
+Sudan (former),Food,1989.0,1000 tonnes,2096.0,S
+Ethiopia PDR,Food,1989.0,1000 tonnes,1041.0,S
+Burkina Faso,Food,1989.0,1000 tonnes,542.0,S
+Mali,Food,1989.0,1000 tonnes,514.0,S
+Yemen,Food,1989.0,1000 tonnes,487.0,S
+Niger,Food,1989.0,1000 tonnes,347.0,S
+Cameroon,Food,1989.0,1000 tonnes,289.0,S
+United Republic of Tanzania,Food,1989.0,1000 tonnes,232.0,S
+Pakistan,Food,1989.0,1000 tonnes,228.0,S
+Chad,Food,1989.0,1000 tonnes,221.0,S
+Egypt,Food,1989.0,1000 tonnes,183.0,S
+United States of America,Food,1989.0,1000 tonnes,175.0,S
+Mozambique,Food,1989.0,1000 tonnes,151.0,S
+Rwanda,Food,1989.0,1000 tonnes,122.0,S
+Haiti,Food,1989.0,1000 tonnes,120.0,S
+Saudi Arabia,Food,1989.0,1000 tonnes,120.0,S
+Ghana,Food,1989.0,1000 tonnes,111.0,S
+Senegal,Food,1989.0,1000 tonnes,110.0,S
+Uganda,Food,1989.0,1000 tonnes,108.0,S
+Togo,Food,1989.0,1000 tonnes,80.0,S
+Benin,Food,1989.0,1000 tonnes,79.0,S
+Zimbabwe,Food,1989.0,1000 tonnes,66.0,S
+Kenya,Food,1989.0,1000 tonnes,59.0,S
+El Salvador,Food,1989.0,1000 tonnes,58.0,S
+Mauritania,Food,1989.0,1000 tonnes,57.0,S
+Botswana,Food,1989.0,1000 tonnes,52.0,S
+Central African Republic,Food,1989.0,1000 tonnes,37.0,S
+Nicaragua,Food,1989.0,1000 tonnes,36.0,S
+South Africa,Food,1989.0,1000 tonnes,33.0,S
+Lesotho,Food,1989.0,1000 tonnes,25.0,S
+Morocco,Food,1989.0,1000 tonnes,22.0,S
+Guinea,Food,1989.0,1000 tonnes,19.0,S
+Zambia,Food,1989.0,1000 tonnes,19.0,S
+Guatemala,Food,1989.0,1000 tonnes,18.0,S
+Côte d'Ivoire,Food,1989.0,1000 tonnes,13.0,S
+Democratic People's Republic of Korea,Food,1989.0,1000 tonnes,13.0,S
+Guinea-Bissau,Food,1989.0,1000 tonnes,12.0,S
+Honduras,Food,1989.0,1000 tonnes,11.0,S
+Sierra Leone,Food,1989.0,1000 tonnes,11.0,S
+Malawi,Food,1989.0,1000 tonnes,10.0,S
+Tunisia,Food,1989.0,1000 tonnes,10.0,S
+Gambia,Food,1989.0,1000 tonnes,7.0,S
+Namibia,Food,1989.0,1000 tonnes,6.0,S
+Djibouti,Food,1989.0,1000 tonnes,2.0,S
+Algeria,Food,1989.0,1000 tonnes,1.0,S
+Bangladesh,Food,1989.0,1000 tonnes,1.0,S
+Madagascar,Food,1989.0,1000 tonnes,1.0,S
+Angola,Food,1989.0,1000 tonnes,0.0,S
+Belize,Food,1989.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1989.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1989.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1989.0,1000 tonnes,0.0,S
+Eswatini,Food,1989.0,1000 tonnes,0.0,S
+Japan,Food,1989.0,1000 tonnes,0.0,S
+Myanmar,Food,1989.0,1000 tonnes,0.0,S
+Nepal,Food,1989.0,1000 tonnes,0.0,S
+Spain,Food,1989.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1989.0,1000 tonnes,0.0,S
+India,Food,1988.0,1000 tonnes,9026.0,S
+Nigeria,Food,1988.0,1000 tonnes,3651.0,S
+China,Food,1988.0,1000 tonnes,2702.0,A
+Sudan (former),Food,1988.0,1000 tonnes,2224.0,S
+Ethiopia PDR,Food,1988.0,1000 tonnes,1061.0,S
+Yemen,Food,1988.0,1000 tonnes,525.0,S
+Burkina Faso,Food,1988.0,1000 tonnes,468.0,S
+Mali,Food,1988.0,1000 tonnes,468.0,S
+Niger,Food,1988.0,1000 tonnes,308.0,S
+Cameroon,Food,1988.0,1000 tonnes,266.0,S
+Chad,Food,1988.0,1000 tonnes,227.0,S
+Pakistan,Food,1988.0,1000 tonnes,215.0,S
+Egypt,Food,1988.0,1000 tonnes,188.0,S
+United Republic of Tanzania,Food,1988.0,1000 tonnes,174.0,S
+Rwanda,Food,1988.0,1000 tonnes,131.0,S
+Haiti,Food,1988.0,1000 tonnes,130.0,S
+Mozambique,Food,1988.0,1000 tonnes,121.0,S
+Saudi Arabia,Food,1988.0,1000 tonnes,120.0,S
+Ghana,Food,1988.0,1000 tonnes,112.0,S
+Uganda,Food,1988.0,1000 tonnes,107.0,S
+Senegal,Food,1988.0,1000 tonnes,93.0,S
+Togo,Food,1988.0,1000 tonnes,84.0,S
+Benin,Food,1988.0,1000 tonnes,79.0,S
+Kenya,Food,1988.0,1000 tonnes,77.0,S
+El Salvador,Food,1988.0,1000 tonnes,64.0,S
+Zimbabwe,Food,1988.0,1000 tonnes,57.0,S
+Mauritania,Food,1988.0,1000 tonnes,55.0,S
+Nicaragua,Food,1988.0,1000 tonnes,46.0,S
+Botswana,Food,1988.0,1000 tonnes,44.0,S
+Central African Republic,Food,1988.0,1000 tonnes,36.0,S
+United States of America,Food,1988.0,1000 tonnes,29.0,S
+Lesotho,Food,1988.0,1000 tonnes,28.0,S
+South Africa,Food,1988.0,1000 tonnes,27.0,S
+Morocco,Food,1988.0,1000 tonnes,21.0,S
+Guatemala,Food,1988.0,1000 tonnes,20.0,S
+Honduras,Food,1988.0,1000 tonnes,20.0,S
+Guinea,Food,1988.0,1000 tonnes,19.0,S
+Zambia,Food,1988.0,1000 tonnes,19.0,S
+Guinea-Bissau,Food,1988.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1988.0,1000 tonnes,12.0,S
+Democratic People's Republic of Korea,Food,1988.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1988.0,1000 tonnes,11.0,S
+Malawi,Food,1988.0,1000 tonnes,8.0,S
+Namibia,Food,1988.0,1000 tonnes,6.0,S
+Gambia,Food,1988.0,1000 tonnes,5.0,S
+Tunisia,Food,1988.0,1000 tonnes,4.0,S
+Bangladesh,Food,1988.0,1000 tonnes,2.0,S
+Djibouti,Food,1988.0,1000 tonnes,2.0,S
+Algeria,Food,1988.0,1000 tonnes,1.0,S
+Madagascar,Food,1988.0,1000 tonnes,1.0,S
+Angola,Food,1988.0,1000 tonnes,0.0,S
+Belize,Food,1988.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1988.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1988.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1988.0,1000 tonnes,0.0,S
+Eswatini,Food,1988.0,1000 tonnes,0.0,S
+Japan,Food,1988.0,1000 tonnes,0.0,S
+Myanmar,Food,1988.0,1000 tonnes,0.0,S
+Nepal,Food,1988.0,1000 tonnes,0.0,S
+Spain,Food,1988.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1988.0,1000 tonnes,0.0,S
+India,Food,1987.0,1000 tonnes,10920.0,S
+Nigeria,Food,1987.0,1000 tonnes,3798.0,S
+China,Food,1987.0,1000 tonnes,2983.0,A
+Sudan (former),Food,1987.0,1000 tonnes,1896.0,S
+Ethiopia PDR,Food,1987.0,1000 tonnes,1096.0,S
+Burkina Faso,Food,1987.0,1000 tonnes,534.0,S
+Mali,Food,1987.0,1000 tonnes,454.0,S
+Yemen,Food,1987.0,1000 tonnes,441.0,S
+Niger,Food,1987.0,1000 tonnes,288.0,S
+United Republic of Tanzania,Food,1987.0,1000 tonnes,274.0,S
+Cameroon,Food,1987.0,1000 tonnes,259.0,S
+Chad,Food,1987.0,1000 tonnes,242.0,S
+Mozambique,Food,1987.0,1000 tonnes,178.0,S
+Egypt,Food,1987.0,1000 tonnes,171.0,S
+Pakistan,Food,1987.0,1000 tonnes,154.0,S
+Rwanda,Food,1987.0,1000 tonnes,144.0,S
+Ghana,Food,1987.0,1000 tonnes,128.0,S
+Haiti,Food,1987.0,1000 tonnes,120.0,S
+Saudi Arabia,Food,1987.0,1000 tonnes,111.0,S
+Togo,Food,1987.0,1000 tonnes,102.0,S
+Uganda,Food,1987.0,1000 tonnes,98.0,S
+Senegal,Food,1987.0,1000 tonnes,94.0,S
+Benin,Food,1987.0,1000 tonnes,76.0,S
+Kenya,Food,1987.0,1000 tonnes,59.0,S
+Zimbabwe,Food,1987.0,1000 tonnes,56.0,S
+Mauritania,Food,1987.0,1000 tonnes,50.0,S
+Botswana,Food,1987.0,1000 tonnes,44.0,S
+Nicaragua,Food,1987.0,1000 tonnes,42.0,S
+Central African Republic,Food,1987.0,1000 tonnes,34.0,S
+El Salvador,Food,1987.0,1000 tonnes,26.0,S
+Guinea,Food,1987.0,1000 tonnes,22.0,S
+Lesotho,Food,1987.0,1000 tonnes,21.0,S
+Zambia,Food,1987.0,1000 tonnes,21.0,S
+Guatemala,Food,1987.0,1000 tonnes,18.0,S
+Morocco,Food,1987.0,1000 tonnes,17.0,S
+Democratic People's Republic of Korea,Food,1987.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1987.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1987.0,1000 tonnes,12.0,S
+Côte d'Ivoire,Food,1987.0,1000 tonnes,11.0,S
+Honduras,Food,1987.0,1000 tonnes,8.0,S
+Malawi,Food,1987.0,1000 tonnes,8.0,S
+Gambia,Food,1987.0,1000 tonnes,7.0,S
+Namibia,Food,1987.0,1000 tonnes,5.0,S
+Tunisia,Food,1987.0,1000 tonnes,5.0,S
+Djibouti,Food,1987.0,1000 tonnes,2.0,S
+Bangladesh,Food,1987.0,1000 tonnes,1.0,S
+Eswatini,Food,1987.0,1000 tonnes,1.0,S
+Madagascar,Food,1987.0,1000 tonnes,1.0,S
+United States of America,Food,1987.0,1000 tonnes,1.0,S
+Algeria,Food,1987.0,1000 tonnes,0.0,S
+Angola,Food,1987.0,1000 tonnes,0.0,S
+Belize,Food,1987.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1987.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1987.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1987.0,1000 tonnes,0.0,S
+Japan,Food,1987.0,1000 tonnes,0.0,S
+Myanmar,Food,1987.0,1000 tonnes,0.0,S
+Nepal,Food,1987.0,1000 tonnes,0.0,S
+South Africa,Food,1987.0,1000 tonnes,0.0,S
+Spain,Food,1987.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1987.0,1000 tonnes,0.0,S
+India,Food,1986.0,1000 tonnes,8132.0,S
+Nigeria,Food,1986.0,1000 tonnes,3770.0,S
+China,Food,1986.0,1000 tonnes,3385.0,A
+Sudan (former),Food,1986.0,1000 tonnes,1989.0,S
+Ethiopia PDR,Food,1986.0,1000 tonnes,1065.0,S
+Burkina Faso,Food,1986.0,1000 tonnes,443.0,S
+Yemen,Food,1986.0,1000 tonnes,384.0,S
+Mali,Food,1986.0,1000 tonnes,344.0,S
+United Republic of Tanzania,Food,1986.0,1000 tonnes,283.0,S
+Niger,Food,1986.0,1000 tonnes,271.0,S
+Cameroon,Food,1986.0,1000 tonnes,262.0,S
+Chad,Food,1986.0,1000 tonnes,243.0,S
+Mozambique,Food,1986.0,1000 tonnes,239.0,S
+Pakistan,Food,1986.0,1000 tonnes,206.0,S
+Egypt,Food,1986.0,1000 tonnes,167.0,S
+Rwanda,Food,1986.0,1000 tonnes,151.0,S
+Senegal,Food,1986.0,1000 tonnes,136.0,S
+Haiti,Food,1986.0,1000 tonnes,115.0,S
+Uganda,Food,1986.0,1000 tonnes,97.0,S
+Ghana,Food,1986.0,1000 tonnes,84.0,S
+El Salvador,Food,1986.0,1000 tonnes,77.0,S
+Benin,Food,1986.0,1000 tonnes,72.0,S
+Togo,Food,1986.0,1000 tonnes,67.0,S
+Kenya,Food,1986.0,1000 tonnes,65.0,S
+Zimbabwe,Food,1986.0,1000 tonnes,54.0,S
+Botswana,Food,1986.0,1000 tonnes,48.0,S
+Mauritania,Food,1986.0,1000 tonnes,46.0,S
+Nicaragua,Food,1986.0,1000 tonnes,45.0,S
+Saudi Arabia,Food,1986.0,1000 tonnes,41.0,S
+Central African Republic,Food,1986.0,1000 tonnes,34.0,S
+Guinea,Food,1986.0,1000 tonnes,25.0,S
+Zambia,Food,1986.0,1000 tonnes,23.0,S
+Lesotho,Food,1986.0,1000 tonnes,22.0,S
+Guatemala,Food,1986.0,1000 tonnes,18.0,S
+Guinea-Bissau,Food,1986.0,1000 tonnes,16.0,S
+Honduras,Food,1986.0,1000 tonnes,15.0,S
+Morocco,Food,1986.0,1000 tonnes,14.0,S
+South Africa,Food,1986.0,1000 tonnes,14.0,S
+United States of America,Food,1986.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1986.0,1000 tonnes,12.0,S
+Democratic People's Republic of Korea,Food,1986.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1986.0,1000 tonnes,12.0,S
+Malawi,Food,1986.0,1000 tonnes,9.0,S
+Gambia,Food,1986.0,1000 tonnes,8.0,S
+Namibia,Food,1986.0,1000 tonnes,5.0,S
+Tunisia,Food,1986.0,1000 tonnes,4.0,S
+Djibouti,Food,1986.0,1000 tonnes,2.0,S
+Eswatini,Food,1986.0,1000 tonnes,2.0,S
+Bangladesh,Food,1986.0,1000 tonnes,1.0,S
+Madagascar,Food,1986.0,1000 tonnes,1.0,S
+Algeria,Food,1986.0,1000 tonnes,0.0,S
+Angola,Food,1986.0,1000 tonnes,0.0,S
+Belize,Food,1986.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1986.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1986.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1986.0,1000 tonnes,0.0,S
+Japan,Food,1986.0,1000 tonnes,0.0,S
+Myanmar,Food,1986.0,1000 tonnes,0.0,S
+Nepal,Food,1986.0,1000 tonnes,0.0,S
+Spain,Food,1986.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1986.0,1000 tonnes,0.0,S
+India,Food,1985.0,1000 tonnes,8970.0,S
+China,Food,1985.0,1000 tonnes,3686.0,A
+Nigeria,Food,1985.0,1000 tonnes,3458.0,S
+Sudan (former),Food,1985.0,1000 tonnes,1963.0,S
+Ethiopia PDR,Food,1985.0,1000 tonnes,892.0,S
+Yemen,Food,1985.0,1000 tonnes,379.0,S
+Mali,Food,1985.0,1000 tonnes,361.0,S
+Burkina Faso,Food,1985.0,1000 tonnes,340.0,S
+United Republic of Tanzania,Food,1985.0,1000 tonnes,269.0,S
+Niger,Food,1985.0,1000 tonnes,263.0,S
+Chad,Food,1985.0,1000 tonnes,226.0,S
+Mozambique,Food,1985.0,1000 tonnes,222.0,S
+Cameroon,Food,1985.0,1000 tonnes,216.0,S
+Pakistan,Food,1985.0,1000 tonnes,189.0,S
+Senegal,Food,1985.0,1000 tonnes,173.0,S
+Egypt,Food,1985.0,1000 tonnes,158.0,S
+Rwanda,Food,1985.0,1000 tonnes,148.0,S
+United States of America,Food,1985.0,1000 tonnes,112.0,S
+Haiti,Food,1985.0,1000 tonnes,105.0,S
+Ghana,Food,1985.0,1000 tonnes,102.0,S
+Togo,Food,1985.0,1000 tonnes,98.0,S
+El Salvador,Food,1985.0,1000 tonnes,90.0,S
+Uganda,Food,1985.0,1000 tonnes,85.0,S
+Benin,Food,1985.0,1000 tonnes,76.0,S
+Kenya,Food,1985.0,1000 tonnes,64.0,S
+Botswana,Food,1985.0,1000 tonnes,48.0,S
+Mauritania,Food,1985.0,1000 tonnes,47.0,S
+Nicaragua,Food,1985.0,1000 tonnes,45.0,S
+Zimbabwe,Food,1985.0,1000 tonnes,44.0,S
+Saudi Arabia,Food,1985.0,1000 tonnes,40.0,S
+Central African Republic,Food,1985.0,1000 tonnes,34.0,S
+Lesotho,Food,1985.0,1000 tonnes,34.0,S
+Guinea,Food,1985.0,1000 tonnes,27.0,S
+Guatemala,Food,1985.0,1000 tonnes,18.0,S
+Guinea-Bissau,Food,1985.0,1000 tonnes,18.0,S
+Morocco,Food,1985.0,1000 tonnes,17.0,S
+South Africa,Food,1985.0,1000 tonnes,14.0,S
+Côte d'Ivoire,Food,1985.0,1000 tonnes,13.0,S
+Honduras,Food,1985.0,1000 tonnes,13.0,S
+Democratic People's Republic of Korea,Food,1985.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1985.0,1000 tonnes,11.0,S
+Zambia,Food,1985.0,1000 tonnes,10.0,S
+Gambia,Food,1985.0,1000 tonnes,7.0,S
+Malawi,Food,1985.0,1000 tonnes,7.0,S
+Tunisia,Food,1985.0,1000 tonnes,7.0,S
+Namibia,Food,1985.0,1000 tonnes,5.0,S
+Djibouti,Food,1985.0,1000 tonnes,2.0,S
+Bangladesh,Food,1985.0,1000 tonnes,1.0,S
+Eswatini,Food,1985.0,1000 tonnes,1.0,S
+Madagascar,Food,1985.0,1000 tonnes,1.0,S
+Spain,Food,1985.0,1000 tonnes,1.0,S
+Algeria,Food,1985.0,1000 tonnes,0.0,S
+Angola,Food,1985.0,1000 tonnes,0.0,S
+Belize,Food,1985.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1985.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1985.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1985.0,1000 tonnes,0.0,S
+Japan,Food,1985.0,1000 tonnes,0.0,S
+Myanmar,Food,1985.0,1000 tonnes,0.0,S
+Nepal,Food,1985.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1985.0,1000 tonnes,0.0,S
+India,Food,1984.0,1000 tonnes,10162.0,S
+China,Food,1984.0,1000 tonnes,4429.0,A
+Nigeria,Food,1984.0,1000 tonnes,3214.0,S
+Sudan (former),Food,1984.0,1000 tonnes,1537.0,S
+Ethiopia PDR,Food,1984.0,1000 tonnes,979.0,S
+Yemen,Food,1984.0,1000 tonnes,448.0,S
+Mali,Food,1984.0,1000 tonnes,337.0,S
+Burkina Faso,Food,1984.0,1000 tonnes,331.0,S
+Chad,Food,1984.0,1000 tonnes,230.0,S
+Niger,Food,1984.0,1000 tonnes,229.0,S
+Cameroon,Food,1984.0,1000 tonnes,204.0,S
+Pakistan,Food,1984.0,1000 tonnes,200.0,S
+United Republic of Tanzania,Food,1984.0,1000 tonnes,197.0,S
+Mozambique,Food,1984.0,1000 tonnes,195.0,S
+Egypt,Food,1984.0,1000 tonnes,162.0,S
+Senegal,Food,1984.0,1000 tonnes,160.0,S
+Rwanda,Food,1984.0,1000 tonnes,140.0,S
+Uganda,Food,1984.0,1000 tonnes,123.0,S
+United States of America,Food,1984.0,1000 tonnes,110.0,S
+Ghana,Food,1984.0,1000 tonnes,105.0,S
+Haiti,Food,1984.0,1000 tonnes,105.0,S
+El Salvador,Food,1984.0,1000 tonnes,90.0,S
+Togo,Food,1984.0,1000 tonnes,77.0,S
+Benin,Food,1984.0,1000 tonnes,74.0,S
+Kenya,Food,1984.0,1000 tonnes,51.0,S
+Nicaragua,Food,1984.0,1000 tonnes,40.0,S
+Mauritania,Food,1984.0,1000 tonnes,39.0,S
+Zimbabwe,Food,1984.0,1000 tonnes,39.0,S
+Central African Republic,Food,1984.0,1000 tonnes,34.0,S
+Botswana,Food,1984.0,1000 tonnes,32.0,S
+Saudi Arabia,Food,1984.0,1000 tonnes,32.0,S
+South Africa,Food,1984.0,1000 tonnes,29.0,S
+Guinea,Food,1984.0,1000 tonnes,27.0,S
+Guinea-Bissau,Food,1984.0,1000 tonnes,22.0,S
+Lesotho,Food,1984.0,1000 tonnes,21.0,S
+Morocco,Food,1984.0,1000 tonnes,18.0,S
+Guatemala,Food,1984.0,1000 tonnes,16.0,S
+Honduras,Food,1984.0,1000 tonnes,13.0,S
+Democratic People's Republic of Korea,Food,1984.0,1000 tonnes,12.0,S
+Sierra Leone,Food,1984.0,1000 tonnes,9.0,S
+Zambia,Food,1984.0,1000 tonnes,9.0,S
+Côte d'Ivoire,Food,1984.0,1000 tonnes,8.0,S
+Angola,Food,1984.0,1000 tonnes,7.0,S
+Tunisia,Food,1984.0,1000 tonnes,7.0,S
+Gambia,Food,1984.0,1000 tonnes,6.0,S
+Namibia,Food,1984.0,1000 tonnes,5.0,S
+Malawi,Food,1984.0,1000 tonnes,4.0,S
+Madagascar,Food,1984.0,1000 tonnes,3.0,S
+Djibouti,Food,1984.0,1000 tonnes,2.0,S
+Eswatini,Food,1984.0,1000 tonnes,2.0,S
+Algeria,Food,1984.0,1000 tonnes,1.0,S
+Bangladesh,Food,1984.0,1000 tonnes,1.0,S
+Spain,Food,1984.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1984.0,1000 tonnes,1.0,S
+Belize,Food,1984.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1984.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1984.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1984.0,1000 tonnes,0.0,S
+Japan,Food,1984.0,1000 tonnes,0.0,S
+Myanmar,Food,1984.0,1000 tonnes,0.0,S
+Nepal,Food,1984.0,1000 tonnes,0.0,S
+India,Food,1983.0,1000 tonnes,10590.0,S
+China,Food,1983.0,1000 tonnes,4490.0,A
+Nigeria,Food,1983.0,1000 tonnes,2558.0,S
+Sudan (former),Food,1983.0,1000 tonnes,1774.0,S
+Ethiopia PDR,Food,1983.0,1000 tonnes,1102.0,S
+Yemen,Food,1983.0,1000 tonnes,518.0,S
+Mali,Food,1983.0,1000 tonnes,349.0,S
+Burkina Faso,Food,1983.0,1000 tonnes,322.0,S
+Niger,Food,1983.0,1000 tonnes,264.0,S
+Chad,Food,1983.0,1000 tonnes,249.0,S
+United Republic of Tanzania,Food,1983.0,1000 tonnes,206.0,S
+Cameroon,Food,1983.0,1000 tonnes,205.0,S
+Pakistan,Food,1983.0,1000 tonnes,192.0,S
+Mozambique,Food,1983.0,1000 tonnes,177.0,S
+Egypt,Food,1983.0,1000 tonnes,158.0,S
+Rwanda,Food,1983.0,1000 tonnes,148.0,S
+Senegal,Food,1983.0,1000 tonnes,117.0,S
+United States of America,Food,1983.0,1000 tonnes,103.0,S
+Haiti,Food,1983.0,1000 tonnes,100.0,S
+El Salvador,Food,1983.0,1000 tonnes,88.0,S
+Uganda,Food,1983.0,1000 tonnes,80.0,S
+Ghana,Food,1983.0,1000 tonnes,78.0,S
+South Africa,Food,1983.0,1000 tonnes,70.0,S
+Togo,Food,1983.0,1000 tonnes,66.0,S
+Benin,Food,1983.0,1000 tonnes,56.0,S
+Saudi Arabia,Food,1983.0,1000 tonnes,56.0,S
+Nicaragua,Food,1983.0,1000 tonnes,43.0,S
+Mauritania,Food,1983.0,1000 tonnes,38.0,S
+Central African Republic,Food,1983.0,1000 tonnes,33.0,S
+Zimbabwe,Food,1983.0,1000 tonnes,31.0,S
+Botswana,Food,1983.0,1000 tonnes,24.0,S
+Lesotho,Food,1983.0,1000 tonnes,20.0,S
+Guinea,Food,1983.0,1000 tonnes,19.0,S
+Guinea-Bissau,Food,1983.0,1000 tonnes,18.0,S
+Morocco,Food,1983.0,1000 tonnes,17.0,S
+Kenya,Food,1983.0,1000 tonnes,16.0,S
+Democratic People's Republic of Korea,Food,1983.0,1000 tonnes,15.0,S
+Guatemala,Food,1983.0,1000 tonnes,14.0,S
+Honduras,Food,1983.0,1000 tonnes,10.0,S
+Côte d'Ivoire,Food,1983.0,1000 tonnes,9.0,S
+Zambia,Food,1983.0,1000 tonnes,8.0,S
+Gambia,Food,1983.0,1000 tonnes,6.0,S
+Sierra Leone,Food,1983.0,1000 tonnes,6.0,S
+Angola,Food,1983.0,1000 tonnes,5.0,S
+Namibia,Food,1983.0,1000 tonnes,5.0,S
+Other non-specified areas,Food,1983.0,1000 tonnes,4.0,S
+Malawi,Food,1983.0,1000 tonnes,3.0,S
+Tunisia,Food,1983.0,1000 tonnes,3.0,S
+Djibouti,Food,1983.0,1000 tonnes,2.0,S
+Bangladesh,Food,1983.0,1000 tonnes,1.0,S
+Madagascar,Food,1983.0,1000 tonnes,1.0,S
+Spain,Food,1983.0,1000 tonnes,1.0,S
+Algeria,Food,1983.0,1000 tonnes,0.0,S
+Belize,Food,1983.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1983.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1983.0,1000 tonnes,0.0,S
+Eswatini,Food,1983.0,1000 tonnes,0.0,S
+Japan,Food,1983.0,1000 tonnes,0.0,S
+Myanmar,Food,1983.0,1000 tonnes,0.0,S
+Nepal,Food,1983.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1983.0,1000 tonnes,0.0,S
+India,Food,1982.0,1000 tonnes,9550.0,S
+China,Food,1982.0,1000 tonnes,4465.0,A
+Nigeria,Food,1982.0,1000 tonnes,2624.0,S
+Sudan (former),Food,1982.0,1000 tonnes,1526.0,S
+Ethiopia PDR,Food,1982.0,1000 tonnes,1176.0,S
+Yemen,Food,1982.0,1000 tonnes,392.0,S
+Burkina Faso,Food,1982.0,1000 tonnes,350.0,S
+Mali,Food,1982.0,1000 tonnes,308.0,S
+Niger,Food,1982.0,1000 tonnes,258.0,S
+United Republic of Tanzania,Food,1982.0,1000 tonnes,252.0,S
+Chad,Food,1982.0,1000 tonnes,236.0,S
+Cameroon,Food,1982.0,1000 tonnes,221.0,S
+Pakistan,Food,1982.0,1000 tonnes,192.0,S
+Egypt,Food,1982.0,1000 tonnes,183.0,S
+Mozambique,Food,1982.0,1000 tonnes,168.0,S
+Rwanda,Food,1982.0,1000 tonnes,145.0,S
+Senegal,Food,1982.0,1000 tonnes,126.0,S
+United States of America,Food,1982.0,1000 tonnes,107.0,S
+Haiti,Food,1982.0,1000 tonnes,100.0,S
+Uganda,Food,1982.0,1000 tonnes,98.0,S
+Ghana,Food,1982.0,1000 tonnes,83.0,S
+El Salvador,Food,1982.0,1000 tonnes,82.0,S
+South Africa,Food,1982.0,1000 tonnes,73.0,S
+Togo,Food,1982.0,1000 tonnes,64.0,S
+Benin,Food,1982.0,1000 tonnes,56.0,S
+Saudi Arabia,Food,1982.0,1000 tonnes,56.0,S
+Mauritania,Food,1982.0,1000 tonnes,40.0,S
+Zimbabwe,Food,1982.0,1000 tonnes,37.0,S
+Nicaragua,Food,1982.0,1000 tonnes,34.0,S
+Central African Republic,Food,1982.0,1000 tonnes,33.0,S
+Kenya,Food,1982.0,1000 tonnes,28.0,S
+Guinea-Bissau,Food,1982.0,1000 tonnes,25.0,S
+Botswana,Food,1982.0,1000 tonnes,20.0,S
+Morocco,Food,1982.0,1000 tonnes,20.0,S
+Guinea,Food,1982.0,1000 tonnes,19.0,S
+Lesotho,Food,1982.0,1000 tonnes,18.0,S
+Democratic People's Republic of Korea,Food,1982.0,1000 tonnes,16.0,S
+Guatemala,Food,1982.0,1000 tonnes,14.0,S
+Côte d'Ivoire,Food,1982.0,1000 tonnes,12.0,S
+Honduras,Food,1982.0,1000 tonnes,10.0,S
+Malawi,Food,1982.0,1000 tonnes,10.0,S
+Zambia,Food,1982.0,1000 tonnes,9.0,S
+Sierra Leone,Food,1982.0,1000 tonnes,6.0,S
+Gambia,Food,1982.0,1000 tonnes,5.0,S
+Namibia,Food,1982.0,1000 tonnes,5.0,S
+Tunisia,Food,1982.0,1000 tonnes,4.0,S
+Bangladesh,Food,1982.0,1000 tonnes,2.0,S
+Algeria,Food,1982.0,1000 tonnes,1.0,S
+Djibouti,Food,1982.0,1000 tonnes,1.0,S
+Madagascar,Food,1982.0,1000 tonnes,1.0,S
+Spain,Food,1982.0,1000 tonnes,1.0,S
+Angola,Food,1982.0,1000 tonnes,0.0,S
+Belize,Food,1982.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1982.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1982.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1982.0,1000 tonnes,0.0,S
+Eswatini,Food,1982.0,1000 tonnes,0.0,S
+Japan,Food,1982.0,1000 tonnes,0.0,S
+Myanmar,Food,1982.0,1000 tonnes,0.0,S
+Nepal,Food,1982.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1982.0,1000 tonnes,0.0,S
+India,Food,1981.0,1000 tonnes,10721.0,S
+China,Food,1981.0,1000 tonnes,4245.0,A
+Nigeria,Food,1981.0,1000 tonnes,2365.0,S
+Sudan (former),Food,1981.0,1000 tonnes,1647.0,S
+Ethiopia PDR,Food,1981.0,1000 tonnes,1033.0,S
+Yemen,Food,1981.0,1000 tonnes,349.0,S
+Burkina Faso,Food,1981.0,1000 tonnes,302.0,S
+Niger,Food,1981.0,1000 tonnes,279.0,S
+Mali,Food,1981.0,1000 tonnes,270.0,S
+Cameroon,Food,1981.0,1000 tonnes,218.0,S
+Chad,Food,1981.0,1000 tonnes,189.0,S
+United Republic of Tanzania,Food,1981.0,1000 tonnes,185.0,S
+Pakistan,Food,1981.0,1000 tonnes,179.0,S
+Mozambique,Food,1981.0,1000 tonnes,174.0,S
+Rwanda,Food,1981.0,1000 tonnes,139.0,S
+Egypt,Food,1981.0,1000 tonnes,129.0,S
+Senegal,Food,1981.0,1000 tonnes,128.0,S
+Haiti,Food,1981.0,1000 tonnes,105.0,S
+South Africa,Food,1981.0,1000 tonnes,105.0,S
+United States of America,Food,1981.0,1000 tonnes,99.0,S
+El Salvador,Food,1981.0,1000 tonnes,97.0,S
+Uganda,Food,1981.0,1000 tonnes,92.0,S
+Saudi Arabia,Food,1981.0,1000 tonnes,85.0,S
+Ghana,Food,1981.0,1000 tonnes,81.0,S
+Zimbabwe,Food,1981.0,1000 tonnes,80.0,S
+Togo,Food,1981.0,1000 tonnes,77.0,S
+Benin,Food,1981.0,1000 tonnes,57.0,S
+Kenya,Food,1981.0,1000 tonnes,50.0,S
+Mauritania,Food,1981.0,1000 tonnes,42.0,S
+Nicaragua,Food,1981.0,1000 tonnes,38.0,S
+Lesotho,Food,1981.0,1000 tonnes,37.0,S
+Central African Republic,Food,1981.0,1000 tonnes,33.0,S
+Botswana,Food,1981.0,1000 tonnes,22.0,S
+Guinea,Food,1981.0,1000 tonnes,19.0,S
+Malawi,Food,1981.0,1000 tonnes,19.0,S
+Morocco,Food,1981.0,1000 tonnes,18.0,S
+Guinea-Bissau,Food,1981.0,1000 tonnes,16.0,S
+Guatemala,Food,1981.0,1000 tonnes,15.0,S
+Democratic People's Republic of Korea,Food,1981.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1981.0,1000 tonnes,11.0,S
+Honduras,Food,1981.0,1000 tonnes,10.0,S
+Zambia,Food,1981.0,1000 tonnes,9.0,S
+Sierra Leone,Food,1981.0,1000 tonnes,7.0,S
+Bangladesh,Food,1981.0,1000 tonnes,5.0,S
+Namibia,Food,1981.0,1000 tonnes,5.0,S
+Gambia,Food,1981.0,1000 tonnes,4.0,S
+Tunisia,Food,1981.0,1000 tonnes,4.0,S
+Other non-specified areas,Food,1981.0,1000 tonnes,1.0,S
+Djibouti,Food,1981.0,1000 tonnes,1.0,S
+Eswatini,Food,1981.0,1000 tonnes,1.0,S
+Madagascar,Food,1981.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1981.0,1000 tonnes,1.0,S
+Algeria,Food,1981.0,1000 tonnes,0.0,S
+Angola,Food,1981.0,1000 tonnes,0.0,S
+Belize,Food,1981.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1981.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1981.0,1000 tonnes,0.0,S
+Japan,Food,1981.0,1000 tonnes,0.0,S
+Myanmar,Food,1981.0,1000 tonnes,0.0,S
+Nepal,Food,1981.0,1000 tonnes,0.0,S
+Spain,Food,1981.0,1000 tonnes,0.0,S
+India,Food,1980.0,1000 tonnes,9259.0,S
+China,Food,1980.0,1000 tonnes,4560.0,A
+Nigeria,Food,1980.0,1000 tonnes,2592.0,S
+Sudan (former),Food,1980.0,1000 tonnes,1528.0,S
+Ethiopia PDR,Food,1980.0,1000 tonnes,940.0,S
+Yemen,Food,1980.0,1000 tonnes,506.0,S
+Burkina Faso,Food,1980.0,1000 tonnes,344.0,S
+Niger,Food,1980.0,1000 tonnes,267.0,S
+Mali,Food,1980.0,1000 tonnes,241.0,S
+Cameroon,Food,1980.0,1000 tonnes,237.0,S
+United Republic of Tanzania,Food,1980.0,1000 tonnes,219.0,S
+Chad,Food,1980.0,1000 tonnes,203.0,S
+Pakistan,Food,1980.0,1000 tonnes,185.0,S
+Egypt,Food,1980.0,1000 tonnes,172.0,S
+Mozambique,Food,1980.0,1000 tonnes,168.0,S
+Saudi Arabia,Food,1980.0,1000 tonnes,130.0,S
+Rwanda,Food,1980.0,1000 tonnes,127.0,S
+United States of America,Food,1980.0,1000 tonnes,124.0,S
+South Africa,Food,1980.0,1000 tonnes,121.0,S
+Kenya,Food,1980.0,1000 tonnes,109.0,S
+Senegal,Food,1980.0,1000 tonnes,105.0,S
+Uganda,Food,1980.0,1000 tonnes,98.0,S
+Ghana,Food,1980.0,1000 tonnes,94.0,S
+Haiti,Food,1980.0,1000 tonnes,91.0,S
+El Salvador,Food,1980.0,1000 tonnes,90.0,S
+Togo,Food,1980.0,1000 tonnes,70.0,S
+Lesotho,Food,1980.0,1000 tonnes,53.0,S
+Zimbabwe,Food,1980.0,1000 tonnes,52.0,S
+Benin,Food,1980.0,1000 tonnes,48.0,S
+Nicaragua,Food,1980.0,1000 tonnes,34.0,S
+Mauritania,Food,1980.0,1000 tonnes,32.0,S
+Central African Republic,Food,1980.0,1000 tonnes,30.0,S
+Botswana,Food,1980.0,1000 tonnes,23.0,S
+Côte d'Ivoire,Food,1980.0,1000 tonnes,21.0,S
+Morocco,Food,1980.0,1000 tonnes,20.0,S
+Guinea,Food,1980.0,1000 tonnes,19.0,S
+Gambia,Food,1980.0,1000 tonnes,16.0,S
+Democratic People's Republic of Korea,Food,1980.0,1000 tonnes,15.0,S
+Guatemala,Food,1980.0,1000 tonnes,14.0,S
+Guinea-Bissau,Food,1980.0,1000 tonnes,14.0,S
+Malawi,Food,1980.0,1000 tonnes,12.0,S
+Honduras,Food,1980.0,1000 tonnes,11.0,S
+Zambia,Food,1980.0,1000 tonnes,11.0,S
+Sierra Leone,Food,1980.0,1000 tonnes,7.0,S
+Bangladesh,Food,1980.0,1000 tonnes,6.0,S
+Tunisia,Food,1980.0,1000 tonnes,6.0,S
+Eswatini,Food,1980.0,1000 tonnes,4.0,S
+Namibia,Food,1980.0,1000 tonnes,4.0,S
+Other non-specified areas,Food,1980.0,1000 tonnes,2.0,S
+Algeria,Food,1980.0,1000 tonnes,1.0,S
+Djibouti,Food,1980.0,1000 tonnes,1.0,S
+Madagascar,Food,1980.0,1000 tonnes,1.0,S
+Angola,Food,1980.0,1000 tonnes,0.0,S
+Belize,Food,1980.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1980.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1980.0,1000 tonnes,0.0,S
+Japan,Food,1980.0,1000 tonnes,0.0,S
+Myanmar,Food,1980.0,1000 tonnes,0.0,S
+Nepal,Food,1980.0,1000 tonnes,0.0,S
+Spain,Food,1980.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1980.0,1000 tonnes,0.0,S
+India,Food,1979.0,1000 tonnes,10337.0,S
+China,Food,1979.0,1000 tonnes,4861.0,A
+Nigeria,Food,1979.0,1000 tonnes,1938.0,S
+Sudan (former),Food,1979.0,1000 tonnes,1515.0,S
+Ethiopia PDR,Food,1979.0,1000 tonnes,1078.0,S
+Yemen,Food,1979.0,1000 tonnes,515.0,S
+Burkina Faso,Food,1979.0,1000 tonnes,349.0,S
+Mali,Food,1979.0,1000 tonnes,337.0,S
+Niger,Food,1979.0,1000 tonnes,277.0,S
+United Republic of Tanzania,Food,1979.0,1000 tonnes,274.0,S
+Cameroon,Food,1979.0,1000 tonnes,231.0,S
+Chad,Food,1979.0,1000 tonnes,223.0,S
+Pakistan,Food,1979.0,1000 tonnes,210.0,S
+Egypt,Food,1979.0,1000 tonnes,180.0,S
+Saudi Arabia,Food,1979.0,1000 tonnes,154.0,S
+United States of America,Food,1979.0,1000 tonnes,147.0,S
+Rwanda,Food,1979.0,1000 tonnes,129.0,S
+Mozambique,Food,1979.0,1000 tonnes,127.0,S
+Senegal,Food,1979.0,1000 tonnes,118.0,S
+South Africa,Food,1979.0,1000 tonnes,114.0,S
+Uganda,Food,1979.0,1000 tonnes,109.0,S
+Ghana,Food,1979.0,1000 tonnes,105.0,S
+Haiti,Food,1979.0,1000 tonnes,100.0,S
+Kenya,Food,1979.0,1000 tonnes,99.0,S
+El Salvador,Food,1979.0,1000 tonnes,86.0,S
+Togo,Food,1979.0,1000 tonnes,55.0,S
+Benin,Food,1979.0,1000 tonnes,51.0,S
+Lesotho,Food,1979.0,1000 tonnes,47.0,S
+Mauritania,Food,1979.0,1000 tonnes,32.0,S
+Central African Republic,Food,1979.0,1000 tonnes,31.0,S
+Zimbabwe,Food,1979.0,1000 tonnes,31.0,S
+Nicaragua,Food,1979.0,1000 tonnes,24.0,S
+Botswana,Food,1979.0,1000 tonnes,22.0,S
+Morocco,Food,1979.0,1000 tonnes,22.0,S
+Côte d'Ivoire,Food,1979.0,1000 tonnes,21.0,S
+Guinea,Food,1979.0,1000 tonnes,19.0,S
+Malawi,Food,1979.0,1000 tonnes,19.0,S
+Democratic People's Republic of Korea,Food,1979.0,1000 tonnes,16.0,S
+Zambia,Food,1979.0,1000 tonnes,16.0,S
+Honduras,Food,1979.0,1000 tonnes,12.0,S
+Guinea-Bissau,Food,1979.0,1000 tonnes,11.0,S
+Guatemala,Food,1979.0,1000 tonnes,10.0,S
+Gambia,Food,1979.0,1000 tonnes,8.0,S
+Sierra Leone,Food,1979.0,1000 tonnes,7.0,S
+Bangladesh,Food,1979.0,1000 tonnes,6.0,S
+Tunisia,Food,1979.0,1000 tonnes,5.0,S
+Eswatini,Food,1979.0,1000 tonnes,4.0,S
+Namibia,Food,1979.0,1000 tonnes,4.0,S
+Other non-specified areas,Food,1979.0,1000 tonnes,1.0,S
+Djibouti,Food,1979.0,1000 tonnes,1.0,S
+Madagascar,Food,1979.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1979.0,1000 tonnes,1.0,S
+Algeria,Food,1979.0,1000 tonnes,0.0,S
+Angola,Food,1979.0,1000 tonnes,0.0,S
+Belize,Food,1979.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1979.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1979.0,1000 tonnes,0.0,S
+Japan,Food,1979.0,1000 tonnes,0.0,S
+Myanmar,Food,1979.0,1000 tonnes,0.0,S
+Nepal,Food,1979.0,1000 tonnes,0.0,S
+Spain,Food,1979.0,1000 tonnes,0.0,S
+India,Food,1978.0,1000 tonnes,10148.0,S
+China,Food,1978.0,1000 tonnes,4968.0,A
+Nigeria,Food,1978.0,1000 tonnes,1669.0,S
+Sudan (former),Food,1978.0,1000 tonnes,1666.0,S
+Ethiopia PDR,Food,1978.0,1000 tonnes,924.0,S
+Yemen,Food,1978.0,1000 tonnes,533.0,S
+Burkina Faso,Food,1978.0,1000 tonnes,351.0,S
+Niger,Food,1978.0,1000 tonnes,262.0,S
+Mali,Food,1978.0,1000 tonnes,244.0,S
+Chad,Food,1978.0,1000 tonnes,240.0,S
+Pakistan,Food,1978.0,1000 tonnes,219.0,S
+Cameroon,Food,1978.0,1000 tonnes,216.0,S
+United Republic of Tanzania,Food,1978.0,1000 tonnes,193.0,S
+Egypt,Food,1978.0,1000 tonnes,188.0,S
+Mozambique,Food,1978.0,1000 tonnes,178.0,S
+United States of America,Food,1978.0,1000 tonnes,149.0,S
+Senegal,Food,1978.0,1000 tonnes,141.0,S
+Saudi Arabia,Food,1978.0,1000 tonnes,131.0,S
+Rwanda,Food,1978.0,1000 tonnes,130.0,S
+Kenya,Food,1978.0,1000 tonnes,118.0,S
+South Africa,Food,1978.0,1000 tonnes,111.0,S
+Uganda,Food,1978.0,1000 tonnes,106.0,S
+Ghana,Food,1978.0,1000 tonnes,82.0,S
+Haiti,Food,1978.0,1000 tonnes,82.0,S
+El Salvador,Food,1978.0,1000 tonnes,75.0,S
+Togo,Food,1978.0,1000 tonnes,62.0,S
+Lesotho,Food,1978.0,1000 tonnes,60.0,S
+Benin,Food,1978.0,1000 tonnes,55.0,S
+Zimbabwe,Food,1978.0,1000 tonnes,48.0,S
+Mauritania,Food,1978.0,1000 tonnes,38.0,S
+Nicaragua,Food,1978.0,1000 tonnes,31.0,S
+Central African Republic,Food,1978.0,1000 tonnes,27.0,S
+Morocco,Food,1978.0,1000 tonnes,25.0,S
+Zambia,Food,1978.0,1000 tonnes,23.0,S
+Botswana,Food,1978.0,1000 tonnes,20.0,S
+Côte d'Ivoire,Food,1978.0,1000 tonnes,20.0,S
+Guinea,Food,1978.0,1000 tonnes,17.0,S
+Democratic People's Republic of Korea,Food,1978.0,1000 tonnes,16.0,S
+Guinea-Bissau,Food,1978.0,1000 tonnes,12.0,S
+Malawi,Food,1978.0,1000 tonnes,12.0,S
+Honduras,Food,1978.0,1000 tonnes,11.0,S
+Guatemala,Food,1978.0,1000 tonnes,10.0,S
+Bangladesh,Food,1978.0,1000 tonnes,9.0,S
+Sierra Leone,Food,1978.0,1000 tonnes,7.0,S
+Gambia,Food,1978.0,1000 tonnes,5.0,S
+Tunisia,Food,1978.0,1000 tonnes,5.0,S
+Namibia,Food,1978.0,1000 tonnes,4.0,S
+Eswatini,Food,1978.0,1000 tonnes,3.0,S
+Sri Lanka,Food,1978.0,1000 tonnes,2.0,S
+Other non-specified areas,Food,1978.0,1000 tonnes,1.0,S
+Madagascar,Food,1978.0,1000 tonnes,1.0,S
+Algeria,Food,1978.0,1000 tonnes,0.0,S
+Angola,Food,1978.0,1000 tonnes,0.0,S
+Belize,Food,1978.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1978.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1978.0,1000 tonnes,0.0,S
+Djibouti,Food,1978.0,1000 tonnes,0.0,S
+Japan,Food,1978.0,1000 tonnes,0.0,S
+Myanmar,Food,1978.0,1000 tonnes,0.0,S
+Nepal,Food,1978.0,1000 tonnes,0.0,S
+Spain,Food,1978.0,1000 tonnes,0.0,S
+India,Food,1977.0,1000 tonnes,10712.0,S
+China,Food,1977.0,1000 tonnes,5505.0,A
+Nigeria,Food,1977.0,1000 tonnes,2277.0,S
+Sudan (former),Food,1977.0,1000 tonnes,1353.0,S
+Ethiopia PDR,Food,1977.0,1000 tonnes,750.0,S
+Yemen,Food,1977.0,1000 tonnes,559.0,S
+Burkina Faso,Food,1977.0,1000 tonnes,294.0,S
+Mali,Food,1977.0,1000 tonnes,274.0,S
+Pakistan,Food,1977.0,1000 tonnes,242.0,S
+Chad,Food,1977.0,1000 tonnes,237.0,S
+Niger,Food,1977.0,1000 tonnes,227.0,S
+Mozambique,Food,1977.0,1000 tonnes,206.0,S
+Cameroon,Food,1977.0,1000 tonnes,198.0,S
+Egypt,Food,1977.0,1000 tonnes,193.0,S
+United Republic of Tanzania,Food,1977.0,1000 tonnes,149.0,S
+United States of America,Food,1977.0,1000 tonnes,149.0,S
+Uganda,Food,1977.0,1000 tonnes,121.0,S
+Saudi Arabia,Food,1977.0,1000 tonnes,120.0,S
+Rwanda,Food,1977.0,1000 tonnes,119.0,S
+Kenya,Food,1977.0,1000 tonnes,118.0,S
+South Africa,Food,1977.0,1000 tonnes,114.0,S
+Senegal,Food,1977.0,1000 tonnes,110.0,S
+Ghana,Food,1977.0,1000 tonnes,97.0,S
+Haiti,Food,1977.0,1000 tonnes,92.0,S
+El Salvador,Food,1977.0,1000 tonnes,83.0,S
+Benin,Food,1977.0,1000 tonnes,57.0,S
+Malawi,Food,1977.0,1000 tonnes,54.0,S
+Lesotho,Food,1977.0,1000 tonnes,46.0,S
+Botswana,Food,1977.0,1000 tonnes,35.0,S
+Mauritania,Food,1977.0,1000 tonnes,33.0,S
+Zimbabwe,Food,1977.0,1000 tonnes,33.0,S
+Central African Republic,Food,1977.0,1000 tonnes,28.0,S
+Morocco,Food,1977.0,1000 tonnes,25.0,S
+Côte d'Ivoire,Food,1977.0,1000 tonnes,22.0,S
+Nicaragua,Food,1977.0,1000 tonnes,21.0,S
+Zambia,Food,1977.0,1000 tonnes,21.0,S
+Honduras,Food,1977.0,1000 tonnes,20.0,S
+Guinea,Food,1977.0,1000 tonnes,19.0,S
+Democratic People's Republic of Korea,Food,1977.0,1000 tonnes,16.0,S
+Guatemala,Food,1977.0,1000 tonnes,10.0,S
+Guinea-Bissau,Food,1977.0,1000 tonnes,10.0,S
+Sierra Leone,Food,1977.0,1000 tonnes,6.0,S
+Tunisia,Food,1977.0,1000 tonnes,6.0,S
+Namibia,Food,1977.0,1000 tonnes,4.0,S
+Eswatini,Food,1977.0,1000 tonnes,3.0,S
+Gambia,Food,1977.0,1000 tonnes,3.0,S
+Bangladesh,Food,1977.0,1000 tonnes,2.0,S
+Sri Lanka,Food,1977.0,1000 tonnes,2.0,S
+Algeria,Food,1977.0,1000 tonnes,1.0,S
+Angola,Food,1977.0,1000 tonnes,0.0,S
+Belize,Food,1977.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1977.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1977.0,1000 tonnes,0.0,S
+Other non-specified areas,Food,1977.0,1000 tonnes,0.0,S
+Djibouti,Food,1977.0,1000 tonnes,0.0,S
+Japan,Food,1977.0,1000 tonnes,0.0,S
+Madagascar,Food,1977.0,1000 tonnes,0.0,S
+Myanmar,Food,1977.0,1000 tonnes,0.0,S
+Nepal,Food,1977.0,1000 tonnes,0.0,S
+Spain,Food,1977.0,1000 tonnes,0.0,S
+Togo,Food,1977.0,1000 tonnes,0.0,S
+India,Food,1976.0,1000 tonnes,9734.0,S
+China,Food,1976.0,1000 tonnes,5788.0,A
+Nigeria,Food,1976.0,1000 tonnes,2322.0,S
+Sudan (former),Food,1976.0,1000 tonnes,1390.0,S
+Ethiopia PDR,Food,1976.0,1000 tonnes,817.0,S
+Yemen,Food,1976.0,1000 tonnes,607.0,S
+Burkina Faso,Food,1976.0,1000 tonnes,367.0,S
+Mali,Food,1976.0,1000 tonnes,300.0,S
+Niger,Food,1976.0,1000 tonnes,235.0,S
+Chad,Food,1976.0,1000 tonnes,234.0,S
+Mozambique,Food,1976.0,1000 tonnes,224.0,S
+Pakistan,Food,1976.0,1000 tonnes,220.0,S
+Egypt,Food,1976.0,1000 tonnes,194.0,S
+Cameroon,Food,1976.0,1000 tonnes,186.0,S
+United States of America,Food,1976.0,1000 tonnes,151.0,S
+Uganda,Food,1976.0,1000 tonnes,144.0,S
+Saudi Arabia,Food,1976.0,1000 tonnes,142.0,S
+United Republic of Tanzania,Food,1976.0,1000 tonnes,127.0,S
+Ghana,Food,1976.0,1000 tonnes,121.0,S
+Kenya,Food,1976.0,1000 tonnes,120.0,S
+South Africa,Food,1976.0,1000 tonnes,115.0,S
+Haiti,Food,1976.0,1000 tonnes,112.0,S
+Rwanda,Food,1976.0,1000 tonnes,112.0,S
+Senegal,Food,1976.0,1000 tonnes,106.0,S
+Zimbabwe,Food,1976.0,1000 tonnes,93.0,S
+El Salvador,Food,1976.0,1000 tonnes,83.0,S
+Benin,Food,1976.0,1000 tonnes,59.0,S
+Other non-specified areas,Food,1976.0,1000 tonnes,47.0,S
+Malawi,Food,1976.0,1000 tonnes,42.0,S
+Mauritania,Food,1976.0,1000 tonnes,37.0,S
+Botswana,Food,1976.0,1000 tonnes,34.0,S
+Zambia,Food,1976.0,1000 tonnes,30.0,S
+Central African Republic,Food,1976.0,1000 tonnes,28.0,S
+Morocco,Food,1976.0,1000 tonnes,28.0,S
+Côte d'Ivoire,Food,1976.0,1000 tonnes,22.0,S
+Nicaragua,Food,1976.0,1000 tonnes,21.0,S
+Democratic People's Republic of Korea,Food,1976.0,1000 tonnes,20.0,S
+Lesotho,Food,1976.0,1000 tonnes,20.0,S
+Guinea,Food,1976.0,1000 tonnes,19.0,S
+Honduras,Food,1976.0,1000 tonnes,19.0,S
+Guatemala,Food,1976.0,1000 tonnes,10.0,S
+Gambia,Food,1976.0,1000 tonnes,6.0,S
+Guinea-Bissau,Food,1976.0,1000 tonnes,6.0,S
+Tunisia,Food,1976.0,1000 tonnes,6.0,S
+Eswatini,Food,1976.0,1000 tonnes,5.0,S
+Sierra Leone,Food,1976.0,1000 tonnes,5.0,S
+Namibia,Food,1976.0,1000 tonnes,4.0,S
+Sri Lanka,Food,1976.0,1000 tonnes,3.0,S
+Algeria,Food,1976.0,1000 tonnes,1.0,S
+Bangladesh,Food,1976.0,1000 tonnes,1.0,S
+Angola,Food,1976.0,1000 tonnes,0.0,S
+Belize,Food,1976.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1976.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1976.0,1000 tonnes,0.0,S
+Djibouti,Food,1976.0,1000 tonnes,0.0,S
+Japan,Food,1976.0,1000 tonnes,0.0,S
+Madagascar,Food,1976.0,1000 tonnes,0.0,S
+Myanmar,Food,1976.0,1000 tonnes,0.0,S
+Nepal,Food,1976.0,1000 tonnes,0.0,S
+Spain,Food,1976.0,1000 tonnes,0.0,S
+Togo,Food,1976.0,1000 tonnes,0.0,S
+India,Food,1975.0,1000 tonnes,8638.0,S
+China,Food,1975.0,1000 tonnes,6195.0,A
+Nigeria,Food,1975.0,1000 tonnes,2279.0,S
+Sudan (former),Food,1975.0,1000 tonnes,1318.0,S
+Ethiopia PDR,Food,1975.0,1000 tonnes,630.0,S
+Yemen,Food,1975.0,1000 tonnes,590.0,S
+Burkina Faso,Food,1975.0,1000 tonnes,343.0,S
+Mali,Food,1975.0,1000 tonnes,256.0,S
+Pakistan,Food,1975.0,1000 tonnes,243.0,S
+Chad,Food,1975.0,1000 tonnes,242.0,S
+Egypt,Food,1975.0,1000 tonnes,242.0,S
+Niger,Food,1975.0,1000 tonnes,198.0,S
+Cameroon,Food,1975.0,1000 tonnes,185.0,S
+Mozambique,Food,1975.0,1000 tonnes,160.0,S
+United States of America,Food,1975.0,1000 tonnes,149.0,S
+Senegal,Food,1975.0,1000 tonnes,121.0,S
+Kenya,Food,1975.0,1000 tonnes,117.0,S
+Haiti,Food,1975.0,1000 tonnes,113.0,S
+Saudi Arabia,Food,1975.0,1000 tonnes,112.0,S
+South Africa,Food,1975.0,1000 tonnes,111.0,S
+United Republic of Tanzania,Food,1975.0,1000 tonnes,106.0,S
+Uganda,Food,1975.0,1000 tonnes,102.0,S
+Rwanda,Food,1975.0,1000 tonnes,99.0,S
+El Salvador,Food,1975.0,1000 tonnes,96.0,S
+Ghana,Food,1975.0,1000 tonnes,88.0,S
+Zimbabwe,Food,1975.0,1000 tonnes,84.0,S
+Other non-specified areas,Food,1975.0,1000 tonnes,58.0,S
+Benin,Food,1975.0,1000 tonnes,54.0,S
+Malawi,Food,1975.0,1000 tonnes,42.0,S
+Mauritania,Food,1975.0,1000 tonnes,36.0,S
+Botswana,Food,1975.0,1000 tonnes,34.0,S
+Lesotho,Food,1975.0,1000 tonnes,29.0,S
+Central African Republic,Food,1975.0,1000 tonnes,28.0,S
+Zambia,Food,1975.0,1000 tonnes,25.0,S
+Nicaragua,Food,1975.0,1000 tonnes,24.0,S
+Morocco,Food,1975.0,1000 tonnes,23.0,S
+Honduras,Food,1975.0,1000 tonnes,21.0,S
+Democratic People's Republic of Korea,Food,1975.0,1000 tonnes,20.0,S
+Guinea,Food,1975.0,1000 tonnes,19.0,S
+Guatemala,Food,1975.0,1000 tonnes,10.0,S
+Côte d'Ivoire,Food,1975.0,1000 tonnes,7.0,S
+Gambia,Food,1975.0,1000 tonnes,6.0,S
+Tunisia,Food,1975.0,1000 tonnes,6.0,S
+Eswatini,Food,1975.0,1000 tonnes,5.0,S
+Guinea-Bissau,Food,1975.0,1000 tonnes,5.0,S
+Sri Lanka,Food,1975.0,1000 tonnes,5.0,S
+Namibia,Food,1975.0,1000 tonnes,4.0,S
+Sierra Leone,Food,1975.0,1000 tonnes,4.0,S
+Madagascar,Food,1975.0,1000 tonnes,2.0,S
+Algeria,Food,1975.0,1000 tonnes,1.0,S
+Bangladesh,Food,1975.0,1000 tonnes,1.0,S
+Angola,Food,1975.0,1000 tonnes,0.0,S
+Belize,Food,1975.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1975.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1975.0,1000 tonnes,0.0,S
+Djibouti,Food,1975.0,1000 tonnes,0.0,S
+Japan,Food,1975.0,1000 tonnes,0.0,S
+Myanmar,Food,1975.0,1000 tonnes,0.0,S
+Nepal,Food,1975.0,1000 tonnes,0.0,S
+Spain,Food,1975.0,1000 tonnes,0.0,S
+Togo,Food,1975.0,1000 tonnes,0.0,S
+India,Food,1974.0,1000 tonnes,9932.0,S
+China,Food,1974.0,1000 tonnes,6347.0,A
+Nigeria,Food,1974.0,1000 tonnes,2561.0,S
+Sudan (former),Food,1974.0,1000 tonnes,1358.0,S
+Ethiopia PDR,Food,1974.0,1000 tonnes,741.0,S
+Yemen,Food,1974.0,1000 tonnes,577.0,S
+Burkina Faso,Food,1974.0,1000 tonnes,285.0,S
+Egypt,Food,1974.0,1000 tonnes,266.0,S
+Pakistan,Food,1974.0,1000 tonnes,266.0,S
+Chad,Food,1974.0,1000 tonnes,238.0,S
+Mali,Food,1974.0,1000 tonnes,210.0,S
+Niger,Food,1974.0,1000 tonnes,209.0,S
+Mozambique,Food,1974.0,1000 tonnes,192.0,S
+Cameroon,Food,1974.0,1000 tonnes,182.0,S
+Senegal,Food,1974.0,1000 tonnes,132.0,S
+Uganda,Food,1974.0,1000 tonnes,119.0,S
+Zimbabwe,Food,1974.0,1000 tonnes,119.0,S
+Kenya,Food,1974.0,1000 tonnes,117.0,S
+Ghana,Food,1974.0,1000 tonnes,116.0,S
+Haiti,Food,1974.0,1000 tonnes,113.0,S
+South Africa,Food,1974.0,1000 tonnes,102.0,S
+Saudi Arabia,Food,1974.0,1000 tonnes,99.0,S
+Rwanda,Food,1974.0,1000 tonnes,96.0,S
+United Republic of Tanzania,Food,1974.0,1000 tonnes,82.0,S
+El Salvador,Food,1974.0,1000 tonnes,80.0,S
+Lesotho,Food,1974.0,1000 tonnes,61.0,S
+Benin,Food,1974.0,1000 tonnes,58.0,S
+Malawi,Food,1974.0,1000 tonnes,39.0,S
+Mauritania,Food,1974.0,1000 tonnes,38.0,S
+Morocco,Food,1974.0,1000 tonnes,35.0,S
+Botswana,Food,1974.0,1000 tonnes,34.0,S
+Nicaragua,Food,1974.0,1000 tonnes,23.0,S
+Democratic People's Republic of Korea,Food,1974.0,1000 tonnes,21.0,S
+Guinea,Food,1974.0,1000 tonnes,21.0,S
+Zambia,Food,1974.0,1000 tonnes,20.0,S
+Honduras,Food,1974.0,1000 tonnes,19.0,S
+Other non-specified areas,Food,1974.0,1000 tonnes,18.0,S
+Central African Republic,Food,1974.0,1000 tonnes,17.0,S
+Côte d'Ivoire,Food,1974.0,1000 tonnes,13.0,S
+Gambia,Food,1974.0,1000 tonnes,6.0,S
+Guatemala,Food,1974.0,1000 tonnes,6.0,S
+Tunisia,Food,1974.0,1000 tonnes,6.0,S
+Eswatini,Food,1974.0,1000 tonnes,5.0,S
+Guinea-Bissau,Food,1974.0,1000 tonnes,4.0,S
+Namibia,Food,1974.0,1000 tonnes,4.0,S
+Sierra Leone,Food,1974.0,1000 tonnes,4.0,S
+Sri Lanka,Food,1974.0,1000 tonnes,4.0,S
+Madagascar,Food,1974.0,1000 tonnes,2.0,S
+Bangladesh,Food,1974.0,1000 tonnes,1.0,S
+Algeria,Food,1974.0,1000 tonnes,0.0,S
+Angola,Food,1974.0,1000 tonnes,0.0,S
+Belize,Food,1974.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1974.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1974.0,1000 tonnes,0.0,S
+Djibouti,Food,1974.0,1000 tonnes,0.0,S
+Japan,Food,1974.0,1000 tonnes,0.0,S
+Myanmar,Food,1974.0,1000 tonnes,0.0,S
+Nepal,Food,1974.0,1000 tonnes,0.0,S
+Spain,Food,1974.0,1000 tonnes,0.0,S
+Togo,Food,1974.0,1000 tonnes,0.0,S
+United States of America,Food,1974.0,1000 tonnes,0.0,S
+India,Food,1973.0,1000 tonnes,9250.0,S
+China,Food,1973.0,1000 tonnes,6678.0,A
+Nigeria,Food,1973.0,1000 tonnes,2140.0,S
+Sudan (former),Food,1973.0,1000 tonnes,1251.0,S
+Ethiopia PDR,Food,1973.0,1000 tonnes,741.0,S
+Yemen,Food,1973.0,1000 tonnes,548.0,S
+Pakistan,Food,1973.0,1000 tonnes,321.0,S
+Egypt,Food,1973.0,1000 tonnes,283.0,S
+Burkina Faso,Food,1973.0,1000 tonnes,265.0,S
+Chad,Food,1973.0,1000 tonnes,224.0,S
+Niger,Food,1973.0,1000 tonnes,205.0,S
+Mali,Food,1973.0,1000 tonnes,201.0,S
+Mozambique,Food,1973.0,1000 tonnes,190.0,S
+Cameroon,Food,1973.0,1000 tonnes,180.0,S
+Uganda,Food,1973.0,1000 tonnes,126.0,S
+Kenya,Food,1973.0,1000 tonnes,123.0,S
+South Africa,Food,1973.0,1000 tonnes,116.0,S
+Senegal,Food,1973.0,1000 tonnes,114.0,S
+Haiti,Food,1973.0,1000 tonnes,113.0,S
+Ghana,Food,1973.0,1000 tonnes,109.0,S
+Rwanda,Food,1973.0,1000 tonnes,107.0,S
+United Republic of Tanzania,Food,1973.0,1000 tonnes,82.0,S
+El Salvador,Food,1973.0,1000 tonnes,80.0,S
+Benin,Food,1973.0,1000 tonnes,56.0,S
+Botswana,Food,1973.0,1000 tonnes,52.0,S
+Mauritania,Food,1973.0,1000 tonnes,43.0,S
+Malawi,Food,1973.0,1000 tonnes,38.0,S
+Morocco,Food,1973.0,1000 tonnes,37.0,S
+Zimbabwe,Food,1973.0,1000 tonnes,36.0,S
+Lesotho,Food,1973.0,1000 tonnes,32.0,S
+Zambia,Food,1973.0,1000 tonnes,27.0,S
+Democratic People's Republic of Korea,Food,1973.0,1000 tonnes,21.0,S
+Guinea,Food,1973.0,1000 tonnes,19.0,S
+Saudi Arabia,Food,1973.0,1000 tonnes,18.0,S
+Nicaragua,Food,1973.0,1000 tonnes,17.0,S
+Honduras,Food,1973.0,1000 tonnes,15.0,S
+Other non-specified areas,Food,1973.0,1000 tonnes,14.0,S
+Côte d'Ivoire,Food,1973.0,1000 tonnes,11.0,S
+Central African Republic,Food,1973.0,1000 tonnes,10.0,S
+Gambia,Food,1973.0,1000 tonnes,6.0,S
+Tunisia,Food,1973.0,1000 tonnes,6.0,S
+Eswatini,Food,1973.0,1000 tonnes,5.0,S
+Guatemala,Food,1973.0,1000 tonnes,5.0,S
+Sierra Leone,Food,1973.0,1000 tonnes,4.0,S
+Guinea-Bissau,Food,1973.0,1000 tonnes,3.0,S
+Namibia,Food,1973.0,1000 tonnes,3.0,S
+Algeria,Food,1973.0,1000 tonnes,1.0,S
+Bangladesh,Food,1973.0,1000 tonnes,1.0,S
+Madagascar,Food,1973.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1973.0,1000 tonnes,1.0,S
+Angola,Food,1973.0,1000 tonnes,0.0,S
+Belize,Food,1973.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1973.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1973.0,1000 tonnes,0.0,S
+Djibouti,Food,1973.0,1000 tonnes,0.0,S
+Japan,Food,1973.0,1000 tonnes,0.0,S
+Myanmar,Food,1973.0,1000 tonnes,0.0,S
+Nepal,Food,1973.0,1000 tonnes,0.0,S
+Spain,Food,1973.0,1000 tonnes,0.0,S
+Togo,Food,1973.0,1000 tonnes,0.0,S
+United States of America,Food,1973.0,1000 tonnes,0.0,S
+China,Food,1972.0,1000 tonnes,6427.0,A
+India,Food,1972.0,1000 tonnes,6183.0,S
+Nigeria,Food,1972.0,1000 tonnes,2324.0,S
+Sudan (former),Food,1972.0,1000 tonnes,1173.0,S
+Ethiopia PDR,Food,1972.0,1000 tonnes,677.0,S
+Yemen,Food,1972.0,1000 tonnes,588.0,S
+Egypt,Food,1972.0,1000 tonnes,280.0,S
+Pakistan,Food,1972.0,1000 tonnes,257.0,S
+Burkina Faso,Food,1972.0,1000 tonnes,252.0,S
+Chad,Food,1972.0,1000 tonnes,236.0,S
+Mali,Food,1972.0,1000 tonnes,235.0,S
+Niger,Food,1972.0,1000 tonnes,197.0,S
+Mozambique,Food,1972.0,1000 tonnes,187.0,S
+Cameroon,Food,1972.0,1000 tonnes,185.0,S
+Haiti,Food,1972.0,1000 tonnes,137.0,S
+Ghana,Food,1972.0,1000 tonnes,126.0,S
+Kenya,Food,1972.0,1000 tonnes,123.0,S
+South Africa,Food,1972.0,1000 tonnes,110.0,S
+Uganda,Food,1972.0,1000 tonnes,107.0,S
+Rwanda,Food,1972.0,1000 tonnes,106.0,S
+El Salvador,Food,1972.0,1000 tonnes,85.0,S
+Zimbabwe,Food,1972.0,1000 tonnes,84.0,S
+Senegal,Food,1972.0,1000 tonnes,80.0,S
+United Republic of Tanzania,Food,1972.0,1000 tonnes,74.0,S
+Botswana,Food,1972.0,1000 tonnes,54.0,S
+Saudi Arabia,Food,1972.0,1000 tonnes,41.0,S
+Benin,Food,1972.0,1000 tonnes,40.0,S
+Mauritania,Food,1972.0,1000 tonnes,38.0,S
+Morocco,Food,1972.0,1000 tonnes,37.0,S
+Malawi,Food,1972.0,1000 tonnes,34.0,S
+Zambia,Food,1972.0,1000 tonnes,34.0,S
+Democratic People's Republic of Korea,Food,1972.0,1000 tonnes,22.0,S
+Nicaragua,Food,1972.0,1000 tonnes,20.0,S
+Guinea,Food,1972.0,1000 tonnes,19.0,S
+Honduras,Food,1972.0,1000 tonnes,17.0,S
+Lesotho,Food,1972.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1972.0,1000 tonnes,13.0,S
+Central African Republic,Food,1972.0,1000 tonnes,10.0,S
+Tunisia,Food,1972.0,1000 tonnes,8.0,S
+Gambia,Food,1972.0,1000 tonnes,6.0,S
+Eswatini,Food,1972.0,1000 tonnes,5.0,S
+Guatemala,Food,1972.0,1000 tonnes,4.0,S
+Sierra Leone,Food,1972.0,1000 tonnes,4.0,S
+Madagascar,Food,1972.0,1000 tonnes,3.0,S
+Namibia,Food,1972.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1972.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1972.0,1000 tonnes,2.0,S
+Bangladesh,Food,1972.0,1000 tonnes,1.0,S
+Algeria,Food,1972.0,1000 tonnes,0.0,S
+Angola,Food,1972.0,1000 tonnes,0.0,S
+Belize,Food,1972.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1972.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1972.0,1000 tonnes,0.0,S
+Djibouti,Food,1972.0,1000 tonnes,0.0,S
+Japan,Food,1972.0,1000 tonnes,0.0,S
+Myanmar,Food,1972.0,1000 tonnes,0.0,S
+Nepal,Food,1972.0,1000 tonnes,0.0,S
+Spain,Food,1972.0,1000 tonnes,0.0,S
+Sri Lanka,Food,1972.0,1000 tonnes,0.0,S
+Togo,Food,1972.0,1000 tonnes,0.0,S
+United States of America,Food,1972.0,1000 tonnes,0.0,S
+China,Food,1971.0,1000 tonnes,6858.0,A
+India,Food,1971.0,1000 tonnes,6850.0,S
+Nigeria,Food,1971.0,1000 tonnes,2348.0,S
+Sudan (former),Food,1971.0,1000 tonnes,1176.0,S
+Ethiopia PDR,Food,1971.0,1000 tonnes,678.0,S
+Yemen,Food,1971.0,1000 tonnes,593.0,S
+Egypt,Food,1971.0,1000 tonnes,323.0,S
+Burkina Faso,Food,1971.0,1000 tonnes,286.0,S
+Chad,Food,1971.0,1000 tonnes,273.0,S
+Pakistan,Food,1971.0,1000 tonnes,261.0,S
+Mali,Food,1971.0,1000 tonnes,236.0,S
+Niger,Food,1971.0,1000 tonnes,203.0,S
+Cameroon,Food,1971.0,1000 tonnes,197.0,S
+Mozambique,Food,1971.0,1000 tonnes,183.0,S
+Uganda,Food,1971.0,1000 tonnes,140.0,S
+Haiti,Food,1971.0,1000 tonnes,135.0,S
+Ghana,Food,1971.0,1000 tonnes,120.0,S
+Kenya,Food,1971.0,1000 tonnes,118.0,S
+South Africa,Food,1971.0,1000 tonnes,118.0,S
+Rwanda,Food,1971.0,1000 tonnes,110.0,S
+Saudi Arabia,Food,1971.0,1000 tonnes,110.0,S
+Zimbabwe,Food,1971.0,1000 tonnes,84.0,S
+Senegal,Food,1971.0,1000 tonnes,83.0,S
+El Salvador,Food,1971.0,1000 tonnes,81.0,S
+United Republic of Tanzania,Food,1971.0,1000 tonnes,64.0,S
+Botswana,Food,1971.0,1000 tonnes,46.0,S
+Lesotho,Food,1971.0,1000 tonnes,44.0,S
+Mauritania,Food,1971.0,1000 tonnes,41.0,S
+Benin,Food,1971.0,1000 tonnes,39.0,S
+Morocco,Food,1971.0,1000 tonnes,36.0,S
+Zambia,Food,1971.0,1000 tonnes,33.0,S
+Malawi,Food,1971.0,1000 tonnes,31.0,S
+Democratic People's Republic of Korea,Food,1971.0,1000 tonnes,23.0,S
+Nicaragua,Food,1971.0,1000 tonnes,23.0,S
+Central African Republic,Food,1971.0,1000 tonnes,20.0,S
+Guinea,Food,1971.0,1000 tonnes,19.0,S
+Honduras,Food,1971.0,1000 tonnes,16.0,S
+Côte d'Ivoire,Food,1971.0,1000 tonnes,11.0,S
+Tunisia,Food,1971.0,1000 tonnes,7.0,S
+Eswatini,Food,1971.0,1000 tonnes,6.0,S
+Gambia,Food,1971.0,1000 tonnes,6.0,S
+Guatemala,Food,1971.0,1000 tonnes,4.0,S
+Sierra Leone,Food,1971.0,1000 tonnes,4.0,S
+Namibia,Food,1971.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1971.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1971.0,1000 tonnes,2.0,S
+Madagascar,Food,1971.0,1000 tonnes,2.0,S
+Bangladesh,Food,1971.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1971.0,1000 tonnes,1.0,S
+Algeria,Food,1971.0,1000 tonnes,0.0,S
+Angola,Food,1971.0,1000 tonnes,0.0,S
+Belize,Food,1971.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1971.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1971.0,1000 tonnes,0.0,S
+Djibouti,Food,1971.0,1000 tonnes,0.0,S
+Japan,Food,1971.0,1000 tonnes,0.0,S
+Myanmar,Food,1971.0,1000 tonnes,0.0,S
+Nepal,Food,1971.0,1000 tonnes,0.0,S
+Spain,Food,1971.0,1000 tonnes,0.0,S
+Togo,Food,1971.0,1000 tonnes,0.0,S
+United States of America,Food,1971.0,1000 tonnes,0.0,S
+India,Food,1970.0,1000 tonnes,7226.0,S
+China,Food,1970.0,1000 tonnes,6671.0,A
+Nigeria,Food,1970.0,1000 tonnes,2501.0,S
+Sudan (former),Food,1970.0,1000 tonnes,1130.0,S
+Ethiopia PDR,Food,1970.0,1000 tonnes,700.0,S
+Yemen,Food,1970.0,1000 tonnes,570.0,S
+Egypt,Food,1970.0,1000 tonnes,319.0,S
+Mali,Food,1970.0,1000 tonnes,298.0,S
+Burkina Faso,Food,1970.0,1000 tonnes,290.0,S
+Chad,Food,1970.0,1000 tonnes,285.0,S
+Pakistan,Food,1970.0,1000 tonnes,278.0,S
+Niger,Food,1970.0,1000 tonnes,203.0,S
+Cameroon,Food,1970.0,1000 tonnes,179.0,S
+Mozambique,Food,1970.0,1000 tonnes,174.0,S
+Haiti,Food,1970.0,1000 tonnes,134.0,S
+Saudi Arabia,Food,1970.0,1000 tonnes,130.0,S
+Kenya,Food,1970.0,1000 tonnes,118.0,S
+South Africa,Food,1970.0,1000 tonnes,113.0,S
+Rwanda,Food,1970.0,1000 tonnes,106.0,S
+Uganda,Food,1970.0,1000 tonnes,96.0,S
+Senegal,Food,1970.0,1000 tonnes,93.0,S
+Ghana,Food,1970.0,1000 tonnes,83.0,S
+Zimbabwe,Food,1970.0,1000 tonnes,82.0,S
+United Republic of Tanzania,Food,1970.0,1000 tonnes,73.0,S
+El Salvador,Food,1970.0,1000 tonnes,70.0,S
+Botswana,Food,1970.0,1000 tonnes,45.0,S
+Mauritania,Food,1970.0,1000 tonnes,42.0,S
+Benin,Food,1970.0,1000 tonnes,40.0,S
+Lesotho,Food,1970.0,1000 tonnes,40.0,S
+Morocco,Food,1970.0,1000 tonnes,35.0,S
+Zambia,Food,1970.0,1000 tonnes,31.0,S
+Malawi,Food,1970.0,1000 tonnes,29.0,S
+Nicaragua,Food,1970.0,1000 tonnes,25.0,S
+Central African Republic,Food,1970.0,1000 tonnes,24.0,S
+Democratic People's Republic of Korea,Food,1970.0,1000 tonnes,24.0,S
+Guinea,Food,1970.0,1000 tonnes,19.0,S
+Honduras,Food,1970.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1970.0,1000 tonnes,11.0,S
+Gambia,Food,1970.0,1000 tonnes,8.0,S
+Tunisia,Food,1970.0,1000 tonnes,6.0,S
+Eswatini,Food,1970.0,1000 tonnes,5.0,S
+Sierra Leone,Food,1970.0,1000 tonnes,4.0,S
+Guatemala,Food,1970.0,1000 tonnes,3.0,S
+Namibia,Food,1970.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1970.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1970.0,1000 tonnes,2.0,S
+Madagascar,Food,1970.0,1000 tonnes,2.0,S
+Algeria,Food,1970.0,1000 tonnes,1.0,S
+Bangladesh,Food,1970.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1970.0,1000 tonnes,1.0,S
+Angola,Food,1970.0,1000 tonnes,0.0,S
+Belize,Food,1970.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1970.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1970.0,1000 tonnes,0.0,S
+Djibouti,Food,1970.0,1000 tonnes,0.0,S
+Japan,Food,1970.0,1000 tonnes,0.0,S
+Myanmar,Food,1970.0,1000 tonnes,0.0,S
+Nepal,Food,1970.0,1000 tonnes,0.0,S
+Spain,Food,1970.0,1000 tonnes,0.0,S
+Togo,Food,1970.0,1000 tonnes,0.0,S
+United States of America,Food,1970.0,1000 tonnes,0.0,S
+India,Food,1969.0,1000 tonnes,8999.0,S
+China,Food,1969.0,1000 tonnes,6616.0,A
+Nigeria,Food,1969.0,1000 tonnes,2334.0,S
+Sudan (former),Food,1969.0,1000 tonnes,1125.0,S
+Ethiopia PDR,Food,1969.0,1000 tonnes,583.0,S
+Yemen,Food,1969.0,1000 tonnes,564.0,S
+Egypt,Food,1969.0,1000 tonnes,314.0,S
+Chad,Food,1969.0,1000 tonnes,305.0,S
+Burkina Faso,Food,1969.0,1000 tonnes,280.0,S
+Mali,Food,1969.0,1000 tonnes,246.0,S
+Pakistan,Food,1969.0,1000 tonnes,240.0,S
+Cameroon,Food,1969.0,1000 tonnes,219.0,S
+Niger,Food,1969.0,1000 tonnes,185.0,S
+Mozambique,Food,1969.0,1000 tonnes,184.0,S
+Saudi Arabia,Food,1969.0,1000 tonnes,152.0,S
+Haiti,Food,1969.0,1000 tonnes,135.0,S
+Kenya,Food,1969.0,1000 tonnes,110.0,S
+South Africa,Food,1969.0,1000 tonnes,105.0,S
+Rwanda,Food,1969.0,1000 tonnes,95.0,S
+Senegal,Food,1969.0,1000 tonnes,95.0,S
+Uganda,Food,1969.0,1000 tonnes,74.0,S
+Mauritania,Food,1969.0,1000 tonnes,69.0,S
+El Salvador,Food,1969.0,1000 tonnes,68.0,S
+United Republic of Tanzania,Food,1969.0,1000 tonnes,62.0,S
+Zimbabwe,Food,1969.0,1000 tonnes,60.0,S
+Ghana,Food,1969.0,1000 tonnes,53.0,S
+Benin,Food,1969.0,1000 tonnes,46.0,S
+Botswana,Food,1969.0,1000 tonnes,43.0,S
+Lesotho,Food,1969.0,1000 tonnes,35.0,S
+Morocco,Food,1969.0,1000 tonnes,33.0,S
+Zambia,Food,1969.0,1000 tonnes,32.0,S
+Malawi,Food,1969.0,1000 tonnes,29.0,S
+Democratic People's Republic of Korea,Food,1969.0,1000 tonnes,26.0,S
+Nicaragua,Food,1969.0,1000 tonnes,23.0,S
+Central African Republic,Food,1969.0,1000 tonnes,22.0,S
+Guinea,Food,1969.0,1000 tonnes,19.0,S
+Honduras,Food,1969.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1969.0,1000 tonnes,10.0,S
+Tunisia,Food,1969.0,1000 tonnes,6.0,S
+Gambia,Food,1969.0,1000 tonnes,5.0,S
+Eswatini,Food,1969.0,1000 tonnes,4.0,S
+Sierra Leone,Food,1969.0,1000 tonnes,4.0,S
+Guatemala,Food,1969.0,1000 tonnes,3.0,S
+Madagascar,Food,1969.0,1000 tonnes,3.0,S
+Namibia,Food,1969.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1969.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1969.0,1000 tonnes,2.0,S
+Algeria,Food,1969.0,1000 tonnes,1.0,S
+Japan,Food,1969.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1969.0,1000 tonnes,1.0,S
+Angola,Food,1969.0,1000 tonnes,0.0,S
+Bangladesh,Food,1969.0,1000 tonnes,0.0,S
+Belize,Food,1969.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1969.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1969.0,1000 tonnes,0.0,S
+Djibouti,Food,1969.0,1000 tonnes,0.0,S
+Myanmar,Food,1969.0,1000 tonnes,0.0,S
+Nepal,Food,1969.0,1000 tonnes,0.0,S
+Spain,Food,1969.0,1000 tonnes,0.0,S
+Togo,Food,1969.0,1000 tonnes,0.0,S
+United States of America,Food,1969.0,1000 tonnes,0.0,S
+India,Food,1968.0,1000 tonnes,9080.0,S
+China,Food,1968.0,1000 tonnes,7131.0,A
+Nigeria,Food,1968.0,1000 tonnes,2373.0,S
+Sudan (former),Food,1968.0,1000 tonnes,1002.0,S
+Yemen,Food,1968.0,1000 tonnes,598.0,S
+Ethiopia PDR,Food,1968.0,1000 tonnes,536.0,S
+Burkina Faso,Food,1968.0,1000 tonnes,310.0,S
+Chad,Food,1968.0,1000 tonnes,310.0,S
+Egypt,Food,1968.0,1000 tonnes,299.0,S
+Mali,Food,1968.0,1000 tonnes,280.0,S
+Niger,Food,1968.0,1000 tonnes,233.0,S
+Pakistan,Food,1968.0,1000 tonnes,220.0,S
+Cameroon,Food,1968.0,1000 tonnes,191.0,S
+Saudi Arabia,Food,1968.0,1000 tonnes,172.0,S
+Mozambique,Food,1968.0,1000 tonnes,170.0,S
+Haiti,Food,1968.0,1000 tonnes,136.0,S
+Kenya,Food,1968.0,1000 tonnes,118.0,S
+South Africa,Food,1968.0,1000 tonnes,111.0,S
+Rwanda,Food,1968.0,1000 tonnes,103.0,S
+Senegal,Food,1968.0,1000 tonnes,85.0,S
+Uganda,Food,1968.0,1000 tonnes,81.0,S
+Zimbabwe,Food,1968.0,1000 tonnes,79.0,S
+Mauritania,Food,1968.0,1000 tonnes,70.0,S
+United Republic of Tanzania,Food,1968.0,1000 tonnes,70.0,S
+El Salvador,Food,1968.0,1000 tonnes,69.0,S
+Ghana,Food,1968.0,1000 tonnes,54.0,S
+Benin,Food,1968.0,1000 tonnes,48.0,S
+Morocco,Food,1968.0,1000 tonnes,44.0,S
+Botswana,Food,1968.0,1000 tonnes,40.0,S
+Lesotho,Food,1968.0,1000 tonnes,38.0,S
+Zambia,Food,1968.0,1000 tonnes,34.0,S
+Democratic People's Republic of Korea,Food,1968.0,1000 tonnes,28.0,S
+Malawi,Food,1968.0,1000 tonnes,26.0,S
+Central African Republic,Food,1968.0,1000 tonnes,22.0,S
+Nicaragua,Food,1968.0,1000 tonnes,21.0,S
+Guinea,Food,1968.0,1000 tonnes,19.0,S
+Honduras,Food,1968.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1968.0,1000 tonnes,9.0,S
+Tunisia,Food,1968.0,1000 tonnes,6.0,S
+Gambia,Food,1968.0,1000 tonnes,5.0,S
+Sierra Leone,Food,1968.0,1000 tonnes,5.0,S
+Eswatini,Food,1968.0,1000 tonnes,3.0,S
+Guinea-Bissau,Food,1968.0,1000 tonnes,3.0,S
+Madagascar,Food,1968.0,1000 tonnes,3.0,S
+Namibia,Food,1968.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1968.0,1000 tonnes,2.0,S
+Guatemala,Food,1968.0,1000 tonnes,2.0,S
+Algeria,Food,1968.0,1000 tonnes,1.0,S
+Japan,Food,1968.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1968.0,1000 tonnes,1.0,S
+Angola,Food,1968.0,1000 tonnes,0.0,S
+Bangladesh,Food,1968.0,1000 tonnes,0.0,S
+Belize,Food,1968.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1968.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1968.0,1000 tonnes,0.0,S
+Djibouti,Food,1968.0,1000 tonnes,0.0,S
+Myanmar,Food,1968.0,1000 tonnes,0.0,S
+Nepal,Food,1968.0,1000 tonnes,0.0,S
+Spain,Food,1968.0,1000 tonnes,0.0,S
+Togo,Food,1968.0,1000 tonnes,0.0,S
+United States of America,Food,1968.0,1000 tonnes,0.0,S
+India,Food,1967.0,1000 tonnes,11003.0,S
+China,Food,1967.0,1000 tonnes,7110.0,A
+Nigeria,Food,1967.0,1000 tonnes,2319.0,S
+Sudan (former),Food,1967.0,1000 tonnes,859.0,S
+Yemen,Food,1967.0,1000 tonnes,618.0,S
+Ethiopia PDR,Food,1967.0,1000 tonnes,553.0,S
+Chad,Food,1967.0,1000 tonnes,302.0,S
+Egypt,Food,1967.0,1000 tonnes,299.0,S
+Burkina Faso,Food,1967.0,1000 tonnes,292.0,S
+Mali,Food,1967.0,1000 tonnes,250.0,S
+Pakistan,Food,1967.0,1000 tonnes,248.0,S
+Niger,Food,1967.0,1000 tonnes,207.0,S
+Cameroon,Food,1967.0,1000 tonnes,190.0,S
+Saudi Arabia,Food,1967.0,1000 tonnes,172.0,S
+Mozambique,Food,1967.0,1000 tonnes,168.0,S
+Haiti,Food,1967.0,1000 tonnes,136.0,S
+Kenya,Food,1967.0,1000 tonnes,128.0,S
+Rwanda,Food,1967.0,1000 tonnes,110.0,S
+South Africa,Food,1967.0,1000 tonnes,102.0,S
+Uganda,Food,1967.0,1000 tonnes,83.0,S
+Senegal,Food,1967.0,1000 tonnes,82.0,S
+Zimbabwe,Food,1967.0,1000 tonnes,72.0,S
+Mauritania,Food,1967.0,1000 tonnes,71.0,S
+El Salvador,Food,1967.0,1000 tonnes,65.0,S
+Ghana,Food,1967.0,1000 tonnes,64.0,S
+United Republic of Tanzania,Food,1967.0,1000 tonnes,61.0,S
+Benin,Food,1967.0,1000 tonnes,47.0,S
+Botswana,Food,1967.0,1000 tonnes,43.0,S
+Lesotho,Food,1967.0,1000 tonnes,38.0,S
+Zambia,Food,1967.0,1000 tonnes,35.0,S
+Morocco,Food,1967.0,1000 tonnes,32.0,S
+Democratic People's Republic of Korea,Food,1967.0,1000 tonnes,29.0,S
+Central African Republic,Food,1967.0,1000 tonnes,28.0,S
+Malawi,Food,1967.0,1000 tonnes,24.0,S
+Nicaragua,Food,1967.0,1000 tonnes,22.0,S
+Guinea,Food,1967.0,1000 tonnes,19.0,S
+Honduras,Food,1967.0,1000 tonnes,14.0,S
+Côte d'Ivoire,Food,1967.0,1000 tonnes,9.0,S
+Tunisia,Food,1967.0,1000 tonnes,6.0,S
+Gambia,Food,1967.0,1000 tonnes,5.0,S
+Sierra Leone,Food,1967.0,1000 tonnes,5.0,S
+Eswatini,Food,1967.0,1000 tonnes,3.0,S
+Guinea-Bissau,Food,1967.0,1000 tonnes,3.0,S
+Madagascar,Food,1967.0,1000 tonnes,3.0,S
+Namibia,Food,1967.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1967.0,1000 tonnes,2.0,S
+Guatemala,Food,1967.0,1000 tonnes,2.0,S
+Japan,Food,1967.0,1000 tonnes,2.0,S
+Bangladesh,Food,1967.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1967.0,1000 tonnes,1.0,S
+Algeria,Food,1967.0,1000 tonnes,0.0,S
+Angola,Food,1967.0,1000 tonnes,0.0,S
+Belize,Food,1967.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1967.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1967.0,1000 tonnes,0.0,S
+Djibouti,Food,1967.0,1000 tonnes,0.0,S
+Myanmar,Food,1967.0,1000 tonnes,0.0,S
+Nepal,Food,1967.0,1000 tonnes,0.0,S
+Spain,Food,1967.0,1000 tonnes,0.0,S
+Togo,Food,1967.0,1000 tonnes,0.0,S
+United States of America,Food,1967.0,1000 tonnes,0.0,S
+India,Food,1966.0,1000 tonnes,9708.0,S
+China,Food,1966.0,1000 tonnes,6796.0,A
+Nigeria,Food,1966.0,1000 tonnes,2305.0,S
+Yemen,Food,1966.0,1000 tonnes,597.0,S
+Ethiopia PDR,Food,1966.0,1000 tonnes,570.0,S
+Sudan (former),Food,1966.0,1000 tonnes,491.0,S
+Chad,Food,1966.0,1000 tonnes,303.0,S
+Egypt,Food,1966.0,1000 tonnes,282.0,S
+Burkina Faso,Food,1966.0,1000 tonnes,261.0,S
+Pakistan,Food,1966.0,1000 tonnes,238.0,S
+Mali,Food,1966.0,1000 tonnes,231.0,S
+Cameroon,Food,1966.0,1000 tonnes,207.0,S
+Niger,Food,1966.0,1000 tonnes,194.0,S
+Mozambique,Food,1966.0,1000 tonnes,164.0,S
+Saudi Arabia,Food,1966.0,1000 tonnes,163.0,S
+Haiti,Food,1966.0,1000 tonnes,136.0,S
+Kenya,Food,1966.0,1000 tonnes,124.0,S
+South Africa,Food,1966.0,1000 tonnes,106.0,S
+Rwanda,Food,1966.0,1000 tonnes,104.0,S
+Ghana,Food,1966.0,1000 tonnes,84.0,S
+Uganda,Food,1966.0,1000 tonnes,83.0,S
+Senegal,Food,1966.0,1000 tonnes,80.0,S
+Mauritania,Food,1966.0,1000 tonnes,71.0,S
+United Republic of Tanzania,Food,1966.0,1000 tonnes,69.0,S
+Zimbabwe,Food,1966.0,1000 tonnes,68.0,S
+El Salvador,Food,1966.0,1000 tonnes,66.0,S
+Lesotho,Food,1966.0,1000 tonnes,45.0,S
+Benin,Food,1966.0,1000 tonnes,44.0,S
+Botswana,Food,1966.0,1000 tonnes,43.0,S
+Zambia,Food,1966.0,1000 tonnes,36.0,S
+Morocco,Food,1966.0,1000 tonnes,32.0,S
+Central African Republic,Food,1966.0,1000 tonnes,29.0,S
+Democratic People's Republic of Korea,Food,1966.0,1000 tonnes,28.0,S
+Malawi,Food,1966.0,1000 tonnes,23.0,S
+Nicaragua,Food,1966.0,1000 tonnes,20.0,S
+Guinea,Food,1966.0,1000 tonnes,19.0,S
+Honduras,Food,1966.0,1000 tonnes,13.0,S
+Côte d'Ivoire,Food,1966.0,1000 tonnes,9.0,S
+Sierra Leone,Food,1966.0,1000 tonnes,6.0,S
+Gambia,Food,1966.0,1000 tonnes,5.0,S
+Eswatini,Food,1966.0,1000 tonnes,4.0,S
+Tunisia,Food,1966.0,1000 tonnes,4.0,S
+Guinea-Bissau,Food,1966.0,1000 tonnes,3.0,S
+Madagascar,Food,1966.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1966.0,1000 tonnes,2.0,S
+Guatemala,Food,1966.0,1000 tonnes,2.0,S
+Japan,Food,1966.0,1000 tonnes,2.0,S
+Namibia,Food,1966.0,1000 tonnes,2.0,S
+Bangladesh,Food,1966.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1966.0,1000 tonnes,1.0,S
+Algeria,Food,1966.0,1000 tonnes,0.0,S
+Angola,Food,1966.0,1000 tonnes,0.0,S
+Belize,Food,1966.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1966.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1966.0,1000 tonnes,0.0,S
+Djibouti,Food,1966.0,1000 tonnes,0.0,S
+Myanmar,Food,1966.0,1000 tonnes,0.0,S
+Nepal,Food,1966.0,1000 tonnes,0.0,S
+Spain,Food,1966.0,1000 tonnes,0.0,S
+Togo,Food,1966.0,1000 tonnes,0.0,S
+United States of America,Food,1966.0,1000 tonnes,0.0,S
+India,Food,1965.0,1000 tonnes,6779.0,S
+China,Food,1965.0,1000 tonnes,6257.0,A
+Nigeria,Food,1965.0,1000 tonnes,2456.0,S
+Sudan (former),Food,1965.0,1000 tonnes,718.0,S
+Yemen,Food,1965.0,1000 tonnes,613.0,S
+Ethiopia PDR,Food,1965.0,1000 tonnes,603.0,S
+Chad,Food,1965.0,1000 tonnes,312.0,S
+Egypt,Food,1965.0,1000 tonnes,273.0,S
+Burkina Faso,Food,1965.0,1000 tonnes,244.0,S
+Pakistan,Food,1965.0,1000 tonnes,235.0,S
+Mali,Food,1965.0,1000 tonnes,215.0,S
+Niger,Food,1965.0,1000 tonnes,215.0,S
+Cameroon,Food,1965.0,1000 tonnes,190.0,S
+Mozambique,Food,1965.0,1000 tonnes,163.0,S
+Saudi Arabia,Food,1965.0,1000 tonnes,159.0,S
+Haiti,Food,1965.0,1000 tonnes,136.0,S
+South Africa,Food,1965.0,1000 tonnes,118.0,S
+Rwanda,Food,1965.0,1000 tonnes,103.0,S
+Kenya,Food,1965.0,1000 tonnes,87.0,S
+Senegal,Food,1965.0,1000 tonnes,86.0,S
+Uganda,Food,1965.0,1000 tonnes,81.0,S
+Mauritania,Food,1965.0,1000 tonnes,69.0,S
+United Republic of Tanzania,Food,1965.0,1000 tonnes,63.0,S
+El Salvador,Food,1965.0,1000 tonnes,59.0,S
+Ghana,Food,1965.0,1000 tonnes,59.0,S
+Benin,Food,1965.0,1000 tonnes,45.0,S
+Morocco,Food,1965.0,1000 tonnes,43.0,S
+Lesotho,Food,1965.0,1000 tonnes,41.0,S
+Botswana,Food,1965.0,1000 tonnes,39.0,S
+Zambia,Food,1965.0,1000 tonnes,36.0,S
+Central African Republic,Food,1965.0,1000 tonnes,34.0,S
+Zimbabwe,Food,1965.0,1000 tonnes,33.0,S
+Democratic People's Republic of Korea,Food,1965.0,1000 tonnes,28.0,S
+Malawi,Food,1965.0,1000 tonnes,23.0,S
+Guinea,Food,1965.0,1000 tonnes,19.0,S
+Nicaragua,Food,1965.0,1000 tonnes,19.0,S
+Honduras,Food,1965.0,1000 tonnes,16.0,S
+Côte d'Ivoire,Food,1965.0,1000 tonnes,8.0,S
+Sierra Leone,Food,1965.0,1000 tonnes,7.0,S
+Tunisia,Food,1965.0,1000 tonnes,5.0,S
+Eswatini,Food,1965.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1965.0,1000 tonnes,2.0,S
+Gambia,Food,1965.0,1000 tonnes,2.0,S
+Guatemala,Food,1965.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1965.0,1000 tonnes,2.0,S
+Japan,Food,1965.0,1000 tonnes,2.0,S
+Madagascar,Food,1965.0,1000 tonnes,2.0,S
+Namibia,Food,1965.0,1000 tonnes,2.0,S
+Bangladesh,Food,1965.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1965.0,1000 tonnes,1.0,S
+Algeria,Food,1965.0,1000 tonnes,0.0,S
+Angola,Food,1965.0,1000 tonnes,0.0,S
+Belize,Food,1965.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1965.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1965.0,1000 tonnes,0.0,S
+Djibouti,Food,1965.0,1000 tonnes,0.0,S
+Myanmar,Food,1965.0,1000 tonnes,0.0,S
+Nepal,Food,1965.0,1000 tonnes,0.0,S
+Spain,Food,1965.0,1000 tonnes,0.0,S
+Togo,Food,1965.0,1000 tonnes,0.0,S
+United States of America,Food,1965.0,1000 tonnes,0.0,S
+India,Food,1964.0,1000 tonnes,8591.0,S
+China,Food,1964.0,1000 tonnes,5918.0,A
+Nigeria,Food,1964.0,1000 tonnes,2903.0,S
+Sudan (former),Food,1964.0,1000 tonnes,956.0,S
+Ethiopia PDR,Food,1964.0,1000 tonnes,739.0,S
+Yemen,Food,1964.0,1000 tonnes,618.0,S
+Chad,Food,1964.0,1000 tonnes,322.0,S
+Egypt,Food,1964.0,1000 tonnes,262.0,S
+Mali,Food,1964.0,1000 tonnes,252.0,S
+Pakistan,Food,1964.0,1000 tonnes,252.0,S
+Burkina Faso,Food,1964.0,1000 tonnes,241.0,S
+Cameroon,Food,1964.0,1000 tonnes,204.0,S
+Mozambique,Food,1964.0,1000 tonnes,161.0,S
+Saudi Arabia,Food,1964.0,1000 tonnes,159.0,S
+Niger,Food,1964.0,1000 tonnes,143.0,S
+Haiti,Food,1964.0,1000 tonnes,135.0,S
+South Africa,Food,1964.0,1000 tonnes,116.0,S
+Rwanda,Food,1964.0,1000 tonnes,112.0,S
+Kenya,Food,1964.0,1000 tonnes,102.0,S
+Senegal,Food,1964.0,1000 tonnes,96.0,S
+Uganda,Food,1964.0,1000 tonnes,85.0,S
+Ghana,Food,1964.0,1000 tonnes,75.0,S
+Mauritania,Food,1964.0,1000 tonnes,63.0,S
+El Salvador,Food,1964.0,1000 tonnes,58.0,S
+United Republic of Tanzania,Food,1964.0,1000 tonnes,58.0,S
+Morocco,Food,1964.0,1000 tonnes,50.0,S
+Benin,Food,1964.0,1000 tonnes,46.0,S
+Lesotho,Food,1964.0,1000 tonnes,43.0,S
+Central African Republic,Food,1964.0,1000 tonnes,36.0,S
+Zimbabwe,Food,1964.0,1000 tonnes,36.0,S
+Botswana,Food,1964.0,1000 tonnes,35.0,S
+Zambia,Food,1964.0,1000 tonnes,31.0,S
+Democratic People's Republic of Korea,Food,1964.0,1000 tonnes,27.0,S
+Malawi,Food,1964.0,1000 tonnes,21.0,S
+Guinea,Food,1964.0,1000 tonnes,19.0,S
+Nicaragua,Food,1964.0,1000 tonnes,19.0,S
+Honduras,Food,1964.0,1000 tonnes,16.0,S
+Côte d'Ivoire,Food,1964.0,1000 tonnes,8.0,S
+Sierra Leone,Food,1964.0,1000 tonnes,7.0,S
+Tunisia,Food,1964.0,1000 tonnes,5.0,S
+Eswatini,Food,1964.0,1000 tonnes,4.0,S
+Gambia,Food,1964.0,1000 tonnes,3.0,S
+Madagascar,Food,1964.0,1000 tonnes,3.0,S
+Guatemala,Food,1964.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1964.0,1000 tonnes,2.0,S
+Japan,Food,1964.0,1000 tonnes,2.0,S
+Namibia,Food,1964.0,1000 tonnes,2.0,S
+Bangladesh,Food,1964.0,1000 tonnes,1.0,S
+Other non-specified areas,Food,1964.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1964.0,1000 tonnes,1.0,S
+Algeria,Food,1964.0,1000 tonnes,0.0,S
+Angola,Food,1964.0,1000 tonnes,0.0,S
+Belize,Food,1964.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1964.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1964.0,1000 tonnes,0.0,S
+Djibouti,Food,1964.0,1000 tonnes,0.0,S
+Myanmar,Food,1964.0,1000 tonnes,0.0,S
+Nepal,Food,1964.0,1000 tonnes,0.0,S
+Spain,Food,1964.0,1000 tonnes,0.0,S
+Togo,Food,1964.0,1000 tonnes,0.0,S
+United States of America,Food,1964.0,1000 tonnes,0.0,S
+India,Food,1963.0,1000 tonnes,8164.0,S
+China,Food,1963.0,1000 tonnes,5793.0,A
+Nigeria,Food,1963.0,1000 tonnes,2789.0,S
+Sudan (former),Food,1963.0,1000 tonnes,897.0,S
+Ethiopia PDR,Food,1963.0,1000 tonnes,766.0,S
+Yemen,Food,1963.0,1000 tonnes,640.0,S
+Chad,Food,1963.0,1000 tonnes,332.0,S
+Burkina Faso,Food,1963.0,1000 tonnes,263.0,S
+Egypt,Food,1963.0,1000 tonnes,259.0,S
+Mali,Food,1963.0,1000 tonnes,218.0,S
+Cameroon,Food,1963.0,1000 tonnes,198.0,S
+Pakistan,Food,1963.0,1000 tonnes,198.0,S
+Mozambique,Food,1963.0,1000 tonnes,157.0,S
+Saudi Arabia,Food,1963.0,1000 tonnes,155.0,S
+Haiti,Food,1963.0,1000 tonnes,134.0,S
+Niger,Food,1963.0,1000 tonnes,128.0,S
+Rwanda,Food,1963.0,1000 tonnes,112.0,S
+South Africa,Food,1963.0,1000 tonnes,112.0,S
+Kenya,Food,1963.0,1000 tonnes,100.0,S
+Senegal,Food,1963.0,1000 tonnes,90.0,S
+Uganda,Food,1963.0,1000 tonnes,84.0,S
+United Republic of Tanzania,Food,1963.0,1000 tonnes,77.0,S
+Ghana,Food,1963.0,1000 tonnes,71.0,S
+Mauritania,Food,1963.0,1000 tonnes,63.0,S
+El Salvador,Food,1963.0,1000 tonnes,57.0,S
+Benin,Food,1963.0,1000 tonnes,48.0,S
+Lesotho,Food,1963.0,1000 tonnes,45.0,S
+Morocco,Food,1963.0,1000 tonnes,42.0,S
+Botswana,Food,1963.0,1000 tonnes,36.0,S
+Zimbabwe,Food,1963.0,1000 tonnes,35.0,S
+Central African Republic,Food,1963.0,1000 tonnes,33.0,S
+Zambia,Food,1963.0,1000 tonnes,30.0,S
+Democratic People's Republic of Korea,Food,1963.0,1000 tonnes,28.0,S
+Malawi,Food,1963.0,1000 tonnes,19.0,S
+Nicaragua,Food,1963.0,1000 tonnes,17.0,S
+Honduras,Food,1963.0,1000 tonnes,16.0,S
+Guinea,Food,1963.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1963.0,1000 tonnes,9.0,S
+Sierra Leone,Food,1963.0,1000 tonnes,7.0,S
+Eswatini,Food,1963.0,1000 tonnes,5.0,S
+Tunisia,Food,1963.0,1000 tonnes,4.0,S
+Gambia,Food,1963.0,1000 tonnes,3.0,S
+Madagascar,Food,1963.0,1000 tonnes,3.0,S
+Other non-specified areas,Food,1963.0,1000 tonnes,2.0,S
+Guatemala,Food,1963.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1963.0,1000 tonnes,2.0,S
+Japan,Food,1963.0,1000 tonnes,2.0,S
+Algeria,Food,1963.0,1000 tonnes,1.0,S
+Bangladesh,Food,1963.0,1000 tonnes,1.0,S
+Namibia,Food,1963.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1963.0,1000 tonnes,1.0,S
+Angola,Food,1963.0,1000 tonnes,0.0,S
+Belize,Food,1963.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1963.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1963.0,1000 tonnes,0.0,S
+Djibouti,Food,1963.0,1000 tonnes,0.0,S
+Myanmar,Food,1963.0,1000 tonnes,0.0,S
+Nepal,Food,1963.0,1000 tonnes,0.0,S
+Spain,Food,1963.0,1000 tonnes,0.0,S
+Togo,Food,1963.0,1000 tonnes,0.0,S
+United States of America,Food,1963.0,1000 tonnes,0.0,S
+India,Food,1962.0,1000 tonnes,8652.0,S
+China,Food,1962.0,1000 tonnes,5468.0,A
+Nigeria,Food,1962.0,1000 tonnes,3108.0,S
+Sudan (former),Food,1962.0,1000 tonnes,1025.0,S
+Ethiopia PDR,Food,1962.0,1000 tonnes,749.0,S
+Yemen,Food,1962.0,1000 tonnes,621.0,S
+Chad,Food,1962.0,1000 tonnes,331.0,S
+Mali,Food,1962.0,1000 tonnes,269.0,S
+Egypt,Food,1962.0,1000 tonnes,251.0,S
+Burkina Faso,Food,1962.0,1000 tonnes,224.0,S
+Pakistan,Food,1962.0,1000 tonnes,204.0,S
+Cameroon,Food,1962.0,1000 tonnes,182.0,S
+Mozambique,Food,1962.0,1000 tonnes,155.0,S
+Saudi Arabia,Food,1962.0,1000 tonnes,151.0,S
+Haiti,Food,1962.0,1000 tonnes,134.0,S
+South Africa,Food,1962.0,1000 tonnes,110.0,S
+Niger,Food,1962.0,1000 tonnes,108.0,S
+Rwanda,Food,1962.0,1000 tonnes,103.0,S
+Kenya,Food,1962.0,1000 tonnes,96.0,S
+Uganda,Food,1962.0,1000 tonnes,84.0,S
+United Republic of Tanzania,Food,1962.0,1000 tonnes,76.0,S
+Senegal,Food,1962.0,1000 tonnes,74.0,S
+Ghana,Food,1962.0,1000 tonnes,69.0,S
+Mauritania,Food,1962.0,1000 tonnes,63.0,S
+El Salvador,Food,1962.0,1000 tonnes,57.0,S
+Morocco,Food,1962.0,1000 tonnes,52.0,S
+Benin,Food,1962.0,1000 tonnes,45.0,S
+Zimbabwe,Food,1962.0,1000 tonnes,42.0,S
+Lesotho,Food,1962.0,1000 tonnes,38.0,S
+Central African Republic,Food,1962.0,1000 tonnes,33.0,S
+Botswana,Food,1962.0,1000 tonnes,32.0,S
+Democratic People's Republic of Korea,Food,1962.0,1000 tonnes,30.0,S
+Zambia,Food,1962.0,1000 tonnes,30.0,S
+Guinea,Food,1962.0,1000 tonnes,21.0,S
+Nicaragua,Food,1962.0,1000 tonnes,19.0,S
+Malawi,Food,1962.0,1000 tonnes,17.0,S
+Honduras,Food,1962.0,1000 tonnes,15.0,S
+Côte d'Ivoire,Food,1962.0,1000 tonnes,7.0,S
+Eswatini,Food,1962.0,1000 tonnes,7.0,S
+Sierra Leone,Food,1962.0,1000 tonnes,7.0,S
+Other non-specified areas,Food,1962.0,1000 tonnes,3.0,S
+Gambia,Food,1962.0,1000 tonnes,3.0,S
+Madagascar,Food,1962.0,1000 tonnes,3.0,S
+Tunisia,Food,1962.0,1000 tonnes,3.0,S
+Guatemala,Food,1962.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1962.0,1000 tonnes,2.0,S
+Japan,Food,1962.0,1000 tonnes,2.0,S
+Algeria,Food,1962.0,1000 tonnes,1.0,S
+Bangladesh,Food,1962.0,1000 tonnes,1.0,S
+Namibia,Food,1962.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1962.0,1000 tonnes,1.0,S
+Angola,Food,1962.0,1000 tonnes,0.0,S
+Belize,Food,1962.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1962.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1962.0,1000 tonnes,0.0,S
+Djibouti,Food,1962.0,1000 tonnes,0.0,S
+Myanmar,Food,1962.0,1000 tonnes,0.0,S
+Nepal,Food,1962.0,1000 tonnes,0.0,S
+Spain,Food,1962.0,1000 tonnes,0.0,S
+Togo,Food,1962.0,1000 tonnes,0.0,S
+United States of America,Food,1962.0,1000 tonnes,0.0,S
+India,Food,1961.0,1000 tonnes,7136.0,S
+China,Food,1961.0,1000 tonnes,5362.0,A
+Nigeria,Food,1961.0,1000 tonnes,2731.0,S
+Sudan (former),Food,1961.0,1000 tonnes,741.0,S
+Ethiopia PDR,Food,1961.0,1000 tonnes,733.0,S
+Yemen,Food,1961.0,1000 tonnes,618.0,S
+Chad,Food,1961.0,1000 tonnes,304.0,S
+Mali,Food,1961.0,1000 tonnes,272.0,S
+Egypt,Food,1961.0,1000 tonnes,251.0,S
+Burkina Faso,Food,1961.0,1000 tonnes,214.0,S
+Pakistan,Food,1961.0,1000 tonnes,213.0,S
+Cameroon,Food,1961.0,1000 tonnes,186.0,S
+Mozambique,Food,1961.0,1000 tonnes,151.0,S
+Saudi Arabia,Food,1961.0,1000 tonnes,137.0,S
+Haiti,Food,1961.0,1000 tonnes,134.0,S
+South Africa,Food,1961.0,1000 tonnes,110.0,S
+Niger,Food,1961.0,1000 tonnes,109.0,S
+Kenya,Food,1961.0,1000 tonnes,88.0,S
+Uganda,Food,1961.0,1000 tonnes,85.0,S
+United Republic of Tanzania,Food,1961.0,1000 tonnes,78.0,S
+Rwanda,Food,1961.0,1000 tonnes,76.0,S
+Ghana,Food,1961.0,1000 tonnes,65.0,S
+Senegal,Food,1961.0,1000 tonnes,64.0,S
+Mauritania,Food,1961.0,1000 tonnes,61.0,S
+El Salvador,Food,1961.0,1000 tonnes,55.0,S
+Benin,Food,1961.0,1000 tonnes,50.0,S
+Zimbabwe,Food,1961.0,1000 tonnes,41.0,S
+Lesotho,Food,1961.0,1000 tonnes,37.0,S
+Botswana,Food,1961.0,1000 tonnes,34.0,S
+Zambia,Food,1961.0,1000 tonnes,30.0,S
+Democratic People's Republic of Korea,Food,1961.0,1000 tonnes,26.0,S
+Morocco,Food,1961.0,1000 tonnes,25.0,S
+Guinea,Food,1961.0,1000 tonnes,19.0,S
+Nicaragua,Food,1961.0,1000 tonnes,19.0,S
+Honduras,Food,1961.0,1000 tonnes,17.0,S
+Central African Republic,Food,1961.0,1000 tonnes,16.0,S
+Malawi,Food,1961.0,1000 tonnes,16.0,S
+Eswatini,Food,1961.0,1000 tonnes,11.0,S
+Côte d'Ivoire,Food,1961.0,1000 tonnes,7.0,S
+Sierra Leone,Food,1961.0,1000 tonnes,7.0,S
+Other non-specified areas,Food,1961.0,1000 tonnes,3.0,S
+Gambia,Food,1961.0,1000 tonnes,3.0,S
+Madagascar,Food,1961.0,1000 tonnes,3.0,S
+Guatemala,Food,1961.0,1000 tonnes,2.0,S
+Guinea-Bissau,Food,1961.0,1000 tonnes,2.0,S
+Japan,Food,1961.0,1000 tonnes,2.0,S
+Namibia,Food,1961.0,1000 tonnes,2.0,S
+Tunisia,Food,1961.0,1000 tonnes,2.0,S
+Bangladesh,Food,1961.0,1000 tonnes,1.0,S
+Sri Lanka,Food,1961.0,1000 tonnes,1.0,S
+Algeria,Food,1961.0,1000 tonnes,0.0,S
+Angola,Food,1961.0,1000 tonnes,0.0,S
+Belize,Food,1961.0,1000 tonnes,0.0,S
+Brunei Darussalam,Food,1961.0,1000 tonnes,0.0,S
+"China, Macao SAR",Food,1961.0,1000 tonnes,0.0,S
+Djibouti,Food,1961.0,1000 tonnes,0.0,S
+Myanmar,Food,1961.0,1000 tonnes,0.0,S
+Nepal,Food,1961.0,1000 tonnes,0.0,S
+Spain,Food,1961.0,1000 tonnes,0.0,S
+Togo,Food,1961.0,1000 tonnes,0.0,S
+United States of America,Food,1961.0,1000 tonnes,0.0,S

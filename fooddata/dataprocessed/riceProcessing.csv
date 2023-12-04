@@ -1,0 +1,944 @@
+CountryorArea,Element,Year,Unit,Value,ValueFootnotes
+Myanmar,Processing,2019.0,1000 tonnes,4069.0,Im
+Thailand,Processing,2019.0,1000 tonnes,1303.0,Im
+Brazil,Processing,2019.0,1000 tonnes,1236.0,Im
+India,Processing,2019.0,1000 tonnes,1198.0,Im
+Republic of Korea,Processing,2019.0,1000 tonnes,964.0,Im
+China,Processing,2019.0,1000 tonnes,916.0,A
+United States of America,Processing,2019.0,1000 tonnes,881.0,Im
+Viet Nam,Processing,2019.0,1000 tonnes,510.0,Im
+Japan,Processing,2019.0,1000 tonnes,491.0,Im
+Mexico,Processing,2019.0,1000 tonnes,250.0,Im
+Lao People's Democratic Republic,Processing,2019.0,1000 tonnes,230.0,Im
+Colombia,Processing,2019.0,1000 tonnes,217.0,Im
+Peru,Processing,2019.0,1000 tonnes,167.0,Im
+South Africa,Processing,2019.0,1000 tonnes,153.0,Im
+Argentina,Processing,2019.0,1000 tonnes,134.0,Im
+Australia and New Zealand,Processing,2019.0,1000 tonnes,128.0,A
+Australia,Processing,2019.0,1000 tonnes,126.0,Im
+Spain,Processing,2019.0,1000 tonnes,113.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2019.0,1000 tonnes,106.0,Im
+Chile,Processing,2019.0,1000 tonnes,80.0,Im
+Ecuador,Processing,2019.0,1000 tonnes,76.0,Im
+Italy,Processing,2019.0,1000 tonnes,68.0,Im
+Dominican Republic,Processing,2019.0,1000 tonnes,59.0,Im
+Other non-specified areas,Processing,2019.0,1000 tonnes,54.0,Im
+Mozambique,Processing,2019.0,1000 tonnes,49.0,Im
+Côte d'Ivoire,Processing,2019.0,1000 tonnes,46.0,Im
+Malaysia,Processing,2019.0,1000 tonnes,38.0,Im
+Pakistan,Processing,2019.0,1000 tonnes,37.0,Im
+Iran (Islamic Republic of),Processing,2019.0,1000 tonnes,34.0,Im
+Canada,Processing,2019.0,1000 tonnes,33.0,Im
+Congo,Processing,2019.0,1000 tonnes,32.0,Im
+El Salvador,Processing,2019.0,1000 tonnes,23.0,Im
+Nepal,Processing,2019.0,1000 tonnes,20.0,Im
+Egypt,Processing,2019.0,1000 tonnes,19.0,Im
+Poland,Processing,2019.0,1000 tonnes,16.0,Im
+Burundi,Processing,2019.0,1000 tonnes,15.0,Im
+Trinidad and Tobago,Processing,2019.0,1000 tonnes,15.0,Im
+France,Processing,2019.0,1000 tonnes,14.0,Im
+Philippines,Processing,2019.0,1000 tonnes,14.0,Im
+Bangladesh,Processing,2019.0,1000 tonnes,12.0,Im
+Benin,Processing,2019.0,1000 tonnes,12.0,Im
+Sri Lanka,Processing,2019.0,1000 tonnes,12.0,Im
+Jamaica,Processing,2019.0,1000 tonnes,11.0,Im
+Syrian Arab Republic,Processing,2019.0,1000 tonnes,11.0,Im
+Austria,Processing,2019.0,1000 tonnes,9.0,Im
+Honduras,Processing,2019.0,1000 tonnes,9.0,Im
+Greece,Processing,2019.0,1000 tonnes,5.0,Im
+Guyana,Processing,2019.0,1000 tonnes,4.0,Im
+Belgium,Processing,2019.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2019.0,1000 tonnes,3.0,Im
+Uzbekistan,Processing,2019.0,1000 tonnes,3.0,Im
+New Zealand,Processing,2019.0,1000 tonnes,2.0,Im
+Fiji,Processing,2019.0,1000 tonnes,1.0,Im
+Liberia,Processing,2019.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2019.0,1000 tonnes,1.0,A
+Senegal,Processing,2019.0,1000 tonnes,1.0,Im
+Antigua and Barbuda,Processing,2019.0,1000 tonnes,0.0,Im
+Armenia,Processing,2019.0,1000 tonnes,0.0,Im
+Bahamas,Processing,2019.0,1000 tonnes,0.0,Im
+Belarus,Processing,2019.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2019.0,1000 tonnes,0.0,Im
+Botswana,Processing,2019.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2019.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2019.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2019.0,1000 tonnes,0.0,Im
+Chad,Processing,2019.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2019.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2019.0,1000 tonnes,0.0,Im
+Croatia,Processing,2019.0,1000 tonnes,0.0,Im
+Cuba,Processing,2019.0,1000 tonnes,0.0,Im
+Czechia,Processing,2019.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2019.0,1000 tonnes,0.0,Im
+Denmark,Processing,2019.0,1000 tonnes,0.0,Im
+Eswatini,Processing,2019.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2019.0,1000 tonnes,0.0,Im
+Finland,Processing,2019.0,1000 tonnes,0.0,Im
+Georgia,Processing,2019.0,1000 tonnes,0.0,Im
+Germany,Processing,2019.0,1000 tonnes,0.0,Im
+Ghana,Processing,2019.0,1000 tonnes,0.0,Im
+Iraq,Processing,2019.0,1000 tonnes,0.0,Im
+Kenya,Processing,2019.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2019.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2019.0,1000 tonnes,0.0,Im
+Niger,Processing,2019.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2019.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2019.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2019.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2019.0,1000 tonnes,0.0,Im
+Suriname,Processing,2019.0,1000 tonnes,0.0,Im
+Togo,Processing,2019.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2019.0,1000 tonnes,0.0,Im
+Yemen,Processing,2019.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2019.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2018.0,1000 tonnes,4185.0,Im
+Brazil,Processing,2018.0,1000 tonnes,1505.0,Im
+Thailand,Processing,2018.0,1000 tonnes,1050.0,Im
+India,Processing,2018.0,1000 tonnes,1036.0,Im
+Republic of Korea,Processing,2018.0,1000 tonnes,1006.0,Im
+China,Processing,2018.0,1000 tonnes,929.0,A
+United States of America,Processing,2018.0,1000 tonnes,882.0,Im
+Viet Nam,Processing,2018.0,1000 tonnes,766.0,Im
+Japan,Processing,2018.0,1000 tonnes,488.0,Im
+Mexico,Processing,2018.0,1000 tonnes,240.0,Im
+Colombia,Processing,2018.0,1000 tonnes,212.0,Im
+Lao People's Democratic Republic,Processing,2018.0,1000 tonnes,181.0,Im
+Peru,Processing,2018.0,1000 tonnes,167.0,Im
+South Africa,Processing,2018.0,1000 tonnes,150.0,Im
+Argentina,Processing,2018.0,1000 tonnes,120.0,Im
+Australia and New Zealand,Processing,2018.0,1000 tonnes,101.0,A
+Australia,Processing,2018.0,1000 tonnes,99.0,Im
+Italy,Processing,2018.0,1000 tonnes,88.0,Im
+Spain,Processing,2018.0,1000 tonnes,88.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2018.0,1000 tonnes,88.0,Im
+Chile,Processing,2018.0,1000 tonnes,78.0,Im
+Ecuador,Processing,2018.0,1000 tonnes,70.0,Im
+Other non-specified areas,Processing,2018.0,1000 tonnes,56.0,Im
+Dominican Republic,Processing,2018.0,1000 tonnes,52.0,Im
+Côte d'Ivoire,Processing,2018.0,1000 tonnes,46.0,Im
+Mozambique,Processing,2018.0,1000 tonnes,40.0,Im
+Congo,Processing,2018.0,1000 tonnes,37.0,Im
+Iran (Islamic Republic of),Processing,2018.0,1000 tonnes,37.0,Im
+Malaysia,Processing,2018.0,1000 tonnes,34.0,Im
+El Salvador,Processing,2018.0,1000 tonnes,26.0,Im
+Canada,Processing,2018.0,1000 tonnes,21.0,Im
+Pakistan,Processing,2018.0,1000 tonnes,21.0,Im
+Nepal,Processing,2018.0,1000 tonnes,20.0,Im
+Burundi,Processing,2018.0,1000 tonnes,15.0,Im
+Poland,Processing,2018.0,1000 tonnes,14.0,Im
+Syrian Arab Republic,Processing,2018.0,1000 tonnes,14.0,Im
+France,Processing,2018.0,1000 tonnes,13.0,Im
+Bangladesh,Processing,2018.0,1000 tonnes,12.0,Im
+Benin,Processing,2018.0,1000 tonnes,12.0,Im
+Jamaica,Processing,2018.0,1000 tonnes,12.0,Im
+Sri Lanka,Processing,2018.0,1000 tonnes,11.0,Im
+Belgium,Processing,2018.0,1000 tonnes,10.0,Im
+Austria,Processing,2018.0,1000 tonnes,9.0,Im
+Honduras,Processing,2018.0,1000 tonnes,9.0,Im
+Trinidad and Tobago,Processing,2018.0,1000 tonnes,8.0,Im
+Greece,Processing,2018.0,1000 tonnes,6.0,Im
+Guyana,Processing,2018.0,1000 tonnes,3.0,Im
+Philippines,Processing,2018.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2018.0,1000 tonnes,3.0,Im
+Uzbekistan,Processing,2018.0,1000 tonnes,3.0,Im
+Egypt,Processing,2018.0,1000 tonnes,1.0,Im
+Eswatini,Processing,2018.0,1000 tonnes,1.0,Im
+Fiji,Processing,2018.0,1000 tonnes,1.0,Im
+Liberia,Processing,2018.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2018.0,1000 tonnes,1.0,A
+New Zealand,Processing,2018.0,1000 tonnes,1.0,Im
+Senegal,Processing,2018.0,1000 tonnes,1.0,Im
+Antigua and Barbuda,Processing,2018.0,1000 tonnes,0.0,Im
+Armenia,Processing,2018.0,1000 tonnes,0.0,Im
+Bahamas,Processing,2018.0,1000 tonnes,0.0,Im
+Belarus,Processing,2018.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2018.0,1000 tonnes,0.0,Im
+Botswana,Processing,2018.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2018.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2018.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2018.0,1000 tonnes,0.0,Im
+Chad,Processing,2018.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2018.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2018.0,1000 tonnes,0.0,Im
+Croatia,Processing,2018.0,1000 tonnes,0.0,Im
+Cuba,Processing,2018.0,1000 tonnes,0.0,Im
+Czechia,Processing,2018.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2018.0,1000 tonnes,0.0,Im
+Denmark,Processing,2018.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2018.0,1000 tonnes,0.0,Im
+Finland,Processing,2018.0,1000 tonnes,0.0,Im
+Georgia,Processing,2018.0,1000 tonnes,0.0,Im
+Germany,Processing,2018.0,1000 tonnes,0.0,Im
+Ghana,Processing,2018.0,1000 tonnes,0.0,Im
+Iraq,Processing,2018.0,1000 tonnes,0.0,Im
+Kenya,Processing,2018.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2018.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2018.0,1000 tonnes,0.0,Im
+Niger,Processing,2018.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2018.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2018.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2018.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2018.0,1000 tonnes,0.0,Im
+Suriname,Processing,2018.0,1000 tonnes,0.0,Im
+Togo,Processing,2018.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2018.0,1000 tonnes,0.0,Im
+Yemen,Processing,2018.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2018.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2017.0,1000 tonnes,4027.0,Im
+Brazil,Processing,2017.0,1000 tonnes,1291.0,Im
+China,Processing,2017.0,1000 tonnes,1064.0,A
+Republic of Korea,Processing,2017.0,1000 tonnes,1035.0,Im
+United States of America,Processing,2017.0,1000 tonnes,880.0,Im
+Viet Nam,Processing,2017.0,1000 tonnes,814.0,Im
+India,Processing,2017.0,1000 tonnes,674.0,Im
+Thailand,Processing,2017.0,1000 tonnes,657.0,Im
+Japan,Processing,2017.0,1000 tonnes,490.0,Im
+South Africa,Processing,2017.0,1000 tonnes,228.0,Im
+Mexico,Processing,2017.0,1000 tonnes,221.0,Im
+Lao People's Democratic Republic,Processing,2017.0,1000 tonnes,203.0,Im
+Colombia,Processing,2017.0,1000 tonnes,201.0,Im
+Australia and New Zealand,Processing,2017.0,1000 tonnes,149.0,A
+Australia,Processing,2017.0,1000 tonnes,148.0,Im
+Peru,Processing,2017.0,1000 tonnes,146.0,Im
+Argentina,Processing,2017.0,1000 tonnes,122.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2017.0,1000 tonnes,113.0,Im
+Spain,Processing,2017.0,1000 tonnes,80.0,Im
+Chile,Processing,2017.0,1000 tonnes,76.0,Im
+Italy,Processing,2017.0,1000 tonnes,73.0,Im
+Poland,Processing,2017.0,1000 tonnes,65.0,Im
+Ecuador,Processing,2017.0,1000 tonnes,64.0,Im
+Other non-specified areas,Processing,2017.0,1000 tonnes,56.0,Im
+Côte d'Ivoire,Processing,2017.0,1000 tonnes,42.0,Im
+Dominican Republic,Processing,2017.0,1000 tonnes,42.0,Im
+Congo,Processing,2017.0,1000 tonnes,37.0,Im
+Mozambique,Processing,2017.0,1000 tonnes,36.0,Im
+Iran (Islamic Republic of),Processing,2017.0,1000 tonnes,32.0,Im
+El Salvador,Processing,2017.0,1000 tonnes,26.0,Im
+Malaysia,Processing,2017.0,1000 tonnes,26.0,Im
+Sri Lanka,Processing,2017.0,1000 tonnes,26.0,Im
+Nepal,Processing,2017.0,1000 tonnes,21.0,Im
+Canada,Processing,2017.0,1000 tonnes,18.0,Im
+Burundi,Processing,2017.0,1000 tonnes,16.0,Im
+Pakistan,Processing,2017.0,1000 tonnes,16.0,Im
+Trinidad and Tobago,Processing,2017.0,1000 tonnes,13.0,Im
+Bangladesh,Processing,2017.0,1000 tonnes,11.0,Im
+Benin,Processing,2017.0,1000 tonnes,11.0,Im
+Jamaica,Processing,2017.0,1000 tonnes,10.0,Im
+Austria,Processing,2017.0,1000 tonnes,9.0,Im
+France,Processing,2017.0,1000 tonnes,9.0,Im
+Belgium,Processing,2017.0,1000 tonnes,8.0,Im
+Honduras,Processing,2017.0,1000 tonnes,8.0,Im
+Syrian Arab Republic,Processing,2017.0,1000 tonnes,8.0,Im
+Suriname,Processing,2017.0,1000 tonnes,6.0,Im
+Greece,Processing,2017.0,1000 tonnes,5.0,Im
+Guyana,Processing,2017.0,1000 tonnes,3.0,Im
+Philippines,Processing,2017.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2017.0,1000 tonnes,3.0,Im
+Uzbekistan,Processing,2017.0,1000 tonnes,3.0,Im
+Egypt,Processing,2017.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2017.0,1000 tonnes,1.0,Im
+Eswatini,Processing,2017.0,1000 tonnes,1.0,Im
+Fiji,Processing,2017.0,1000 tonnes,1.0,Im
+Ghana,Processing,2017.0,1000 tonnes,1.0,Im
+Liberia,Processing,2017.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2017.0,1000 tonnes,1.0,A
+New Zealand,Processing,2017.0,1000 tonnes,1.0,Im
+Senegal,Processing,2017.0,1000 tonnes,1.0,Im
+Antigua and Barbuda,Processing,2017.0,1000 tonnes,0.0,Im
+Armenia,Processing,2017.0,1000 tonnes,0.0,Im
+Belarus,Processing,2017.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2017.0,1000 tonnes,0.0,Im
+Botswana,Processing,2017.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2017.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2017.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2017.0,1000 tonnes,0.0,Im
+Chad,Processing,2017.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2017.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2017.0,1000 tonnes,0.0,Im
+Croatia,Processing,2017.0,1000 tonnes,0.0,Im
+Cuba,Processing,2017.0,1000 tonnes,0.0,Im
+Czechia,Processing,2017.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2017.0,1000 tonnes,0.0,Im
+Denmark,Processing,2017.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2017.0,1000 tonnes,0.0,Im
+Finland,Processing,2017.0,1000 tonnes,0.0,Im
+Georgia,Processing,2017.0,1000 tonnes,0.0,Im
+Germany,Processing,2017.0,1000 tonnes,0.0,Im
+Iraq,Processing,2017.0,1000 tonnes,0.0,Im
+Kenya,Processing,2017.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2017.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2017.0,1000 tonnes,0.0,Im
+Niger,Processing,2017.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2017.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2017.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2017.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2017.0,1000 tonnes,0.0,Im
+Togo,Processing,2017.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2017.0,1000 tonnes,0.0,Im
+Yemen,Processing,2017.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2017.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2016.0,1000 tonnes,4439.0,Im
+Brazil,Processing,2016.0,1000 tonnes,1244.0,Im
+Republic of Korea,Processing,2016.0,1000 tonnes,1102.0,Im
+China,Processing,2016.0,1000 tonnes,1084.0,A
+United States of America,Processing,2016.0,1000 tonnes,892.0,Im
+Thailand,Processing,2016.0,1000 tonnes,867.0,Im
+India,Processing,2016.0,1000 tonnes,749.0,Im
+Japan,Processing,2016.0,1000 tonnes,492.0,Im
+Viet Nam,Processing,2016.0,1000 tonnes,338.0,Im
+Lao People's Democratic Republic,Processing,2016.0,1000 tonnes,222.0,Im
+Mexico,Processing,2016.0,1000 tonnes,210.0,Im
+Colombia,Processing,2016.0,1000 tonnes,198.0,Im
+Australia and New Zealand,Processing,2016.0,1000 tonnes,169.0,A
+Australia,Processing,2016.0,1000 tonnes,167.0,Im
+Peru,Processing,2016.0,1000 tonnes,138.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2016.0,1000 tonnes,113.0,Im
+Chile,Processing,2016.0,1000 tonnes,81.0,Im
+Italy,Processing,2016.0,1000 tonnes,78.0,Im
+South Africa,Processing,2016.0,1000 tonnes,77.0,Im
+Spain,Processing,2016.0,1000 tonnes,68.0,Im
+Poland,Processing,2016.0,1000 tonnes,64.0,Im
+Ecuador,Processing,2016.0,1000 tonnes,58.0,Im
+Other non-specified areas,Processing,2016.0,1000 tonnes,51.0,Im
+Dominican Republic,Processing,2016.0,1000 tonnes,42.0,Im
+Malaysia,Processing,2016.0,1000 tonnes,39.0,Im
+Argentina,Processing,2016.0,1000 tonnes,38.0,Im
+Côte d'Ivoire,Processing,2016.0,1000 tonnes,35.0,Im
+Mozambique,Processing,2016.0,1000 tonnes,35.0,Im
+Pakistan,Processing,2016.0,1000 tonnes,35.0,Im
+Canada,Processing,2016.0,1000 tonnes,29.0,Im
+Iran (Islamic Republic of),Processing,2016.0,1000 tonnes,29.0,Im
+El Salvador,Processing,2016.0,1000 tonnes,25.0,Im
+Congo,Processing,2016.0,1000 tonnes,24.0,Im
+Sri Lanka,Processing,2016.0,1000 tonnes,22.0,Im
+Nepal,Processing,2016.0,1000 tonnes,17.0,Im
+Honduras,Processing,2016.0,1000 tonnes,15.0,Im
+Benin,Processing,2016.0,1000 tonnes,11.0,Im
+Jamaica,Processing,2016.0,1000 tonnes,11.0,Im
+Bangladesh,Processing,2016.0,1000 tonnes,10.0,Im
+Trinidad and Tobago,Processing,2016.0,1000 tonnes,10.0,Im
+Burundi,Processing,2016.0,1000 tonnes,9.0,Im
+Austria,Processing,2016.0,1000 tonnes,8.0,Im
+Syrian Arab Republic,Processing,2016.0,1000 tonnes,7.0,Im
+Greece,Processing,2016.0,1000 tonnes,6.0,Im
+Suriname,Processing,2016.0,1000 tonnes,5.0,Im
+France,Processing,2016.0,1000 tonnes,4.0,Im
+Egypt,Processing,2016.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2016.0,1000 tonnes,3.0,Im
+Eswatini,Processing,2016.0,1000 tonnes,2.0,Im
+Guyana,Processing,2016.0,1000 tonnes,2.0,Im
+New Zealand,Processing,2016.0,1000 tonnes,2.0,Im
+Philippines,Processing,2016.0,1000 tonnes,2.0,Im
+Uzbekistan,Processing,2016.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2016.0,1000 tonnes,1.0,Im
+Belgium,Processing,2016.0,1000 tonnes,1.0,Im
+Ghana,Processing,2016.0,1000 tonnes,1.0,Im
+Liberia,Processing,2016.0,1000 tonnes,1.0,Im
+Senegal,Processing,2016.0,1000 tonnes,1.0,Im
+Antigua and Barbuda,Processing,2016.0,1000 tonnes,0.0,Im
+Armenia,Processing,2016.0,1000 tonnes,0.0,Im
+Belarus,Processing,2016.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2016.0,1000 tonnes,0.0,Im
+Botswana,Processing,2016.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2016.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2016.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2016.0,1000 tonnes,0.0,Im
+Chad,Processing,2016.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2016.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2016.0,1000 tonnes,0.0,Im
+Croatia,Processing,2016.0,1000 tonnes,0.0,Im
+Cuba,Processing,2016.0,1000 tonnes,0.0,Im
+Czechia,Processing,2016.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2016.0,1000 tonnes,0.0,Im
+Denmark,Processing,2016.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2016.0,1000 tonnes,0.0,Im
+Fiji,Processing,2016.0,1000 tonnes,0.0,Im
+Finland,Processing,2016.0,1000 tonnes,0.0,Im
+Georgia,Processing,2016.0,1000 tonnes,0.0,Im
+Germany,Processing,2016.0,1000 tonnes,0.0,Im
+Iraq,Processing,2016.0,1000 tonnes,0.0,Im
+Kenya,Processing,2016.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2016.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2016.0,1000 tonnes,0.0,Im
+Melanesia,Processing,2016.0,1000 tonnes,0.0,A
+Niger,Processing,2016.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2016.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2016.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2016.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2016.0,1000 tonnes,0.0,Im
+Togo,Processing,2016.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2016.0,1000 tonnes,0.0,Im
+Yemen,Processing,2016.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2016.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2015.0,1000 tonnes,4257.0,Im
+Brazil,Processing,2015.0,1000 tonnes,1311.0,Im
+China,Processing,2015.0,1000 tonnes,1132.0,A
+Republic of Korea,Processing,2015.0,1000 tonnes,1123.0,Im
+Thailand,Processing,2015.0,1000 tonnes,1084.0,Im
+United States of America,Processing,2015.0,1000 tonnes,892.0,Im
+India,Processing,2015.0,1000 tonnes,676.0,Im
+Japan,Processing,2015.0,1000 tonnes,492.0,Im
+Viet Nam,Processing,2015.0,1000 tonnes,229.0,Im
+Lao People's Democratic Republic,Processing,2015.0,1000 tonnes,196.0,Im
+Mexico,Processing,2015.0,1000 tonnes,194.0,Im
+Colombia,Processing,2015.0,1000 tonnes,185.0,Im
+Peru,Processing,2015.0,1000 tonnes,132.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2015.0,1000 tonnes,128.0,Im
+Australia and New Zealand,Processing,2015.0,1000 tonnes,113.0,A
+Australia,Processing,2015.0,1000 tonnes,111.0,Im
+Argentina,Processing,2015.0,1000 tonnes,109.0,Im
+South Africa,Processing,2015.0,1000 tonnes,77.0,Im
+Chile,Processing,2015.0,1000 tonnes,67.0,Im
+Italy,Processing,2015.0,1000 tonnes,67.0,Im
+Spain,Processing,2015.0,1000 tonnes,65.0,Im
+Poland,Processing,2015.0,1000 tonnes,63.0,Im
+Pakistan,Processing,2015.0,1000 tonnes,62.0,Im
+Other non-specified areas,Processing,2015.0,1000 tonnes,52.0,Im
+Ecuador,Processing,2015.0,1000 tonnes,50.0,Im
+Dominican Republic,Processing,2015.0,1000 tonnes,41.0,Im
+Côte d'Ivoire,Processing,2015.0,1000 tonnes,37.0,Im
+Malaysia,Processing,2015.0,1000 tonnes,37.0,Im
+Iran (Islamic Republic of),Processing,2015.0,1000 tonnes,34.0,Im
+Mozambique,Processing,2015.0,1000 tonnes,32.0,Im
+Canada,Processing,2015.0,1000 tonnes,18.0,Im
+El Salvador,Processing,2015.0,1000 tonnes,18.0,Im
+Nepal,Processing,2015.0,1000 tonnes,17.0,Im
+Honduras,Processing,2015.0,1000 tonnes,13.0,Im
+Jamaica,Processing,2015.0,1000 tonnes,13.0,Im
+Benin,Processing,2015.0,1000 tonnes,12.0,Im
+Bangladesh,Processing,2015.0,1000 tonnes,11.0,Im
+Congo,Processing,2015.0,1000 tonnes,11.0,Im
+Trinidad and Tobago,Processing,2015.0,1000 tonnes,10.0,Im
+Syrian Arab Republic,Processing,2015.0,1000 tonnes,9.0,Im
+Austria,Processing,2015.0,1000 tonnes,8.0,Im
+Greece,Processing,2015.0,1000 tonnes,8.0,Im
+Egypt,Processing,2015.0,1000 tonnes,7.0,Im
+Sri Lanka,Processing,2015.0,1000 tonnes,7.0,Im
+Burundi,Processing,2015.0,1000 tonnes,6.0,Im
+Suriname,Processing,2015.0,1000 tonnes,6.0,Im
+Belgium,Processing,2015.0,1000 tonnes,5.0,Im
+Philippines,Processing,2015.0,1000 tonnes,5.0,Im
+France,Processing,2015.0,1000 tonnes,4.0,Im
+Guyana,Processing,2015.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2015.0,1000 tonnes,3.0,Im
+Eswatini,Processing,2015.0,1000 tonnes,2.0,Im
+New Zealand,Processing,2015.0,1000 tonnes,2.0,Im
+Uzbekistan,Processing,2015.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2015.0,1000 tonnes,1.0,Im
+Fiji,Processing,2015.0,1000 tonnes,1.0,Im
+Ghana,Processing,2015.0,1000 tonnes,1.0,Im
+Liberia,Processing,2015.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2015.0,1000 tonnes,1.0,A
+Senegal,Processing,2015.0,1000 tonnes,1.0,Im
+Albania,Processing,2015.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Processing,2015.0,1000 tonnes,0.0,Im
+Armenia,Processing,2015.0,1000 tonnes,0.0,Im
+Belarus,Processing,2015.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2015.0,1000 tonnes,0.0,Im
+Botswana,Processing,2015.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2015.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2015.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2015.0,1000 tonnes,0.0,Im
+Chad,Processing,2015.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2015.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2015.0,1000 tonnes,0.0,Im
+Croatia,Processing,2015.0,1000 tonnes,0.0,Im
+Cuba,Processing,2015.0,1000 tonnes,0.0,Im
+Czechia,Processing,2015.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2015.0,1000 tonnes,0.0,Im
+Denmark,Processing,2015.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2015.0,1000 tonnes,0.0,Im
+Finland,Processing,2015.0,1000 tonnes,0.0,Im
+Georgia,Processing,2015.0,1000 tonnes,0.0,Im
+Germany,Processing,2015.0,1000 tonnes,0.0,Im
+Iraq,Processing,2015.0,1000 tonnes,0.0,Im
+Kenya,Processing,2015.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2015.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2015.0,1000 tonnes,0.0,Im
+Niger,Processing,2015.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2015.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2015.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2015.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2015.0,1000 tonnes,0.0,Im
+Togo,Processing,2015.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2015.0,1000 tonnes,0.0,Im
+Yemen,Processing,2015.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2015.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2014.0,1000 tonnes,4349.0,Im
+Brazil,Processing,2014.0,1000 tonnes,1320.0,Im
+China,Processing,2014.0,1000 tonnes,1182.0,A
+Republic of Korea,Processing,2014.0,1000 tonnes,1075.0,Im
+Thailand,Processing,2014.0,1000 tonnes,1027.0,Im
+United States of America,Processing,2014.0,1000 tonnes,868.0,Im
+India,Processing,2014.0,1000 tonnes,716.0,Im
+Japan,Processing,2014.0,1000 tonnes,502.0,Im
+Lao People's Democratic Republic,Processing,2014.0,1000 tonnes,181.0,Im
+Viet Nam,Processing,2014.0,1000 tonnes,178.0,Im
+Mexico,Processing,2014.0,1000 tonnes,173.0,Im
+Colombia,Processing,2014.0,1000 tonnes,166.0,Im
+Peru,Processing,2014.0,1000 tonnes,136.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2014.0,1000 tonnes,112.0,Im
+Australia and New Zealand,Processing,2014.0,1000 tonnes,109.0,A
+Australia,Processing,2014.0,1000 tonnes,107.0,Im
+Côte d'Ivoire,Processing,2014.0,1000 tonnes,101.0,Im
+South Africa,Processing,2014.0,1000 tonnes,85.0,Im
+Ecuador,Processing,2014.0,1000 tonnes,68.0,Im
+Spain,Processing,2014.0,1000 tonnes,63.0,Im
+Poland,Processing,2014.0,1000 tonnes,61.0,Im
+Other non-specified areas,Processing,2014.0,1000 tonnes,56.0,Im
+Italy,Processing,2014.0,1000 tonnes,56.0,Im
+Chile,Processing,2014.0,1000 tonnes,48.0,Im
+Dominican Republic,Processing,2014.0,1000 tonnes,37.0,Im
+Malaysia,Processing,2014.0,1000 tonnes,36.0,Im
+Iran (Islamic Republic of),Processing,2014.0,1000 tonnes,33.0,Im
+El Salvador,Processing,2014.0,1000 tonnes,26.0,Im
+Mozambique,Processing,2014.0,1000 tonnes,26.0,Im
+Argentina,Processing,2014.0,1000 tonnes,24.0,Im
+Pakistan,Processing,2014.0,1000 tonnes,23.0,Im
+Congo,Processing,2014.0,1000 tonnes,17.0,Im
+Nepal,Processing,2014.0,1000 tonnes,17.0,Im
+Canada,Processing,2014.0,1000 tonnes,13.0,Im
+Honduras,Processing,2014.0,1000 tonnes,12.0,Im
+Syrian Arab Republic,Processing,2014.0,1000 tonnes,12.0,Im
+Bangladesh,Processing,2014.0,1000 tonnes,11.0,Im
+Benin,Processing,2014.0,1000 tonnes,11.0,Im
+Jamaica,Processing,2014.0,1000 tonnes,11.0,Im
+Suriname,Processing,2014.0,1000 tonnes,10.0,Im
+Burundi,Processing,2014.0,1000 tonnes,8.0,Im
+Trinidad and Tobago,Processing,2014.0,1000 tonnes,8.0,Im
+Austria,Processing,2014.0,1000 tonnes,7.0,Im
+Sri Lanka,Processing,2014.0,1000 tonnes,7.0,Im
+Egypt,Processing,2014.0,1000 tonnes,6.0,Im
+Greece,Processing,2014.0,1000 tonnes,6.0,Im
+Belgium,Processing,2014.0,1000 tonnes,5.0,Im
+France,Processing,2014.0,1000 tonnes,3.0,Im
+Guyana,Processing,2014.0,1000 tonnes,3.0,Im
+Philippines,Processing,2014.0,1000 tonnes,3.0,Im
+Sierra Leone,Processing,2014.0,1000 tonnes,3.0,Im
+New Zealand,Processing,2014.0,1000 tonnes,2.0,Im
+Uzbekistan,Processing,2014.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2014.0,1000 tonnes,1.0,Im
+Eswatini,Processing,2014.0,1000 tonnes,1.0,Im
+Fiji,Processing,2014.0,1000 tonnes,1.0,Im
+Ghana,Processing,2014.0,1000 tonnes,1.0,Im
+Liberia,Processing,2014.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2014.0,1000 tonnes,1.0,A
+Senegal,Processing,2014.0,1000 tonnes,1.0,Im
+Albania,Processing,2014.0,1000 tonnes,0.0,Im
+Armenia,Processing,2014.0,1000 tonnes,0.0,Im
+Belarus,Processing,2014.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2014.0,1000 tonnes,0.0,Im
+Botswana,Processing,2014.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2014.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2014.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2014.0,1000 tonnes,0.0,Im
+Chad,Processing,2014.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2014.0,1000 tonnes,0.0,Im
+Costa Rica,Processing,2014.0,1000 tonnes,0.0,Im
+Croatia,Processing,2014.0,1000 tonnes,0.0,Im
+Cuba,Processing,2014.0,1000 tonnes,0.0,Im
+Czechia,Processing,2014.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2014.0,1000 tonnes,0.0,Im
+Denmark,Processing,2014.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2014.0,1000 tonnes,0.0,Im
+Finland,Processing,2014.0,1000 tonnes,0.0,Im
+Georgia,Processing,2014.0,1000 tonnes,0.0,Im
+Germany,Processing,2014.0,1000 tonnes,0.0,Im
+Iraq,Processing,2014.0,1000 tonnes,0.0,Im
+Kenya,Processing,2014.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2014.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2014.0,1000 tonnes,0.0,Im
+Niger,Processing,2014.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2014.0,1000 tonnes,0.0,Im
+Saint Lucia,Processing,2014.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2014.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2014.0,1000 tonnes,0.0,Im
+Togo,Processing,2014.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2014.0,1000 tonnes,0.0,Im
+Yemen,Processing,2014.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2014.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2013.0,1000 tonnes,4444.0,Im
+Brazil,Processing,2013.0,1000 tonnes,1275.0,Im
+Thailand,Processing,2013.0,1000 tonnes,1221.0,Im
+China,Processing,2013.0,1000 tonnes,1210.0,A
+United States of America,Processing,2013.0,1000 tonnes,879.0,Im
+India,Processing,2013.0,1000 tonnes,670.0,Im
+Japan,Processing,2013.0,1000 tonnes,526.0,Im
+Viet Nam,Processing,2013.0,1000 tonnes,185.0,Im
+Colombia,Processing,2013.0,1000 tonnes,178.0,Im
+Mexico,Processing,2013.0,1000 tonnes,171.0,Im
+Lao People's Democratic Republic,Processing,2013.0,1000 tonnes,166.0,Im
+Peru,Processing,2013.0,1000 tonnes,151.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2013.0,1000 tonnes,104.0,Im
+South Africa,Processing,2013.0,1000 tonnes,99.0,Im
+Argentina,Processing,2013.0,1000 tonnes,84.0,Im
+Poland,Processing,2013.0,1000 tonnes,63.0,Im
+Chile,Processing,2013.0,1000 tonnes,60.0,Im
+Spain,Processing,2013.0,1000 tonnes,53.0,Im
+Other non-specified areas,Processing,2013.0,1000 tonnes,50.0,Im
+Ecuador,Processing,2013.0,1000 tonnes,50.0,Im
+Iran (Islamic Republic of),Processing,2013.0,1000 tonnes,46.0,Im
+Côte d'Ivoire,Processing,2013.0,1000 tonnes,44.0,Im
+Italy,Processing,2013.0,1000 tonnes,40.0,Im
+Congo,Processing,2013.0,1000 tonnes,38.0,Im
+Malaysia,Processing,2013.0,1000 tonnes,38.0,Im
+Dominican Republic,Processing,2013.0,1000 tonnes,36.0,Im
+Republic of Korea,Processing,2013.0,1000 tonnes,32.0,Im
+Pakistan,Processing,2013.0,1000 tonnes,28.0,Im
+Canada,Processing,2013.0,1000 tonnes,27.0,Im
+El Salvador,Processing,2013.0,1000 tonnes,24.0,Im
+Nepal,Processing,2013.0,1000 tonnes,16.0,Im
+Mozambique,Processing,2013.0,1000 tonnes,15.0,Im
+Syrian Arab Republic,Processing,2013.0,1000 tonnes,14.0,Im
+Jamaica,Processing,2013.0,1000 tonnes,12.0,Im
+Suriname,Processing,2013.0,1000 tonnes,11.0,Im
+Bangladesh,Processing,2013.0,1000 tonnes,10.0,Im
+Honduras,Processing,2013.0,1000 tonnes,10.0,Im
+Benin,Processing,2013.0,1000 tonnes,9.0,Im
+Egypt,Processing,2013.0,1000 tonnes,8.0,Im
+Trinidad and Tobago,Processing,2013.0,1000 tonnes,8.0,Im
+Austria,Processing,2013.0,1000 tonnes,7.0,Im
+Sri Lanka,Processing,2013.0,1000 tonnes,7.0,Im
+Greece,Processing,2013.0,1000 tonnes,6.0,Im
+Australia and New Zealand,Processing,2013.0,1000 tonnes,5.0,A
+Australia,Processing,2013.0,1000 tonnes,3.0,Im
+Guyana,Processing,2013.0,1000 tonnes,3.0,Im
+Philippines,Processing,2013.0,1000 tonnes,3.0,Im
+France,Processing,2013.0,1000 tonnes,2.0,Im
+New Zealand,Processing,2013.0,1000 tonnes,2.0,Im
+Sierra Leone,Processing,2013.0,1000 tonnes,2.0,Im
+Uzbekistan,Processing,2013.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2013.0,1000 tonnes,1.0,Im
+Fiji,Processing,2013.0,1000 tonnes,1.0,Im
+Liberia,Processing,2013.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2013.0,1000 tonnes,1.0,A
+Senegal,Processing,2013.0,1000 tonnes,1.0,Im
+Afghanistan,Processing,2013.0,1000 tonnes,0.0,Im
+Angola,Processing,2013.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Processing,2013.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2013.0,1000 tonnes,0.0,Im
+Botswana,Processing,2013.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2013.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2013.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2013.0,1000 tonnes,0.0,Im
+Cameroon,Processing,2013.0,1000 tonnes,0.0,Im
+Central African Republic,Processing,2013.0,1000 tonnes,0.0,Im
+Chad,Processing,2013.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2013.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2013.0,1000 tonnes,0.0,Im
+Denmark,Processing,2013.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2013.0,1000 tonnes,0.0,Im
+Germany,Processing,2013.0,1000 tonnes,0.0,Im
+Ghana,Processing,2013.0,1000 tonnes,0.0,Im
+Guatemala,Processing,2013.0,1000 tonnes,0.0,Im
+Guinea,Processing,2013.0,1000 tonnes,0.0,Im
+Haiti,Processing,2013.0,1000 tonnes,0.0,Im
+Hungary,Processing,2013.0,1000 tonnes,0.0,Im
+Indonesia,Processing,2013.0,1000 tonnes,0.0,Im
+Iraq,Processing,2013.0,1000 tonnes,0.0,Im
+Kenya,Processing,2013.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2013.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2013.0,1000 tonnes,0.0,Im
+Malawi,Processing,2013.0,1000 tonnes,0.0,Im
+Niger,Processing,2013.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2013.0,1000 tonnes,0.0,Im
+Rwanda,Processing,2013.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2013.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2013.0,1000 tonnes,0.0,Im
+Tajikistan,Processing,2013.0,1000 tonnes,0.0,Im
+Togo,Processing,2013.0,1000 tonnes,0.0,Im
+Uganda,Processing,2013.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Processing,2013.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2013.0,1000 tonnes,0.0,Im
+Yemen,Processing,2013.0,1000 tonnes,0.0,Im
+Zambia,Processing,2013.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2013.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2012.0,1000 tonnes,4333.0,Im
+Brazil,Processing,2012.0,1000 tonnes,1251.0,Im
+China,Processing,2012.0,1000 tonnes,1148.0,A
+Thailand,Processing,2012.0,1000 tonnes,1107.0,Im
+United States of America,Processing,2012.0,1000 tonnes,911.0,Im
+India,Processing,2012.0,1000 tonnes,656.0,Im
+Japan,Processing,2012.0,1000 tonnes,514.0,Im
+Colombia,Processing,2012.0,1000 tonnes,177.0,Im
+Mexico,Processing,2012.0,1000 tonnes,175.0,Im
+Lao People's Democratic Republic,Processing,2012.0,1000 tonnes,158.0,Im
+Peru,Processing,2012.0,1000 tonnes,150.0,Im
+Viet Nam,Processing,2012.0,1000 tonnes,113.0,Im
+South Africa,Processing,2012.0,1000 tonnes,107.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2012.0,1000 tonnes,103.0,Im
+Argentina,Processing,2012.0,1000 tonnes,70.0,Im
+Ecuador,Processing,2012.0,1000 tonnes,60.0,Im
+Poland,Processing,2012.0,1000 tonnes,59.0,Im
+Chile,Processing,2012.0,1000 tonnes,54.0,Im
+Other non-specified areas,Processing,2012.0,1000 tonnes,54.0,Im
+Spain,Processing,2012.0,1000 tonnes,50.0,Im
+Côte d'Ivoire,Processing,2012.0,1000 tonnes,47.0,Im
+Dominican Republic,Processing,2012.0,1000 tonnes,40.0,Im
+Malaysia,Processing,2012.0,1000 tonnes,40.0,Im
+Italy,Processing,2012.0,1000 tonnes,35.0,Im
+Congo,Processing,2012.0,1000 tonnes,33.0,Im
+Iran (Islamic Republic of),Processing,2012.0,1000 tonnes,30.0,Im
+Republic of Korea,Processing,2012.0,1000 tonnes,30.0,Im
+El Salvador,Processing,2012.0,1000 tonnes,21.0,Im
+Nepal,Processing,2012.0,1000 tonnes,18.0,Im
+Pakistan,Processing,2012.0,1000 tonnes,18.0,Im
+Mozambique,Processing,2012.0,1000 tonnes,16.0,Im
+Syrian Arab Republic,Processing,2012.0,1000 tonnes,16.0,Im
+Canada,Processing,2012.0,1000 tonnes,15.0,Im
+Honduras,Processing,2012.0,1000 tonnes,12.0,Im
+Jamaica,Processing,2012.0,1000 tonnes,12.0,Im
+Bangladesh,Processing,2012.0,1000 tonnes,11.0,Im
+Benin,Processing,2012.0,1000 tonnes,9.0,Im
+Suriname,Processing,2012.0,1000 tonnes,9.0,Im
+Sri Lanka,Processing,2012.0,1000 tonnes,8.0,Im
+Trinidad and Tobago,Processing,2012.0,1000 tonnes,8.0,Im
+Austria,Processing,2012.0,1000 tonnes,7.0,Im
+Greece,Processing,2012.0,1000 tonnes,6.0,Im
+Philippines,Processing,2012.0,1000 tonnes,6.0,Im
+Egypt,Processing,2012.0,1000 tonnes,4.0,Im
+Australia and New Zealand,Processing,2012.0,1000 tonnes,3.0,A
+Australia,Processing,2012.0,1000 tonnes,2.0,Im
+Bahamas,Processing,2012.0,1000 tonnes,2.0,Im
+France,Processing,2012.0,1000 tonnes,2.0,Im
+Guyana,Processing,2012.0,1000 tonnes,2.0,Im
+Sierra Leone,Processing,2012.0,1000 tonnes,2.0,Im
+Uzbekistan,Processing,2012.0,1000 tonnes,2.0,Im
+Fiji,Processing,2012.0,1000 tonnes,1.0,Im
+Liberia,Processing,2012.0,1000 tonnes,1.0,Im
+Melanesia,Processing,2012.0,1000 tonnes,1.0,A
+New Zealand,Processing,2012.0,1000 tonnes,1.0,Im
+Senegal,Processing,2012.0,1000 tonnes,1.0,Im
+Afghanistan,Processing,2012.0,1000 tonnes,0.0,Im
+Angola,Processing,2012.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Processing,2012.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2012.0,1000 tonnes,0.0,Im
+Botswana,Processing,2012.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2012.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2012.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2012.0,1000 tonnes,0.0,Im
+Cameroon,Processing,2012.0,1000 tonnes,0.0,Im
+Central African Republic,Processing,2012.0,1000 tonnes,0.0,Im
+Chad,Processing,2012.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2012.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2012.0,1000 tonnes,0.0,Im
+Denmark,Processing,2012.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2012.0,1000 tonnes,0.0,Im
+Germany,Processing,2012.0,1000 tonnes,0.0,Im
+Ghana,Processing,2012.0,1000 tonnes,0.0,Im
+Guatemala,Processing,2012.0,1000 tonnes,0.0,Im
+Guinea,Processing,2012.0,1000 tonnes,0.0,Im
+Haiti,Processing,2012.0,1000 tonnes,0.0,Im
+Hungary,Processing,2012.0,1000 tonnes,0.0,Im
+Indonesia,Processing,2012.0,1000 tonnes,0.0,Im
+Iraq,Processing,2012.0,1000 tonnes,0.0,Im
+Kenya,Processing,2012.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2012.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2012.0,1000 tonnes,0.0,Im
+Malawi,Processing,2012.0,1000 tonnes,0.0,Im
+Niger,Processing,2012.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2012.0,1000 tonnes,0.0,Im
+Rwanda,Processing,2012.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2012.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2012.0,1000 tonnes,0.0,Im
+Tajikistan,Processing,2012.0,1000 tonnes,0.0,Im
+Togo,Processing,2012.0,1000 tonnes,0.0,Im
+Uganda,Processing,2012.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Processing,2012.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2012.0,1000 tonnes,0.0,Im
+Yemen,Processing,2012.0,1000 tonnes,0.0,Im
+Zambia,Processing,2012.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2012.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2011.0,1000 tonnes,4603.0,Im
+Brazil,Processing,2011.0,1000 tonnes,1238.0,Im
+China,Processing,2011.0,1000 tonnes,1162.0,A
+Thailand,Processing,2011.0,1000 tonnes,1087.0,Im
+India,Processing,2011.0,1000 tonnes,832.0,Im
+United States of America,Processing,2011.0,1000 tonnes,774.0,Im
+Japan,Processing,2011.0,1000 tonnes,503.0,Im
+Mexico,Processing,2011.0,1000 tonnes,172.0,Im
+Colombia,Processing,2011.0,1000 tonnes,168.0,Im
+Lao People's Democratic Republic,Processing,2011.0,1000 tonnes,157.0,Im
+Peru,Processing,2011.0,1000 tonnes,128.0,Im
+Viet Nam,Processing,2011.0,1000 tonnes,125.0,Im
+United Kingdom of Great Britain and Northern Ireland,Processing,2011.0,1000 tonnes,100.0,Im
+South Africa,Processing,2011.0,1000 tonnes,73.0,Im
+Poland,Processing,2011.0,1000 tonnes,62.0,Im
+Côte d'Ivoire,Processing,2011.0,1000 tonnes,59.0,Im
+Ecuador,Processing,2011.0,1000 tonnes,58.0,Im
+Other non-specified areas,Processing,2011.0,1000 tonnes,55.0,Im
+Chile,Processing,2011.0,1000 tonnes,49.0,Im
+Dominican Republic,Processing,2011.0,1000 tonnes,42.0,Im
+Malaysia,Processing,2011.0,1000 tonnes,41.0,Im
+Argentina,Processing,2011.0,1000 tonnes,33.0,Im
+Spain,Processing,2011.0,1000 tonnes,33.0,Im
+Republic of Korea,Processing,2011.0,1000 tonnes,31.0,Im
+Iran (Islamic Republic of),Processing,2011.0,1000 tonnes,29.0,Im
+Italy,Processing,2011.0,1000 tonnes,28.0,Im
+Congo,Processing,2011.0,1000 tonnes,22.0,Im
+Pakistan,Processing,2011.0,1000 tonnes,22.0,Im
+Syrian Arab Republic,Processing,2011.0,1000 tonnes,21.0,Im
+Mozambique,Processing,2011.0,1000 tonnes,19.0,Im
+El Salvador,Processing,2011.0,1000 tonnes,18.0,Im
+Canada,Processing,2011.0,1000 tonnes,15.0,Im
+Nepal,Processing,2011.0,1000 tonnes,15.0,Im
+Jamaica,Processing,2011.0,1000 tonnes,12.0,Im
+Bangladesh,Processing,2011.0,1000 tonnes,11.0,Im
+Honduras,Processing,2011.0,1000 tonnes,10.0,Im
+Suriname,Processing,2011.0,1000 tonnes,10.0,Im
+Benin,Processing,2011.0,1000 tonnes,8.0,Im
+Austria,Processing,2011.0,1000 tonnes,7.0,Im
+Greece,Processing,2011.0,1000 tonnes,7.0,Im
+Australia and New Zealand,Processing,2011.0,1000 tonnes,5.0,A
+Philippines,Processing,2011.0,1000 tonnes,4.0,Im
+Sri Lanka,Processing,2011.0,1000 tonnes,4.0,Im
+Trinidad and Tobago,Processing,2011.0,1000 tonnes,4.0,Im
+Australia,Processing,2011.0,1000 tonnes,3.0,Im
+Bahamas,Processing,2011.0,1000 tonnes,2.0,Im
+Egypt,Processing,2011.0,1000 tonnes,2.0,Im
+France,Processing,2011.0,1000 tonnes,2.0,Im
+Guyana,Processing,2011.0,1000 tonnes,2.0,Im
+Liberia,Processing,2011.0,1000 tonnes,1.0,Im
+New Zealand,Processing,2011.0,1000 tonnes,1.0,Im
+Senegal,Processing,2011.0,1000 tonnes,1.0,Im
+Sierra Leone,Processing,2011.0,1000 tonnes,1.0,Im
+Uzbekistan,Processing,2011.0,1000 tonnes,1.0,Im
+Afghanistan,Processing,2011.0,1000 tonnes,0.0,Im
+Angola,Processing,2011.0,1000 tonnes,0.0,Im
+Antigua and Barbuda,Processing,2011.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Processing,2011.0,1000 tonnes,0.0,Im
+Botswana,Processing,2011.0,1000 tonnes,0.0,Im
+Bulgaria,Processing,2011.0,1000 tonnes,0.0,Im
+Burkina Faso,Processing,2011.0,1000 tonnes,0.0,Im
+Cambodia,Processing,2011.0,1000 tonnes,0.0,Im
+Cameroon,Processing,2011.0,1000 tonnes,0.0,Im
+Central African Republic,Processing,2011.0,1000 tonnes,0.0,Im
+Chad,Processing,2011.0,1000 tonnes,0.0,Im
+"China, Hong Kong SAR",Processing,2011.0,1000 tonnes,0.0,Im
+Democratic People's Republic of Korea,Processing,2011.0,1000 tonnes,0.0,Im
+Denmark,Processing,2011.0,1000 tonnes,0.0,Im
+Ethiopia,Processing,2011.0,1000 tonnes,0.0,Im
+Fiji,Processing,2011.0,1000 tonnes,0.0,Im
+Germany,Processing,2011.0,1000 tonnes,0.0,Im
+Ghana,Processing,2011.0,1000 tonnes,0.0,Im
+Guatemala,Processing,2011.0,1000 tonnes,0.0,Im
+Guinea,Processing,2011.0,1000 tonnes,0.0,Im
+Haiti,Processing,2011.0,1000 tonnes,0.0,Im
+Hungary,Processing,2011.0,1000 tonnes,0.0,Im
+Indonesia,Processing,2011.0,1000 tonnes,0.0,Im
+Iraq,Processing,2011.0,1000 tonnes,0.0,Im
+Kenya,Processing,2011.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Processing,2011.0,1000 tonnes,0.0,Im
+Madagascar,Processing,2011.0,1000 tonnes,0.0,Im
+Malawi,Processing,2011.0,1000 tonnes,0.0,Im
+Melanesia,Processing,2011.0,1000 tonnes,0.0,A
+Niger,Processing,2011.0,1000 tonnes,0.0,Im
+Nigeria,Processing,2011.0,1000 tonnes,0.0,Im
+Rwanda,Processing,2011.0,1000 tonnes,0.0,Im
+Slovakia,Processing,2011.0,1000 tonnes,0.0,Im
+Slovenia,Processing,2011.0,1000 tonnes,0.0,Im
+Tajikistan,Processing,2011.0,1000 tonnes,0.0,Im
+Togo,Processing,2011.0,1000 tonnes,0.0,Im
+Uganda,Processing,2011.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Processing,2011.0,1000 tonnes,0.0,Im
+Venezuela (Bolivarian Republic of),Processing,2011.0,1000 tonnes,0.0,Im
+Yemen,Processing,2011.0,1000 tonnes,0.0,Im
+Zambia,Processing,2011.0,1000 tonnes,0.0,Im
+Zimbabwe,Processing,2011.0,1000 tonnes,0.0,Im
+Myanmar,Processing,2010.0,1000 tonnes,4762.0,ImBr
+Thailand,Processing,2010.0,1000 tonnes,1282.0,ImBr
+Brazil,Processing,2010.0,1000 tonnes,1219.0,ImBr
+China,Processing,2010.0,1000 tonnes,1100.0,ABr
+United States of America,Processing,2010.0,1000 tonnes,880.0,ImBr
+India,Processing,2010.0,1000 tonnes,801.0,ImBr
+Japan,Processing,2010.0,1000 tonnes,439.0,ImBr
+Mexico,Processing,2010.0,1000 tonnes,162.0,ImBr
+Colombia,Processing,2010.0,1000 tonnes,158.0,ImBr
+Lao People's Democratic Republic,Processing,2010.0,1000 tonnes,155.0,ImBr
+Viet Nam,Processing,2010.0,1000 tonnes,130.0,ImBr
+Peru,Processing,2010.0,1000 tonnes,124.0,ImBr
+United Kingdom of Great Britain and Northern Ireland,Processing,2010.0,1000 tonnes,94.0,ImBr
+Poland,Processing,2010.0,1000 tonnes,62.0,ImBr
+South Africa,Processing,2010.0,1000 tonnes,62.0,ImBr
+Ecuador,Processing,2010.0,1000 tonnes,57.0,ImBr
+Other non-specified areas,Processing,2010.0,1000 tonnes,52.0,ImBr
+Chile,Processing,2010.0,1000 tonnes,51.0,ImBr
+Côte d'Ivoire,Processing,2010.0,1000 tonnes,50.0,ImBr
+Dominican Republic,Processing,2010.0,1000 tonnes,42.0,ImBr
+Malaysia,Processing,2010.0,1000 tonnes,41.0,ImBr
+Argentina,Processing,2010.0,1000 tonnes,37.0,ImBr
+Iran (Islamic Republic of),Processing,2010.0,1000 tonnes,32.0,ImBr
+Republic of Korea,Processing,2010.0,1000 tonnes,32.0,ImBr
+Spain,Processing,2010.0,1000 tonnes,31.0,ImBr
+Italy,Processing,2010.0,1000 tonnes,27.0,ImBr
+Syrian Arab Republic,Processing,2010.0,1000 tonnes,27.0,ImBr
+Pakistan,Processing,2010.0,1000 tonnes,25.0,ImBr
+Congo,Processing,2010.0,1000 tonnes,20.0,ImBr
+Mozambique,Processing,2010.0,1000 tonnes,18.0,ImBr
+Canada,Processing,2010.0,1000 tonnes,17.0,ImBr
+El Salvador,Processing,2010.0,1000 tonnes,16.0,ImBr
+Nepal,Processing,2010.0,1000 tonnes,13.0,ImBr
+Honduras,Processing,2010.0,1000 tonnes,12.0,ImBr
+Egypt,Processing,2010.0,1000 tonnes,11.0,ImBr
+Jamaica,Processing,2010.0,1000 tonnes,11.0,ImBr
+Bangladesh,Processing,2010.0,1000 tonnes,9.0,ImBr
+Australia and New Zealand,Processing,2010.0,1000 tonnes,7.0,ABr
+Austria,Processing,2010.0,1000 tonnes,7.0,ImBr
+Suriname,Processing,2010.0,1000 tonnes,7.0,ImBr
+Benin,Processing,2010.0,1000 tonnes,6.0,ImBr
+Greece,Processing,2010.0,1000 tonnes,6.0,ImBr
+Trinidad and Tobago,Processing,2010.0,1000 tonnes,5.0,ImBr
+Australia,Processing,2010.0,1000 tonnes,4.0,ImBr
+Philippines,Processing,2010.0,1000 tonnes,4.0,ImBr
+Venezuela (Bolivarian Republic of),Processing,2010.0,1000 tonnes,4.0,ImBr
+Bahamas,Processing,2010.0,1000 tonnes,3.0,ImBr
+New Zealand,Processing,2010.0,1000 tonnes,3.0,ImBr
+Sri Lanka,Processing,2010.0,1000 tonnes,3.0,ImBr
+France,Processing,2010.0,1000 tonnes,2.0,ImBr
+Guyana,Processing,2010.0,1000 tonnes,2.0,ImBr
+Uzbekistan,Processing,2010.0,1000 tonnes,2.0,ImBr
+Fiji,Processing,2010.0,1000 tonnes,1.0,ImBr
+Liberia,Processing,2010.0,1000 tonnes,1.0,ImBr
+Melanesia,Processing,2010.0,1000 tonnes,1.0,ABr
+Senegal,Processing,2010.0,1000 tonnes,1.0,ImBr
+Sierra Leone,Processing,2010.0,1000 tonnes,1.0,ImBr
+Afghanistan,Processing,2010.0,1000 tonnes,0.0,ImBr
+Angola,Processing,2010.0,1000 tonnes,0.0,ImBr
+Antigua and Barbuda,Processing,2010.0,1000 tonnes,0.0,ImBr
+Bolivia (Plurinational State of),Processing,2010.0,1000 tonnes,0.0,ImBr
+Botswana,Processing,2010.0,1000 tonnes,0.0,ImBr
+Bulgaria,Processing,2010.0,1000 tonnes,0.0,ImBr
+Burkina Faso,Processing,2010.0,1000 tonnes,0.0,ImBr
+Cambodia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Cameroon,Processing,2010.0,1000 tonnes,0.0,ImBr
+Central African Republic,Processing,2010.0,1000 tonnes,0.0,ImBr
+Chad,Processing,2010.0,1000 tonnes,0.0,ImBr
+"China, Hong Kong SAR",Processing,2010.0,1000 tonnes,0.0,ImBr
+Democratic People's Republic of Korea,Processing,2010.0,1000 tonnes,0.0,ImBr
+Denmark,Processing,2010.0,1000 tonnes,0.0,ImBr
+Ethiopia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Germany,Processing,2010.0,1000 tonnes,0.0,ImBr
+Ghana,Processing,2010.0,1000 tonnes,0.0,ImBr
+Guatemala,Processing,2010.0,1000 tonnes,0.0,ImBr
+Guinea,Processing,2010.0,1000 tonnes,0.0,ImBr
+Haiti,Processing,2010.0,1000 tonnes,0.0,ImBr
+Hungary,Processing,2010.0,1000 tonnes,0.0,ImBr
+Indonesia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Iraq,Processing,2010.0,1000 tonnes,0.0,ImBr
+Kenya,Processing,2010.0,1000 tonnes,0.0,ImBr
+Kyrgyzstan,Processing,2010.0,1000 tonnes,0.0,ImBr
+Madagascar,Processing,2010.0,1000 tonnes,0.0,ImBr
+Malawi,Processing,2010.0,1000 tonnes,0.0,ImBr
+Niger,Processing,2010.0,1000 tonnes,0.0,ImBr
+Nigeria,Processing,2010.0,1000 tonnes,0.0,ImBr
+Rwanda,Processing,2010.0,1000 tonnes,0.0,ImBr
+Slovakia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Slovenia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Tajikistan,Processing,2010.0,1000 tonnes,0.0,ImBr
+Togo,Processing,2010.0,1000 tonnes,0.0,ImBr
+Uganda,Processing,2010.0,1000 tonnes,0.0,ImBr
+United Republic of Tanzania,Processing,2010.0,1000 tonnes,0.0,ImBr
+Yemen,Processing,2010.0,1000 tonnes,0.0,ImBr
+Zambia,Processing,2010.0,1000 tonnes,0.0,ImBr
+Zimbabwe,Processing,2010.0,1000 tonnes,0.0,ImBr

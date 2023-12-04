@@ -1,0 +1,2484 @@
+CountryorArea,Element,Year,Unit,Value,ValueFootnotes
+Viet Nam,Production,2019.0,1000 tonnes,265.0,Im
+Brazil,Production,2019.0,1000 tonnes,109.0,Im
+Indonesia,Production,2019.0,1000 tonnes,89.0,Im
+India,Production,2019.0,1000 tonnes,66.0,Im
+Tajikistan,Production,2019.0,1000 tonnes,47.0,Im
+Sri Lanka,Production,2019.0,1000 tonnes,41.0,Im
+China,Production,2019.0,1000 tonnes,38.0,A
+Malaysia,Production,2019.0,1000 tonnes,34.0,Im
+Mexico,Production,2019.0,1000 tonnes,9.0,Im
+Ethiopia,Production,2019.0,1000 tonnes,6.0,Im
+Ecuador,Production,2019.0,1000 tonnes,5.0,Im
+Madagascar,Production,2019.0,1000 tonnes,5.0,Im
+Ghana,Production,2019.0,1000 tonnes,4.0,Im
+Cambodia,Production,2019.0,1000 tonnes,3.0,Im
+Rwanda,Production,2019.0,1000 tonnes,3.0,Im
+Costa Rica,Production,2019.0,1000 tonnes,2.0,Im
+Thailand,Production,2019.0,1000 tonnes,2.0,Im
+Uganda,Production,2019.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2019.0,1000 tonnes,2.0,Im
+Guatemala,Production,2019.0,1000 tonnes,1.0,Im
+Honduras,Production,2019.0,1000 tonnes,1.0,Im
+Philippines,Production,2019.0,1000 tonnes,1.0,Im
+United Republic of Tanzania,Production,2019.0,1000 tonnes,1.0,Im
+Benin,Production,2019.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2019.0,1000 tonnes,0.0,Im
+Cameroon,Production,2019.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2019.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2019.0,1000 tonnes,0.0,Im
+Dominica,Production,2019.0,1000 tonnes,0.0,Im
+Fiji,Production,2019.0,1000 tonnes,0.0,Im
+Georgia,Production,2019.0,1000 tonnes,0.0,Im
+Guyana,Production,2019.0,1000 tonnes,0.0,Im
+Kenya,Production,2019.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2019.0,1000 tonnes,0.0,Im
+Malawi,Production,2019.0,1000 tonnes,0.0,Im
+Mali,Production,2019.0,1000 tonnes,0.0,Im
+Melanesia,Production,2019.0,1000 tonnes,0.0,A
+Namibia,Production,2019.0,1000 tonnes,0.0,Im
+Niger,Production,2019.0,1000 tonnes,0.0,Im
+Peru,Production,2019.0,1000 tonnes,0.0,Im
+Polynesia,Production,2019.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2019.0,1000 tonnes,0.0,Im
+Samoa,Production,2019.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2019.0,1000 tonnes,0.0,Im
+Zambia,Production,2019.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2018.0,1000 tonnes,263.0,Im
+Brazil,Production,2018.0,1000 tonnes,102.0,Im
+Indonesia,Production,2018.0,1000 tonnes,89.0,Im
+India,Production,2018.0,1000 tonnes,66.0,Im
+Sri Lanka,Production,2018.0,1000 tonnes,48.0,Im
+China,Production,2018.0,1000 tonnes,37.0,A
+Tajikistan,Production,2018.0,1000 tonnes,34.0,Im
+Malaysia,Production,2018.0,1000 tonnes,32.0,Im
+Mexico,Production,2018.0,1000 tonnes,9.0,Im
+Ethiopia,Production,2018.0,1000 tonnes,6.0,Im
+Ecuador,Production,2018.0,1000 tonnes,5.0,Im
+Madagascar,Production,2018.0,1000 tonnes,5.0,Im
+Ghana,Production,2018.0,1000 tonnes,4.0,Im
+Cambodia,Production,2018.0,1000 tonnes,3.0,Im
+Rwanda,Production,2018.0,1000 tonnes,3.0,Im
+Costa Rica,Production,2018.0,1000 tonnes,2.0,Im
+Thailand,Production,2018.0,1000 tonnes,2.0,Im
+Uganda,Production,2018.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2018.0,1000 tonnes,2.0,Im
+Guatemala,Production,2018.0,1000 tonnes,1.0,Im
+Honduras,Production,2018.0,1000 tonnes,1.0,Im
+Philippines,Production,2018.0,1000 tonnes,1.0,Im
+United Republic of Tanzania,Production,2018.0,1000 tonnes,1.0,Im
+Benin,Production,2018.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2018.0,1000 tonnes,0.0,Im
+Cameroon,Production,2018.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2018.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2018.0,1000 tonnes,0.0,Im
+Dominica,Production,2018.0,1000 tonnes,0.0,Im
+Fiji,Production,2018.0,1000 tonnes,0.0,Im
+Georgia,Production,2018.0,1000 tonnes,0.0,Im
+Guyana,Production,2018.0,1000 tonnes,0.0,Im
+Kenya,Production,2018.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2018.0,1000 tonnes,0.0,Im
+Malawi,Production,2018.0,1000 tonnes,0.0,Im
+Mali,Production,2018.0,1000 tonnes,0.0,Im
+Melanesia,Production,2018.0,1000 tonnes,0.0,A
+Namibia,Production,2018.0,1000 tonnes,0.0,Im
+Niger,Production,2018.0,1000 tonnes,0.0,Im
+Peru,Production,2018.0,1000 tonnes,0.0,Im
+Polynesia,Production,2018.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2018.0,1000 tonnes,0.0,Im
+Samoa,Production,2018.0,1000 tonnes,0.0,Im
+Slovenia,Production,2018.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2018.0,1000 tonnes,0.0,Im
+Zambia,Production,2018.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2017.0,1000 tonnes,253.0,Im
+Indonesia,Production,2017.0,1000 tonnes,88.0,Im
+Brazil,Production,2017.0,1000 tonnes,79.0,Im
+India,Production,2017.0,1000 tonnes,72.0,Im
+China,Production,2017.0,1000 tonnes,36.0,A
+Sri Lanka,Production,2017.0,1000 tonnes,35.0,Im
+Malaysia,Production,2017.0,1000 tonnes,30.0,Im
+Mexico,Production,2017.0,1000 tonnes,8.0,Im
+Madagascar,Production,2017.0,1000 tonnes,6.0,Im
+Ethiopia,Production,2017.0,1000 tonnes,5.0,Im
+Ecuador,Production,2017.0,1000 tonnes,4.0,Im
+Ghana,Production,2017.0,1000 tonnes,4.0,Im
+Rwanda,Production,2017.0,1000 tonnes,3.0,Im
+Tajikistan,Production,2017.0,1000 tonnes,3.0,Im
+Thailand,Production,2017.0,1000 tonnes,3.0,Im
+Cambodia,Production,2017.0,1000 tonnes,2.0,Im
+Costa Rica,Production,2017.0,1000 tonnes,2.0,Im
+Uganda,Production,2017.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2017.0,1000 tonnes,2.0,Im
+Guatemala,Production,2017.0,1000 tonnes,1.0,Im
+Honduras,Production,2017.0,1000 tonnes,1.0,Im
+Niger,Production,2017.0,1000 tonnes,1.0,Im
+Philippines,Production,2017.0,1000 tonnes,1.0,Im
+United Republic of Tanzania,Production,2017.0,1000 tonnes,1.0,Im
+Benin,Production,2017.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2017.0,1000 tonnes,0.0,Im
+Cameroon,Production,2017.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2017.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2017.0,1000 tonnes,0.0,Im
+Dominica,Production,2017.0,1000 tonnes,0.0,Im
+Fiji,Production,2017.0,1000 tonnes,0.0,Im
+Georgia,Production,2017.0,1000 tonnes,0.0,Im
+Guyana,Production,2017.0,1000 tonnes,0.0,Im
+Kenya,Production,2017.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2017.0,1000 tonnes,0.0,Im
+Malawi,Production,2017.0,1000 tonnes,0.0,Im
+Mali,Production,2017.0,1000 tonnes,0.0,Im
+Melanesia,Production,2017.0,1000 tonnes,0.0,A
+Namibia,Production,2017.0,1000 tonnes,0.0,Im
+Peru,Production,2017.0,1000 tonnes,0.0,Im
+Polynesia,Production,2017.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2017.0,1000 tonnes,0.0,Im
+Samoa,Production,2017.0,1000 tonnes,0.0,Im
+Slovenia,Production,2017.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2017.0,1000 tonnes,0.0,Im
+Zambia,Production,2017.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2016.0,1000 tonnes,216.0,Im
+Indonesia,Production,2016.0,1000 tonnes,86.0,Im
+India,Production,2016.0,1000 tonnes,55.0,Im
+Brazil,Production,2016.0,1000 tonnes,54.0,Im
+China,Production,2016.0,1000 tonnes,35.0,A
+Sri Lanka,Production,2016.0,1000 tonnes,32.0,Im
+Malaysia,Production,2016.0,1000 tonnes,29.0,Im
+Madagascar,Production,2016.0,1000 tonnes,6.0,Im
+Ethiopia,Production,2016.0,1000 tonnes,5.0,Im
+Mexico,Production,2016.0,1000 tonnes,5.0,Im
+Ghana,Production,2016.0,1000 tonnes,4.0,Im
+Ecuador,Production,2016.0,1000 tonnes,3.0,Im
+Rwanda,Production,2016.0,1000 tonnes,3.0,Im
+Cambodia,Production,2016.0,1000 tonnes,2.0,Im
+Uganda,Production,2016.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2016.0,1000 tonnes,2.0,Im
+Costa Rica,Production,2016.0,1000 tonnes,1.0,Im
+Guatemala,Production,2016.0,1000 tonnes,1.0,Im
+Honduras,Production,2016.0,1000 tonnes,1.0,Im
+Malawi,Production,2016.0,1000 tonnes,1.0,Im
+Niger,Production,2016.0,1000 tonnes,1.0,Im
+Philippines,Production,2016.0,1000 tonnes,1.0,Im
+Tajikistan,Production,2016.0,1000 tonnes,1.0,Im
+Thailand,Production,2016.0,1000 tonnes,1.0,Im
+United Republic of Tanzania,Production,2016.0,1000 tonnes,1.0,Im
+Benin,Production,2016.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2016.0,1000 tonnes,0.0,Im
+Cameroon,Production,2016.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2016.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2016.0,1000 tonnes,0.0,Im
+Dominica,Production,2016.0,1000 tonnes,0.0,Im
+Fiji,Production,2016.0,1000 tonnes,0.0,Im
+Georgia,Production,2016.0,1000 tonnes,0.0,Im
+Guyana,Production,2016.0,1000 tonnes,0.0,Im
+Kenya,Production,2016.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2016.0,1000 tonnes,0.0,Im
+Mali,Production,2016.0,1000 tonnes,0.0,Im
+Melanesia,Production,2016.0,1000 tonnes,0.0,A
+Namibia,Production,2016.0,1000 tonnes,0.0,Im
+Peru,Production,2016.0,1000 tonnes,0.0,Im
+Polynesia,Production,2016.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2016.0,1000 tonnes,0.0,Im
+Samoa,Production,2016.0,1000 tonnes,0.0,Im
+Slovenia,Production,2016.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2016.0,1000 tonnes,0.0,Im
+Zambia,Production,2016.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2015.0,1000 tonnes,177.0,Im
+Indonesia,Production,2015.0,1000 tonnes,82.0,Im
+India,Production,2015.0,1000 tonnes,65.0,Im
+Brazil,Production,2015.0,1000 tonnes,52.0,Im
+China,Production,2015.0,1000 tonnes,34.0,A
+Sri Lanka,Production,2015.0,1000 tonnes,31.0,Im
+Malaysia,Production,2015.0,1000 tonnes,28.0,Im
+Madagascar,Production,2015.0,1000 tonnes,7.0,Im
+Ethiopia,Production,2015.0,1000 tonnes,4.0,Im
+Ghana,Production,2015.0,1000 tonnes,4.0,Im
+Mexico,Production,2015.0,1000 tonnes,4.0,Im
+Cambodia,Production,2015.0,1000 tonnes,3.0,Im
+Rwanda,Production,2015.0,1000 tonnes,3.0,Im
+Costa Rica,Production,2015.0,1000 tonnes,2.0,Im
+Ecuador,Production,2015.0,1000 tonnes,2.0,Im
+Philippines,Production,2015.0,1000 tonnes,2.0,Im
+Uganda,Production,2015.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2015.0,1000 tonnes,2.0,Im
+Guatemala,Production,2015.0,1000 tonnes,1.0,Im
+Honduras,Production,2015.0,1000 tonnes,1.0,Im
+Malawi,Production,2015.0,1000 tonnes,1.0,Im
+Niger,Production,2015.0,1000 tonnes,1.0,Im
+Thailand,Production,2015.0,1000 tonnes,1.0,Im
+United Republic of Tanzania,Production,2015.0,1000 tonnes,1.0,Im
+Benin,Production,2015.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2015.0,1000 tonnes,0.0,Im
+Cameroon,Production,2015.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2015.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2015.0,1000 tonnes,0.0,Im
+Dominica,Production,2015.0,1000 tonnes,0.0,Im
+Fiji,Production,2015.0,1000 tonnes,0.0,Im
+Georgia,Production,2015.0,1000 tonnes,0.0,Im
+Guyana,Production,2015.0,1000 tonnes,0.0,Im
+Kenya,Production,2015.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2015.0,1000 tonnes,0.0,Im
+Mali,Production,2015.0,1000 tonnes,0.0,Im
+Melanesia,Production,2015.0,1000 tonnes,0.0,A
+Namibia,Production,2015.0,1000 tonnes,0.0,Im
+Peru,Production,2015.0,1000 tonnes,0.0,Im
+Polynesia,Production,2015.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2015.0,1000 tonnes,0.0,Im
+Samoa,Production,2015.0,1000 tonnes,0.0,Im
+Slovenia,Production,2015.0,1000 tonnes,0.0,Im
+Tajikistan,Production,2015.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2015.0,1000 tonnes,0.0,Im
+Zambia,Production,2015.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2014.0,1000 tonnes,152.0,Im
+Indonesia,Production,2014.0,1000 tonnes,87.0,Im
+India,Production,2014.0,1000 tonnes,51.0,Im
+Brazil,Production,2014.0,1000 tonnes,42.0,Im
+China,Production,2014.0,1000 tonnes,33.0,A
+Malaysia,Production,2014.0,1000 tonnes,28.0,Im
+Sri Lanka,Production,2014.0,1000 tonnes,28.0,Im
+Ethiopia,Production,2014.0,1000 tonnes,4.0,Im
+Ghana,Production,2014.0,1000 tonnes,4.0,Im
+Madagascar,Production,2014.0,1000 tonnes,4.0,Im
+Cambodia,Production,2014.0,1000 tonnes,3.0,Im
+Ecuador,Production,2014.0,1000 tonnes,3.0,Im
+Mexico,Production,2014.0,1000 tonnes,3.0,Im
+Philippines,Production,2014.0,1000 tonnes,3.0,Im
+Rwanda,Production,2014.0,1000 tonnes,3.0,Im
+Costa Rica,Production,2014.0,1000 tonnes,2.0,Im
+Malawi,Production,2014.0,1000 tonnes,2.0,Im
+Uganda,Production,2014.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2014.0,1000 tonnes,2.0,Im
+Guatemala,Production,2014.0,1000 tonnes,1.0,Im
+Honduras,Production,2014.0,1000 tonnes,1.0,Im
+Niger,Production,2014.0,1000 tonnes,1.0,Im
+Tajikistan,Production,2014.0,1000 tonnes,1.0,Im
+Thailand,Production,2014.0,1000 tonnes,1.0,Im
+Benin,Production,2014.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2014.0,1000 tonnes,0.0,Im
+Cameroon,Production,2014.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2014.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2014.0,1000 tonnes,0.0,Im
+Dominica,Production,2014.0,1000 tonnes,0.0,Im
+Fiji,Production,2014.0,1000 tonnes,0.0,Im
+Georgia,Production,2014.0,1000 tonnes,0.0,Im
+Guyana,Production,2014.0,1000 tonnes,0.0,Im
+Kenya,Production,2014.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2014.0,1000 tonnes,0.0,Im
+Mali,Production,2014.0,1000 tonnes,0.0,Im
+Melanesia,Production,2014.0,1000 tonnes,0.0,A
+Namibia,Production,2014.0,1000 tonnes,0.0,Im
+Peru,Production,2014.0,1000 tonnes,0.0,Im
+Polynesia,Production,2014.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2014.0,1000 tonnes,0.0,Im
+Samoa,Production,2014.0,1000 tonnes,0.0,Im
+Slovenia,Production,2014.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Production,2014.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2014.0,1000 tonnes,0.0,Im
+Zambia,Production,2014.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2013.0,1000 tonnes,125.0,Im
+Indonesia,Production,2013.0,1000 tonnes,91.0,Im
+India,Production,2013.0,1000 tonnes,53.0,Im
+Brazil,Production,2013.0,1000 tonnes,42.0,Im
+China,Production,2013.0,1000 tonnes,31.0,A
+Malaysia,Production,2013.0,1000 tonnes,27.0,Im
+Sri Lanka,Production,2013.0,1000 tonnes,27.0,Im
+Madagascar,Production,2013.0,1000 tonnes,5.0,Im
+Ethiopia,Production,2013.0,1000 tonnes,4.0,Im
+Ghana,Production,2013.0,1000 tonnes,4.0,Im
+Ecuador,Production,2013.0,1000 tonnes,3.0,Im
+Mexico,Production,2013.0,1000 tonnes,3.0,Im
+Philippines,Production,2013.0,1000 tonnes,3.0,Im
+Rwanda,Production,2013.0,1000 tonnes,3.0,Im
+Cambodia,Production,2013.0,1000 tonnes,2.0,Im
+Malawi,Production,2013.0,1000 tonnes,2.0,Im
+Uganda,Production,2013.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2013.0,1000 tonnes,2.0,Im
+Costa Rica,Production,2013.0,1000 tonnes,1.0,Im
+Guatemala,Production,2013.0,1000 tonnes,1.0,Im
+Honduras,Production,2013.0,1000 tonnes,1.0,Im
+Niger,Production,2013.0,1000 tonnes,1.0,Im
+Thailand,Production,2013.0,1000 tonnes,1.0,Im
+Benin,Production,2013.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2013.0,1000 tonnes,0.0,Im
+Cameroon,Production,2013.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2013.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2013.0,1000 tonnes,0.0,Im
+Dominica,Production,2013.0,1000 tonnes,0.0,Im
+Fiji,Production,2013.0,1000 tonnes,0.0,Im
+Georgia,Production,2013.0,1000 tonnes,0.0,Im
+Guyana,Production,2013.0,1000 tonnes,0.0,Im
+Kenya,Production,2013.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2013.0,1000 tonnes,0.0,Im
+Mali,Production,2013.0,1000 tonnes,0.0,Im
+Melanesia,Production,2013.0,1000 tonnes,0.0,A
+Peru,Production,2013.0,1000 tonnes,0.0,Im
+Polynesia,Production,2013.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2013.0,1000 tonnes,0.0,Im
+Samoa,Production,2013.0,1000 tonnes,0.0,Im
+Tajikistan,Production,2013.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Production,2013.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2013.0,1000 tonnes,0.0,Im
+Zambia,Production,2013.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2012.0,1000 tonnes,120.0,Im
+Indonesia,Production,2012.0,1000 tonnes,88.0,Im
+Brazil,Production,2012.0,1000 tonnes,43.0,Im
+India,Production,2012.0,1000 tonnes,41.0,Im
+China,Production,2012.0,1000 tonnes,31.0,A
+Malaysia,Production,2012.0,1000 tonnes,26.0,Im
+Sri Lanka,Production,2012.0,1000 tonnes,25.0,Im
+Madagascar,Production,2012.0,1000 tonnes,5.0,Im
+Ethiopia,Production,2012.0,1000 tonnes,4.0,Im
+Ghana,Production,2012.0,1000 tonnes,4.0,Im
+Mexico,Production,2012.0,1000 tonnes,3.0,Im
+Philippines,Production,2012.0,1000 tonnes,3.0,Im
+Rwanda,Production,2012.0,1000 tonnes,3.0,Im
+Cambodia,Production,2012.0,1000 tonnes,2.0,Im
+Ecuador,Production,2012.0,1000 tonnes,2.0,Im
+Malawi,Production,2012.0,1000 tonnes,2.0,Im
+Thailand,Production,2012.0,1000 tonnes,2.0,Im
+Uganda,Production,2012.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2012.0,1000 tonnes,2.0,Im
+Costa Rica,Production,2012.0,1000 tonnes,1.0,Im
+Guatemala,Production,2012.0,1000 tonnes,1.0,Im
+Niger,Production,2012.0,1000 tonnes,1.0,Im
+Benin,Production,2012.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2012.0,1000 tonnes,0.0,Im
+Cameroon,Production,2012.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2012.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2012.0,1000 tonnes,0.0,Im
+Dominica,Production,2012.0,1000 tonnes,0.0,Im
+Fiji,Production,2012.0,1000 tonnes,0.0,Im
+Georgia,Production,2012.0,1000 tonnes,0.0,Im
+Guyana,Production,2012.0,1000 tonnes,0.0,Im
+Honduras,Production,2012.0,1000 tonnes,0.0,Im
+Kenya,Production,2012.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2012.0,1000 tonnes,0.0,Im
+Mali,Production,2012.0,1000 tonnes,0.0,Im
+Melanesia,Production,2012.0,1000 tonnes,0.0,A
+Peru,Production,2012.0,1000 tonnes,0.0,Im
+Polynesia,Production,2012.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2012.0,1000 tonnes,0.0,Im
+Samoa,Production,2012.0,1000 tonnes,0.0,Im
+Tajikistan,Production,2012.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Production,2012.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2012.0,1000 tonnes,0.0,Im
+Zambia,Production,2012.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2011.0,1000 tonnes,112.0,Im
+Indonesia,Production,2011.0,1000 tonnes,87.0,Im
+India,Production,2011.0,1000 tonnes,52.0,Im
+Brazil,Production,2011.0,1000 tonnes,45.0,Im
+China,Production,2011.0,1000 tonnes,29.0,A
+Malaysia,Production,2011.0,1000 tonnes,26.0,Im
+Sri Lanka,Production,2011.0,1000 tonnes,26.0,Im
+Madagascar,Production,2011.0,1000 tonnes,5.0,Im
+Thailand,Production,2011.0,1000 tonnes,4.0,Im
+Ecuador,Production,2011.0,1000 tonnes,3.0,Im
+Ethiopia,Production,2011.0,1000 tonnes,3.0,Im
+Ghana,Production,2011.0,1000 tonnes,3.0,Im
+Mexico,Production,2011.0,1000 tonnes,3.0,Im
+Philippines,Production,2011.0,1000 tonnes,3.0,Im
+Rwanda,Production,2011.0,1000 tonnes,3.0,Im
+Cambodia,Production,2011.0,1000 tonnes,2.0,Im
+Malawi,Production,2011.0,1000 tonnes,2.0,Im
+Uganda,Production,2011.0,1000 tonnes,2.0,Im
+Zimbabwe,Production,2011.0,1000 tonnes,2.0,Im
+Costa Rica,Production,2011.0,1000 tonnes,1.0,Im
+Guatemala,Production,2011.0,1000 tonnes,1.0,Im
+Niger,Production,2011.0,1000 tonnes,1.0,Im
+Benin,Production,2011.0,1000 tonnes,0.0,Im
+Bolivia (Plurinational State of),Production,2011.0,1000 tonnes,0.0,Im
+Cameroon,Production,2011.0,1000 tonnes,0.0,Im
+"China, Macao SAR",Production,2011.0,1000 tonnes,0.0,Im
+Côte d'Ivoire,Production,2011.0,1000 tonnes,0.0,Im
+Dominica,Production,2011.0,1000 tonnes,0.0,Im
+Fiji,Production,2011.0,1000 tonnes,0.0,Im
+Georgia,Production,2011.0,1000 tonnes,0.0,Im
+Guyana,Production,2011.0,1000 tonnes,0.0,Im
+Honduras,Production,2011.0,1000 tonnes,0.0,Im
+Kenya,Production,2011.0,1000 tonnes,0.0,Im
+Kyrgyzstan,Production,2011.0,1000 tonnes,0.0,Im
+Mali,Production,2011.0,1000 tonnes,0.0,Im
+Melanesia,Production,2011.0,1000 tonnes,0.0,A
+Peru,Production,2011.0,1000 tonnes,0.0,Im
+Polynesia,Production,2011.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2011.0,1000 tonnes,0.0,Im
+Samoa,Production,2011.0,1000 tonnes,0.0,Im
+Tajikistan,Production,2011.0,1000 tonnes,0.0,Im
+United Republic of Tanzania,Production,2011.0,1000 tonnes,0.0,Im
+Uzbekistan,Production,2011.0,1000 tonnes,0.0,Im
+Zambia,Production,2011.0,1000 tonnes,0.0,Im
+Viet Nam,Production,2010.0,1000 tonnes,105.0,ImBr
+Indonesia,Production,2010.0,1000 tonnes,84.0,ImBr
+Brazil,Production,2010.0,1000 tonnes,52.0,ImBr
+India,Production,2010.0,1000 tonnes,51.0,ImBr
+China,Production,2010.0,1000 tonnes,30.0,ABr
+Sri Lanka,Production,2010.0,1000 tonnes,27.0,ImBr
+Malaysia,Production,2010.0,1000 tonnes,24.0,ImBr
+Thailand,Production,2010.0,1000 tonnes,6.0,ImBr
+Madagascar,Production,2010.0,1000 tonnes,5.0,ImBr
+Mexico,Production,2010.0,1000 tonnes,4.0,ImBr
+Ecuador,Production,2010.0,1000 tonnes,3.0,ImBr
+Ghana,Production,2010.0,1000 tonnes,3.0,ImBr
+Philippines,Production,2010.0,1000 tonnes,3.0,ImBr
+Rwanda,Production,2010.0,1000 tonnes,3.0,ImBr
+Cambodia,Production,2010.0,1000 tonnes,2.0,ImBr
+Ethiopia,Production,2010.0,1000 tonnes,2.0,ImBr
+Malawi,Production,2010.0,1000 tonnes,2.0,ImBr
+Niger,Production,2010.0,1000 tonnes,2.0,ImBr
+Uganda,Production,2010.0,1000 tonnes,2.0,ImBr
+Zimbabwe,Production,2010.0,1000 tonnes,2.0,ImBr
+Bolivia (Plurinational State of),Production,2010.0,1000 tonnes,1.0,ImBr
+Costa Rica,Production,2010.0,1000 tonnes,1.0,ImBr
+Honduras,Production,2010.0,1000 tonnes,1.0,ImBr
+Benin,Production,2010.0,1000 tonnes,0.0,ImBr
+Cameroon,Production,2010.0,1000 tonnes,0.0,ImBr
+"China, Macao SAR",Production,2010.0,1000 tonnes,0.0,ImBr
+Côte d'Ivoire,Production,2010.0,1000 tonnes,0.0,ImBr
+Dominica,Production,2010.0,1000 tonnes,0.0,ImBr
+Fiji,Production,2010.0,1000 tonnes,0.0,ImBr
+Georgia,Production,2010.0,1000 tonnes,0.0,ImBr
+Guatemala,Production,2010.0,1000 tonnes,0.0,ImBr
+Guyana,Production,2010.0,1000 tonnes,0.0,ImBr
+Kenya,Production,2010.0,1000 tonnes,0.0,ImBr
+Kyrgyzstan,Production,2010.0,1000 tonnes,0.0,ImBr
+Mali,Production,2010.0,1000 tonnes,0.0,ImBr
+Melanesia,Production,2010.0,1000 tonnes,0.0,ABr
+Peru,Production,2010.0,1000 tonnes,0.0,ImBr
+Polynesia,Production,2010.0,1000 tonnes,0.0,ABr
+Saint Lucia,Production,2010.0,1000 tonnes,0.0,ImBr
+Samoa,Production,2010.0,1000 tonnes,0.0,ImBr
+Tajikistan,Production,2010.0,1000 tonnes,0.0,ImBr
+United Republic of Tanzania,Production,2010.0,1000 tonnes,0.0,ImBr
+Uzbekistan,Production,2010.0,1000 tonnes,0.0,ImBr
+Zambia,Production,2010.0,1000 tonnes,0.0,ImBr
+Viet Nam,Production,2009.0,1000 tonnes,140.0,S
+Indonesia,Production,2009.0,1000 tonnes,83.0,S
+Brazil,Production,2009.0,1000 tonnes,65.0,S
+India,Production,2009.0,1000 tonnes,47.0,S
+China,Production,2009.0,1000 tonnes,28.0,A
+Sri Lanka,Production,2009.0,1000 tonnes,25.0,S
+Malaysia,Production,2009.0,1000 tonnes,23.0,S
+Thailand,Production,2009.0,1000 tonnes,7.0,S
+Mexico,Production,2009.0,1000 tonnes,6.0,S
+Madagascar,Production,2009.0,1000 tonnes,5.0,S
+Ecuador,Production,2009.0,1000 tonnes,3.0,S
+Ghana,Production,2009.0,1000 tonnes,3.0,S
+Philippines,Production,2009.0,1000 tonnes,3.0,S
+Cambodia,Production,2009.0,1000 tonnes,2.0,S
+Ethiopia,Production,2009.0,1000 tonnes,2.0,S
+Niger,Production,2009.0,1000 tonnes,2.0,S
+Uganda,Production,2009.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2009.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2009.0,1000 tonnes,1.0,S
+Costa Rica,Production,2009.0,1000 tonnes,1.0,S
+Côte d'Ivoire,Production,2009.0,1000 tonnes,1.0,S
+Honduras,Production,2009.0,1000 tonnes,1.0,S
+Malawi,Production,2009.0,1000 tonnes,1.0,S
+Benin,Production,2009.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2009.0,1000 tonnes,0.0,S
+Cameroon,Production,2009.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2009.0,1000 tonnes,0.0,S
+Fiji,Production,2009.0,1000 tonnes,0.0,S
+Georgia,Production,2009.0,1000 tonnes,0.0,S
+Guatemala,Production,2009.0,1000 tonnes,0.0,S
+Guyana,Production,2009.0,1000 tonnes,0.0,S
+Kenya,Production,2009.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2009.0,1000 tonnes,0.0,S
+Mali,Production,2009.0,1000 tonnes,0.0,S
+Melanesia,Production,2009.0,1000 tonnes,0.0,A
+Peru,Production,2009.0,1000 tonnes,0.0,S
+Polynesia,Production,2009.0,1000 tonnes,0.0,A
+Rwanda,Production,2009.0,1000 tonnes,0.0,S
+Saint Lucia,Production,2009.0,1000 tonnes,0.0,S
+Samoa,Production,2009.0,1000 tonnes,0.0,S
+Tajikistan,Production,2009.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2009.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2009.0,1000 tonnes,0.0,S
+Zambia,Production,2009.0,1000 tonnes,0.0,S
+Viet Nam,Production,2008.0,1000 tonnes,128.0,S
+Indonesia,Production,2008.0,1000 tonnes,80.0,S
+Brazil,Production,2008.0,1000 tonnes,70.0,S
+India,Production,2008.0,1000 tonnes,47.0,S
+China,Production,2008.0,1000 tonnes,27.0,A
+Sri Lanka,Production,2008.0,1000 tonnes,23.0,S
+Malaysia,Production,2008.0,1000 tonnes,22.0,S
+Mexico,Production,2008.0,1000 tonnes,7.0,S
+Thailand,Production,2008.0,1000 tonnes,6.0,S
+Madagascar,Production,2008.0,1000 tonnes,5.0,S
+Ghana,Production,2008.0,1000 tonnes,4.0,S
+Cambodia,Production,2008.0,1000 tonnes,3.0,S
+Ecuador,Production,2008.0,1000 tonnes,3.0,S
+Philippines,Production,2008.0,1000 tonnes,3.0,S
+Rwanda,Production,2008.0,1000 tonnes,3.0,S
+Niger,Production,2008.0,1000 tonnes,2.0,S
+Uganda,Production,2008.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2008.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2008.0,1000 tonnes,1.0,S
+Costa Rica,Production,2008.0,1000 tonnes,1.0,S
+Côte d'Ivoire,Production,2008.0,1000 tonnes,1.0,S
+Ethiopia,Production,2008.0,1000 tonnes,1.0,S
+Honduras,Production,2008.0,1000 tonnes,1.0,S
+Malawi,Production,2008.0,1000 tonnes,1.0,S
+Benin,Production,2008.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2008.0,1000 tonnes,0.0,S
+Cameroon,Production,2008.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2008.0,1000 tonnes,0.0,S
+Fiji,Production,2008.0,1000 tonnes,0.0,S
+Georgia,Production,2008.0,1000 tonnes,0.0,S
+Guatemala,Production,2008.0,1000 tonnes,0.0,S
+Guyana,Production,2008.0,1000 tonnes,0.0,S
+Kenya,Production,2008.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2008.0,1000 tonnes,0.0,S
+Mali,Production,2008.0,1000 tonnes,0.0,S
+Melanesia,Production,2008.0,1000 tonnes,0.0,A
+Peru,Production,2008.0,1000 tonnes,0.0,S
+Polynesia,Production,2008.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2008.0,1000 tonnes,0.0,S
+Samoa,Production,2008.0,1000 tonnes,0.0,S
+Tajikistan,Production,2008.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2008.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2008.0,1000 tonnes,0.0,S
+Zambia,Production,2008.0,1000 tonnes,0.0,S
+Viet Nam,Production,2007.0,1000 tonnes,116.0,S
+Indonesia,Production,2007.0,1000 tonnes,80.0,S
+Brazil,Production,2007.0,1000 tonnes,78.0,S
+India,Production,2007.0,1000 tonnes,69.0,S
+China,Production,2007.0,1000 tonnes,26.0,A
+Malaysia,Production,2007.0,1000 tonnes,20.0,S
+Sri Lanka,Production,2007.0,1000 tonnes,19.0,S
+Thailand,Production,2007.0,1000 tonnes,10.0,S
+Mexico,Production,2007.0,1000 tonnes,7.0,S
+Madagascar,Production,2007.0,1000 tonnes,5.0,S
+Ecuador,Production,2007.0,1000 tonnes,3.0,S
+Ghana,Production,2007.0,1000 tonnes,3.0,S
+Philippines,Production,2007.0,1000 tonnes,3.0,S
+Uganda,Production,2007.0,1000 tonnes,3.0,S
+Cambodia,Production,2007.0,1000 tonnes,2.0,S
+Niger,Production,2007.0,1000 tonnes,2.0,S
+Rwanda,Production,2007.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2007.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2007.0,1000 tonnes,1.0,S
+Costa Rica,Production,2007.0,1000 tonnes,1.0,S
+Ethiopia,Production,2007.0,1000 tonnes,1.0,S
+Honduras,Production,2007.0,1000 tonnes,1.0,S
+Malawi,Production,2007.0,1000 tonnes,1.0,S
+United Republic of Tanzania,Production,2007.0,1000 tonnes,1.0,S
+Benin,Production,2007.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2007.0,1000 tonnes,0.0,S
+Cameroon,Production,2007.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2007.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2007.0,1000 tonnes,0.0,S
+Fiji,Production,2007.0,1000 tonnes,0.0,S
+Georgia,Production,2007.0,1000 tonnes,0.0,S
+Guatemala,Production,2007.0,1000 tonnes,0.0,S
+Guyana,Production,2007.0,1000 tonnes,0.0,S
+Kenya,Production,2007.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2007.0,1000 tonnes,0.0,S
+Mali,Production,2007.0,1000 tonnes,0.0,S
+Melanesia,Production,2007.0,1000 tonnes,0.0,A
+Peru,Production,2007.0,1000 tonnes,0.0,S
+Polynesia,Production,2007.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2007.0,1000 tonnes,0.0,S
+Samoa,Production,2007.0,1000 tonnes,0.0,S
+Tajikistan,Production,2007.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2007.0,1000 tonnes,0.0,S
+Zambia,Production,2007.0,1000 tonnes,0.0,S
+Viet Nam,Production,2006.0,1000 tonnes,103.0,S
+India,Production,2006.0,1000 tonnes,93.0,S
+Brazil,Production,2006.0,1000 tonnes,80.0,S
+Indonesia,Production,2006.0,1000 tonnes,78.0,S
+China,Production,2006.0,1000 tonnes,24.0,A
+Malaysia,Production,2006.0,1000 tonnes,19.0,S
+Sri Lanka,Production,2006.0,1000 tonnes,19.0,S
+Thailand,Production,2006.0,1000 tonnes,12.0,S
+Madagascar,Production,2006.0,1000 tonnes,5.0,S
+Mexico,Production,2006.0,1000 tonnes,5.0,S
+Philippines,Production,2006.0,1000 tonnes,4.0,S
+Ecuador,Production,2006.0,1000 tonnes,3.0,S
+Ghana,Production,2006.0,1000 tonnes,3.0,S
+Cambodia,Production,2006.0,1000 tonnes,2.0,S
+Niger,Production,2006.0,1000 tonnes,2.0,S
+Rwanda,Production,2006.0,1000 tonnes,2.0,S
+Uganda,Production,2006.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2006.0,1000 tonnes,2.0,S
+Benin,Production,2006.0,1000 tonnes,1.0,S
+Bolivia (Plurinational State of),Production,2006.0,1000 tonnes,1.0,S
+Costa Rica,Production,2006.0,1000 tonnes,1.0,S
+Ethiopia,Production,2006.0,1000 tonnes,1.0,S
+Honduras,Production,2006.0,1000 tonnes,1.0,S
+Malawi,Production,2006.0,1000 tonnes,1.0,S
+Brunei Darussalam,Production,2006.0,1000 tonnes,0.0,S
+Cameroon,Production,2006.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2006.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2006.0,1000 tonnes,0.0,S
+Fiji,Production,2006.0,1000 tonnes,0.0,S
+Georgia,Production,2006.0,1000 tonnes,0.0,S
+Guatemala,Production,2006.0,1000 tonnes,0.0,S
+Guyana,Production,2006.0,1000 tonnes,0.0,S
+Kenya,Production,2006.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2006.0,1000 tonnes,0.0,S
+Mali,Production,2006.0,1000 tonnes,0.0,S
+Melanesia,Production,2006.0,1000 tonnes,0.0,A
+Peru,Production,2006.0,1000 tonnes,0.0,S
+Polynesia,Production,2006.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2006.0,1000 tonnes,0.0,S
+Samoa,Production,2006.0,1000 tonnes,0.0,S
+Tajikistan,Production,2006.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2006.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2006.0,1000 tonnes,0.0,S
+Zambia,Production,2006.0,1000 tonnes,0.0,S
+Viet Nam,Production,2005.0,1000 tonnes,104.0,S
+Brazil,Production,2005.0,1000 tonnes,79.0,S
+Indonesia,Production,2005.0,1000 tonnes,78.0,S
+India,Production,2005.0,1000 tonnes,73.0,S
+China,Production,2005.0,1000 tonnes,23.0,A
+Malaysia,Production,2005.0,1000 tonnes,19.0,S
+Sri Lanka,Production,2005.0,1000 tonnes,18.0,S
+Thailand,Production,2005.0,1000 tonnes,14.0,S
+Madagascar,Production,2005.0,1000 tonnes,5.0,S
+Mexico,Production,2005.0,1000 tonnes,4.0,S
+Philippines,Production,2005.0,1000 tonnes,4.0,S
+Cambodia,Production,2005.0,1000 tonnes,3.0,S
+Ecuador,Production,2005.0,1000 tonnes,3.0,S
+Ghana,Production,2005.0,1000 tonnes,3.0,S
+Niger,Production,2005.0,1000 tonnes,2.0,S
+Rwanda,Production,2005.0,1000 tonnes,2.0,S
+Uganda,Production,2005.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2005.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2005.0,1000 tonnes,1.0,S
+Ethiopia,Production,2005.0,1000 tonnes,1.0,S
+Guatemala,Production,2005.0,1000 tonnes,1.0,S
+Malawi,Production,2005.0,1000 tonnes,1.0,S
+Benin,Production,2005.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2005.0,1000 tonnes,0.0,S
+Cameroon,Production,2005.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2005.0,1000 tonnes,0.0,S
+Costa Rica,Production,2005.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2005.0,1000 tonnes,0.0,S
+Fiji,Production,2005.0,1000 tonnes,0.0,S
+Georgia,Production,2005.0,1000 tonnes,0.0,S
+Guyana,Production,2005.0,1000 tonnes,0.0,S
+Honduras,Production,2005.0,1000 tonnes,0.0,S
+Kenya,Production,2005.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2005.0,1000 tonnes,0.0,S
+Mali,Production,2005.0,1000 tonnes,0.0,S
+Melanesia,Production,2005.0,1000 tonnes,0.0,A
+Peru,Production,2005.0,1000 tonnes,0.0,S
+Polynesia,Production,2005.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2005.0,1000 tonnes,0.0,S
+Samoa,Production,2005.0,1000 tonnes,0.0,S
+Tajikistan,Production,2005.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2005.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2005.0,1000 tonnes,0.0,S
+Zambia,Production,2005.0,1000 tonnes,0.0,S
+Viet Nam,Production,2004.0,1000 tonnes,95.0,S
+Indonesia,Production,2004.0,1000 tonnes,77.0,S
+India,Production,2004.0,1000 tonnes,73.0,S
+Brazil,Production,2004.0,1000 tonnes,66.0,S
+China,Production,2004.0,1000 tonnes,22.0,A
+Malaysia,Production,2004.0,1000 tonnes,20.0,S
+Sri Lanka,Production,2004.0,1000 tonnes,19.0,S
+Thailand,Production,2004.0,1000 tonnes,13.0,S
+Mexico,Production,2004.0,1000 tonnes,6.0,S
+Ecuador,Production,2004.0,1000 tonnes,5.0,S
+Philippines,Production,2004.0,1000 tonnes,5.0,S
+Madagascar,Production,2004.0,1000 tonnes,4.0,S
+Ghana,Production,2004.0,1000 tonnes,3.0,S
+Cambodia,Production,2004.0,1000 tonnes,2.0,S
+Niger,Production,2004.0,1000 tonnes,2.0,S
+Rwanda,Production,2004.0,1000 tonnes,2.0,S
+Uganda,Production,2004.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2004.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2004.0,1000 tonnes,1.0,S
+Costa Rica,Production,2004.0,1000 tonnes,1.0,S
+Ethiopia,Production,2004.0,1000 tonnes,1.0,S
+Guatemala,Production,2004.0,1000 tonnes,1.0,S
+Malawi,Production,2004.0,1000 tonnes,1.0,S
+Benin,Production,2004.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2004.0,1000 tonnes,0.0,S
+Cameroon,Production,2004.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2004.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2004.0,1000 tonnes,0.0,S
+Fiji,Production,2004.0,1000 tonnes,0.0,S
+Georgia,Production,2004.0,1000 tonnes,0.0,S
+Guyana,Production,2004.0,1000 tonnes,0.0,S
+Honduras,Production,2004.0,1000 tonnes,0.0,S
+Kenya,Production,2004.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2004.0,1000 tonnes,0.0,S
+Mali,Production,2004.0,1000 tonnes,0.0,S
+Melanesia,Production,2004.0,1000 tonnes,0.0,A
+Peru,Production,2004.0,1000 tonnes,0.0,S
+Polynesia,Production,2004.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2004.0,1000 tonnes,0.0,S
+Samoa,Production,2004.0,1000 tonnes,0.0,S
+Tajikistan,Production,2004.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2004.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2004.0,1000 tonnes,0.0,S
+Zambia,Production,2004.0,1000 tonnes,0.0,S
+Indonesia,Production,2003.0,1000 tonnes,91.0,S
+Viet Nam,Production,2003.0,1000 tonnes,89.0,S
+Brazil,Production,2003.0,1000 tonnes,67.0,S
+India,Production,2003.0,1000 tonnes,64.0,S
+China,Production,2003.0,1000 tonnes,22.0,A
+Malaysia,Production,2003.0,1000 tonnes,21.0,S
+Sri Lanka,Production,2003.0,1000 tonnes,18.0,S
+Thailand,Production,2003.0,1000 tonnes,13.0,S
+Mexico,Production,2003.0,1000 tonnes,6.0,S
+Philippines,Production,2003.0,1000 tonnes,5.0,S
+Ecuador,Production,2003.0,1000 tonnes,4.0,S
+Ghana,Production,2003.0,1000 tonnes,3.0,S
+Cambodia,Production,2003.0,1000 tonnes,2.0,S
+Madagascar,Production,2003.0,1000 tonnes,2.0,S
+Niger,Production,2003.0,1000 tonnes,2.0,S
+Rwanda,Production,2003.0,1000 tonnes,2.0,S
+Uganda,Production,2003.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2003.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2003.0,1000 tonnes,1.0,S
+Costa Rica,Production,2003.0,1000 tonnes,1.0,S
+Ethiopia,Production,2003.0,1000 tonnes,1.0,S
+Guatemala,Production,2003.0,1000 tonnes,1.0,S
+Malawi,Production,2003.0,1000 tonnes,1.0,S
+Benin,Production,2003.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2003.0,1000 tonnes,0.0,S
+Cameroon,Production,2003.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2003.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2003.0,1000 tonnes,0.0,S
+Fiji,Production,2003.0,1000 tonnes,0.0,S
+Georgia,Production,2003.0,1000 tonnes,0.0,S
+Guyana,Production,2003.0,1000 tonnes,0.0,S
+Honduras,Production,2003.0,1000 tonnes,0.0,S
+Kenya,Production,2003.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2003.0,1000 tonnes,0.0,S
+Mali,Production,2003.0,1000 tonnes,0.0,S
+Melanesia,Production,2003.0,1000 tonnes,0.0,A
+Peru,Production,2003.0,1000 tonnes,0.0,S
+Polynesia,Production,2003.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2003.0,1000 tonnes,0.0,S
+Samoa,Production,2003.0,1000 tonnes,0.0,S
+Tajikistan,Production,2003.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2003.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2003.0,1000 tonnes,0.0,S
+Zambia,Production,2003.0,1000 tonnes,0.0,S
+Indonesia,Production,2002.0,1000 tonnes,90.0,S
+Viet Nam,Production,2002.0,1000 tonnes,81.0,S
+India,Production,2002.0,1000 tonnes,62.0,S
+Brazil,Production,2002.0,1000 tonnes,57.0,S
+Malaysia,Production,2002.0,1000 tonnes,24.0,S
+China,Production,2002.0,1000 tonnes,21.0,A
+Sri Lanka,Production,2002.0,1000 tonnes,18.0,S
+Thailand,Production,2002.0,1000 tonnes,10.0,S
+Mexico,Production,2002.0,1000 tonnes,5.0,S
+Philippines,Production,2002.0,1000 tonnes,5.0,S
+Ecuador,Production,2002.0,1000 tonnes,4.0,S
+Ghana,Production,2002.0,1000 tonnes,3.0,S
+Cambodia,Production,2002.0,1000 tonnes,2.0,S
+Madagascar,Production,2002.0,1000 tonnes,2.0,S
+Uganda,Production,2002.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2002.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2002.0,1000 tonnes,1.0,S
+Ethiopia,Production,2002.0,1000 tonnes,1.0,S
+Malawi,Production,2002.0,1000 tonnes,1.0,S
+Niger,Production,2002.0,1000 tonnes,1.0,S
+Rwanda,Production,2002.0,1000 tonnes,1.0,S
+Benin,Production,2002.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2002.0,1000 tonnes,0.0,S
+Cameroon,Production,2002.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2002.0,1000 tonnes,0.0,S
+Costa Rica,Production,2002.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2002.0,1000 tonnes,0.0,S
+Fiji,Production,2002.0,1000 tonnes,0.0,S
+Georgia,Production,2002.0,1000 tonnes,0.0,S
+Guatemala,Production,2002.0,1000 tonnes,0.0,S
+Guyana,Production,2002.0,1000 tonnes,0.0,S
+Honduras,Production,2002.0,1000 tonnes,0.0,S
+Kenya,Production,2002.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2002.0,1000 tonnes,0.0,S
+Mali,Production,2002.0,1000 tonnes,0.0,S
+Melanesia,Production,2002.0,1000 tonnes,0.0,A
+Peru,Production,2002.0,1000 tonnes,0.0,S
+Polynesia,Production,2002.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2002.0,1000 tonnes,0.0,S
+Samoa,Production,2002.0,1000 tonnes,0.0,S
+Tajikistan,Production,2002.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2002.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2002.0,1000 tonnes,0.0,S
+Zambia,Production,2002.0,1000 tonnes,0.0,S
+Indonesia,Production,2001.0,1000 tonnes,82.0,S
+India,Production,2001.0,1000 tonnes,64.0,S
+Viet Nam,Production,2001.0,1000 tonnes,58.0,S
+Brazil,Production,2001.0,1000 tonnes,50.0,S
+Malaysia,Production,2001.0,1000 tonnes,29.0,S
+China,Production,2001.0,1000 tonnes,19.0,A
+Sri Lanka,Production,2001.0,1000 tonnes,17.0,S
+Thailand,Production,2001.0,1000 tonnes,9.0,S
+Mexico,Production,2001.0,1000 tonnes,5.0,S
+Philippines,Production,2001.0,1000 tonnes,5.0,S
+Ecuador,Production,2001.0,1000 tonnes,4.0,S
+Ghana,Production,2001.0,1000 tonnes,3.0,S
+Cambodia,Production,2001.0,1000 tonnes,2.0,S
+Madagascar,Production,2001.0,1000 tonnes,2.0,S
+Uganda,Production,2001.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2001.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2001.0,1000 tonnes,1.0,S
+Ethiopia,Production,2001.0,1000 tonnes,1.0,S
+Malawi,Production,2001.0,1000 tonnes,1.0,S
+Niger,Production,2001.0,1000 tonnes,1.0,S
+Rwanda,Production,2001.0,1000 tonnes,1.0,S
+Benin,Production,2001.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2001.0,1000 tonnes,0.0,S
+Cameroon,Production,2001.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2001.0,1000 tonnes,0.0,S
+Costa Rica,Production,2001.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2001.0,1000 tonnes,0.0,S
+Fiji,Production,2001.0,1000 tonnes,0.0,S
+Georgia,Production,2001.0,1000 tonnes,0.0,S
+Guatemala,Production,2001.0,1000 tonnes,0.0,S
+Guyana,Production,2001.0,1000 tonnes,0.0,S
+Honduras,Production,2001.0,1000 tonnes,0.0,S
+Kenya,Production,2001.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2001.0,1000 tonnes,0.0,S
+Mali,Production,2001.0,1000 tonnes,0.0,S
+Melanesia,Production,2001.0,1000 tonnes,0.0,A
+Peru,Production,2001.0,1000 tonnes,0.0,S
+Polynesia,Production,2001.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2001.0,1000 tonnes,0.0,S
+Samoa,Production,2001.0,1000 tonnes,0.0,S
+Tajikistan,Production,2001.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2001.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2001.0,1000 tonnes,0.0,S
+Zambia,Production,2001.0,1000 tonnes,0.0,S
+Indonesia,Production,2000.0,1000 tonnes,69.0,S
+India,Production,2000.0,1000 tonnes,59.0,S
+Viet Nam,Production,2000.0,1000 tonnes,51.0,S
+Brazil,Production,2000.0,1000 tonnes,39.0,S
+Malaysia,Production,2000.0,1000 tonnes,25.0,S
+China,Production,2000.0,1000 tonnes,18.0,A
+Sri Lanka,Production,2000.0,1000 tonnes,17.0,S
+Thailand,Production,2000.0,1000 tonnes,7.0,S
+Mexico,Production,2000.0,1000 tonnes,5.0,S
+Philippines,Production,2000.0,1000 tonnes,5.0,S
+Ecuador,Production,2000.0,1000 tonnes,4.0,S
+Ghana,Production,2000.0,1000 tonnes,3.0,S
+Cambodia,Production,2000.0,1000 tonnes,2.0,S
+Madagascar,Production,2000.0,1000 tonnes,2.0,S
+Uganda,Production,2000.0,1000 tonnes,2.0,S
+Zimbabwe,Production,2000.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,2000.0,1000 tonnes,1.0,S
+Ethiopia,Production,2000.0,1000 tonnes,1.0,S
+Malawi,Production,2000.0,1000 tonnes,1.0,S
+Niger,Production,2000.0,1000 tonnes,1.0,S
+Rwanda,Production,2000.0,1000 tonnes,1.0,S
+Benin,Production,2000.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,2000.0,1000 tonnes,0.0,S
+Cameroon,Production,2000.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,2000.0,1000 tonnes,0.0,S
+Costa Rica,Production,2000.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,2000.0,1000 tonnes,0.0,S
+Fiji,Production,2000.0,1000 tonnes,0.0,S
+Georgia,Production,2000.0,1000 tonnes,0.0,S
+Guatemala,Production,2000.0,1000 tonnes,0.0,S
+Guyana,Production,2000.0,1000 tonnes,0.0,S
+Honduras,Production,2000.0,1000 tonnes,0.0,S
+Kenya,Production,2000.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,2000.0,1000 tonnes,0.0,S
+Mali,Production,2000.0,1000 tonnes,0.0,S
+Melanesia,Production,2000.0,1000 tonnes,0.0,A
+Peru,Production,2000.0,1000 tonnes,0.0,S
+Polynesia,Production,2000.0,1000 tonnes,0.0,A
+Saint Lucia,Production,2000.0,1000 tonnes,0.0,S
+Samoa,Production,2000.0,1000 tonnes,0.0,S
+Tajikistan,Production,2000.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,2000.0,1000 tonnes,0.0,S
+Uzbekistan,Production,2000.0,1000 tonnes,0.0,S
+Zambia,Production,2000.0,1000 tonnes,0.0,S
+India,Production,1999.0,1000 tonnes,76.0,S
+Indonesia,Production,1999.0,1000 tonnes,61.0,S
+Viet Nam,Production,1999.0,1000 tonnes,40.0,S
+Brazil,Production,1999.0,1000 tonnes,28.0,S
+Malaysia,Production,1999.0,1000 tonnes,22.0,S
+China,Production,1999.0,1000 tonnes,18.0,A
+Sri Lanka,Production,1999.0,1000 tonnes,17.0,S
+Mexico,Production,1999.0,1000 tonnes,10.0,S
+Thailand,Production,1999.0,1000 tonnes,7.0,S
+Philippines,Production,1999.0,1000 tonnes,5.0,S
+Ecuador,Production,1999.0,1000 tonnes,4.0,S
+Cambodia,Production,1999.0,1000 tonnes,2.0,S
+Ghana,Production,1999.0,1000 tonnes,2.0,S
+Madagascar,Production,1999.0,1000 tonnes,2.0,S
+Uganda,Production,1999.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1999.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,1999.0,1000 tonnes,1.0,S
+Costa Rica,Production,1999.0,1000 tonnes,1.0,S
+Ethiopia,Production,1999.0,1000 tonnes,1.0,S
+Malawi,Production,1999.0,1000 tonnes,1.0,S
+Niger,Production,1999.0,1000 tonnes,1.0,S
+Benin,Production,1999.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1999.0,1000 tonnes,0.0,S
+Cameroon,Production,1999.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1999.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1999.0,1000 tonnes,0.0,S
+Fiji,Production,1999.0,1000 tonnes,0.0,S
+Georgia,Production,1999.0,1000 tonnes,0.0,S
+Guatemala,Production,1999.0,1000 tonnes,0.0,S
+Guyana,Production,1999.0,1000 tonnes,0.0,S
+Honduras,Production,1999.0,1000 tonnes,0.0,S
+Kenya,Production,1999.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1999.0,1000 tonnes,0.0,S
+Mali,Production,1999.0,1000 tonnes,0.0,S
+Melanesia,Production,1999.0,1000 tonnes,0.0,A
+Peru,Production,1999.0,1000 tonnes,0.0,S
+Polynesia,Production,1999.0,1000 tonnes,0.0,A
+Rwanda,Production,1999.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1999.0,1000 tonnes,0.0,S
+Samoa,Production,1999.0,1000 tonnes,0.0,S
+Tajikistan,Production,1999.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1999.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1999.0,1000 tonnes,0.0,S
+Zambia,Production,1999.0,1000 tonnes,0.0,S
+Indonesia,Production,1998.0,1000 tonnes,65.0,S
+India,Production,1998.0,1000 tonnes,57.0,S
+Viet Nam,Production,1998.0,1000 tonnes,29.0,S
+Brazil,Production,1998.0,1000 tonnes,23.0,S
+Malaysia,Production,1998.0,1000 tonnes,19.0,S
+Sri Lanka,Production,1998.0,1000 tonnes,18.0,S
+China,Production,1998.0,1000 tonnes,17.0,A
+Mexico,Production,1998.0,1000 tonnes,5.0,S
+Thailand,Production,1998.0,1000 tonnes,5.0,S
+Philippines,Production,1998.0,1000 tonnes,4.0,S
+Cambodia,Production,1998.0,1000 tonnes,2.0,S
+Ghana,Production,1998.0,1000 tonnes,2.0,S
+Madagascar,Production,1998.0,1000 tonnes,2.0,S
+Uganda,Production,1998.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1998.0,1000 tonnes,2.0,S
+Bolivia (Plurinational State of),Production,1998.0,1000 tonnes,1.0,S
+Costa Rica,Production,1998.0,1000 tonnes,1.0,S
+Ethiopia,Production,1998.0,1000 tonnes,1.0,S
+Malawi,Production,1998.0,1000 tonnes,1.0,S
+Niger,Production,1998.0,1000 tonnes,1.0,S
+Benin,Production,1998.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1998.0,1000 tonnes,0.0,S
+Cameroon,Production,1998.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1998.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1998.0,1000 tonnes,0.0,S
+Ecuador,Production,1998.0,1000 tonnes,0.0,S
+Fiji,Production,1998.0,1000 tonnes,0.0,S
+Georgia,Production,1998.0,1000 tonnes,0.0,S
+Guatemala,Production,1998.0,1000 tonnes,0.0,S
+Guyana,Production,1998.0,1000 tonnes,0.0,S
+Honduras,Production,1998.0,1000 tonnes,0.0,S
+Kenya,Production,1998.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1998.0,1000 tonnes,0.0,S
+Mali,Production,1998.0,1000 tonnes,0.0,S
+Melanesia,Production,1998.0,1000 tonnes,0.0,A
+Peru,Production,1998.0,1000 tonnes,0.0,S
+Polynesia,Production,1998.0,1000 tonnes,0.0,A
+Rwanda,Production,1998.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1998.0,1000 tonnes,0.0,S
+Samoa,Production,1998.0,1000 tonnes,0.0,S
+Tajikistan,Production,1998.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1998.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1998.0,1000 tonnes,0.0,S
+Zambia,Production,1998.0,1000 tonnes,0.0,S
+India,Production,1997.0,1000 tonnes,56.0,S
+Indonesia,Production,1997.0,1000 tonnes,47.0,S
+Viet Nam,Production,1997.0,1000 tonnes,33.0,S
+Brazil,Production,1997.0,1000 tonnes,22.0,S
+Malaysia,Production,1997.0,1000 tonnes,18.0,S
+Sri Lanka,Production,1997.0,1000 tonnes,17.0,S
+China,Production,1997.0,1000 tonnes,15.0,A
+Philippines,Production,1997.0,1000 tonnes,5.0,S
+Thailand,Production,1997.0,1000 tonnes,5.0,S
+Cambodia,Production,1997.0,1000 tonnes,2.0,S
+Costa Rica,Production,1997.0,1000 tonnes,2.0,S
+Madagascar,Production,1997.0,1000 tonnes,2.0,S
+Mexico,Production,1997.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1997.0,1000 tonnes,2.0,S
+Ethiopia,Production,1997.0,1000 tonnes,1.0,S
+Ghana,Production,1997.0,1000 tonnes,1.0,S
+Malawi,Production,1997.0,1000 tonnes,1.0,S
+Niger,Production,1997.0,1000 tonnes,1.0,S
+Uganda,Production,1997.0,1000 tonnes,1.0,S
+Benin,Production,1997.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1997.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1997.0,1000 tonnes,0.0,S
+Cameroon,Production,1997.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1997.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1997.0,1000 tonnes,0.0,S
+Ecuador,Production,1997.0,1000 tonnes,0.0,S
+Fiji,Production,1997.0,1000 tonnes,0.0,S
+Georgia,Production,1997.0,1000 tonnes,0.0,S
+Guatemala,Production,1997.0,1000 tonnes,0.0,S
+Guyana,Production,1997.0,1000 tonnes,0.0,S
+Honduras,Production,1997.0,1000 tonnes,0.0,S
+Kenya,Production,1997.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1997.0,1000 tonnes,0.0,S
+Mali,Production,1997.0,1000 tonnes,0.0,S
+Melanesia,Production,1997.0,1000 tonnes,0.0,A
+Peru,Production,1997.0,1000 tonnes,0.0,S
+Polynesia,Production,1997.0,1000 tonnes,0.0,A
+Rwanda,Production,1997.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1997.0,1000 tonnes,0.0,S
+Samoa,Production,1997.0,1000 tonnes,0.0,S
+Tajikistan,Production,1997.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1997.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1997.0,1000 tonnes,0.0,S
+Zambia,Production,1997.0,1000 tonnes,0.0,S
+India,Production,1996.0,1000 tonnes,62.0,S
+Indonesia,Production,1996.0,1000 tonnes,52.0,S
+Brazil,Production,1996.0,1000 tonnes,32.0,S
+Sri Lanka,Production,1996.0,1000 tonnes,17.0,S
+Malaysia,Production,1996.0,1000 tonnes,16.0,S
+China,Production,1996.0,1000 tonnes,14.0,A
+Viet Nam,Production,1996.0,1000 tonnes,14.0,S
+Thailand,Production,1996.0,1000 tonnes,7.0,S
+Philippines,Production,1996.0,1000 tonnes,5.0,S
+Mexico,Production,1996.0,1000 tonnes,4.0,S
+Cambodia,Production,1996.0,1000 tonnes,2.0,S
+Costa Rica,Production,1996.0,1000 tonnes,2.0,S
+Ghana,Production,1996.0,1000 tonnes,2.0,S
+Madagascar,Production,1996.0,1000 tonnes,2.0,S
+Uganda,Production,1996.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1996.0,1000 tonnes,2.0,S
+Ethiopia,Production,1996.0,1000 tonnes,1.0,S
+Malawi,Production,1996.0,1000 tonnes,1.0,S
+Niger,Production,1996.0,1000 tonnes,1.0,S
+Benin,Production,1996.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1996.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1996.0,1000 tonnes,0.0,S
+Cameroon,Production,1996.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1996.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1996.0,1000 tonnes,0.0,S
+Ecuador,Production,1996.0,1000 tonnes,0.0,S
+Fiji,Production,1996.0,1000 tonnes,0.0,S
+Georgia,Production,1996.0,1000 tonnes,0.0,S
+Guatemala,Production,1996.0,1000 tonnes,0.0,S
+Guyana,Production,1996.0,1000 tonnes,0.0,S
+Honduras,Production,1996.0,1000 tonnes,0.0,S
+Kenya,Production,1996.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1996.0,1000 tonnes,0.0,S
+Mali,Production,1996.0,1000 tonnes,0.0,S
+Melanesia,Production,1996.0,1000 tonnes,0.0,A
+Peru,Production,1996.0,1000 tonnes,0.0,S
+Polynesia,Production,1996.0,1000 tonnes,0.0,A
+Rwanda,Production,1996.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1996.0,1000 tonnes,0.0,S
+Samoa,Production,1996.0,1000 tonnes,0.0,S
+Tajikistan,Production,1996.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1996.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1996.0,1000 tonnes,0.0,S
+Zambia,Production,1996.0,1000 tonnes,0.0,S
+India,Production,1995.0,1000 tonnes,61.0,S
+Indonesia,Production,1995.0,1000 tonnes,59.0,S
+Brazil,Production,1995.0,1000 tonnes,34.0,S
+Malaysia,Production,1995.0,1000 tonnes,16.0,S
+Sri Lanka,Production,1995.0,1000 tonnes,16.0,S
+China,Production,1995.0,1000 tonnes,12.0,A
+Viet Nam,Production,1995.0,1000 tonnes,12.0,S
+Thailand,Production,1995.0,1000 tonnes,8.0,S
+Mexico,Production,1995.0,1000 tonnes,4.0,S
+Philippines,Production,1995.0,1000 tonnes,3.0,S
+Cambodia,Production,1995.0,1000 tonnes,2.0,S
+Costa Rica,Production,1995.0,1000 tonnes,2.0,S
+Madagascar,Production,1995.0,1000 tonnes,2.0,S
+Uganda,Production,1995.0,1000 tonnes,2.0,S
+Malawi,Production,1995.0,1000 tonnes,1.0,S
+Niger,Production,1995.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1995.0,1000 tonnes,1.0,S
+Benin,Production,1995.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1995.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1995.0,1000 tonnes,0.0,S
+Cameroon,Production,1995.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1995.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1995.0,1000 tonnes,0.0,S
+Ecuador,Production,1995.0,1000 tonnes,0.0,S
+Ethiopia,Production,1995.0,1000 tonnes,0.0,S
+Fiji,Production,1995.0,1000 tonnes,0.0,S
+Georgia,Production,1995.0,1000 tonnes,0.0,S
+Ghana,Production,1995.0,1000 tonnes,0.0,S
+Guatemala,Production,1995.0,1000 tonnes,0.0,S
+Guyana,Production,1995.0,1000 tonnes,0.0,S
+Honduras,Production,1995.0,1000 tonnes,0.0,S
+Kenya,Production,1995.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1995.0,1000 tonnes,0.0,S
+Mali,Production,1995.0,1000 tonnes,0.0,S
+Melanesia,Production,1995.0,1000 tonnes,0.0,A
+Peru,Production,1995.0,1000 tonnes,0.0,S
+Polynesia,Production,1995.0,1000 tonnes,0.0,A
+Rwanda,Production,1995.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1995.0,1000 tonnes,0.0,S
+Samoa,Production,1995.0,1000 tonnes,0.0,S
+Tajikistan,Production,1995.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1995.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1995.0,1000 tonnes,0.0,S
+Zambia,Production,1995.0,1000 tonnes,0.0,S
+Indonesia,Production,1994.0,1000 tonnes,54.0,S
+India,Production,1994.0,1000 tonnes,51.0,S
+Brazil,Production,1994.0,1000 tonnes,35.0,S
+Malaysia,Production,1994.0,1000 tonnes,16.0,S
+Sri Lanka,Production,1994.0,1000 tonnes,15.0,S
+China,Production,1994.0,1000 tonnes,13.0,A
+Viet Nam,Production,1994.0,1000 tonnes,12.0,S
+Thailand,Production,1994.0,1000 tonnes,9.0,S
+Philippines,Production,1994.0,1000 tonnes,3.0,S
+Cambodia,Production,1994.0,1000 tonnes,2.0,S
+Costa Rica,Production,1994.0,1000 tonnes,2.0,S
+Madagascar,Production,1994.0,1000 tonnes,2.0,S
+Uganda,Production,1994.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1994.0,1000 tonnes,2.0,S
+Malawi,Production,1994.0,1000 tonnes,1.0,S
+Mexico,Production,1994.0,1000 tonnes,1.0,S
+Niger,Production,1994.0,1000 tonnes,1.0,S
+Benin,Production,1994.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1994.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1994.0,1000 tonnes,0.0,S
+Cameroon,Production,1994.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1994.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1994.0,1000 tonnes,0.0,S
+Ecuador,Production,1994.0,1000 tonnes,0.0,S
+Ethiopia,Production,1994.0,1000 tonnes,0.0,S
+Fiji,Production,1994.0,1000 tonnes,0.0,S
+Georgia,Production,1994.0,1000 tonnes,0.0,S
+Ghana,Production,1994.0,1000 tonnes,0.0,S
+Guatemala,Production,1994.0,1000 tonnes,0.0,S
+Guyana,Production,1994.0,1000 tonnes,0.0,S
+Honduras,Production,1994.0,1000 tonnes,0.0,S
+Kenya,Production,1994.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1994.0,1000 tonnes,0.0,S
+Mali,Production,1994.0,1000 tonnes,0.0,S
+Melanesia,Production,1994.0,1000 tonnes,0.0,A
+Peru,Production,1994.0,1000 tonnes,0.0,S
+Polynesia,Production,1994.0,1000 tonnes,0.0,A
+Rwanda,Production,1994.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1994.0,1000 tonnes,0.0,S
+Samoa,Production,1994.0,1000 tonnes,0.0,S
+Tajikistan,Production,1994.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1994.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1994.0,1000 tonnes,0.0,S
+Zambia,Production,1994.0,1000 tonnes,0.0,S
+Indonesia,Production,1993.0,1000 tonnes,66.0,S
+India,Production,1993.0,1000 tonnes,51.0,S
+Brazil,Production,1993.0,1000 tonnes,42.0,S
+Malaysia,Production,1993.0,1000 tonnes,18.0,S
+Sri Lanka,Production,1993.0,1000 tonnes,14.0,S
+China,Production,1993.0,1000 tonnes,12.0,A
+Thailand,Production,1993.0,1000 tonnes,11.0,S
+Viet Nam,Production,1993.0,1000 tonnes,10.0,S
+Philippines,Production,1993.0,1000 tonnes,4.0,S
+Cambodia,Production,1993.0,1000 tonnes,2.0,S
+Costa Rica,Production,1993.0,1000 tonnes,2.0,S
+Madagascar,Production,1993.0,1000 tonnes,2.0,S
+Uganda,Production,1993.0,1000 tonnes,2.0,S
+Zimbabwe,Production,1993.0,1000 tonnes,2.0,S
+Malawi,Production,1993.0,1000 tonnes,1.0,S
+Mexico,Production,1993.0,1000 tonnes,1.0,S
+Niger,Production,1993.0,1000 tonnes,1.0,S
+Benin,Production,1993.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1993.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1993.0,1000 tonnes,0.0,S
+Cameroon,Production,1993.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1993.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1993.0,1000 tonnes,0.0,S
+Ecuador,Production,1993.0,1000 tonnes,0.0,S
+Ethiopia,Production,1993.0,1000 tonnes,0.0,S
+Fiji,Production,1993.0,1000 tonnes,0.0,S
+Georgia,Production,1993.0,1000 tonnes,0.0,S
+Ghana,Production,1993.0,1000 tonnes,0.0,S
+Guatemala,Production,1993.0,1000 tonnes,0.0,S
+Guyana,Production,1993.0,1000 tonnes,0.0,S
+Honduras,Production,1993.0,1000 tonnes,0.0,S
+Kenya,Production,1993.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1993.0,1000 tonnes,0.0,S
+Mali,Production,1993.0,1000 tonnes,0.0,S
+Melanesia,Production,1993.0,1000 tonnes,0.0,A
+Peru,Production,1993.0,1000 tonnes,0.0,S
+Polynesia,Production,1993.0,1000 tonnes,0.0,A
+Rwanda,Production,1993.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1993.0,1000 tonnes,0.0,S
+Samoa,Production,1993.0,1000 tonnes,0.0,S
+Tajikistan,Production,1993.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1993.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1993.0,1000 tonnes,0.0,S
+Zambia,Production,1993.0,1000 tonnes,0.0,S
+Indonesia,Production,1992.0,1000 tonnes,65.0,S
+India,Production,1992.0,1000 tonnes,52.0,S
+Brazil,Production,1992.0,1000 tonnes,33.0,S
+Malaysia,Production,1992.0,1000 tonnes,27.0,S
+China,Production,1992.0,1000 tonnes,13.0,A
+Sri Lanka,Production,1992.0,1000 tonnes,11.0,S
+Thailand,Production,1992.0,1000 tonnes,11.0,S
+Viet Nam,Production,1992.0,1000 tonnes,10.0,S
+Philippines,Production,1992.0,1000 tonnes,4.0,S
+Cambodia,Production,1992.0,1000 tonnes,2.0,S
+Costa Rica,Production,1992.0,1000 tonnes,2.0,S
+Madagascar,Production,1992.0,1000 tonnes,2.0,S
+Mexico,Production,1992.0,1000 tonnes,2.0,S
+Uganda,Production,1992.0,1000 tonnes,2.0,S
+Malawi,Production,1992.0,1000 tonnes,1.0,S
+Niger,Production,1992.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1992.0,1000 tonnes,1.0,S
+Benin,Production,1992.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1992.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1992.0,1000 tonnes,0.0,S
+Cameroon,Production,1992.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1992.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1992.0,1000 tonnes,0.0,S
+Ecuador,Production,1992.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1992.0,1000 tonnes,0.0,S
+Fiji,Production,1992.0,1000 tonnes,0.0,S
+Georgia,Production,1992.0,1000 tonnes,0.0,S
+Ghana,Production,1992.0,1000 tonnes,0.0,S
+Guatemala,Production,1992.0,1000 tonnes,0.0,S
+Guyana,Production,1992.0,1000 tonnes,0.0,S
+Honduras,Production,1992.0,1000 tonnes,0.0,S
+Kenya,Production,1992.0,1000 tonnes,0.0,S
+Kyrgyzstan,Production,1992.0,1000 tonnes,0.0,S
+Mali,Production,1992.0,1000 tonnes,0.0,S
+Melanesia,Production,1992.0,1000 tonnes,0.0,A
+Peru,Production,1992.0,1000 tonnes,0.0,S
+Polynesia,Production,1992.0,1000 tonnes,0.0,A
+Rwanda,Production,1992.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1992.0,1000 tonnes,0.0,S
+Samoa,Production,1992.0,1000 tonnes,0.0,S
+Tajikistan,Production,1992.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1992.0,1000 tonnes,0.0,S
+Uzbekistan,Production,1992.0,1000 tonnes,0.0,S
+Zambia,Production,1992.0,1000 tonnes,0.0,S
+Brazil,Production,1991.0,1000 tonnes,84.0,S
+Indonesia,Production,1991.0,1000 tonnes,63.0,S
+India,Production,1991.0,1000 tonnes,48.0,S
+Malaysia,Production,1991.0,1000 tonnes,29.0,S
+Thailand,Production,1991.0,1000 tonnes,12.0,S
+Viet Nam,Production,1991.0,1000 tonnes,12.0,S
+Sri Lanka,Production,1991.0,1000 tonnes,10.0,S
+China,Production,1991.0,1000 tonnes,9.0,A
+Philippines,Production,1991.0,1000 tonnes,4.0,S
+Cambodia,Production,1991.0,1000 tonnes,2.0,S
+Costa Rica,Production,1991.0,1000 tonnes,2.0,S
+Madagascar,Production,1991.0,1000 tonnes,2.0,S
+Malawi,Production,1991.0,1000 tonnes,1.0,S
+Mexico,Production,1991.0,1000 tonnes,1.0,S
+Niger,Production,1991.0,1000 tonnes,1.0,S
+Uganda,Production,1991.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1991.0,1000 tonnes,1.0,S
+Benin,Production,1991.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1991.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1991.0,1000 tonnes,0.0,S
+Cameroon,Production,1991.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1991.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1991.0,1000 tonnes,0.0,S
+Ecuador,Production,1991.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1991.0,1000 tonnes,0.0,S
+Fiji,Production,1991.0,1000 tonnes,0.0,S
+Ghana,Production,1991.0,1000 tonnes,0.0,S
+Guatemala,Production,1991.0,1000 tonnes,0.0,S
+Guyana,Production,1991.0,1000 tonnes,0.0,S
+Honduras,Production,1991.0,1000 tonnes,0.0,S
+Kenya,Production,1991.0,1000 tonnes,0.0,S
+Mali,Production,1991.0,1000 tonnes,0.0,S
+Melanesia,Production,1991.0,1000 tonnes,0.0,A
+Peru,Production,1991.0,1000 tonnes,0.0,S
+Polynesia,Production,1991.0,1000 tonnes,0.0,A
+Rwanda,Production,1991.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1991.0,1000 tonnes,0.0,S
+Samoa,Production,1991.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1991.0,1000 tonnes,0.0,S
+Zambia,Production,1991.0,1000 tonnes,0.0,S
+Brazil,Production,1990.0,1000 tonnes,78.0,S
+Indonesia,Production,1990.0,1000 tonnes,70.0,S
+India,Production,1990.0,1000 tonnes,55.0,S
+Malaysia,Production,1990.0,1000 tonnes,31.0,S
+China,Production,1990.0,1000 tonnes,11.0,A
+Viet Nam,Production,1990.0,1000 tonnes,11.0,S
+Thailand,Production,1990.0,1000 tonnes,10.0,S
+Sri Lanka,Production,1990.0,1000 tonnes,9.0,S
+Philippines,Production,1990.0,1000 tonnes,3.0,S
+Cambodia,Production,1990.0,1000 tonnes,2.0,S
+Madagascar,Production,1990.0,1000 tonnes,2.0,S
+Costa Rica,Production,1990.0,1000 tonnes,1.0,S
+Malawi,Production,1990.0,1000 tonnes,1.0,S
+Mexico,Production,1990.0,1000 tonnes,1.0,S
+Uganda,Production,1990.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1990.0,1000 tonnes,1.0,S
+Benin,Production,1990.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1990.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1990.0,1000 tonnes,0.0,S
+Cameroon,Production,1990.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1990.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1990.0,1000 tonnes,0.0,S
+Ecuador,Production,1990.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1990.0,1000 tonnes,0.0,S
+Fiji,Production,1990.0,1000 tonnes,0.0,S
+Ghana,Production,1990.0,1000 tonnes,0.0,S
+Guatemala,Production,1990.0,1000 tonnes,0.0,S
+Guyana,Production,1990.0,1000 tonnes,0.0,S
+Honduras,Production,1990.0,1000 tonnes,0.0,S
+Kenya,Production,1990.0,1000 tonnes,0.0,S
+Mali,Production,1990.0,1000 tonnes,0.0,S
+Melanesia,Production,1990.0,1000 tonnes,0.0,A
+Niger,Production,1990.0,1000 tonnes,0.0,S
+Peru,Production,1990.0,1000 tonnes,0.0,S
+Polynesia,Production,1990.0,1000 tonnes,0.0,A
+Rwanda,Production,1990.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1990.0,1000 tonnes,0.0,S
+Samoa,Production,1990.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1990.0,1000 tonnes,0.0,S
+Zambia,Production,1990.0,1000 tonnes,0.0,S
+Indonesia,Production,1989.0,1000 tonnes,68.0,S
+Brazil,Production,1989.0,1000 tonnes,65.0,S
+India,Production,1989.0,1000 tonnes,44.0,S
+Malaysia,Production,1989.0,1000 tonnes,28.0,S
+China,Production,1989.0,1000 tonnes,9.0,A
+Viet Nam,Production,1989.0,1000 tonnes,9.0,S
+Sri Lanka,Production,1989.0,1000 tonnes,8.0,S
+Thailand,Production,1989.0,1000 tonnes,8.0,S
+Madagascar,Production,1989.0,1000 tonnes,4.0,S
+Cambodia,Production,1989.0,1000 tonnes,2.0,S
+Uganda,Production,1989.0,1000 tonnes,2.0,S
+Costa Rica,Production,1989.0,1000 tonnes,1.0,S
+Malawi,Production,1989.0,1000 tonnes,1.0,S
+Mexico,Production,1989.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1989.0,1000 tonnes,1.0,S
+Benin,Production,1989.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1989.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1989.0,1000 tonnes,0.0,S
+Cameroon,Production,1989.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1989.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1989.0,1000 tonnes,0.0,S
+Ecuador,Production,1989.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1989.0,1000 tonnes,0.0,S
+Fiji,Production,1989.0,1000 tonnes,0.0,S
+Ghana,Production,1989.0,1000 tonnes,0.0,S
+Guatemala,Production,1989.0,1000 tonnes,0.0,S
+Guyana,Production,1989.0,1000 tonnes,0.0,S
+Honduras,Production,1989.0,1000 tonnes,0.0,S
+Kenya,Production,1989.0,1000 tonnes,0.0,S
+Mali,Production,1989.0,1000 tonnes,0.0,S
+Melanesia,Production,1989.0,1000 tonnes,0.0,A
+Niger,Production,1989.0,1000 tonnes,0.0,S
+Peru,Production,1989.0,1000 tonnes,0.0,S
+Philippines,Production,1989.0,1000 tonnes,0.0,S
+Polynesia,Production,1989.0,1000 tonnes,0.0,A
+Rwanda,Production,1989.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1989.0,1000 tonnes,0.0,S
+Samoa,Production,1989.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1989.0,1000 tonnes,0.0,S
+Zambia,Production,1989.0,1000 tonnes,0.0,S
+Indonesia,Production,1988.0,1000 tonnes,65.0,S
+Brazil,Production,1988.0,1000 tonnes,59.0,S
+India,Production,1988.0,1000 tonnes,48.0,S
+Malaysia,Production,1988.0,1000 tonnes,20.0,S
+China,Production,1988.0,1000 tonnes,7.0,A
+Sri Lanka,Production,1988.0,1000 tonnes,7.0,S
+Thailand,Production,1988.0,1000 tonnes,6.0,S
+Viet Nam,Production,1988.0,1000 tonnes,6.0,S
+Madagascar,Production,1988.0,1000 tonnes,4.0,S
+Uganda,Production,1988.0,1000 tonnes,2.0,S
+Cambodia,Production,1988.0,1000 tonnes,1.0,S
+Costa Rica,Production,1988.0,1000 tonnes,1.0,S
+Malawi,Production,1988.0,1000 tonnes,1.0,S
+Mexico,Production,1988.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1988.0,1000 tonnes,1.0,S
+Benin,Production,1988.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1988.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1988.0,1000 tonnes,0.0,S
+Cameroon,Production,1988.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1988.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1988.0,1000 tonnes,0.0,S
+Ecuador,Production,1988.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1988.0,1000 tonnes,0.0,S
+Fiji,Production,1988.0,1000 tonnes,0.0,S
+Ghana,Production,1988.0,1000 tonnes,0.0,S
+Guatemala,Production,1988.0,1000 tonnes,0.0,S
+Guyana,Production,1988.0,1000 tonnes,0.0,S
+Honduras,Production,1988.0,1000 tonnes,0.0,S
+Kenya,Production,1988.0,1000 tonnes,0.0,S
+Mali,Production,1988.0,1000 tonnes,0.0,S
+Melanesia,Production,1988.0,1000 tonnes,0.0,A
+Niger,Production,1988.0,1000 tonnes,0.0,S
+Peru,Production,1988.0,1000 tonnes,0.0,S
+Philippines,Production,1988.0,1000 tonnes,0.0,S
+Polynesia,Production,1988.0,1000 tonnes,0.0,A
+Rwanda,Production,1988.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1988.0,1000 tonnes,0.0,S
+Samoa,Production,1988.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1988.0,1000 tonnes,0.0,S
+Zambia,Production,1988.0,1000 tonnes,0.0,S
+Indonesia,Production,1987.0,1000 tonnes,49.0,S
+Brazil,Production,1987.0,1000 tonnes,46.0,S
+India,Production,1987.0,1000 tonnes,31.0,S
+Malaysia,Production,1987.0,1000 tonnes,14.0,S
+Sri Lanka,Production,1987.0,1000 tonnes,6.0,S
+Thailand,Production,1987.0,1000 tonnes,6.0,S
+China,Production,1987.0,1000 tonnes,5.0,A
+Viet Nam,Production,1987.0,1000 tonnes,5.0,S
+Madagascar,Production,1987.0,1000 tonnes,3.0,S
+Uganda,Production,1987.0,1000 tonnes,2.0,S
+Cambodia,Production,1987.0,1000 tonnes,1.0,S
+Costa Rica,Production,1987.0,1000 tonnes,1.0,S
+Malawi,Production,1987.0,1000 tonnes,1.0,S
+Mexico,Production,1987.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1987.0,1000 tonnes,1.0,S
+Benin,Production,1987.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1987.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1987.0,1000 tonnes,0.0,S
+Cameroon,Production,1987.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1987.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1987.0,1000 tonnes,0.0,S
+Ecuador,Production,1987.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1987.0,1000 tonnes,0.0,S
+Fiji,Production,1987.0,1000 tonnes,0.0,S
+Ghana,Production,1987.0,1000 tonnes,0.0,S
+Guatemala,Production,1987.0,1000 tonnes,0.0,S
+Guyana,Production,1987.0,1000 tonnes,0.0,S
+Honduras,Production,1987.0,1000 tonnes,0.0,S
+Kenya,Production,1987.0,1000 tonnes,0.0,S
+Mali,Production,1987.0,1000 tonnes,0.0,S
+Melanesia,Production,1987.0,1000 tonnes,0.0,A
+Niger,Production,1987.0,1000 tonnes,0.0,S
+Peru,Production,1987.0,1000 tonnes,0.0,S
+Philippines,Production,1987.0,1000 tonnes,0.0,S
+Polynesia,Production,1987.0,1000 tonnes,0.0,A
+Rwanda,Production,1987.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1987.0,1000 tonnes,0.0,S
+Samoa,Production,1987.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1987.0,1000 tonnes,0.0,S
+Zambia,Production,1987.0,1000 tonnes,0.0,S
+Indonesia,Production,1986.0,1000 tonnes,46.0,S
+Brazil,Production,1986.0,1000 tonnes,45.0,S
+India,Production,1986.0,1000 tonnes,34.0,S
+Malaysia,Production,1986.0,1000 tonnes,15.0,S
+Sri Lanka,Production,1986.0,1000 tonnes,6.0,S
+Thailand,Production,1986.0,1000 tonnes,6.0,S
+China,Production,1986.0,1000 tonnes,4.0,A
+Viet Nam,Production,1986.0,1000 tonnes,4.0,S
+Madagascar,Production,1986.0,1000 tonnes,3.0,S
+Uganda,Production,1986.0,1000 tonnes,2.0,S
+Cambodia,Production,1986.0,1000 tonnes,1.0,S
+Costa Rica,Production,1986.0,1000 tonnes,1.0,S
+Guatemala,Production,1986.0,1000 tonnes,1.0,S
+Mexico,Production,1986.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1986.0,1000 tonnes,1.0,S
+Benin,Production,1986.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1986.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1986.0,1000 tonnes,0.0,S
+Cameroon,Production,1986.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1986.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1986.0,1000 tonnes,0.0,S
+Ecuador,Production,1986.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1986.0,1000 tonnes,0.0,S
+Fiji,Production,1986.0,1000 tonnes,0.0,S
+Ghana,Production,1986.0,1000 tonnes,0.0,S
+Guyana,Production,1986.0,1000 tonnes,0.0,S
+Honduras,Production,1986.0,1000 tonnes,0.0,S
+Kenya,Production,1986.0,1000 tonnes,0.0,S
+Malawi,Production,1986.0,1000 tonnes,0.0,S
+Mali,Production,1986.0,1000 tonnes,0.0,S
+Melanesia,Production,1986.0,1000 tonnes,0.0,A
+Niger,Production,1986.0,1000 tonnes,0.0,S
+Peru,Production,1986.0,1000 tonnes,0.0,S
+Philippines,Production,1986.0,1000 tonnes,0.0,S
+Polynesia,Production,1986.0,1000 tonnes,0.0,A
+Rwanda,Production,1986.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1986.0,1000 tonnes,0.0,S
+Samoa,Production,1986.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1986.0,1000 tonnes,0.0,S
+Zambia,Production,1986.0,1000 tonnes,0.0,S
+Indonesia,Production,1985.0,1000 tonnes,41.0,S
+Brazil,Production,1985.0,1000 tonnes,38.0,S
+Malaysia,Production,1985.0,1000 tonnes,19.0,S
+India,Production,1985.0,1000 tonnes,18.0,S
+Sri Lanka,Production,1985.0,1000 tonnes,6.0,S
+Thailand,Production,1985.0,1000 tonnes,6.0,S
+China,Production,1985.0,1000 tonnes,4.0,A
+Madagascar,Production,1985.0,1000 tonnes,3.0,S
+Mexico,Production,1985.0,1000 tonnes,2.0,S
+Cambodia,Production,1985.0,1000 tonnes,1.0,S
+Costa Rica,Production,1985.0,1000 tonnes,1.0,S
+Uganda,Production,1985.0,1000 tonnes,1.0,S
+Viet Nam,Production,1985.0,1000 tonnes,1.0,S
+Zimbabwe,Production,1985.0,1000 tonnes,1.0,S
+Benin,Production,1985.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1985.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1985.0,1000 tonnes,0.0,S
+Cameroon,Production,1985.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1985.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1985.0,1000 tonnes,0.0,S
+Ecuador,Production,1985.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1985.0,1000 tonnes,0.0,S
+Fiji,Production,1985.0,1000 tonnes,0.0,S
+Ghana,Production,1985.0,1000 tonnes,0.0,S
+Guatemala,Production,1985.0,1000 tonnes,0.0,S
+Guyana,Production,1985.0,1000 tonnes,0.0,S
+Honduras,Production,1985.0,1000 tonnes,0.0,S
+Kenya,Production,1985.0,1000 tonnes,0.0,S
+Malawi,Production,1985.0,1000 tonnes,0.0,S
+Mali,Production,1985.0,1000 tonnes,0.0,S
+Melanesia,Production,1985.0,1000 tonnes,0.0,A
+Niger,Production,1985.0,1000 tonnes,0.0,S
+Peru,Production,1985.0,1000 tonnes,0.0,S
+Philippines,Production,1985.0,1000 tonnes,0.0,S
+Polynesia,Production,1985.0,1000 tonnes,0.0,A
+Rwanda,Production,1985.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1985.0,1000 tonnes,0.0,S
+Samoa,Production,1985.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1985.0,1000 tonnes,0.0,S
+Zambia,Production,1985.0,1000 tonnes,0.0,S
+Indonesia,Production,1984.0,1000 tonnes,46.0,S
+Brazil,Production,1984.0,1000 tonnes,44.0,S
+India,Production,1984.0,1000 tonnes,23.0,S
+Malaysia,Production,1984.0,1000 tonnes,17.0,S
+Sri Lanka,Production,1984.0,1000 tonnes,6.0,S
+Thailand,Production,1984.0,1000 tonnes,6.0,S
+China,Production,1984.0,1000 tonnes,4.0,A
+Madagascar,Production,1984.0,1000 tonnes,3.0,S
+Mexico,Production,1984.0,1000 tonnes,2.0,S
+Cambodia,Production,1984.0,1000 tonnes,1.0,S
+Costa Rica,Production,1984.0,1000 tonnes,1.0,S
+Uganda,Production,1984.0,1000 tonnes,1.0,S
+Viet Nam,Production,1984.0,1000 tonnes,1.0,S
+Benin,Production,1984.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1984.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1984.0,1000 tonnes,0.0,S
+Cameroon,Production,1984.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1984.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1984.0,1000 tonnes,0.0,S
+Ecuador,Production,1984.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1984.0,1000 tonnes,0.0,S
+Fiji,Production,1984.0,1000 tonnes,0.0,S
+Ghana,Production,1984.0,1000 tonnes,0.0,S
+Guatemala,Production,1984.0,1000 tonnes,0.0,S
+Guyana,Production,1984.0,1000 tonnes,0.0,S
+Honduras,Production,1984.0,1000 tonnes,0.0,S
+Kenya,Production,1984.0,1000 tonnes,0.0,S
+Malawi,Production,1984.0,1000 tonnes,0.0,S
+Mali,Production,1984.0,1000 tonnes,0.0,S
+Melanesia,Production,1984.0,1000 tonnes,0.0,A
+Niger,Production,1984.0,1000 tonnes,0.0,S
+Peru,Production,1984.0,1000 tonnes,0.0,S
+Philippines,Production,1984.0,1000 tonnes,0.0,S
+Polynesia,Production,1984.0,1000 tonnes,0.0,A
+Rwanda,Production,1984.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1984.0,1000 tonnes,0.0,S
+Samoa,Production,1984.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1984.0,1000 tonnes,0.0,S
+Zambia,Production,1984.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1984.0,1000 tonnes,0.0,S
+Indonesia,Production,1983.0,1000 tonnes,46.0,S
+Brazil,Production,1983.0,1000 tonnes,32.0,S
+India,Production,1983.0,1000 tonnes,27.0,S
+Malaysia,Production,1983.0,1000 tonnes,24.0,S
+Thailand,Production,1983.0,1000 tonnes,6.0,S
+Sri Lanka,Production,1983.0,1000 tonnes,5.0,S
+China,Production,1983.0,1000 tonnes,3.0,A
+Madagascar,Production,1983.0,1000 tonnes,3.0,S
+Mexico,Production,1983.0,1000 tonnes,3.0,S
+Cambodia,Production,1983.0,1000 tonnes,1.0,S
+Uganda,Production,1983.0,1000 tonnes,1.0,S
+Viet Nam,Production,1983.0,1000 tonnes,1.0,S
+Benin,Production,1983.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1983.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1983.0,1000 tonnes,0.0,S
+Cameroon,Production,1983.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1983.0,1000 tonnes,0.0,S
+Costa Rica,Production,1983.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1983.0,1000 tonnes,0.0,S
+Ecuador,Production,1983.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1983.0,1000 tonnes,0.0,S
+Fiji,Production,1983.0,1000 tonnes,0.0,S
+Ghana,Production,1983.0,1000 tonnes,0.0,S
+Guatemala,Production,1983.0,1000 tonnes,0.0,S
+Guyana,Production,1983.0,1000 tonnes,0.0,S
+Honduras,Production,1983.0,1000 tonnes,0.0,S
+Kenya,Production,1983.0,1000 tonnes,0.0,S
+Malawi,Production,1983.0,1000 tonnes,0.0,S
+Mali,Production,1983.0,1000 tonnes,0.0,S
+Melanesia,Production,1983.0,1000 tonnes,0.0,A
+Niger,Production,1983.0,1000 tonnes,0.0,S
+Peru,Production,1983.0,1000 tonnes,0.0,S
+Philippines,Production,1983.0,1000 tonnes,0.0,S
+Polynesia,Production,1983.0,1000 tonnes,0.0,A
+Rwanda,Production,1983.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1983.0,1000 tonnes,0.0,S
+Samoa,Production,1983.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1983.0,1000 tonnes,0.0,S
+Zambia,Production,1983.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1983.0,1000 tonnes,0.0,S
+Brazil,Production,1982.0,1000 tonnes,51.0,S
+Indonesia,Production,1982.0,1000 tonnes,40.0,S
+India,Production,1982.0,1000 tonnes,29.0,S
+Malaysia,Production,1982.0,1000 tonnes,25.0,S
+Sri Lanka,Production,1982.0,1000 tonnes,5.0,S
+Thailand,Production,1982.0,1000 tonnes,5.0,S
+China,Production,1982.0,1000 tonnes,3.0,A
+Madagascar,Production,1982.0,1000 tonnes,3.0,S
+Mexico,Production,1982.0,1000 tonnes,2.0,S
+Cambodia,Production,1982.0,1000 tonnes,1.0,S
+Uganda,Production,1982.0,1000 tonnes,1.0,S
+Viet Nam,Production,1982.0,1000 tonnes,1.0,S
+Benin,Production,1982.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1982.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1982.0,1000 tonnes,0.0,S
+Cameroon,Production,1982.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1982.0,1000 tonnes,0.0,S
+Costa Rica,Production,1982.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1982.0,1000 tonnes,0.0,S
+Ecuador,Production,1982.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1982.0,1000 tonnes,0.0,S
+Fiji,Production,1982.0,1000 tonnes,0.0,S
+Ghana,Production,1982.0,1000 tonnes,0.0,S
+Guatemala,Production,1982.0,1000 tonnes,0.0,S
+Guyana,Production,1982.0,1000 tonnes,0.0,S
+Honduras,Production,1982.0,1000 tonnes,0.0,S
+Kenya,Production,1982.0,1000 tonnes,0.0,S
+Malawi,Production,1982.0,1000 tonnes,0.0,S
+Mali,Production,1982.0,1000 tonnes,0.0,S
+Melanesia,Production,1982.0,1000 tonnes,0.0,A
+Niger,Production,1982.0,1000 tonnes,0.0,S
+Peru,Production,1982.0,1000 tonnes,0.0,S
+Philippines,Production,1982.0,1000 tonnes,0.0,S
+Polynesia,Production,1982.0,1000 tonnes,0.0,A
+Rwanda,Production,1982.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1982.0,1000 tonnes,0.0,S
+Samoa,Production,1982.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1982.0,1000 tonnes,0.0,S
+Zambia,Production,1982.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1982.0,1000 tonnes,0.0,S
+Brazil,Production,1981.0,1000 tonnes,40.0,S
+Indonesia,Production,1981.0,1000 tonnes,40.0,S
+India,Production,1981.0,1000 tonnes,30.0,S
+Malaysia,Production,1981.0,1000 tonnes,29.0,S
+Thailand,Production,1981.0,1000 tonnes,6.0,S
+Sri Lanka,Production,1981.0,1000 tonnes,5.0,S
+Madagascar,Production,1981.0,1000 tonnes,3.0,S
+Mexico,Production,1981.0,1000 tonnes,3.0,S
+China,Production,1981.0,1000 tonnes,2.0,A
+Cambodia,Production,1981.0,1000 tonnes,1.0,S
+Uganda,Production,1981.0,1000 tonnes,1.0,S
+Viet Nam,Production,1981.0,1000 tonnes,1.0,S
+Benin,Production,1981.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1981.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1981.0,1000 tonnes,0.0,S
+Cameroon,Production,1981.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1981.0,1000 tonnes,0.0,S
+Costa Rica,Production,1981.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1981.0,1000 tonnes,0.0,S
+Ecuador,Production,1981.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1981.0,1000 tonnes,0.0,S
+Fiji,Production,1981.0,1000 tonnes,0.0,S
+Ghana,Production,1981.0,1000 tonnes,0.0,S
+Guatemala,Production,1981.0,1000 tonnes,0.0,S
+Guyana,Production,1981.0,1000 tonnes,0.0,S
+Honduras,Production,1981.0,1000 tonnes,0.0,S
+Kenya,Production,1981.0,1000 tonnes,0.0,S
+Malawi,Production,1981.0,1000 tonnes,0.0,S
+Mali,Production,1981.0,1000 tonnes,0.0,S
+Melanesia,Production,1981.0,1000 tonnes,0.0,A
+Niger,Production,1981.0,1000 tonnes,0.0,S
+Peru,Production,1981.0,1000 tonnes,0.0,S
+Philippines,Production,1981.0,1000 tonnes,0.0,S
+Polynesia,Production,1981.0,1000 tonnes,0.0,A
+Rwanda,Production,1981.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1981.0,1000 tonnes,0.0,S
+Samoa,Production,1981.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1981.0,1000 tonnes,0.0,S
+Zambia,Production,1981.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1981.0,1000 tonnes,0.0,S
+Brazil,Production,1980.0,1000 tonnes,63.0,S
+Indonesia,Production,1980.0,1000 tonnes,37.0,S
+Malaysia,Production,1980.0,1000 tonnes,32.0,S
+India,Production,1980.0,1000 tonnes,29.0,S
+Sri Lanka,Production,1980.0,1000 tonnes,5.0,S
+Thailand,Production,1980.0,1000 tonnes,4.0,S
+Madagascar,Production,1980.0,1000 tonnes,3.0,S
+China,Production,1980.0,1000 tonnes,2.0,A
+Cambodia,Production,1980.0,1000 tonnes,1.0,S
+Mexico,Production,1980.0,1000 tonnes,1.0,S
+Uganda,Production,1980.0,1000 tonnes,1.0,S
+Viet Nam,Production,1980.0,1000 tonnes,1.0,S
+Benin,Production,1980.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1980.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1980.0,1000 tonnes,0.0,S
+Cameroon,Production,1980.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1980.0,1000 tonnes,0.0,S
+Costa Rica,Production,1980.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1980.0,1000 tonnes,0.0,S
+Ecuador,Production,1980.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1980.0,1000 tonnes,0.0,S
+Fiji,Production,1980.0,1000 tonnes,0.0,S
+Ghana,Production,1980.0,1000 tonnes,0.0,S
+Guatemala,Production,1980.0,1000 tonnes,0.0,S
+Guyana,Production,1980.0,1000 tonnes,0.0,S
+Honduras,Production,1980.0,1000 tonnes,0.0,S
+Kenya,Production,1980.0,1000 tonnes,0.0,S
+Malawi,Production,1980.0,1000 tonnes,0.0,S
+Mali,Production,1980.0,1000 tonnes,0.0,S
+Melanesia,Production,1980.0,1000 tonnes,0.0,A
+Niger,Production,1980.0,1000 tonnes,0.0,S
+Peru,Production,1980.0,1000 tonnes,0.0,S
+Philippines,Production,1980.0,1000 tonnes,0.0,S
+Polynesia,Production,1980.0,1000 tonnes,0.0,A
+Rwanda,Production,1980.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1980.0,1000 tonnes,0.0,S
+Samoa,Production,1980.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1980.0,1000 tonnes,0.0,S
+Zambia,Production,1980.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1980.0,1000 tonnes,0.0,S
+Brazil,Production,1979.0,1000 tonnes,49.0,S
+Malaysia,Production,1979.0,1000 tonnes,42.0,S
+Indonesia,Production,1979.0,1000 tonnes,32.0,S
+India,Production,1979.0,1000 tonnes,28.0,S
+Sri Lanka,Production,1979.0,1000 tonnes,4.0,S
+Thailand,Production,1979.0,1000 tonnes,4.0,S
+Madagascar,Production,1979.0,1000 tonnes,3.0,S
+China,Production,1979.0,1000 tonnes,2.0,A
+Mexico,Production,1979.0,1000 tonnes,2.0,S
+Cambodia,Production,1979.0,1000 tonnes,1.0,S
+Uganda,Production,1979.0,1000 tonnes,1.0,S
+Benin,Production,1979.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1979.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1979.0,1000 tonnes,0.0,S
+Cameroon,Production,1979.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1979.0,1000 tonnes,0.0,S
+Costa Rica,Production,1979.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1979.0,1000 tonnes,0.0,S
+Ecuador,Production,1979.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1979.0,1000 tonnes,0.0,S
+Fiji,Production,1979.0,1000 tonnes,0.0,S
+Ghana,Production,1979.0,1000 tonnes,0.0,S
+Guatemala,Production,1979.0,1000 tonnes,0.0,S
+Guyana,Production,1979.0,1000 tonnes,0.0,S
+Honduras,Production,1979.0,1000 tonnes,0.0,S
+Kenya,Production,1979.0,1000 tonnes,0.0,S
+Malawi,Production,1979.0,1000 tonnes,0.0,S
+Mali,Production,1979.0,1000 tonnes,0.0,S
+Melanesia,Production,1979.0,1000 tonnes,0.0,A
+Niger,Production,1979.0,1000 tonnes,0.0,S
+Peru,Production,1979.0,1000 tonnes,0.0,S
+Philippines,Production,1979.0,1000 tonnes,0.0,S
+Polynesia,Production,1979.0,1000 tonnes,0.0,A
+Rwanda,Production,1979.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1979.0,1000 tonnes,0.0,S
+Samoa,Production,1979.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1979.0,1000 tonnes,0.0,S
+Viet Nam,Production,1979.0,1000 tonnes,0.0,S
+Zambia,Production,1979.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1979.0,1000 tonnes,0.0,S
+Brazil,Production,1978.0,1000 tonnes,47.0,S
+Indonesia,Production,1978.0,1000 tonnes,46.0,S
+Malaysia,Production,1978.0,1000 tonnes,37.0,S
+India,Production,1978.0,1000 tonnes,22.0,S
+Sri Lanka,Production,1978.0,1000 tonnes,4.0,S
+Thailand,Production,1978.0,1000 tonnes,4.0,S
+Madagascar,Production,1978.0,1000 tonnes,3.0,S
+China,Production,1978.0,1000 tonnes,2.0,A
+Mexico,Production,1978.0,1000 tonnes,2.0,S
+Cambodia,Production,1978.0,1000 tonnes,1.0,S
+Uganda,Production,1978.0,1000 tonnes,1.0,S
+Benin,Production,1978.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1978.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1978.0,1000 tonnes,0.0,S
+Cameroon,Production,1978.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1978.0,1000 tonnes,0.0,S
+Costa Rica,Production,1978.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1978.0,1000 tonnes,0.0,S
+Ecuador,Production,1978.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1978.0,1000 tonnes,0.0,S
+Fiji,Production,1978.0,1000 tonnes,0.0,S
+Ghana,Production,1978.0,1000 tonnes,0.0,S
+Guatemala,Production,1978.0,1000 tonnes,0.0,S
+Guyana,Production,1978.0,1000 tonnes,0.0,S
+Honduras,Production,1978.0,1000 tonnes,0.0,S
+Kenya,Production,1978.0,1000 tonnes,0.0,S
+Malawi,Production,1978.0,1000 tonnes,0.0,S
+Mali,Production,1978.0,1000 tonnes,0.0,S
+Melanesia,Production,1978.0,1000 tonnes,0.0,A
+Niger,Production,1978.0,1000 tonnes,0.0,S
+Peru,Production,1978.0,1000 tonnes,0.0,S
+Philippines,Production,1978.0,1000 tonnes,0.0,S
+Polynesia,Production,1978.0,1000 tonnes,0.0,A
+Rwanda,Production,1978.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1978.0,1000 tonnes,0.0,S
+Samoa,Production,1978.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1978.0,1000 tonnes,0.0,S
+Viet Nam,Production,1978.0,1000 tonnes,0.0,S
+Zambia,Production,1978.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1978.0,1000 tonnes,0.0,S
+Indonesia,Production,1977.0,1000 tonnes,43.0,S
+Brazil,Production,1977.0,1000 tonnes,38.0,S
+Malaysia,Production,1977.0,1000 tonnes,30.0,S
+India,Production,1977.0,1000 tonnes,26.0,S
+Madagascar,Production,1977.0,1000 tonnes,5.0,S
+Sri Lanka,Production,1977.0,1000 tonnes,4.0,S
+Thailand,Production,1977.0,1000 tonnes,4.0,S
+China,Production,1977.0,1000 tonnes,2.0,A
+Cambodia,Production,1977.0,1000 tonnes,1.0,S
+Mexico,Production,1977.0,1000 tonnes,1.0,S
+Uganda,Production,1977.0,1000 tonnes,1.0,S
+Benin,Production,1977.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1977.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1977.0,1000 tonnes,0.0,S
+Cameroon,Production,1977.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1977.0,1000 tonnes,0.0,S
+Costa Rica,Production,1977.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1977.0,1000 tonnes,0.0,S
+Ecuador,Production,1977.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1977.0,1000 tonnes,0.0,S
+Fiji,Production,1977.0,1000 tonnes,0.0,S
+Ghana,Production,1977.0,1000 tonnes,0.0,S
+Guatemala,Production,1977.0,1000 tonnes,0.0,S
+Guyana,Production,1977.0,1000 tonnes,0.0,S
+Honduras,Production,1977.0,1000 tonnes,0.0,S
+Kenya,Production,1977.0,1000 tonnes,0.0,S
+Malawi,Production,1977.0,1000 tonnes,0.0,S
+Mali,Production,1977.0,1000 tonnes,0.0,S
+Melanesia,Production,1977.0,1000 tonnes,0.0,A
+Niger,Production,1977.0,1000 tonnes,0.0,S
+Peru,Production,1977.0,1000 tonnes,0.0,S
+Philippines,Production,1977.0,1000 tonnes,0.0,S
+Polynesia,Production,1977.0,1000 tonnes,0.0,A
+Rwanda,Production,1977.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1977.0,1000 tonnes,0.0,S
+Samoa,Production,1977.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1977.0,1000 tonnes,0.0,S
+Viet Nam,Production,1977.0,1000 tonnes,0.0,S
+Zambia,Production,1977.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1977.0,1000 tonnes,0.0,S
+Malaysia,Production,1976.0,1000 tonnes,39.0,S
+Indonesia,Production,1976.0,1000 tonnes,37.0,S
+India,Production,1976.0,1000 tonnes,32.0,S
+Brazil,Production,1976.0,1000 tonnes,30.0,S
+Madagascar,Production,1976.0,1000 tonnes,5.0,S
+Sri Lanka,Production,1976.0,1000 tonnes,3.0,S
+Thailand,Production,1976.0,1000 tonnes,3.0,S
+China,Production,1976.0,1000 tonnes,2.0,A
+Cambodia,Production,1976.0,1000 tonnes,1.0,S
+Mexico,Production,1976.0,1000 tonnes,1.0,S
+Uganda,Production,1976.0,1000 tonnes,1.0,S
+Viet Nam,Production,1976.0,1000 tonnes,1.0,S
+Benin,Production,1976.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1976.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1976.0,1000 tonnes,0.0,S
+Cameroon,Production,1976.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1976.0,1000 tonnes,0.0,S
+Costa Rica,Production,1976.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1976.0,1000 tonnes,0.0,S
+Ecuador,Production,1976.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1976.0,1000 tonnes,0.0,S
+Fiji,Production,1976.0,1000 tonnes,0.0,S
+Ghana,Production,1976.0,1000 tonnes,0.0,S
+Guatemala,Production,1976.0,1000 tonnes,0.0,S
+Guyana,Production,1976.0,1000 tonnes,0.0,S
+Honduras,Production,1976.0,1000 tonnes,0.0,S
+Kenya,Production,1976.0,1000 tonnes,0.0,S
+Malawi,Production,1976.0,1000 tonnes,0.0,S
+Mali,Production,1976.0,1000 tonnes,0.0,S
+Melanesia,Production,1976.0,1000 tonnes,0.0,A
+Niger,Production,1976.0,1000 tonnes,0.0,S
+Peru,Production,1976.0,1000 tonnes,0.0,S
+Philippines,Production,1976.0,1000 tonnes,0.0,S
+Polynesia,Production,1976.0,1000 tonnes,0.0,A
+Rwanda,Production,1976.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1976.0,1000 tonnes,0.0,S
+Samoa,Production,1976.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1976.0,1000 tonnes,0.0,S
+Zambia,Production,1976.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1976.0,1000 tonnes,0.0,S
+Malaysia,Production,1975.0,1000 tonnes,33.0,S
+Brazil,Production,1975.0,1000 tonnes,29.0,S
+India,Production,1975.0,1000 tonnes,26.0,S
+Indonesia,Production,1975.0,1000 tonnes,23.0,S
+Madagascar,Production,1975.0,1000 tonnes,5.0,S
+Sri Lanka,Production,1975.0,1000 tonnes,3.0,S
+Thailand,Production,1975.0,1000 tonnes,3.0,S
+China,Production,1975.0,1000 tonnes,2.0,A
+Cambodia,Production,1975.0,1000 tonnes,1.0,S
+Mexico,Production,1975.0,1000 tonnes,1.0,S
+Uganda,Production,1975.0,1000 tonnes,1.0,S
+Benin,Production,1975.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1975.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1975.0,1000 tonnes,0.0,S
+Cameroon,Production,1975.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1975.0,1000 tonnes,0.0,S
+Costa Rica,Production,1975.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1975.0,1000 tonnes,0.0,S
+Ecuador,Production,1975.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1975.0,1000 tonnes,0.0,S
+Fiji,Production,1975.0,1000 tonnes,0.0,S
+Ghana,Production,1975.0,1000 tonnes,0.0,S
+Guatemala,Production,1975.0,1000 tonnes,0.0,S
+Guyana,Production,1975.0,1000 tonnes,0.0,S
+Honduras,Production,1975.0,1000 tonnes,0.0,S
+Kenya,Production,1975.0,1000 tonnes,0.0,S
+Malawi,Production,1975.0,1000 tonnes,0.0,S
+Mali,Production,1975.0,1000 tonnes,0.0,S
+Melanesia,Production,1975.0,1000 tonnes,0.0,A
+Niger,Production,1975.0,1000 tonnes,0.0,S
+Peru,Production,1975.0,1000 tonnes,0.0,S
+Philippines,Production,1975.0,1000 tonnes,0.0,S
+Polynesia,Production,1975.0,1000 tonnes,0.0,A
+Rwanda,Production,1975.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1975.0,1000 tonnes,0.0,S
+Samoa,Production,1975.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1975.0,1000 tonnes,0.0,S
+Viet Nam,Production,1975.0,1000 tonnes,0.0,S
+Zambia,Production,1975.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1975.0,1000 tonnes,0.0,S
+Malaysia,Production,1974.0,1000 tonnes,30.0,S
+Brazil,Production,1974.0,1000 tonnes,28.0,S
+India,Production,1974.0,1000 tonnes,28.0,S
+Indonesia,Production,1974.0,1000 tonnes,27.0,S
+Madagascar,Production,1974.0,1000 tonnes,3.0,S
+Sri Lanka,Production,1974.0,1000 tonnes,3.0,S
+Thailand,Production,1974.0,1000 tonnes,3.0,S
+China,Production,1974.0,1000 tonnes,2.0,A
+Cambodia,Production,1974.0,1000 tonnes,1.0,S
+Mexico,Production,1974.0,1000 tonnes,1.0,S
+Uganda,Production,1974.0,1000 tonnes,1.0,S
+Benin,Production,1974.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1974.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1974.0,1000 tonnes,0.0,S
+Cameroon,Production,1974.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1974.0,1000 tonnes,0.0,S
+Costa Rica,Production,1974.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1974.0,1000 tonnes,0.0,S
+Ecuador,Production,1974.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1974.0,1000 tonnes,0.0,S
+Fiji,Production,1974.0,1000 tonnes,0.0,S
+Ghana,Production,1974.0,1000 tonnes,0.0,S
+Guatemala,Production,1974.0,1000 tonnes,0.0,S
+Guyana,Production,1974.0,1000 tonnes,0.0,S
+Honduras,Production,1974.0,1000 tonnes,0.0,S
+Kenya,Production,1974.0,1000 tonnes,0.0,S
+Malawi,Production,1974.0,1000 tonnes,0.0,S
+Mali,Production,1974.0,1000 tonnes,0.0,S
+Melanesia,Production,1974.0,1000 tonnes,0.0,A
+Niger,Production,1974.0,1000 tonnes,0.0,S
+Peru,Production,1974.0,1000 tonnes,0.0,S
+Philippines,Production,1974.0,1000 tonnes,0.0,S
+Polynesia,Production,1974.0,1000 tonnes,0.0,A
+Rwanda,Production,1974.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1974.0,1000 tonnes,0.0,S
+Samoa,Production,1974.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1974.0,1000 tonnes,0.0,S
+Viet Nam,Production,1974.0,1000 tonnes,0.0,S
+Zambia,Production,1974.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1974.0,1000 tonnes,0.0,S
+India,Production,1973.0,1000 tonnes,29.0,S
+Indonesia,Production,1973.0,1000 tonnes,29.0,S
+Brazil,Production,1973.0,1000 tonnes,25.0,S
+Malaysia,Production,1973.0,1000 tonnes,24.0,S
+Madagascar,Production,1973.0,1000 tonnes,4.0,S
+Sri Lanka,Production,1973.0,1000 tonnes,3.0,S
+Thailand,Production,1973.0,1000 tonnes,3.0,S
+China,Production,1973.0,1000 tonnes,2.0,A
+Cambodia,Production,1973.0,1000 tonnes,1.0,S
+Mexico,Production,1973.0,1000 tonnes,1.0,S
+Uganda,Production,1973.0,1000 tonnes,1.0,S
+Benin,Production,1973.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1973.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1973.0,1000 tonnes,0.0,S
+Cameroon,Production,1973.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1973.0,1000 tonnes,0.0,S
+Costa Rica,Production,1973.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1973.0,1000 tonnes,0.0,S
+Ecuador,Production,1973.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1973.0,1000 tonnes,0.0,S
+Fiji,Production,1973.0,1000 tonnes,0.0,S
+Ghana,Production,1973.0,1000 tonnes,0.0,S
+Guatemala,Production,1973.0,1000 tonnes,0.0,S
+Guyana,Production,1973.0,1000 tonnes,0.0,S
+Honduras,Production,1973.0,1000 tonnes,0.0,S
+Kenya,Production,1973.0,1000 tonnes,0.0,S
+Malawi,Production,1973.0,1000 tonnes,0.0,S
+Mali,Production,1973.0,1000 tonnes,0.0,S
+Melanesia,Production,1973.0,1000 tonnes,0.0,A
+Niger,Production,1973.0,1000 tonnes,0.0,S
+Peru,Production,1973.0,1000 tonnes,0.0,S
+Philippines,Production,1973.0,1000 tonnes,0.0,S
+Polynesia,Production,1973.0,1000 tonnes,0.0,A
+Rwanda,Production,1973.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1973.0,1000 tonnes,0.0,S
+Samoa,Production,1973.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1973.0,1000 tonnes,0.0,S
+Viet Nam,Production,1973.0,1000 tonnes,0.0,S
+Zambia,Production,1973.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1973.0,1000 tonnes,0.0,S
+Indonesia,Production,1972.0,1000 tonnes,31.0,S
+Malaysia,Production,1972.0,1000 tonnes,28.0,S
+India,Production,1972.0,1000 tonnes,26.0,S
+Brazil,Production,1972.0,1000 tonnes,16.0,S
+Sri Lanka,Production,1972.0,1000 tonnes,3.0,S
+Thailand,Production,1972.0,1000 tonnes,3.0,S
+China,Production,1972.0,1000 tonnes,2.0,A
+Madagascar,Production,1972.0,1000 tonnes,2.0,S
+Cambodia,Production,1972.0,1000 tonnes,1.0,S
+Mexico,Production,1972.0,1000 tonnes,1.0,S
+Uganda,Production,1972.0,1000 tonnes,1.0,S
+Viet Nam,Production,1972.0,1000 tonnes,1.0,S
+Benin,Production,1972.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1972.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1972.0,1000 tonnes,0.0,S
+Cameroon,Production,1972.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1972.0,1000 tonnes,0.0,S
+Costa Rica,Production,1972.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1972.0,1000 tonnes,0.0,S
+Ecuador,Production,1972.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1972.0,1000 tonnes,0.0,S
+Fiji,Production,1972.0,1000 tonnes,0.0,S
+Ghana,Production,1972.0,1000 tonnes,0.0,S
+Guatemala,Production,1972.0,1000 tonnes,0.0,S
+Guyana,Production,1972.0,1000 tonnes,0.0,S
+Honduras,Production,1972.0,1000 tonnes,0.0,S
+Kenya,Production,1972.0,1000 tonnes,0.0,S
+Malawi,Production,1972.0,1000 tonnes,0.0,S
+Mali,Production,1972.0,1000 tonnes,0.0,S
+Melanesia,Production,1972.0,1000 tonnes,0.0,A
+Niger,Production,1972.0,1000 tonnes,0.0,S
+Peru,Production,1972.0,1000 tonnes,0.0,S
+Philippines,Production,1972.0,1000 tonnes,0.0,S
+Polynesia,Production,1972.0,1000 tonnes,0.0,A
+Rwanda,Production,1972.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1972.0,1000 tonnes,0.0,S
+Samoa,Production,1972.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1972.0,1000 tonnes,0.0,S
+Zambia,Production,1972.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1972.0,1000 tonnes,0.0,S
+Malaysia,Production,1971.0,1000 tonnes,28.0,S
+Indonesia,Production,1971.0,1000 tonnes,27.0,S
+India,Production,1971.0,1000 tonnes,26.0,S
+Brazil,Production,1971.0,1000 tonnes,15.0,S
+Madagascar,Production,1971.0,1000 tonnes,3.0,S
+Sri Lanka,Production,1971.0,1000 tonnes,3.0,S
+Thailand,Production,1971.0,1000 tonnes,3.0,S
+Cambodia,Production,1971.0,1000 tonnes,2.0,S
+China,Production,1971.0,1000 tonnes,2.0,A
+Mexico,Production,1971.0,1000 tonnes,1.0,S
+Uganda,Production,1971.0,1000 tonnes,1.0,S
+Benin,Production,1971.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1971.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1971.0,1000 tonnes,0.0,S
+Cameroon,Production,1971.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1971.0,1000 tonnes,0.0,S
+Costa Rica,Production,1971.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1971.0,1000 tonnes,0.0,S
+Ecuador,Production,1971.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1971.0,1000 tonnes,0.0,S
+Fiji,Production,1971.0,1000 tonnes,0.0,S
+Ghana,Production,1971.0,1000 tonnes,0.0,S
+Guatemala,Production,1971.0,1000 tonnes,0.0,S
+Guyana,Production,1971.0,1000 tonnes,0.0,S
+Honduras,Production,1971.0,1000 tonnes,0.0,S
+Kenya,Production,1971.0,1000 tonnes,0.0,S
+Malawi,Production,1971.0,1000 tonnes,0.0,S
+Mali,Production,1971.0,1000 tonnes,0.0,S
+Melanesia,Production,1971.0,1000 tonnes,0.0,A
+Niger,Production,1971.0,1000 tonnes,0.0,S
+Peru,Production,1971.0,1000 tonnes,0.0,S
+Philippines,Production,1971.0,1000 tonnes,0.0,S
+Polynesia,Production,1971.0,1000 tonnes,0.0,A
+Rwanda,Production,1971.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1971.0,1000 tonnes,0.0,S
+Samoa,Production,1971.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1971.0,1000 tonnes,0.0,S
+Viet Nam,Production,1971.0,1000 tonnes,0.0,S
+Zambia,Production,1971.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1971.0,1000 tonnes,0.0,S
+Malaysia,Production,1970.0,1000 tonnes,32.0,S
+India,Production,1970.0,1000 tonnes,26.0,S
+Indonesia,Production,1970.0,1000 tonnes,17.0,S
+Brazil,Production,1970.0,1000 tonnes,14.0,S
+Sri Lanka,Production,1970.0,1000 tonnes,3.0,S
+Cambodia,Production,1970.0,1000 tonnes,2.0,S
+China,Production,1970.0,1000 tonnes,2.0,A
+Madagascar,Production,1970.0,1000 tonnes,2.0,S
+Thailand,Production,1970.0,1000 tonnes,2.0,S
+Mexico,Production,1970.0,1000 tonnes,1.0,S
+Uganda,Production,1970.0,1000 tonnes,1.0,S
+Benin,Production,1970.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1970.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1970.0,1000 tonnes,0.0,S
+Cameroon,Production,1970.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1970.0,1000 tonnes,0.0,S
+Costa Rica,Production,1970.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1970.0,1000 tonnes,0.0,S
+Ecuador,Production,1970.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1970.0,1000 tonnes,0.0,S
+Fiji,Production,1970.0,1000 tonnes,0.0,S
+Ghana,Production,1970.0,1000 tonnes,0.0,S
+Guatemala,Production,1970.0,1000 tonnes,0.0,S
+Guyana,Production,1970.0,1000 tonnes,0.0,S
+Honduras,Production,1970.0,1000 tonnes,0.0,S
+Kenya,Production,1970.0,1000 tonnes,0.0,S
+Malawi,Production,1970.0,1000 tonnes,0.0,S
+Mali,Production,1970.0,1000 tonnes,0.0,S
+Melanesia,Production,1970.0,1000 tonnes,0.0,A
+Niger,Production,1970.0,1000 tonnes,0.0,S
+Peru,Production,1970.0,1000 tonnes,0.0,S
+Philippines,Production,1970.0,1000 tonnes,0.0,S
+Polynesia,Production,1970.0,1000 tonnes,0.0,A
+Rwanda,Production,1970.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1970.0,1000 tonnes,0.0,S
+Samoa,Production,1970.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1970.0,1000 tonnes,0.0,S
+Viet Nam,Production,1970.0,1000 tonnes,0.0,S
+Zambia,Production,1970.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1970.0,1000 tonnes,0.0,S
+Malaysia,Production,1969.0,1000 tonnes,33.0,S
+India,Production,1969.0,1000 tonnes,26.0,S
+Indonesia,Production,1969.0,1000 tonnes,17.0,S
+Brazil,Production,1969.0,1000 tonnes,14.0,S
+Madagascar,Production,1969.0,1000 tonnes,3.0,S
+Sri Lanka,Production,1969.0,1000 tonnes,3.0,S
+Cambodia,Production,1969.0,1000 tonnes,2.0,S
+Thailand,Production,1969.0,1000 tonnes,2.0,S
+China,Production,1969.0,1000 tonnes,1.0,A
+Mexico,Production,1969.0,1000 tonnes,1.0,S
+Uganda,Production,1969.0,1000 tonnes,1.0,S
+Benin,Production,1969.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1969.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1969.0,1000 tonnes,0.0,S
+Cameroon,Production,1969.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1969.0,1000 tonnes,0.0,S
+Costa Rica,Production,1969.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1969.0,1000 tonnes,0.0,S
+Ecuador,Production,1969.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1969.0,1000 tonnes,0.0,S
+Fiji,Production,1969.0,1000 tonnes,0.0,S
+Ghana,Production,1969.0,1000 tonnes,0.0,S
+Guatemala,Production,1969.0,1000 tonnes,0.0,S
+Guyana,Production,1969.0,1000 tonnes,0.0,S
+Honduras,Production,1969.0,1000 tonnes,0.0,S
+Kenya,Production,1969.0,1000 tonnes,0.0,S
+Malawi,Production,1969.0,1000 tonnes,0.0,S
+Mali,Production,1969.0,1000 tonnes,0.0,S
+Melanesia,Production,1969.0,1000 tonnes,0.0,A
+Niger,Production,1969.0,1000 tonnes,0.0,S
+Peru,Production,1969.0,1000 tonnes,0.0,S
+Philippines,Production,1969.0,1000 tonnes,0.0,S
+Polynesia,Production,1969.0,1000 tonnes,0.0,A
+Rwanda,Production,1969.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1969.0,1000 tonnes,0.0,S
+Samoa,Production,1969.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1969.0,1000 tonnes,0.0,S
+Viet Nam,Production,1969.0,1000 tonnes,0.0,S
+Zambia,Production,1969.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1969.0,1000 tonnes,0.0,S
+Indonesia,Production,1968.0,1000 tonnes,47.0,S
+Malaysia,Production,1968.0,1000 tonnes,28.0,S
+India,Production,1968.0,1000 tonnes,26.0,S
+Brazil,Production,1968.0,1000 tonnes,14.0,S
+Madagascar,Production,1968.0,1000 tonnes,3.0,S
+Sri Lanka,Production,1968.0,1000 tonnes,3.0,S
+Cambodia,Production,1968.0,1000 tonnes,2.0,S
+China,Production,1968.0,1000 tonnes,2.0,A
+Thailand,Production,1968.0,1000 tonnes,2.0,S
+Uganda,Production,1968.0,1000 tonnes,1.0,S
+Benin,Production,1968.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1968.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1968.0,1000 tonnes,0.0,S
+Cameroon,Production,1968.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1968.0,1000 tonnes,0.0,S
+Costa Rica,Production,1968.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1968.0,1000 tonnes,0.0,S
+Ecuador,Production,1968.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1968.0,1000 tonnes,0.0,S
+Fiji,Production,1968.0,1000 tonnes,0.0,S
+Ghana,Production,1968.0,1000 tonnes,0.0,S
+Guatemala,Production,1968.0,1000 tonnes,0.0,S
+Guyana,Production,1968.0,1000 tonnes,0.0,S
+Honduras,Production,1968.0,1000 tonnes,0.0,S
+Kenya,Production,1968.0,1000 tonnes,0.0,S
+Malawi,Production,1968.0,1000 tonnes,0.0,S
+Mali,Production,1968.0,1000 tonnes,0.0,S
+Melanesia,Production,1968.0,1000 tonnes,0.0,A
+Mexico,Production,1968.0,1000 tonnes,0.0,S
+Niger,Production,1968.0,1000 tonnes,0.0,S
+Peru,Production,1968.0,1000 tonnes,0.0,S
+Philippines,Production,1968.0,1000 tonnes,0.0,S
+Polynesia,Production,1968.0,1000 tonnes,0.0,A
+Rwanda,Production,1968.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1968.0,1000 tonnes,0.0,S
+Samoa,Production,1968.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1968.0,1000 tonnes,0.0,S
+Viet Nam,Production,1968.0,1000 tonnes,0.0,S
+Zambia,Production,1968.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1968.0,1000 tonnes,0.0,S
+India,Production,1967.0,1000 tonnes,26.0,S
+Malaysia,Production,1967.0,1000 tonnes,23.0,S
+Indonesia,Production,1967.0,1000 tonnes,17.0,S
+Brazil,Production,1967.0,1000 tonnes,10.0,S
+Cambodia,Production,1967.0,1000 tonnes,3.0,S
+Madagascar,Production,1967.0,1000 tonnes,3.0,S
+China,Production,1967.0,1000 tonnes,2.0,A
+Sri Lanka,Production,1967.0,1000 tonnes,2.0,S
+Thailand,Production,1967.0,1000 tonnes,2.0,S
+Uganda,Production,1967.0,1000 tonnes,1.0,S
+Benin,Production,1967.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1967.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1967.0,1000 tonnes,0.0,S
+Cameroon,Production,1967.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1967.0,1000 tonnes,0.0,S
+Costa Rica,Production,1967.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1967.0,1000 tonnes,0.0,S
+Ecuador,Production,1967.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1967.0,1000 tonnes,0.0,S
+Fiji,Production,1967.0,1000 tonnes,0.0,S
+Ghana,Production,1967.0,1000 tonnes,0.0,S
+Guatemala,Production,1967.0,1000 tonnes,0.0,S
+Guyana,Production,1967.0,1000 tonnes,0.0,S
+Honduras,Production,1967.0,1000 tonnes,0.0,S
+Kenya,Production,1967.0,1000 tonnes,0.0,S
+Malawi,Production,1967.0,1000 tonnes,0.0,S
+Mali,Production,1967.0,1000 tonnes,0.0,S
+Melanesia,Production,1967.0,1000 tonnes,0.0,A
+Mexico,Production,1967.0,1000 tonnes,0.0,S
+Niger,Production,1967.0,1000 tonnes,0.0,S
+Peru,Production,1967.0,1000 tonnes,0.0,S
+Philippines,Production,1967.0,1000 tonnes,0.0,S
+Polynesia,Production,1967.0,1000 tonnes,0.0,A
+Rwanda,Production,1967.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1967.0,1000 tonnes,0.0,S
+Samoa,Production,1967.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1967.0,1000 tonnes,0.0,S
+Viet Nam,Production,1967.0,1000 tonnes,0.0,S
+Zambia,Production,1967.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1967.0,1000 tonnes,0.0,S
+Indonesia,Production,1966.0,1000 tonnes,36.0,S
+India,Production,1966.0,1000 tonnes,27.0,S
+Malaysia,Production,1966.0,1000 tonnes,16.0,S
+Brazil,Production,1966.0,1000 tonnes,10.0,S
+Cambodia,Production,1966.0,1000 tonnes,2.0,S
+Madagascar,Production,1966.0,1000 tonnes,2.0,S
+Sri Lanka,Production,1966.0,1000 tonnes,2.0,S
+Thailand,Production,1966.0,1000 tonnes,2.0,S
+China,Production,1966.0,1000 tonnes,1.0,A
+Uganda,Production,1966.0,1000 tonnes,1.0,S
+Benin,Production,1966.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1966.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1966.0,1000 tonnes,0.0,S
+Cameroon,Production,1966.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1966.0,1000 tonnes,0.0,S
+Costa Rica,Production,1966.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1966.0,1000 tonnes,0.0,S
+Ecuador,Production,1966.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1966.0,1000 tonnes,0.0,S
+Fiji,Production,1966.0,1000 tonnes,0.0,S
+Ghana,Production,1966.0,1000 tonnes,0.0,S
+Guatemala,Production,1966.0,1000 tonnes,0.0,S
+Guyana,Production,1966.0,1000 tonnes,0.0,S
+Honduras,Production,1966.0,1000 tonnes,0.0,S
+Kenya,Production,1966.0,1000 tonnes,0.0,S
+Malawi,Production,1966.0,1000 tonnes,0.0,S
+Mali,Production,1966.0,1000 tonnes,0.0,S
+Melanesia,Production,1966.0,1000 tonnes,0.0,A
+Mexico,Production,1966.0,1000 tonnes,0.0,S
+Niger,Production,1966.0,1000 tonnes,0.0,S
+Peru,Production,1966.0,1000 tonnes,0.0,S
+Philippines,Production,1966.0,1000 tonnes,0.0,S
+Polynesia,Production,1966.0,1000 tonnes,0.0,A
+Rwanda,Production,1966.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1966.0,1000 tonnes,0.0,S
+Samoa,Production,1966.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1966.0,1000 tonnes,0.0,S
+Viet Nam,Production,1966.0,1000 tonnes,0.0,S
+Zambia,Production,1966.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1966.0,1000 tonnes,0.0,S
+India,Production,1965.0,1000 tonnes,23.0,S
+Malaysia,Production,1965.0,1000 tonnes,20.0,S
+Indonesia,Production,1965.0,1000 tonnes,11.0,S
+Brazil,Production,1965.0,1000 tonnes,9.0,S
+Sri Lanka,Production,1965.0,1000 tonnes,3.0,S
+Cambodia,Production,1965.0,1000 tonnes,2.0,S
+Madagascar,Production,1965.0,1000 tonnes,2.0,S
+Thailand,Production,1965.0,1000 tonnes,2.0,S
+China,Production,1965.0,1000 tonnes,1.0,A
+Ethiopia PDR,Production,1965.0,1000 tonnes,1.0,S
+Uganda,Production,1965.0,1000 tonnes,1.0,S
+Viet Nam,Production,1965.0,1000 tonnes,1.0,S
+Benin,Production,1965.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1965.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1965.0,1000 tonnes,0.0,S
+Cameroon,Production,1965.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1965.0,1000 tonnes,0.0,S
+Costa Rica,Production,1965.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1965.0,1000 tonnes,0.0,S
+Ecuador,Production,1965.0,1000 tonnes,0.0,S
+Fiji,Production,1965.0,1000 tonnes,0.0,S
+Ghana,Production,1965.0,1000 tonnes,0.0,S
+Guatemala,Production,1965.0,1000 tonnes,0.0,S
+Guyana,Production,1965.0,1000 tonnes,0.0,S
+Honduras,Production,1965.0,1000 tonnes,0.0,S
+Kenya,Production,1965.0,1000 tonnes,0.0,S
+Malawi,Production,1965.0,1000 tonnes,0.0,S
+Mali,Production,1965.0,1000 tonnes,0.0,S
+Melanesia,Production,1965.0,1000 tonnes,0.0,A
+Mexico,Production,1965.0,1000 tonnes,0.0,S
+Niger,Production,1965.0,1000 tonnes,0.0,S
+Peru,Production,1965.0,1000 tonnes,0.0,S
+Philippines,Production,1965.0,1000 tonnes,0.0,S
+Polynesia,Production,1965.0,1000 tonnes,0.0,A
+Rwanda,Production,1965.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1965.0,1000 tonnes,0.0,S
+Samoa,Production,1965.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1965.0,1000 tonnes,0.0,S
+Zambia,Production,1965.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1965.0,1000 tonnes,0.0,S
+Indonesia,Production,1964.0,1000 tonnes,46.0,S
+India,Production,1964.0,1000 tonnes,24.0,S
+Malaysia,Production,1964.0,1000 tonnes,15.0,S
+Brazil,Production,1964.0,1000 tonnes,6.0,S
+Sri Lanka,Production,1964.0,1000 tonnes,3.0,S
+Cambodia,Production,1964.0,1000 tonnes,2.0,S
+Madagascar,Production,1964.0,1000 tonnes,2.0,S
+China,Production,1964.0,1000 tonnes,1.0,A
+Ethiopia PDR,Production,1964.0,1000 tonnes,1.0,S
+Thailand,Production,1964.0,1000 tonnes,1.0,S
+Uganda,Production,1964.0,1000 tonnes,1.0,S
+Benin,Production,1964.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1964.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1964.0,1000 tonnes,0.0,S
+Cameroon,Production,1964.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1964.0,1000 tonnes,0.0,S
+Costa Rica,Production,1964.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1964.0,1000 tonnes,0.0,S
+Ecuador,Production,1964.0,1000 tonnes,0.0,S
+Fiji,Production,1964.0,1000 tonnes,0.0,S
+Ghana,Production,1964.0,1000 tonnes,0.0,S
+Guatemala,Production,1964.0,1000 tonnes,0.0,S
+Guyana,Production,1964.0,1000 tonnes,0.0,S
+Honduras,Production,1964.0,1000 tonnes,0.0,S
+Kenya,Production,1964.0,1000 tonnes,0.0,S
+Malawi,Production,1964.0,1000 tonnes,0.0,S
+Mali,Production,1964.0,1000 tonnes,0.0,S
+Melanesia,Production,1964.0,1000 tonnes,0.0,A
+Mexico,Production,1964.0,1000 tonnes,0.0,S
+Niger,Production,1964.0,1000 tonnes,0.0,S
+Peru,Production,1964.0,1000 tonnes,0.0,S
+Philippines,Production,1964.0,1000 tonnes,0.0,S
+Polynesia,Production,1964.0,1000 tonnes,0.0,A
+Rwanda,Production,1964.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1964.0,1000 tonnes,0.0,S
+Samoa,Production,1964.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1964.0,1000 tonnes,0.0,S
+Viet Nam,Production,1964.0,1000 tonnes,0.0,S
+Zambia,Production,1964.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1964.0,1000 tonnes,0.0,S
+Indonesia,Production,1963.0,1000 tonnes,58.0,S
+India,Production,1963.0,1000 tonnes,24.0,S
+Malaysia,Production,1963.0,1000 tonnes,17.0,S
+Brazil,Production,1963.0,1000 tonnes,6.0,S
+Sri Lanka,Production,1963.0,1000 tonnes,3.0,S
+Madagascar,Production,1963.0,1000 tonnes,2.0,S
+Cambodia,Production,1963.0,1000 tonnes,1.0,S
+China,Production,1963.0,1000 tonnes,1.0,A
+Ethiopia PDR,Production,1963.0,1000 tonnes,1.0,S
+Thailand,Production,1963.0,1000 tonnes,1.0,S
+Uganda,Production,1963.0,1000 tonnes,1.0,S
+Benin,Production,1963.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1963.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1963.0,1000 tonnes,0.0,S
+Cameroon,Production,1963.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1963.0,1000 tonnes,0.0,S
+Costa Rica,Production,1963.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1963.0,1000 tonnes,0.0,S
+Ecuador,Production,1963.0,1000 tonnes,0.0,S
+Fiji,Production,1963.0,1000 tonnes,0.0,S
+Ghana,Production,1963.0,1000 tonnes,0.0,S
+Guatemala,Production,1963.0,1000 tonnes,0.0,S
+Guyana,Production,1963.0,1000 tonnes,0.0,S
+Honduras,Production,1963.0,1000 tonnes,0.0,S
+Kenya,Production,1963.0,1000 tonnes,0.0,S
+Malawi,Production,1963.0,1000 tonnes,0.0,S
+Mali,Production,1963.0,1000 tonnes,0.0,S
+Melanesia,Production,1963.0,1000 tonnes,0.0,A
+Mexico,Production,1963.0,1000 tonnes,0.0,S
+Niger,Production,1963.0,1000 tonnes,0.0,S
+Peru,Production,1963.0,1000 tonnes,0.0,S
+Philippines,Production,1963.0,1000 tonnes,0.0,S
+Polynesia,Production,1963.0,1000 tonnes,0.0,A
+Rwanda,Production,1963.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1963.0,1000 tonnes,0.0,S
+Samoa,Production,1963.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1963.0,1000 tonnes,0.0,S
+Viet Nam,Production,1963.0,1000 tonnes,0.0,S
+Zambia,Production,1963.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1963.0,1000 tonnes,0.0,S
+Indonesia,Production,1962.0,1000 tonnes,55.0,S
+India,Production,1962.0,1000 tonnes,26.0,S
+Malaysia,Production,1962.0,1000 tonnes,16.0,S
+Brazil,Production,1962.0,1000 tonnes,4.0,S
+Sri Lanka,Production,1962.0,1000 tonnes,3.0,S
+Madagascar,Production,1962.0,1000 tonnes,2.0,S
+Cambodia,Production,1962.0,1000 tonnes,1.0,S
+China,Production,1962.0,1000 tonnes,1.0,A
+Thailand,Production,1962.0,1000 tonnes,1.0,S
+Uganda,Production,1962.0,1000 tonnes,1.0,S
+Benin,Production,1962.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1962.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1962.0,1000 tonnes,0.0,S
+Cameroon,Production,1962.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1962.0,1000 tonnes,0.0,S
+Costa Rica,Production,1962.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1962.0,1000 tonnes,0.0,S
+Ecuador,Production,1962.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1962.0,1000 tonnes,0.0,S
+Fiji,Production,1962.0,1000 tonnes,0.0,S
+Ghana,Production,1962.0,1000 tonnes,0.0,S
+Guatemala,Production,1962.0,1000 tonnes,0.0,S
+Guyana,Production,1962.0,1000 tonnes,0.0,S
+Honduras,Production,1962.0,1000 tonnes,0.0,S
+Kenya,Production,1962.0,1000 tonnes,0.0,S
+Malawi,Production,1962.0,1000 tonnes,0.0,S
+Mali,Production,1962.0,1000 tonnes,0.0,S
+Melanesia,Production,1962.0,1000 tonnes,0.0,A
+Mexico,Production,1962.0,1000 tonnes,0.0,S
+Niger,Production,1962.0,1000 tonnes,0.0,S
+Peru,Production,1962.0,1000 tonnes,0.0,S
+Philippines,Production,1962.0,1000 tonnes,0.0,S
+Polynesia,Production,1962.0,1000 tonnes,0.0,A
+Rwanda,Production,1962.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1962.0,1000 tonnes,0.0,S
+Samoa,Production,1962.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1962.0,1000 tonnes,0.0,S
+Viet Nam,Production,1962.0,1000 tonnes,0.0,S
+Zambia,Production,1962.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1962.0,1000 tonnes,0.0,S
+India,Production,1961.0,1000 tonnes,28.0,S
+Malaysia,Production,1961.0,1000 tonnes,15.0,S
+Indonesia,Production,1961.0,1000 tonnes,14.0,S
+Brazil,Production,1961.0,1000 tonnes,5.0,S
+Sri Lanka,Production,1961.0,1000 tonnes,3.0,S
+Madagascar,Production,1961.0,1000 tonnes,2.0,S
+Cambodia,Production,1961.0,1000 tonnes,1.0,S
+China,Production,1961.0,1000 tonnes,1.0,A
+Thailand,Production,1961.0,1000 tonnes,1.0,S
+Uganda,Production,1961.0,1000 tonnes,1.0,S
+Benin,Production,1961.0,1000 tonnes,0.0,S
+Bolivia (Plurinational State of),Production,1961.0,1000 tonnes,0.0,S
+Brunei Darussalam,Production,1961.0,1000 tonnes,0.0,S
+Cameroon,Production,1961.0,1000 tonnes,0.0,S
+"China, Macao SAR",Production,1961.0,1000 tonnes,0.0,S
+Costa Rica,Production,1961.0,1000 tonnes,0.0,S
+Côte d'Ivoire,Production,1961.0,1000 tonnes,0.0,S
+Ecuador,Production,1961.0,1000 tonnes,0.0,S
+Ethiopia PDR,Production,1961.0,1000 tonnes,0.0,S
+Fiji,Production,1961.0,1000 tonnes,0.0,S
+Ghana,Production,1961.0,1000 tonnes,0.0,S
+Guatemala,Production,1961.0,1000 tonnes,0.0,S
+Guyana,Production,1961.0,1000 tonnes,0.0,S
+Honduras,Production,1961.0,1000 tonnes,0.0,S
+Kenya,Production,1961.0,1000 tonnes,0.0,S
+Malawi,Production,1961.0,1000 tonnes,0.0,S
+Mali,Production,1961.0,1000 tonnes,0.0,S
+Melanesia,Production,1961.0,1000 tonnes,0.0,A
+Mexico,Production,1961.0,1000 tonnes,0.0,S
+Niger,Production,1961.0,1000 tonnes,0.0,S
+Peru,Production,1961.0,1000 tonnes,0.0,S
+Philippines,Production,1961.0,1000 tonnes,0.0,S
+Polynesia,Production,1961.0,1000 tonnes,0.0,A
+Rwanda,Production,1961.0,1000 tonnes,0.0,S
+Saint Lucia,Production,1961.0,1000 tonnes,0.0,S
+Samoa,Production,1961.0,1000 tonnes,0.0,S
+United Republic of Tanzania,Production,1961.0,1000 tonnes,0.0,S
+Viet Nam,Production,1961.0,1000 tonnes,0.0,S
+Zambia,Production,1961.0,1000 tonnes,0.0,S
+Zimbabwe,Production,1961.0,1000 tonnes,0.0,S
