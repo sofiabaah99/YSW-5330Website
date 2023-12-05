@@ -5,17 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Northeastern University</title>
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <link href="styles/style-navbar.css" rel="stylesheet" />
+    <link href="styles/style-NEUtopbar.css" rel="stylesheet" />
 </head>
 <body>
     <div class="container">
-        <div class="section">
+        <!-- Northeastern University Black Top Row Bar -->
+        <div class = "top content-vertical-center">
+            <div class = "n-bg-black content-vertical-center" style="background: #D41A2B">
+                <div class = "n" >N</div>
+            </div>
+            <div class = "northeastern-university">Northeastern University</div>
+        </div>
+        <!-- end of Northeastern University Black Top Row -->
+    
+        <!-- <div class="section">
             <div class="top-bar">
                 <span class="left-letter">N</span>
                 <span class="bar-title">Northeastern University</span>
             </div>
-        </div>
+        </div> -->
+
         <div class="section header">
-            <div class="nav">
+            <!-- <div class="nav">
                 <a href="index.html"><i class="arrow-left"></i></a>
                 <ul>
                     <li><a href="ghg-emissions.html">GHG Emissions</a></li>
@@ -23,7 +35,32 @@
                     <li><a href="foodcompostingleon.html">Food Composing</a></li>
                     <li><a href="#">How to Engage</a></li>
                 </ul>
+            </div> -->
+
+            <!-- navigation bar -->
+            <div class = "navbar" style="background: rgba(255, 255, 255, 0.20)">
+                <!-- return arrow -->
+                <a href = "index.html" style="margin-left: 20px; margin-right: auto; margin-bottom: 3px">
+                <img src="images/ArrowBackVector.svg" />
+                </a>
+                <!-- end of return arrow -->
+                <!-- navigation text button to each sub section -->
+                <nav class = "navtextmain">
+                    <!-- present page text button -->
+                    <div class = "navtextsub">
+                        <a class = "navtext" href="ghg-emissions.html">GHG Emissions</a>
+                        <div style="margin-top: 5px; width: 85%; height: 0px; border: 2px white solid"></div>
+                    </div>
+                    <!-- end of present page text button -->
+                    <a class = "navtext" href="waste-and-recycling.html">Waste & Recycling</a>
+                    <a class = "navtext" href="foodcompostingleon.html">Composting</a>
+                    <a class = "navtext" href="p5_project_wherefoodfrom_leon.html">Food Insights</a>
+                </nav>
+                <!-- end of navigation text button to each sub section -->
             </div>
+            <!-- end of navigation bar -->
+
+
             <div class="header-body">
                 <div class="header-description card card-size1">
                     <div class="title ">GHG Emissions: Everyone's Future</div>
