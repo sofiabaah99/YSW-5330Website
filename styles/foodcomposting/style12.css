@@ -50,7 +50,7 @@ body{
 .block-title-intro-bg-pic{
     position: absolute;
     /* position: fixed; */
-    background-image: url('YSW-5330Website/images/foodcomposting/FoodCompostingBgPic.png');
+    background-image: url('/YSW-5330Website/images/foodcomposting/FoodCompostingBgPic.png');
     background-repeat: no-repeat;  /* 不重复 */
     background-size: cover;   /* 图片大小为覆盖 */
     width:100%; 
